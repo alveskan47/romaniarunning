@@ -1,0 +1,40 @@
+/**
+ * General CSS file for all pages
+ * Contains global styles and utilities used across the entire application
+ */
+
+/* ========================================
+   Theme Switcher Styles
+   ======================================== */
+
+/**
+ * Remove default underline from button links
+ * Used for the theme switcher button in navbar
+ */
+.btn-link {
+    text-decoration: none;
+}
+
+/**
+ * Theme switcher button styling
+ * Semi-transparent white color for better visibility on primary navbar
+ */
+#bd-theme {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+/**
+ * Theme switcher button hover state
+ * Full opacity white on hover for better user feedback
+ */
+#bd-theme:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+/**
+ * Active theme indicator in dropdown
+ * Makes the currently selected theme option bold for clear visual feedback
+ */
+.dropdown-item.active {
+    font-weight: 600;
+}

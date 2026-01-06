@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "page_name": "Competitions",
+      "page_link": "index.html"
+    },
+    {
+      "page_name": "Statistics",
+      "page_link": "statistics.html"
+    },
+    {
+      "page_name": "Park Run",
+      "page_link": "park.html"
+    },
+    {
+      "page_name": "Bad News",
+      "page_link": "bad-news.html"
+    },
+    {
+      "page_name": "Contact",
+      "page_link": "contact.html"
+    }
+  ]
+}

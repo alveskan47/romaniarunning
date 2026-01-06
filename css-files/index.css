@@ -1,0 +1,53 @@
+/**
+ * CSS file specific to index.html
+ * Contains styles that only apply to the home/index page - Competitions
+ */
+
+/* Competition table styling */
+.competition-table {
+    vertical-align: middle;
+}
+
+/* Column width optimization */
+.competition-table th:nth-child(1),
+.competition-table td:nth-child(1) {
+    width: 13%; /* Date column - fits full date on one row */
+    white-space: nowrap;
+}
+
+.competition-table th:nth-child(2),
+.competition-table td:nth-child(2) {
+    width: 38%; /* Competition column - more space */
+}
+
+.competition-table th:nth-child(3),
+.competition-table td:nth-child(3) {
+    width: 15%; /* Location column */
+}
+
+.competition-table th:nth-child(4),
+.competition-table td:nth-child(4) {
+    width: 8%; /* County column */
+}
+
+.competition-table th:nth-child(5),
+.competition-table td:nth-child(5) {
+    width: 7%; /* Type column */
+}
+
+.competition-table th:nth-child(6),
+.competition-table td:nth-child(6) {
+    width: 19%; /* Distances column */
+}
+
+.competition-table ul {
+    margin-bottom: 0;
+}
+
+.competition-table tbody td:first-child {
+    font-weight: bold;
+}
+
+.last-of-month {
+    border-bottom: 3px solid;
+}

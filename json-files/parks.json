@@ -1,0 +1,228 @@
+{
+  "parks": [
+    {
+      "id": 1,
+      "park_name": "Herastrau",
+      "strava_activity": "https://www.strava.com/activities/8350735714",
+      "laps": "2",
+      "distance_km": "11.81",
+      "distance_km_per_lap": "5.91"
+    },
+    {
+      "id": 2,
+      "park_name": "Cismigiu",
+      "strava_activity": "https://www.strava.com/activities/8383603231",
+      "laps": "7",
+      "distance_km": "11.70",
+      "distance_km_per_lap": "1.67"
+    },
+    {
+      "id": 3,
+      "park_name": "Izvor",
+      "strava_activity": "https://www.strava.com/activities/8431468502",
+      "laps": "8",
+      "distance_km": "10.22",
+      "distance_km_per_lap": "1.28"
+    },
+    {
+      "id": 4,
+      "park_name": "Tineretului",
+      "strava_activity": "https://www.strava.com/activities/8496753366",
+      "laps": "4",
+      "distance_km": "11.52",
+      "distance_km_per_lap": "2.88"
+    },
+    {
+      "id": 5,
+      "park_name": "Carol",
+      "strava_activity": "https://www.strava.com/activities/8656184384",
+      "laps": "5",
+      "distance_km": "10.15",
+      "distance_km_per_lap": "2.03"
+    },
+    {
+      "id": 6,
+      "park_name": "Bazilescu",
+      "strava_activity": "https://www.strava.com/activities/8700091013",
+      "laps": "10",
+      "distance_km": "11.50",
+      "distance_km_per_lap": "1.15"
+    },
+    {
+      "id": 7,
+      "park_name": "Vacaresti",
+      "strava_activity": "https://www.strava.com/activities/8767722170",
+      "laps": "2",
+      "distance_km": "10.34",
+      "distance_km_per_lap": "5.17"
+    },
+    {
+      "id": 8,
+      "park_name": "Tei",
+      "strava_activity": "https://www.strava.com/activities/8988040162",
+      "laps": "3",
+      "distance_km": "10.23",
+      "distance_km_per_lap": "3.41"
+    },
+    {
+      "id": 9,
+      "park_name": "Cuza (IOR)",
+      "strava_activity": "https://www.strava.com/activities/9136051243",
+      "laps": "4",
+      "distance_km": "12.70",
+      "distance_km_per_lap": "3.18"
+    },
+    {
+      "id": 10,
+      "park_name": "Drumul Taberei",
+      "strava_activity": "https://www.strava.com/activities/9186339318",
+      "laps": "4",
+      "distance_km": "10.17",
+      "distance_km_per_lap": "2.54"
+    },
+    {
+      "id": 11,
+      "park_name": "Lumea Copiilor",
+      "strava_activity": "https://www.strava.com/activities/9274624666",
+      "laps": "8",
+      "distance_km": "10.37",
+      "distance_km_per_lap": "1.30"
+    },
+    {
+      "id": 12,
+      "park_name": "Crangasi + Lacul Morii",
+      "strava_activity": "https://www.strava.com/activities/9384445580",
+      "laps": "1",
+      "distance_km": "10.04",
+      "distance_km_per_lap": "10.04"
+    },
+    {
+      "id": 13,
+      "park_name": "Romniceanu",
+      "strava_activity": "https://www.strava.com/activities/9503875825",
+      "laps": "10",
+      "distance_km": "11.00",
+      "distance_km_per_lap": "1.10"
+    },
+    {
+      "id": 14,
+      "park_name": "Kiseleff",
+      "strava_activity": "https://www.strava.com/activities/9573102869",
+      "laps": "10",
+      "distance_km": "11.51",
+      "distance_km_per_lap": "1.15"
+    },
+    {
+      "id": 15,
+      "park_name": "Bordei",
+      "strava_activity": "https://www.strava.com/activities/9709770364",
+      "laps": "4",
+      "distance_km": "12.61",
+      "distance_km_per_lap": "3.15"
+    },
+    {
+      "id": 16,
+      "park_name": "Circului",
+      "strava_activity": "https://www.strava.com/activities/9864633776",
+      "laps": "8",
+      "distance_km": "11.00",
+      "distance_km_per_lap": "1.38"
+    },
+    {
+      "id": 17,
+      "park_name": "Ponton Floreasca",
+      "strava_activity": "https://www.strava.com/activities/10134366768",
+      "laps": "7",
+      "distance_km": "10.32",
+      "distance_km_per_lap": "1.47"
+    },
+    {
+      "id": 18,
+      "park_name": "Tudor Arghezi",
+      "strava_activity": "https://www.strava.com/activities/10288433230",
+      "laps": "7",
+      "distance_km": "11.39",
+      "distance_km_per_lap": "1.63"
+    },
+    {
+      "id": 19,
+      "park_name": "National",
+      "strava_activity": "https://www.strava.com/activities/10644247903",
+      "laps": "8",
+      "distance_km": "10.73",
+      "distance_km_per_lap": "1.34"
+    },
+    {
+      "id": 20,
+      "park_name": "Pantelimon",
+      "strava_activity": "https://www.strava.com/activities/10738409468",
+      "laps": "4",
+      "distance_km": "11.70",
+      "distance_km_per_lap": "2.93"
+    },
+    {
+      "id": 21,
+      "park_name": "Plumbuita",
+      "strava_activity": "https://www.strava.com/activities/10784603019",
+      "laps": "2",
+      "distance_km": "12.06",
+      "distance_km_per_lap": "6.03"
+    },
+    {
+      "id": 22,
+      "park_name": "Morarilor",
+      "strava_activity": "https://www.strava.com/activities/10824492152",
+      "laps": "10",
+      "distance_km": "10.70",
+      "distance_km_per_lap": "1.07"
+    },
+    {
+      "id": 23,
+      "park_name": "Liniei",
+      "strava_activity": "https://www.strava.com/activities/10969169939",
+      "laps": "10",
+      "distance_km": "11.44",
+      "distance_km_per_lap": "1.14"
+    },
+    {
+      "id": 24,
+      "park_name": "Dobroesti",
+      "strava_activity": "https://www.strava.com/activities/11764479051",
+      "laps": "10",
+      "distance_km": "11.64",
+      "distance_km_per_lap": "1.06"
+    },
+    {
+      "id": 25,
+      "park_name": "Floreasca",
+      "strava_activity": "https://www.strava.com/activities/12176053393",
+      "laps": "10",
+      "distance_km": "10.70",
+      "distance_km_per_lap": "1.07"
+    },
+    {
+      "id": 26,
+      "park_name": "Titanel (Titanii)",
+      "strava_activity": "https://www.strava.com/activities/12963353776",
+      "laps": "10",
+      "distance_km": "11.83",
+      "distance_km_per_lap": "1.18"
+    },
+    {
+      "id": 27,
+      "park_name": "Teilor",
+      "strava_activity": "https://www.strava.com/activities/13165912180",
+      "laps": "6",
+      "distance_km": "11.45",
+      "distance_km_per_lap": "1.91"
+    },
+    {
+      "id": 28,
+      "park_name": "Sticlariei",
+      "strava_activity": "https://www.strava.com/activities/13213460415",
+      "laps": "10",
+      "distance_km": "10.54",
+      "distance_km_per_lap": "1.05"
+    }
+  ]
+}

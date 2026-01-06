@@ -1,0 +1,224 @@
+{
+  "bad_news": [
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 20
+      },
+      "competition": "OVB Charity Run",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 13
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 11
+      },
+      "competition": "Crosul Cetatilor - Cetatea Ineului",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 27
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 4
+      },
+      "competition": "Zespezel Challenge",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 4
+      },
+      "competition": "Veverita Night Run",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 27
+      },
+      "competition": "Marzesti Trail Run",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 4
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 27
+      },
+      "competition": "Cupa Arboretum Simeria",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 6
+      },
+      "competition": "Maraton de Sebes",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 14
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 28
+      },
+      "competition": "Chisinau Maraton",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 14
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 6,
+        "day": 7
+      },
+      "competition": "Xrace - Siriu",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 31
+      },
+      "competition": "Honey Run",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 4
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 24
+      },
+      "competition": "Tour de Tur",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 4
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 17
+      },
+      "competition": "Triathlon Roua",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 10
+      },
+      "competition": "Maraton Tarcau",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 6,
+        "day": 21
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 10
+      },
+      "competition": "Crosul de la sat",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 5
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 4,
+        "day": 12
+      },
+      "competition": "One Step to Infinity Cross Country - Targu Jiu",
+      "status": "Not Held",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 4,
+        "day": 6
+      },
+      "competition": "Runfest Race to Nature - Cernica-Pantelimon",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2025,
+        "month": 7,
+        "day": 6
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 4,
+        "day": 6
+      },
+      "competition": "Runway Run",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 3,
+        "day": 16
+      },
+      "competition": "Cernica Running Trails",
+      "status": "Cancelled",
+      "new_date": null
+    }
+  ]
+}
