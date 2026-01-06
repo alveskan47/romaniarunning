@@ -198,4 +198,4 @@ When contributing to this project:
 
 ## License
 
-This project is part of the 2024 Basic Calendar project.
+This project is part of the Calendar Competitional Romania project.

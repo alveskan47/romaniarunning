@@ -1,21 +1,5 @@
 [
   {
-    "name": "Aleargă România",
-    "location": "-",
-    "location_details": "",
-    "display_date": "Thu 01-Jan-2026",
-    "county": "-",
-    "type": "virtual",
-    "distances": [
-      "-"
-    ],
-    "link": "https://aleargaromania.ro/",
-    "id": 0,
-    "year": 2026,
-    "month": 1,
-    "day": 1
-  },
-  {
     "name": "1Run",
     "location": "București",
     "location_details": "",
@@ -27,6 +11,22 @@
     ],
     "link": "https://www.facebook.com/events/2105270947000505",
     "id": 140,
+    "year": 2026,
+    "month": 1,
+    "day": 1
+  },
+  {
+    "name": "Aleargă România",
+    "location": "-",
+    "location_details": "",
+    "display_date": "Thu 01-Jan-2026",
+    "county": "-",
+    "type": "virtual",
+    "distances": [
+      "-"
+    ],
+    "link": "https://aleargaromania.ro/",
+    "id": 0,
     "year": 2026,
     "month": 1,
     "day": 1
@@ -236,20 +236,212 @@
     "day": 8
   },
   {
-    "name": "Mileștii Mici Winerun",
-    "location": "Mileștii Mici",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 14-Mar-2026",
-    "county": "MDA*",
-    "type": "wine cellar",
+    "name": "Cros caritabil Alerg pentru mama - București",
+    "location": "București",
+    "location_details": "Parcul IOR",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "B",
+    "type": "road",
     "distances": [
-      "10km"
+      "-"
     ],
-    "link": "https://sporter.md/ro/events/run/16063/milestii-mici-winerun-2026",
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 160,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Sibiu",
+    "location": "Sibiu",
+    "location_details": "Pădurea Șopa",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 161,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Arad",
+    "location": "Arad",
+    "location_details": "Stadionul Gloria",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 162,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Brașov",
+    "location": "Brașov",
+    "location_details": "Parcul Nicolae Titulescu",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 163,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Cluj-Napoca",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Central Simion Bărnuțiu",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 164,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Craiova",
+    "location": "Craiova",
+    "location_details": "Parcul Nicolae Romanescu",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 165,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Iași",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 166,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Pitești",
+    "location": "Pitești",
+    "location_details": "Parcul Lunca Argeșului",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 167,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Oradea",
+    "location": "Oradea",
+    "location_details": "Parcul Salca",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 168,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Suceava",
+    "location": "Suceava",
+    "location_details": "Zona de agrement a râului Suceava",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 169,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Târgu Mureș",
+    "location": "Târgu Mureș",
+    "location_details": "Piața Teatrului",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 170,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Timișoara",
+    "location": "Timișoara",
+    "location_details": "Parcul Copiilor",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 171,
+    "year": 2026,
+    "month": 3,
+    "day": 8
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Chișinău",
+    "location": "Chișinău",
+    "location_details": "",
+    "display_date": "Sun 08-Mar-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
     "id": 0,
     "year": 2026,
     "month": 3,
-    "day": 14
+    "day": 8
   },
   {
     "name": "Primavera Trail Race",
@@ -265,6 +457,22 @@
     ],
     "link": "https://www.primaveratrailrace.ro/ro/",
     "id": 28,
+    "year": 2026,
+    "month": 3,
+    "day": 14
+  },
+  {
+    "name": "Mileștii Mici Winerun",
+    "location": "Mileștii Mici",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 14-Mar-2026",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://sporter.md/ro/events/run/16063/milestii-mici-winerun-2026",
+    "id": 0,
     "year": 2026,
     "month": 3,
     "day": 14
@@ -642,23 +850,6 @@
     "day": 25
   },
   {
-    "name": "Chișinău Half Maraton",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sun 26-Apr-2026",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "21km",
-      "10km"
-    ],
-    "link": "https://sporter.md/ro/events/run/15924/chisinau-half-marathon-2026",
-    "id": 0,
-    "year": 2026,
-    "month": 4,
-    "day": 26
-  },
-  {
     "name": "Semimaraton Iași",
     "location": "Iași",
     "location_details": "",
@@ -696,22 +887,21 @@
     "day": 26
   },
   {
-    "name": "Volvo Ultra Race",
-    "location": "Ulmu",
+    "name": "Chișinău Half Maraton",
+    "location": "Chișinău",
     "location_details": "Republica Moldova",
-    "display_date": "Sat 02-May-2026",
+    "display_date": "Sun 26-Apr-2026",
     "county": "MDA*",
     "type": "road",
     "distances": [
-      "58km",
-      "22km",
-      "11km"
+      "21km",
+      "10km"
     ],
-    "link": "https://www.facebook.com/events/641805045550158",
+    "link": "https://sporter.md/ro/events/run/15924/chisinau-half-marathon-2026",
     "id": 0,
     "year": 2026,
-    "month": 5,
-    "day": 2
+    "month": 4,
+    "day": 26
   },
   {
     "name": "Alergăraș în Făgăraș",
@@ -729,6 +919,24 @@
     ],
     "link": "https://alergaras.ro/",
     "id": 57,
+    "year": 2026,
+    "month": 5,
+    "day": 2
+  },
+  {
+    "name": "Volvo Ultra Race",
+    "location": "Ulmu",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 02-May-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "58km",
+      "22km",
+      "11km"
+    ],
+    "link": "https://www.facebook.com/events/641805045550158",
+    "id": 0,
     "year": 2026,
     "month": 5,
     "day": 2
@@ -806,22 +1014,6 @@
     "day": 9
   },
   {
-    "name": "Wings for Life World Run",
-    "location": "-",
-    "location_details": "",
-    "display_date": "Sun 10-May-2026",
-    "county": "-",
-    "type": "virtual",
-    "distances": [
-      "-"
-    ],
-    "link": "https://www.wingsforlifeworldrun.com/en",
-    "id": 0,
-    "year": 2026,
-    "month": 5,
-    "day": 10
-  },
-  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -869,6 +1061,22 @@
     ],
     "link": "https://timotion.ro/",
     "id": 61,
+    "year": 2026,
+    "month": 5,
+    "day": 10
+  },
+  {
+    "name": "Wings for Life World Run",
+    "location": "-",
+    "location_details": "",
+    "display_date": "Sun 10-May-2026",
+    "county": "-",
+    "type": "virtual",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.wingsforlifeworldrun.com/en",
+    "id": 0,
     "year": 2026,
     "month": 5,
     "day": 10
@@ -1569,23 +1777,6 @@
     "day": 20
   },
   {
-    "name": "Chișinău 10 km Night Run",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 27-Jun-2026",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "10km",
-      "5km"
-    ],
-    "link": "https://sporter.md/ro/events/run/16356/chisinau-10-km-night-run-2026",
-    "id": 0,
-    "year": 2026,
-    "month": 6,
-    "day": 27
-  },
-  {
     "name": "Rodnei Sky Race",
     "location": "Borșa",
     "location_details": "",
@@ -1653,6 +1844,23 @@
     ],
     "link": "https://runnersclub.ro/crosulhoia/",
     "id": 150,
+    "year": 2026,
+    "month": 6,
+    "day": 27
+  },
+  {
+    "name": "Chișinău 10 km Night Run",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 27-Jun-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://sporter.md/ro/events/run/16356/chisinau-10-km-night-run-2026",
+    "id": 0,
     "year": 2026,
     "month": 6,
     "day": 27
@@ -1739,7 +1947,7 @@
     "name": "Maraton Bate Toaca",
     "location": "Durău",
     "location_details": "",
-    "display_date": "Sat 11-Jul-2026",
+    "display_date": "Sat 18-Jul-2026",
     "county": "NT",
     "type": "trail",
     "distances": [
@@ -1750,7 +1958,7 @@
     "id": 84,
     "year": 2026,
     "month": 7,
-    "day": 11
+    "day": 18
   },
   {
     "name": "Trofeul Dragoneilor",
@@ -2013,6 +2221,26 @@
     ],
     "link": "https://cugirace.ro/",
     "id": 91,
+    "year": 2026,
+    "month": 9,
+    "day": 5
+  },
+  {
+    "name": "Ultramaraton Galați 24",
+    "location": "Galați",
+    "location_details": "Faleza Dunării Galaţi",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "24H",
+      "50km",
+      "24km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "id": 176,
     "year": 2026,
     "month": 9,
     "day": 5
@@ -2318,25 +2546,6 @@
     "day": 26
   },
   {
-    "name": "Chișinău Maraton",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sun 27-Sep-2026",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "42km",
-      "21km",
-      "10km",
-      "5km"
-    ],
-    "link": "https://marathon.md/ro",
-    "id": 0,
-    "year": 2026,
-    "month": 9,
-    "day": 27
-  },
-  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -2372,6 +2581,25 @@
     ],
     "link": "https://buzau.21k.ro/",
     "id": 99,
+    "year": 2026,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Chișinău Maraton",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 27-Sep-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://marathon.md/ro",
+    "id": 0,
     "year": 2026,
     "month": 9,
     "day": 27
@@ -2500,22 +2728,6 @@
     "day": 17
   },
   {
-    "name": "Cursa Imposibilă",
-    "location": "-",
-    "location_details": "",
-    "display_date": "Sun 25-Oct-2026",
-    "county": "-",
-    "type": "virtual",
-    "distances": [
-      "-"
-    ],
-    "link": "https://aleargaromania.ro/cursa-imposibila/",
-    "id": 0,
-    "year": 2026,
-    "month": 10,
-    "day": 25
-  },
-  {
     "name": "Timișoara City Marathon",
     "location": "Timișoara",
     "location_details": "",
@@ -2530,6 +2742,22 @@
     ],
     "link": "https://timisoaracitymarathon.ro/",
     "id": 100,
+    "year": 2026,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Cursa Imposibilă",
+    "location": "-",
+    "location_details": "",
+    "display_date": "Sun 25-Oct-2026",
+    "county": "-",
+    "type": "virtual",
+    "distances": [
+      "-"
+    ],
+    "link": "https://aleargaromania.ro/cursa-imposibila/",
+    "id": 0,
     "year": 2026,
     "month": 10,
     "day": 25
@@ -2677,22 +2905,6 @@
     "day": 5
   },
   {
-    "name": "Maratonul de Craciun - Chișinău",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sun 13-Dec-2026",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "3km"
-    ],
-    "link": "https://www.facebook.com/events/1828915547737887",
-    "id": 0,
-    "year": 2026,
-    "month": 12,
-    "day": 13
-  },
-  {
     "name": "Semimaraton Pe Argeș in Jos",
     "location": "Pitești",
     "location_details": "",
@@ -2706,6 +2918,22 @@
     ],
     "link": "https://paj.pitestitriathlon.ro/",
     "id": 139,
+    "year": 2026,
+    "month": 12,
+    "day": 13
+  },
+  {
+    "name": "Maratonul de Craciun - Chișinău",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 13-Dec-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/1828915547737887",
+    "id": 0,
     "year": 2026,
     "month": 12,
     "day": 13

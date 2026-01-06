@@ -212,7 +212,8 @@ def main() -> None:
     # Write a separate JSON file for each year to json-files folder
     for year, events in competitions_output.items():
         # Sort events by date (year, month, day), then by id
-        events.sort(key=lambda event: (event.year, event.month, event.day, event.id))
+        # Special case: events with id=0 are sorted last when dates are equal
+        events.sort(key=lambda event: (event.year, event.month, event.day, float('inf') if event.id == 0 else event.id))
 
         competition_output_json = convert_object_into_json(events, 2)
         output_filename = os.path.join(json_files_dir, f"output-events-{year}.json")

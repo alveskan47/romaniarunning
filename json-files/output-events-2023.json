@@ -68,6 +68,22 @@
     "day": 28
   },
   {
+    "name": "Rubicon",
+    "location": "Chisinau - București",
+    "location_details": "Republica Moldova",
+    "display_date": "Fri 03-Feb-2023",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://rubicon.run/ro",
+    "id": 0,
+    "year": 2023,
+    "month": 2,
+    "day": 3
+  },
+  {
     "name": "Făget Winter Trail",
     "location": "Cluj-Napoca",
     "location_details": "Pădurea Făget",
@@ -153,6 +169,22 @@
     "day": 18
   },
   {
+    "name": "Vladeasa Winter Trail",
+    "location": "Săcuieu",
+    "location_details": "Rogojel",
+    "display_date": "Sun 19-Feb-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "17km(1050m↑)"
+    ],
+    "link": "https://vladeasa.wintertrail.ro/",
+    "id": 159,
+    "year": 2023,
+    "month": 2,
+    "day": 19
+  },
+  {
     "name": "Șiria Winter Trail",
     "location": "Șiria",
     "location_details": "",
@@ -169,22 +201,6 @@
     "year": 2023,
     "month": 2,
     "day": 25
-  },
-  {
-    "name": "Mileștii Mici Winerun",
-    "location": "Mileștii Mici",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 11-Mar-2023",
-    "county": "MDA*",
-    "type": "wine cellar",
-    "distances": [
-      "10km"
-    ],
-    "link": "https://www.facebook.com/sportermd",
-    "id": 0,
-    "year": 2023,
-    "month": 3,
-    "day": 11
   },
   {
     "name": "Crosul Divelor",
@@ -204,6 +220,39 @@
     "day": 11
   },
   {
+    "name": "Mileștii Mici Winerun",
+    "location": "Mileștii Mici",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 11-Mar-2023",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/sportermd",
+    "id": 0,
+    "year": 2023,
+    "month": 3,
+    "day": 11
+  },
+  {
+    "name": "Crosul Pentru Viata",
+    "location": "București",
+    "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
+    "display_date": "Sat 18-Mar-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "12km",
+      "4km"
+    ],
+    "link": "https://www.crosulpentruviata.ro/",
+    "id": 173,
+    "year": 2023,
+    "month": 3,
+    "day": 18
+  },
+  {
     "name": "Primavera Trail Race",
     "location": "Șuncuiuș",
     "location_details": "",
@@ -217,6 +266,23 @@
     ],
     "link": "https://www.primaveratrailrace.ro/ro/",
     "id": 28,
+    "year": 2023,
+    "month": 3,
+    "day": 25
+  },
+  {
+    "name": "Crosul Primaverii - Baia Mare",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 25-Mar-2023",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://maramures.run/crosul-primaverii/",
+    "id": 175,
     "year": 2023,
     "month": 3,
     "day": 25
@@ -323,6 +389,43 @@
     ],
     "link": "https://www.proracers.ro/activitati/maratonul-codrului/",
     "id": 55,
+    "year": 2023,
+    "month": 4,
+    "day": 1
+  },
+  {
+    "name": "Ultramaraton Galați 24",
+    "location": "Galați",
+    "location_details": "Faleza Dunării Galaţi",
+    "display_date": "Sat 01-Apr-2023",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "24H",
+      "50km",
+      "24km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "id": 176,
+    "year": 2023,
+    "month": 4,
+    "day": 1
+  },
+  {
+    "name": "Resita Stairs Challenge",
+    "location": "Resita",
+    "location_details": "",
+    "display_date": "Sat 01-Apr-2023",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "12.5km(1000m↑)",
+      "400m(110m↑)"
+    ],
+    "link": "https://www.facebook.com/resita.stairs.challenge",
+    "id": 177,
     "year": 2023,
     "month": 4,
     "day": 1
@@ -505,6 +608,23 @@
     ],
     "link": "https://www.maratonulnisipului.ro/",
     "id": 24,
+    "year": 2023,
+    "month": 4,
+    "day": 29
+  },
+  {
+    "name": "Crosul Primaverii Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 29-Apr-2023",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "!!!!! mandatory medical certificate",
+      "4km"
+    ],
+    "link": "",
+    "id": 178,
     "year": 2023,
     "month": 4,
     "day": 29
@@ -1483,6 +1603,25 @@
     "day": 26
   },
   {
+    "name": "Scorilo Sky Race",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sat 26-Aug-2023",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "44km(2653m↑)",
+      "26km(1100m↑)",
+      "12km(579m↑)",
+      "6km(120m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "id": 157,
+    "year": 2023,
+    "month": 8,
+    "day": 26
+  },
+  {
     "name": "Râșnov Medieval Run",
     "location": "Râșnov",
     "location_details": "",
@@ -1716,25 +1855,6 @@
     "day": 23
   },
   {
-    "name": "Chișinău Maraton",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sun 24-Sep-2023",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "42km",
-      "21km",
-      "10km",
-      "5km"
-    ],
-    "link": "https://marathon.md/ro",
-    "id": 0,
-    "year": 2023,
-    "month": 9,
-    "day": 24
-  },
-  {
     "name": "Semimaraton Brăila",
     "location": "Brăila",
     "location_details": "",
@@ -1782,6 +1902,25 @@
     ],
     "link": "https://runnersclub.ro/crosulcompaniilor/",
     "id": 151,
+    "year": 2023,
+    "month": 9,
+    "day": 24
+  },
+  {
+    "name": "Chișinău Maraton",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 24-Sep-2023",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://marathon.md/ro",
+    "id": 0,
     "year": 2023,
     "month": 9,
     "day": 24

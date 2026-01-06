@@ -34,6 +34,23 @@
     "day": 18
   },
   {
+    "name": "Crosul Micii Uniri",
+    "location": "Pitești",
+    "location_details": "Parcul Trivale",
+    "display_date": "Sun 19-Jan-2025",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/488845773786066/",
+    "id": 142,
+    "year": 2025,
+    "month": 1,
+    "day": 19
+  },
+  {
     "name": "Oradea City Trail",
     "location": "Oradea",
     "location_details": "",
@@ -171,6 +188,23 @@
     "day": 15
   },
   {
+    "name": "Love Run Fest",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 15-Feb-2025",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "8km",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/1075237307085497/",
+    "id": 0,
+    "year": 2025,
+    "month": 2,
+    "day": 15
+  },
+  {
     "name": "Șiria Winter Trail",
     "location": "Șiria",
     "location_details": "",
@@ -187,6 +221,88 @@
     "year": 2025,
     "month": 2,
     "day": 22
+  },
+  {
+    "name": "Crosul Indragostitilor de Alergare",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 22-Feb-2025",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "13km",
+      "7km"
+    ],
+    "link": "https://www.facebook.com/events/582867631286165/",
+    "id": 155,
+    "year": 2025,
+    "month": 2,
+    "day": 22
+  },
+  {
+    "name": "Crosul Umanitar Inima De Leu",
+    "location": "Galați",
+    "location_details": "Crosul Umanitar Inima De Leu",
+    "display_date": "Sun 23-Feb-2025",
+    "county": "GL",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=3804977846431461",
+    "id": 156,
+    "year": 2025,
+    "month": 2,
+    "day": 23
+  },
+  {
+    "name": "Rubicon",
+    "location": "Chisinau - București",
+    "location_details": "Republica Moldova",
+    "display_date": "Fri 28-Feb-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://rubicon.run/ro",
+    "id": 0,
+    "year": 2025,
+    "month": 2,
+    "day": 28
+  },
+  {
+    "name": "Scorilo Winter Trail",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sun 02-Mar-2025",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "8km(320m↑)",
+      "5km(1000m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "id": 158,
+    "year": 2025,
+    "month": 3,
+    "day": 2
+  },
+  {
+    "name": "Vladeasa Winter Trail",
+    "location": "Săcuieu",
+    "location_details": "Rogojel",
+    "display_date": "Sun 02-Mar-2025",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "17km(1050m↑)"
+    ],
+    "link": "https://vladeasa.wintertrail.ro/",
+    "id": 159,
+    "year": 2025,
+    "month": 3,
+    "day": 2
   },
   {
     "name": "SportGuru Timișoara 21k",
@@ -207,20 +323,212 @@
     "day": 9
   },
   {
-    "name": "Mileștii Mici Winerun",
-    "location": "Mileștii Mici",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 15-Mar-2025",
-    "county": "MDA*",
-    "type": "wine cellar",
+    "name": "Cros caritabil Alerg pentru mama - București",
+    "location": "București",
+    "location_details": "Parcul IOR",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "B",
+    "type": "road",
     "distances": [
-      "10km"
+      "-"
     ],
-    "link": "https://sporter.md/ro/events/run/14493/milestii-mici-winerun-2025",
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 160,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Sibiu",
+    "location": "Sibiu",
+    "location_details": "Pădurea Șopa",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 161,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Arad",
+    "location": "Arad",
+    "location_details": "Stadionul Gloria",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 162,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Brașov",
+    "location": "Brașov",
+    "location_details": "Parcul Nicolae Titulescu",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 163,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Cluj-Napoca",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Central Simion Bărnuțiu",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 164,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Craiova",
+    "location": "Craiova",
+    "location_details": "Parcul Nicolae Romanescu",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 165,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Iași",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 166,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Pitești",
+    "location": "Pitești",
+    "location_details": "Parcul Lunca Argeșului",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 167,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Oradea",
+    "location": "Oradea",
+    "location_details": "Parcul Salca",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 168,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Suceava",
+    "location": "Suceava",
+    "location_details": "Zona de agrement a râului Suceava",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 169,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Târgu Mureș",
+    "location": "Târgu Mureș",
+    "location_details": "Piața Teatrului",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 170,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Timișoara",
+    "location": "Timișoara",
+    "location_details": "Parcul Copiilor",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 171,
+    "year": 2025,
+    "month": 3,
+    "day": 9
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Chișinău",
+    "location": "Chișinău",
+    "location_details": "",
+    "display_date": "Sun 09-Mar-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
     "id": 0,
     "year": 2025,
     "month": 3,
-    "day": 15
+    "day": 9
   },
   {
     "name": "Crosul Divelor",
@@ -235,6 +543,22 @@
     ],
     "link": "https://runnersclub.ro/crosul-divelor/",
     "id": 102,
+    "year": 2025,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Mileștii Mici Winerun",
+    "location": "Mileștii Mici",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 15-Mar-2025",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://sporter.md/ro/events/run/14493/milestii-mici-winerun-2025",
+    "id": 0,
     "year": 2025,
     "month": 3,
     "day": 15
@@ -311,6 +635,40 @@
     "day": 22
   },
   {
+    "name": "Peniel Run",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 22-Mar-2025",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.run.peniel.ro/",
+    "id": 172,
+    "year": 2025,
+    "month": 3,
+    "day": 22
+  },
+  {
+    "name": "Crosul Pentru Viata",
+    "location": "București",
+    "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
+    "display_date": "Sat 22-Mar-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "12km",
+      "4km"
+    ],
+    "link": "https://www.crosulpentruviata.ro/",
+    "id": 173,
+    "year": 2025,
+    "month": 3,
+    "day": 22
+  },
+  {
     "name": "Gârboavele Trail Run",
     "location": "Tulucești",
     "location_details": "Pădurea Gârboavele",
@@ -364,6 +722,22 @@
     "day": 29
   },
   {
+    "name": "Crosul Jandarmeriei - Ploiești",
+    "location": "Ploiești",
+    "location_details": "",
+    "display_date": "Sat 29-Mar-2025",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1304526813993817/",
+    "id": 174,
+    "year": 2025,
+    "month": 3,
+    "day": 29
+  },
+  {
     "name": "Festivalul Sporturilor București (primavara)",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -377,6 +751,23 @@
     ],
     "link": "https://festivalulsporturilor.ro/",
     "id": 44,
+    "year": 2025,
+    "month": 3,
+    "day": 30
+  },
+  {
+    "name": "Crosul Primaverii - Baia Mare",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 30-Mar-2025",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://maramures.run/crosul-primaverii/",
+    "id": 175,
     "year": 2025,
     "month": 3,
     "day": 30
@@ -412,6 +803,43 @@
     ],
     "link": "https://crosul.usamv.ro/",
     "id": 26,
+    "year": 2025,
+    "month": 4,
+    "day": 5
+  },
+  {
+    "name": "Ultramaraton Galați 24",
+    "location": "Galați",
+    "location_details": "Faleza Dunării Galaţi",
+    "display_date": "Sat 05-Apr-2025",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "24H",
+      "50km",
+      "24km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "id": 176,
+    "year": 2025,
+    "month": 4,
+    "day": 5
+  },
+  {
+    "name": "Resita Stairs Challenge",
+    "location": "Resita",
+    "location_details": "",
+    "display_date": "Sat 05-Apr-2025",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "12.5km(1000m↑)",
+      "400m(110m↑)"
+    ],
+    "link": "https://www.facebook.com/resita.stairs.challenge",
+    "id": 177,
     "year": 2025,
     "month": 4,
     "day": 5
@@ -504,23 +932,6 @@
     "day": 12
   },
   {
-    "name": "Chișinău Half Maraton",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sun 13-Apr-2025",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "21km",
-      "10km"
-    ],
-    "link": "https://sporter.md/ro/events/run/14798/chisinau-half-marathon-2025",
-    "id": 0,
-    "year": 2025,
-    "month": 4,
-    "day": 13
-  },
-  {
     "name": "Băneasa Forest Run - Spring",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -535,6 +946,23 @@
     ],
     "link": "https://baneasaforestrun.ro/",
     "id": 49,
+    "year": 2025,
+    "month": 4,
+    "day": 13
+  },
+  {
+    "name": "Chișinău Half Maraton",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 13-Apr-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://sporter.md/ro/events/run/14798/chisinau-half-marathon-2025",
+    "id": 0,
     "year": 2025,
     "month": 4,
     "day": 13
@@ -986,6 +1414,23 @@
     "day": 24
   },
   {
+    "name": "Crosul Primaverii Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 24-May-2025",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "!!!!! mandatory medical certificate",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/790607043086589/",
+    "id": 178,
+    "year": 2025,
+    "month": 5,
+    "day": 24
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",
@@ -1092,24 +1537,6 @@
     "day": 30
   },
   {
-    "name": "Volvo Ultra Race",
-    "location": "Ulmu",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 31-May-2025",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "58km",
-      "22km",
-      "11km"
-    ],
-    "link": "https://www.facebook.com/events/1793067697932335/",
-    "id": 0,
-    "year": 2025,
-    "month": 5,
-    "day": 31
-  },
-  {
     "name": "Brașov Marathon",
     "location": "Brașov",
     "location_details": "",
@@ -1178,6 +1605,24 @@
     ],
     "link": "https://www.bikeworks.ro/",
     "id": 71,
+    "year": 2025,
+    "month": 5,
+    "day": 31
+  },
+  {
+    "name": "Volvo Ultra Race",
+    "location": "Ulmu",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 31-May-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "58km",
+      "22km",
+      "11km"
+    ],
+    "link": "https://www.facebook.com/events/1793067697932335/",
+    "id": 0,
     "year": 2025,
     "month": 5,
     "day": 31
@@ -1486,23 +1931,6 @@
     "day": 22
   },
   {
-    "name": "Chișinău 10 km Night Run",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 28-Jun-2025",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "10km",
-      "5km"
-    ],
-    "link": "https://www.facebook.com/events/s/chisinau-10-km-night-run/607806155575528/",
-    "id": 0,
-    "year": 2025,
-    "month": 6,
-    "day": 28
-  },
-  {
     "name": "Rodnei Sky Race",
     "location": "Borșa",
     "location_details": "",
@@ -1534,6 +1962,23 @@
     ],
     "link": "https://runnersclub.ro/crosulhoia/",
     "id": 150,
+    "year": 2025,
+    "month": 6,
+    "day": 28
+  },
+  {
+    "name": "Chișinău 10 km Night Run",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 28-Jun-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/s/chisinau-10-km-night-run/607806155575528/",
+    "id": 0,
     "year": 2025,
     "month": 6,
     "day": 28
@@ -1918,20 +2363,23 @@
     "day": 30
   },
   {
-    "name": "Maratonul Dragonul de Aur",
-    "location": "Trebujeni",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 06-Sep-2025",
-    "county": "MDA*",
+    "name": "Scorilo Sky Race",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sat 30-Aug-2025",
+    "county": "CS",
     "type": "trail",
     "distances": [
-      "-"
+      "44km(2653m↑)",
+      "26km(1100m↑)",
+      "12km(579m↑)",
+      "6km(120m↑)"
     ],
-    "link": "https://www.runmoldova.com/",
-    "id": 0,
+    "link": "https://www.scoriloskyrace.ro/",
+    "id": 157,
     "year": 2025,
-    "month": 9,
-    "day": 6
+    "month": 8,
+    "day": 30
   },
   {
     "name": "Ciucaș X3",
@@ -1985,6 +2433,22 @@
     ],
     "link": "https://gtr.ro/",
     "id": 146,
+    "year": 2025,
+    "month": 9,
+    "day": 6
+  },
+  {
+    "name": "Maratonul Dragonul de Aur",
+    "location": "Trebujeni",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 06-Sep-2025",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "id": 0,
     "year": 2025,
     "month": 9,
     "day": 6
@@ -2078,6 +2542,24 @@
     "day": 13
   },
   {
+    "name": "Festivalul Sporturilor București (toamnă)",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 14-Sep-2025",
+    "county": "B",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "5km"
+    ],
+    "link": "https://festivalulsporturilor.ro/",
+    "id": 45,
+    "year": 2025,
+    "month": 9,
+    "day": 14
+  },
+  {
     "name": "Chișinău Maraton",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -2092,24 +2574,6 @@
     ],
     "link": "https://marathon.md/ro",
     "id": 0,
-    "year": 2025,
-    "month": 9,
-    "day": 14
-  },
-  {
-    "name": "Festivalul Sporturilor București (toamnă)",
-    "location": "București",
-    "location_details": "Pădurea Băneasa",
-    "display_date": "Sun 14-Sep-2025",
-    "county": "B",
-    "type": "trail",
-    "distances": [
-      "21km",
-      "11km",
-      "5km"
-    ],
-    "link": "https://festivalulsporturilor.ro/",
-    "id": 45,
     "year": 2025,
     "month": 9,
     "day": 14
@@ -2361,23 +2825,6 @@
     "day": 5
   },
   {
-    "name": "TulbuRun la Asconi Winery",
-    "location": "Chisinau",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 11-Oct-2025",
-    "county": "MDA*",
-    "type": "trail",
-    "distances": [
-      "11.2km(300m↑)",
-      "6.8km(150m↑)"
-    ],
-    "link": "https://www.runmoldova.com/",
-    "id": 0,
-    "year": 2025,
-    "month": 10,
-    "day": 11
-  },
-  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -2391,6 +2838,23 @@
     ],
     "link": "https://porolissumtrail.ro/",
     "id": 97,
+    "year": 2025,
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "TulbuRun la Asconi Winery",
+    "location": "Chisinau",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 11-Oct-2025",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "11.2km(300m↑)",
+      "6.8km(150m↑)"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "id": 0,
     "year": 2025,
     "month": 10,
     "day": 11
@@ -2451,22 +2915,6 @@
     "day": 18
   },
   {
-    "name": "Cursa Imposibilă",
-    "location": "-",
-    "location_details": "",
-    "display_date": "Sun 26-Oct-2025",
-    "county": "-",
-    "type": "virtual",
-    "distances": [
-      "-"
-    ],
-    "link": "https://aleargaromania.ro/cursa-imposibila/",
-    "id": 0,
-    "year": 2025,
-    "month": 10,
-    "day": 26
-  },
-  {
     "name": "Timișoara City Marathon",
     "location": "Timișoara",
     "location_details": "",
@@ -2481,6 +2929,22 @@
     ],
     "link": "https://timisoaracitymarathon.ro/",
     "id": 100,
+    "year": 2025,
+    "month": 10,
+    "day": 26
+  },
+  {
+    "name": "Cursa Imposibilă",
+    "location": "-",
+    "location_details": "",
+    "display_date": "Sun 26-Oct-2025",
+    "county": "-",
+    "type": "virtual",
+    "distances": [
+      "-"
+    ],
+    "link": "https://aleargaromania.ro/cursa-imposibila/",
+    "id": 0,
     "year": 2025,
     "month": 10,
     "day": 26
@@ -2628,22 +3092,6 @@
     "day": 1
   },
   {
-    "name": "Maratonul de Craciun - Chișinău",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 13-Dec-2025",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "3km"
-    ],
-    "link": "https://www.facebook.com/events/2739053532971860",
-    "id": 0,
-    "year": 2025,
-    "month": 12,
-    "day": 13
-  },
-  {
     "name": "OVB Charity Run",
     "location": "Cluj-Napoca",
     "location_details": "Pădurea Faget",
@@ -2656,6 +3104,22 @@
     ],
     "link": "https://runnersclub.ro/ovb-charity-run/",
     "id": 154,
+    "year": 2025,
+    "month": 12,
+    "day": 13
+  },
+  {
+    "name": "Maratonul de Craciun - Chișinău",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 13-Dec-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/2739053532971860",
+    "id": 0,
     "year": 2025,
     "month": 12,
     "day": 13

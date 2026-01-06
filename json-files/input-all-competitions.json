@@ -2979,7 +2979,7 @@
         {
           "year": 2026,
           "month": 7,
-          "day": 11
+          "day": 18
         },
         {
           "year": 2025,
@@ -5133,6 +5133,649 @@
           "day": 13
         }
       ]
+    },
+    {
+      "id": 155,
+      "name": "Crosul Indragostitilor de Alergare",
+      "location": "Bistrița",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "13km",
+        "7km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 2,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/582867631286165/"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "day": 24,
+          "event_link": "https://www.bistrita.com/evenimente/263/crosul-indragostitilor-de-alergare"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Crosul Umanitar Inima De Leu",
+      "location": "Galați",
+      "location_details": "Crosul Umanitar Inima De Leu",
+      "county": "GL",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 2,
+          "day": 23,
+          "event_link": "https://www.facebook.com/photo/?fbid=3804977846431461"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Scorilo Sky Race",
+      "location": "Zavoi (CS)",
+      "location_details": "Poiana Marului",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "44km(2653m↑)",
+        "26km(1100m↑)",
+        "12km(579m↑)",
+        "6km(120m↑)"
+      ],
+      "link": "https://www.scoriloskyrace.ro/",
+      "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 30
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 31
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Scorilo Winter Trail",
+      "location": "Zavoi (CS)",
+      "location_details": "Poiana Marului",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "8km(320m↑)",
+        "5km(1000m↑)"
+      ],
+      "link": "https://www.scoriloskyrace.ro/",
+      "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 2
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Vladeasa Winter Trail",
+      "location": "Săcuieu",
+      "location_details": "Rogojel",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "17km(1050m↑)"
+      ],
+      "link": "https://vladeasa.wintertrail.ro/",
+      "link_fb": "https://www.facebook.com/vladeasawintertrail/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 2
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "day": 18
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Cros caritabil Alerg pentru mama - București",
+      "location": "București",
+      "location_details": "Parcul IOR",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Cros caritabil Alerg pentru mama - Sibiu",
+      "location": "Sibiu",
+      "location_details": "Pădurea Șopa",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Cros caritabil Alerg pentru mama - Arad",
+      "location": "Arad",
+      "location_details": "Stadionul Gloria",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Cros caritabil Alerg pentru mama - Brașov",
+      "location": "Brașov",
+      "location_details": "Parcul Nicolae Titulescu",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Cros caritabil Alerg pentru mama - Cluj-Napoca",
+      "location": "Cluj-Napoca",
+      "location_details": "Parcul Central Simion Bărnuțiu",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Cros caritabil Alerg pentru mama - Craiova",
+      "location": "Craiova",
+      "location_details": "Parcul Nicolae Romanescu",
+      "county": "DJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Cros caritabil Alerg pentru mama - Iași",
+      "location": "Iași",
+      "location_details": "Stadionul Emil Alexandrescu",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Cros caritabil Alerg pentru mama - Pitești",
+      "location": "Pitești",
+      "location_details": "Parcul Lunca Argeșului",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Cros caritabil Alerg pentru mama - Oradea",
+      "location": "Oradea",
+      "location_details": "Parcul Salca",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Cros caritabil Alerg pentru mama - Suceava",
+      "location": "Suceava",
+      "location_details": "Zona de agrement a râului Suceava",
+      "county": "SV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Cros caritabil Alerg pentru mama - Târgu Mureș",
+      "location": "Târgu Mureș",
+      "location_details": "Piața Teatrului",
+      "county": "SV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Cros caritabil Alerg pentru mama - Timișoara",
+      "location": "Timișoara",
+      "location_details": "Parcul Copiilor",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Peniel Run",
+      "location": "Bistrița",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km"
+      ],
+      "link": "https://www.run.peniel.ro/",
+      "link_fb": "https://www.facebook.com/PenielRun",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Crosul Pentru Viata",
+      "location": "București",
+      "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "12km",
+        "4km"
+      ],
+      "link": "https://www.crosulpentruviata.ro/",
+      "link_fb": "https://www.facebook.com/crosulpentruviata",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 22
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 16
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Crosul Jandarmeriei - Ploiești",
+      "location": "Ploiești",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/1304526813993817/"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Crosul Primaverii - Baia Mare",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "6km",
+        "3km"
+      ],
+      "link": "https://maramures.run/crosul-primaverii/",
+      "link_fb": "https://www.facebook.com/MMRunners",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 30
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 7
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Ultramaraton Galați 24",
+      "location": "Galați",
+      "location_details": "Faleza Dunării Galaţi",
+      "county": "GL",
+      "type": "trail",
+      "distances": [
+        "24H",
+        "50km",
+        "24km",
+        "10km",
+        "3km"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=100064617015844",
+      "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "day": 5
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 20
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Resita Stairs Challenge",
+      "location": "Resita",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "12.5km(1000m↑)",
+        "400m(110m↑)"
+      ],
+      "link": "https://www.facebook.com/resita.stairs.challenge",
+      "link_fb": "https://www.facebook.com/resita.stairs.challenge",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 4,
+          "day": 5
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 30
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Crosul Primaverii Sovata",
+      "location": "Sovata",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "!!!!! mandatory medical certificate",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/790607043086589/"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 20
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "day": 29
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -5468,6 +6111,88 @@
           "year": 2023,
           "month": 12,
           "day": 16
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Love Run Fest",
+      "location": "Cricova",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "wine cellar",
+      "distances": [
+        "8km",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "https://www.facebook.com/runmoldova",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 2,
+          "day": 15,
+          "event_link": "https://www.facebook.com/events/1075237307085497/"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "day": 24,
+          "event_link": "https://iticket.md/event/love-run-fest-2024"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Rubicon",
+      "location": "Chisinau - București",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://rubicon.run/ro",
+      "link_fb": "https://www.facebook.com/sportermd",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 2,
+          "day": 28
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 22
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Cros caritabil Alerg pentru mama - Chișinău",
+      "location": "Chișinău",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+      "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 9
         }
       ]
     }

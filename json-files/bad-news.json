@@ -2,6 +2,30 @@
   "bad_news": [
     {
       "original_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 11
+      },
+      "competition": "Maraton Bate Toaca",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 18
+      }
+    },
+    {
+      "original_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 14
+      },
+      "competition": "Crosul lui Mos Craciun - Bucuresti",
+      "status": "Cancelled",
+      "new_date": null
+    },
+    {
+      "original_date": {
         "year": 2025,
         "month": 12,
         "day": 20

@@ -137,6 +137,22 @@
     "day": 10
   },
   {
+    "name": "Vladeasa Winter Trail",
+    "location": "Săcuieu",
+    "location_details": "Rogojel",
+    "display_date": "Sun 18-Feb-2024",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "17km(1050m↑)"
+    ],
+    "link": "https://vladeasa.wintertrail.ro/",
+    "id": 159,
+    "year": 2024,
+    "month": 2,
+    "day": 18
+  },
+  {
     "name": "Șiria Winter Trail",
     "location": "Șiria",
     "location_details": "",
@@ -155,20 +171,38 @@
     "day": 24
   },
   {
-    "name": "Mileștii Mici Winerun",
-    "location": "Mileștii Mici",
+    "name": "Crosul Indragostitilor de Alergare",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 24-Feb-2024",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "13km",
+      "7km"
+    ],
+    "link": "https://www.bistrita.com/evenimente/263/crosul-indragostitilor-de-alergare",
+    "id": 155,
+    "year": 2024,
+    "month": 2,
+    "day": 24
+  },
+  {
+    "name": "Love Run Fest",
+    "location": "Cricova",
     "location_details": "Republica Moldova",
-    "display_date": "Sat 02-Mar-2024",
+    "display_date": "Sat 24-Feb-2024",
     "county": "MDA*",
     "type": "wine cellar",
     "distances": [
-      "10km"
+      "8km",
+      "4km"
     ],
-    "link": "https://www.facebook.com/sportermd",
+    "link": "https://iticket.md/event/love-run-fest-2024",
     "id": 0,
     "year": 2024,
-    "month": 3,
-    "day": 2
+    "month": 2,
+    "day": 24
   },
   {
     "name": "Team Up & Run",
@@ -187,6 +221,55 @@
     "day": 2
   },
   {
+    "name": "Mileștii Mici Winerun",
+    "location": "Mileștii Mici",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 02-Mar-2024",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/sportermd",
+    "id": 0,
+    "year": 2024,
+    "month": 3,
+    "day": 2
+  },
+  {
+    "name": "Scorilo Winter Trail",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sun 03-Mar-2024",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "8km(320m↑)",
+      "5km(1000m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "id": 158,
+    "year": 2024,
+    "month": 3,
+    "day": 3
+  },
+  {
+    "name": "Cros caritabil Alerg pentru mama - Sibiu",
+    "location": "Sibiu",
+    "location_details": "Pădurea Șopa",
+    "display_date": "Sun 10-Mar-2024",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "id": 161,
+    "year": 2024,
+    "month": 3,
+    "day": 10
+  },
+  {
     "name": "Crosul Divelor",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -199,6 +282,23 @@
     ],
     "link": "https://runnersclub.ro/crosul-divelor/",
     "id": 102,
+    "year": 2024,
+    "month": 3,
+    "day": 16
+  },
+  {
+    "name": "Crosul Pentru Viata",
+    "location": "București",
+    "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
+    "display_date": "Sat 16-Mar-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "12km",
+      "4km"
+    ],
+    "link": "https://www.crosulpentruviata.ro/",
+    "id": 173,
     "year": 2024,
     "month": 3,
     "day": 16
@@ -220,6 +320,22 @@
     "year": 2024,
     "month": 3,
     "day": 17
+  },
+  {
+    "name": "Rubicon",
+    "location": "Chisinau - București",
+    "location_details": "Republica Moldova",
+    "display_date": "Fri 22-Mar-2024",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://rubicon.run/ro",
+    "id": 0,
+    "year": 2024,
+    "month": 3,
+    "day": 22
   },
   {
     "name": "Primavera Trail Race",
@@ -252,6 +368,23 @@
     ],
     "link": "https://garboaveletrailrun.ro/",
     "id": 27,
+    "year": 2024,
+    "month": 3,
+    "day": 30
+  },
+  {
+    "name": "Resita Stairs Challenge",
+    "location": "Resita",
+    "location_details": "",
+    "display_date": "Sat 30-Mar-2024",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "12.5km(1000m↑)",
+      "400m(110m↑)"
+    ],
+    "link": "https://www.facebook.com/resita.stairs.challenge",
+    "id": 177,
     "year": 2024,
     "month": 3,
     "day": 30
@@ -290,6 +423,23 @@
     "year": 2024,
     "month": 4,
     "day": 6
+  },
+  {
+    "name": "Crosul Primaverii - Baia Mare",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 07-Apr-2024",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://maramures.run/crosul-primaverii/",
+    "id": 175,
+    "year": 2024,
+    "month": 4,
+    "day": 7
   },
   {
     "name": "Woodland Series - Trail run",
@@ -414,6 +564,43 @@
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
     "id": 109,
+    "year": 2024,
+    "month": 4,
+    "day": 20
+  },
+  {
+    "name": "Ultramaraton Galați 24",
+    "location": "Galați",
+    "location_details": "Faleza Dunării Galaţi",
+    "display_date": "Sat 20-Apr-2024",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "24H",
+      "50km",
+      "24km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "id": 176,
+    "year": 2024,
+    "month": 4,
+    "day": 20
+  },
+  {
+    "name": "Crosul Primaverii Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 20-Apr-2024",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "!!!!! mandatory medical certificate",
+      "4km"
+    ],
+    "link": "",
+    "id": 178,
     "year": 2024,
     "month": 4,
     "day": 20
@@ -1573,6 +1760,25 @@
     "day": 31
   },
   {
+    "name": "Scorilo Sky Race",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sat 31-Aug-2024",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "44km(2653m↑)",
+      "26km(1100m↑)",
+      "12km(579m↑)",
+      "6km(120m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "id": 157,
+    "year": 2024,
+    "month": 8,
+    "day": 31
+  },
+  {
     "name": "Ciucaș X3",
     "location": "Cheia (PH)",
     "location_details": "",
@@ -1608,22 +1814,6 @@
     "year": 2024,
     "month": 9,
     "day": 7
-  },
-  {
-    "name": "Maratonul Dragonul de Aur",
-    "location": "Trebujeni",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 14-Sep-2024",
-    "county": "MDA*",
-    "type": "trail",
-    "distances": [
-      "-"
-    ],
-    "link": "https://www.runmoldova.com/",
-    "id": 0,
-    "year": 2024,
-    "month": 9,
-    "day": 14
   },
   {
     "name": "Rombat Trail Run",
@@ -1691,6 +1881,22 @@
     ],
     "link": "https://alerglaplai.ro/",
     "id": 130,
+    "year": 2024,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Maratonul Dragonul de Aur",
+    "location": "Trebujeni",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 14-Sep-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "id": 0,
     "year": 2024,
     "month": 9,
     "day": 14
@@ -1852,25 +2058,6 @@
     "day": 28
   },
   {
-    "name": "Chișinău Maraton",
-    "location": "Chișinău",
-    "location_details": "Republica Moldova",
-    "display_date": "Sun 29-Sep-2024",
-    "county": "MDA*",
-    "type": "road",
-    "distances": [
-      "42km",
-      "21km",
-      "10km",
-      "5km"
-    ],
-    "link": "https://marathon.md/ro",
-    "id": 0,
-    "year": 2024,
-    "month": 9,
-    "day": 29
-  },
-  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -1888,6 +2075,25 @@
     ],
     "link": "https://libertymarathon.uvt.ro/",
     "id": 98,
+    "year": 2024,
+    "month": 9,
+    "day": 29
+  },
+  {
+    "name": "Chișinău Maraton",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 29-Sep-2024",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://marathon.md/ro",
+    "id": 0,
     "year": 2024,
     "month": 9,
     "day": 29
@@ -1965,23 +2171,6 @@
     "day": 5
   },
   {
-    "name": "TulbuRun la Asconi Winery",
-    "location": "Chisinau",
-    "location_details": "Republica Moldova",
-    "display_date": "Sat 12-Oct-2024",
-    "county": "MDA*",
-    "type": "trail",
-    "distances": [
-      "11.2km(300m↑)",
-      "6.8km(150m↑)"
-    ],
-    "link": "https://www.runmoldova.com/",
-    "id": 0,
-    "year": 2024,
-    "month": 10,
-    "day": 12
-  },
-  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -1995,6 +2184,23 @@
     ],
     "link": "https://porolissumtrail.ro/",
     "id": 97,
+    "year": 2024,
+    "month": 10,
+    "day": 12
+  },
+  {
+    "name": "TulbuRun la Asconi Winery",
+    "location": "Chisinau",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 12-Oct-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "11.2km(300m↑)",
+      "6.8km(150m↑)"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "id": 0,
     "year": 2024,
     "month": 10,
     "day": 12
