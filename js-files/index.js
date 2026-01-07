@@ -92,9 +92,16 @@ function renderCompetitionsTable(competitions, year) {
         const rowClass = isLastOfMonth ? ' class="last-of-month"' : '';
 
         // Render competition name: as link if showFullVersion, otherwise as plain text
-        const competitionNameCell = showFullVersion
-            ? `<a href="${competition.link}" target="_blank">${competition.name}</a>`
-            : competition.name;
+        // Add Facebook icon if link_fb exists
+        let competitionNameCell;
+        if (showFullVersion) {
+            competitionNameCell = `<a href="${competition.link}" target="_blank">${competition.name}</a>`;
+            if (competition.link_fb) {
+                competitionNameCell += ` <a href="${competition.link_fb}" target="_blank" title="Facebook Page"><i class="bi bi-facebook"></i></a>`;
+            }
+        } else {
+            competitionNameCell = competition.name;
+        }
 
         // Render location with location_details if it exists
         const locationCell = competition.location_details

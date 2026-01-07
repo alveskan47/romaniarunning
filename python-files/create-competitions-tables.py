@@ -17,6 +17,40 @@ from typing import Any, Dict, List, Optional, Union
 
 
 @dataclass
+class Competition:
+    """
+    Represents a competition with all its properties.
+
+    Attributes:
+        id: Unique identifier for the competition
+        name: The name of the competition
+        location: The city where the competition takes place
+        county: The county code where the competition is held
+        type: The type of competition (e.g., "road", "trail")
+        distances: List of available race distances
+        link: Official website URL for the competition
+        link_fb: Facebook page URL for the competition
+        editions: List of edition dictionaries containing year, month, day
+    """
+    id: int = 0
+    name: str = ""
+    location: str = ""
+    county: str = ""
+    type: str = ""
+    distances: List[str] = None
+    link: str = ""
+    link_fb: str = ""
+    editions: List[Dict[str, Any]] = None
+
+    def __post_init__(self):
+        """Initialize mutable default values."""
+        if self.distances is None:
+            self.distances = []
+        if self.editions is None:
+            self.editions = []
+
+
+@dataclass
 class Edition:
     """
     Represents a single edition of a running event.
@@ -30,6 +64,7 @@ class Edition:
         type: The type of event (e.g., "road", "trail")
         distances: List of available race distances
         link: Official website URL for the event
+        link_fb: Facebook page URL for the event
         id: The competition ID (used for sorting)
         year: The year of the event (used for sorting)
         month: The month of the event (used for sorting)
@@ -43,6 +78,7 @@ class Edition:
     type: str = ""
     distances: List[str] = None
     link: str = ""
+    link_fb: str = ""
     id: int = 0
     year: int = 0
     month: int = 0
@@ -186,9 +222,9 @@ def main() -> None:
             current_event.county = competition["county"]
             current_event.type = competition["type"]
 
-            # Use custom_distances from edition if it exists, otherwise use main distances
-            if "custom_distances" in event_date:
-                current_event.distances = event_date["custom_distances"]
+            # Use event_distances from edition if it exists, otherwise use main distances
+            if "event_distances" in event_date:
+                current_event.distances = event_date["event_distances"]
             else:
                 current_event.distances = competition["distances"]
 
@@ -201,6 +237,13 @@ def main() -> None:
                 current_event.link = competition["link_fb"]
             else:
                 current_event.link = ""
+
+            # Set link_fb if it exists in competition
+            if "link_fb" in competition and competition["link_fb"]:
+                current_event.link_fb = competition["link_fb"]
+            else:
+                current_event.link_fb = ""
+
             current_event.id = competition["id"]
             current_event.year = event_date["year"]
             current_event.month = event_date["month"]

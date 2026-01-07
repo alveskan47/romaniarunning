@@ -10,6 +10,7 @@
       "-"
     ],
     "link": "https://aleargaromania.ro/",
+    "link_fb": "https://www.facebook.com/AleargaRomania/",
     "id": 0,
     "year": 2025,
     "month": 1,
@@ -28,6 +29,7 @@
       "7km(243m↑)"
     ],
     "link": "https://fagetwinterrace.ro/",
+    "link_fb": "https://www.facebook.com/FagetWinterRace/",
     "id": 32,
     "year": 2025,
     "month": 1,
@@ -45,6 +47,7 @@
       "5km"
     ],
     "link": "https://www.facebook.com/events/488845773786066/",
+    "link_fb": "",
     "id": 142,
     "year": 2025,
     "month": 1,
@@ -63,6 +66,7 @@
       "5km"
     ],
     "link": "https://www.oradeacitytrail.ro/",
+    "link_fb": "https://www.facebook.com/oradea.city.trail",
     "id": 30,
     "year": 2025,
     "month": 1,
@@ -76,10 +80,11 @@
     "county": "B",
     "type": "road",
     "distances": [
-      "21.6km(only teams)",
+      "21.6km(⚠ only teams)",
       "10.8km"
     ],
     "link": "https://gerar.ro/",
+    "link_fb": "https://www.facebook.com/semimaratongerar/",
     "id": 31,
     "year": 2025,
     "month": 2,
@@ -97,6 +102,7 @@
       "8km"
     ],
     "link": "https://runnersclub.ro/faget-winter-tour/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 29,
     "year": 2025,
     "month": 2,
@@ -113,6 +119,7 @@
       "10km(501m↑)"
     ],
     "link": "https://www.skvb.ro/",
+    "link_fb": "https://www.facebook.com/skvverticalrace",
     "id": 33,
     "year": 2025,
     "month": 2,
@@ -130,6 +137,7 @@
       "6km(270m↑)"
     ],
     "link": "https://www.ecosport.ro/winter-run-valcea-buridava/",
+    "link_fb": "https://www.facebook.com/buridava2025",
     "id": 35,
     "year": 2025,
     "month": 2,
@@ -149,6 +157,7 @@
       "0.75km"
     ],
     "link": "https://www.ecosport.ro/winter-run-valcea-buridava/",
+    "link_fb": "https://www.facebook.com/buridava2025",
     "id": 36,
     "year": 2025,
     "month": 2,
@@ -166,6 +175,7 @@
       "10.5km(360m↑)"
     ],
     "link": "https://www.skvb.ro/",
+    "link_fb": "https://www.facebook.com/skvverticalrace",
     "id": 34,
     "year": 2025,
     "month": 2,
@@ -179,9 +189,10 @@
     "county": "TM",
     "type": "stairs",
     "distances": [
-      "only teams"
+      "⚠ only teams"
     ],
     "link": "https://www.teamupandrun.ro/",
+    "link_fb": "https://www.facebook.com/Alergotura",
     "id": 101,
     "year": 2025,
     "month": 2,
@@ -199,6 +210,7 @@
       "4km"
     ],
     "link": "https://www.facebook.com/events/1075237307085497/",
+    "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2025,
     "month": 2,
@@ -217,6 +229,7 @@
       "6km(200m↑)"
     ],
     "link": "https://clubatia.com/siria-winter-trail/",
+    "link_fb": "https://www.facebook.com/siriawintertrail",
     "id": 37,
     "year": 2025,
     "month": 2,
@@ -234,6 +247,7 @@
       "7km"
     ],
     "link": "https://www.facebook.com/events/582867631286165/",
+    "link_fb": "",
     "id": 155,
     "year": 2025,
     "month": 2,
@@ -250,6 +264,7 @@
       "-"
     ],
     "link": "https://www.facebook.com/photo/?fbid=3804977846431461",
+    "link_fb": "",
     "id": 156,
     "year": 2025,
     "month": 2,
@@ -266,6 +281,7 @@
       "-"
     ],
     "link": "https://rubicon.run/ro",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2025,
     "month": 2,
@@ -283,6 +299,7 @@
       "5km(1000m↑)"
     ],
     "link": "https://www.scoriloskyrace.ro/",
+    "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
     "id": 158,
     "year": 2025,
     "month": 3,
@@ -299,6 +316,7 @@
       "17km(1050m↑)"
     ],
     "link": "https://vladeasa.wintertrail.ro/",
+    "link_fb": "https://www.facebook.com/vladeasawintertrail/",
     "id": 159,
     "year": 2025,
     "month": 3,
@@ -317,6 +335,7 @@
       "3km"
     ],
     "link": "https://timisoara.21k.ro/",
+    "link_fb": "https://www.facebook.com/Timisoara21k/",
     "id": 8,
     "year": 2025,
     "month": 3,
@@ -333,6 +352,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 160,
     "year": 2025,
     "month": 3,
@@ -349,6 +369,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 161,
     "year": 2025,
     "month": 3,
@@ -365,6 +386,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 162,
     "year": 2025,
     "month": 3,
@@ -381,6 +403,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 163,
     "year": 2025,
     "month": 3,
@@ -397,6 +420,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 164,
     "year": 2025,
     "month": 3,
@@ -413,6 +437,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 165,
     "year": 2025,
     "month": 3,
@@ -429,6 +454,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 166,
     "year": 2025,
     "month": 3,
@@ -445,6 +471,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 167,
     "year": 2025,
     "month": 3,
@@ -461,6 +488,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 168,
     "year": 2025,
     "month": 3,
@@ -477,6 +505,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 169,
     "year": 2025,
     "month": 3,
@@ -493,6 +522,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 170,
     "year": 2025,
     "month": 3,
@@ -509,6 +539,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 171,
     "year": 2025,
     "month": 3,
@@ -517,7 +548,7 @@
   {
     "name": "Cros caritabil Alerg pentru mama - Chișinău",
     "location": "Chișinău",
-    "location_details": "",
+    "location_details": "Republica Moldova",
     "display_date": "Sun 09-Mar-2025",
     "county": "MDA*",
     "type": "road",
@@ -525,6 +556,7 @@
       "-"
     ],
     "link": "https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama",
+    "link_fb": "https://www.facebook.com/profile.php?id=100078290284432",
     "id": 0,
     "year": 2025,
     "month": 3,
@@ -538,10 +570,11 @@
     "county": "CJ",
     "type": "road",
     "distances": [
-      "6km(only women)",
-      "2km(only women)"
+      "6km(⚠ only women)",
+      "2km(⚠ only women)"
     ],
     "link": "https://runnersclub.ro/crosul-divelor/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 102,
     "year": 2025,
     "month": 3,
@@ -558,6 +591,7 @@
       "10km"
     ],
     "link": "https://sporter.md/ro/events/run/14493/milestii-mici-winerun-2025",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2025,
     "month": 3,
@@ -575,6 +609,7 @@
       "5km(140m↑)"
     ],
     "link": "https://www.club3sport.ro/",
+    "link_fb": "https://www.facebook.com/WoodLandSeriesTrail",
     "id": 40,
     "year": 2025,
     "month": 3,
@@ -593,6 +628,7 @@
       "3km"
     ],
     "link": "https://legalrun.ro/",
+    "link_fb": "https://www.facebook.com/legalrun.ro/",
     "id": 41,
     "year": 2025,
     "month": 3,
@@ -612,6 +648,7 @@
       "3km"
     ],
     "link": "https://www.facebook.com/ultramaratongalati",
+    "link_fb": "https://www.facebook.com/ultramaratongalati",
     "id": 48,
     "year": 2025,
     "month": 3,
@@ -629,6 +666,7 @@
       "10.5km(265m↑)"
     ],
     "link": "https://urc.run/",
+    "link_fb": "https://www.facebook.com/URC.run/",
     "id": 103,
     "year": 2025,
     "month": 3,
@@ -646,6 +684,7 @@
       "10km"
     ],
     "link": "https://www.run.peniel.ro/",
+    "link_fb": "https://www.facebook.com/PenielRun",
     "id": 172,
     "year": 2025,
     "month": 3,
@@ -663,6 +702,7 @@
       "4km"
     ],
     "link": "https://www.crosulpentruviata.ro/",
+    "link_fb": "https://www.facebook.com/crosulpentruviata",
     "id": 173,
     "year": 2025,
     "month": 3,
@@ -680,6 +720,7 @@
       "7km"
     ],
     "link": "https://garboaveletrailrun.ro/",
+    "link_fb": "https://www.facebook.com/GarboaveleTrailRun/",
     "id": 27,
     "year": 2025,
     "month": 3,
@@ -698,6 +739,7 @@
       "10.2km(460m↑)"
     ],
     "link": "https://www.primaveratrailrace.ro/ro/",
+    "link_fb": "https://www.facebook.com/primaveratrailrace",
     "id": 28,
     "year": 2025,
     "month": 3,
@@ -716,6 +758,7 @@
       "2.8km(130m↑)"
     ],
     "link": "https://sa-run-i.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61566338354647",
     "id": 43,
     "year": 2025,
     "month": 3,
@@ -732,6 +775,7 @@
       "-"
     ],
     "link": "https://www.facebook.com/events/1304526813993817/",
+    "link_fb": "",
     "id": 174,
     "year": 2025,
     "month": 3,
@@ -750,6 +794,7 @@
       "5km"
     ],
     "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 44,
     "year": 2025,
     "month": 3,
@@ -767,6 +812,7 @@
       "3km"
     ],
     "link": "https://maramures.run/crosul-primaverii/",
+    "link_fb": "https://www.facebook.com/MMRunners",
     "id": 175,
     "year": 2025,
     "month": 3,
@@ -784,6 +830,7 @@
       "3km"
     ],
     "link": "https://teamchallenge.ro/",
+    "link_fb": "https://www.facebook.com/teamchallengecros/",
     "id": 115,
     "year": 2025,
     "month": 4,
@@ -802,6 +849,7 @@
       "1km"
     ],
     "link": "https://crosul.usamv.ro/",
+    "link_fb": "https://www.facebook.com/crosUSAMV",
     "id": 26,
     "year": 2025,
     "month": 4,
@@ -822,14 +870,15 @@
       "3km"
     ],
     "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
     "id": 176,
     "year": 2025,
     "month": 4,
     "day": 5
   },
   {
-    "name": "Resita Stairs Challenge",
-    "location": "Resita",
+    "name": "Reșița Stairs Challenge",
+    "location": "Reșița",
     "location_details": "",
     "display_date": "Sat 05-Apr-2025",
     "county": "CS",
@@ -839,7 +888,61 @@
       "400m(110m↑)"
     ],
     "link": "https://www.facebook.com/resita.stairs.challenge",
+    "link_fb": "https://www.facebook.com/resita.stairs.challenge",
     "id": 177,
+    "year": 2025,
+    "month": 4,
+    "day": 5
+  },
+  {
+    "name": "Crosul Primaverii Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 05-Apr-2025",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "⚠ mandatory medical certificate",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/790607043086589/",
+    "link_fb": "",
+    "id": 178,
+    "year": 2025,
+    "month": 4,
+    "day": 5
+  },
+  {
+    "name": "Cupa Zaganii Buzău",
+    "location": "Buzău",
+    "location_details": "Parcul Crang",
+    "display_date": "Sat 05-Apr-2025",
+    "county": "BZ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/s/park-tour-romania-3-cupa-zagan/634591952518341/",
+    "link_fb": "",
+    "id": 179,
+    "year": 2025,
+    "month": 4,
+    "day": 5
+  },
+  {
+    "name": "Crosul Pentru Viata - Craiova",
+    "location": "Craiova",
+    "location_details": "Parcul Tineretului",
+    "display_date": "Sat 05-Apr-2025",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "1.2km",
+      "0.7km"
+    ],
+    "link": "https://www.facebook.com/events/1193352655665331",
+    "link_fb": "",
+    "id": 180,
     "year": 2025,
     "month": 4,
     "day": 5
@@ -859,7 +962,28 @@
       "4km"
     ],
     "link": "https://maraton-cluj.ro/",
+    "link_fb": "https://www.facebook.com/ClujNapocaInternationalMarathon",
     "id": 2,
+    "year": 2025,
+    "month": 4,
+    "day": 6
+  },
+  {
+    "name": "Brăila 10k",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Sun 06-Apr-2025",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "10km",
+      "7km",
+      "3km",
+      "1.5km"
+    ],
+    "link": "https://runbraila.ro/",
+    "link_fb": "https://www.facebook.com/runbraila/",
+    "id": 181,
     "year": 2025,
     "month": 4,
     "day": 6
@@ -876,6 +1000,7 @@
       "10km(440m↑)"
     ],
     "link": "https://semimaraton.ro/",
+    "link_fb": "https://www.facebook.com/semimaraton",
     "id": 3,
     "year": 2025,
     "month": 4,
@@ -894,6 +1019,7 @@
       "16km(400m↑)"
     ],
     "link": "https://www.facebook.com/CheileTurziiRace",
+    "link_fb": "https://www.facebook.com/CheileTurziiRace",
     "id": 52,
     "year": 2025,
     "month": 4,
@@ -910,6 +1036,7 @@
       "-"
     ],
     "link": "https://urc.run/",
+    "link_fb": "https://www.facebook.com/URC.run/",
     "id": 104,
     "year": 2025,
     "month": 4,
@@ -926,7 +1053,43 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 109,
+    "year": 2025,
+    "month": 4,
+    "day": 12
+  },
+  {
+    "name": "140 BPM",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 12-Apr-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://sites.google.com/baneasarace.ro/140bpm/",
+    "link_fb": "",
+    "id": 182,
+    "year": 2025,
+    "month": 4,
+    "day": 12
+  },
+  {
+    "name": "Spira Mîței",
+    "location": "Coșnița",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 12-Apr-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "25km"
+    ],
+    "link": "https://www.facebook.com/events/s/spira-mitei-25-km/1550223542344453/",
+    "link_fb": "",
+    "id": 0,
     "year": 2025,
     "month": 4,
     "day": 12
@@ -945,6 +1108,7 @@
       "3km"
     ],
     "link": "https://baneasaforestrun.ro/",
+    "link_fb": "https://www.facebook.com/BaneasaForestRun/",
     "id": 49,
     "year": 2025,
     "month": 4,
@@ -962,6 +1126,7 @@
       "10km"
     ],
     "link": "https://sporter.md/ro/events/run/14798/chisinau-half-marathon-2025",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2025,
     "month": 4,
@@ -979,6 +1144,7 @@
       "18km(700m↑)"
     ],
     "link": "https://clubatia.com/mtr/",
+    "link_fb": "https://www.facebook.com/medievaltrailrace",
     "id": 38,
     "year": 2025,
     "month": 4,
@@ -998,6 +1164,7 @@
       "13km(810m↑))"
     ],
     "link": "https://urmepeplay.ro/",
+    "link_fb": "https://www.facebook.com/@UrmePePlay",
     "id": 54,
     "year": 2025,
     "month": 4,
@@ -1015,7 +1182,65 @@
       "13km(400m↑)"
     ],
     "link": "https://www.proracers.ro/activitati/maratonul-codrului/",
+    "link_fb": "https://www.facebook.com/proracerssatumare",
     "id": 55,
+    "year": 2025,
+    "month": 4,
+    "day": 26
+  },
+  {
+    "name": "Forest Race Marghita",
+    "location": "Marghita",
+    "location_details": "",
+    "display_date": "Sat 26-Apr-2025",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "21.6km(460m↑)",
+      "10.8km(230m↑)",
+      "1km(20m↑)"
+    ],
+    "link": "https://runforfreedom.ro/",
+    "link_fb": "https://www.facebook.com/runforfreedommarghita/",
+    "id": 184,
+    "year": 2025,
+    "month": 4,
+    "day": 26
+  },
+  {
+    "name": "Sălciua Trail Run",
+    "location": "Sălciua",
+    "location_details": "",
+    "display_date": "Sat 26-Apr-2025",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "28km(781m↑)",
+      "15km(554m↑)",
+      "5km"
+    ],
+    "link": "https://atleticcluj.ro/",
+    "link_fb": "https://www.facebook.com/CSAtleticCluj",
+    "id": 185,
+    "year": 2025,
+    "month": 4,
+    "day": 26
+  },
+  {
+    "name": "RotaRun for Charity - Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "Promenada Someșului",
+    "display_date": "Sat 26-Apr-2025",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "9km",
+      "3km",
+      "3H"
+    ],
+    "link": "https://rotarun.ro/",
+    "link_fb": "https://www.facebook.com/RotaRUNforCharity/",
+    "id": 189,
     "year": 2025,
     "month": 4,
     "day": 26
@@ -1034,6 +1259,7 @@
       "2.5km"
     ],
     "link": "https://semimaratoniasi.ro/",
+    "link_fb": "https://www.facebook.com/semimaratoniasi/",
     "id": 4,
     "year": 2025,
     "month": 4,
@@ -1051,6 +1277,7 @@
       "10km"
     ],
     "link": "https://muresrunners.ro/",
+    "link_fb": "https://www.facebook.com/MuresRunners",
     "id": 25,
     "year": 2025,
     "month": 4,
@@ -1068,6 +1295,7 @@
       "9km(680m↑)"
     ],
     "link": "https://www.facebook.com/CheileTurziiRace",
+    "link_fb": "https://www.facebook.com/CheileTurziiRace",
     "id": 51,
     "year": 2025,
     "month": 4,
@@ -1086,6 +1314,7 @@
       "5km"
     ],
     "link": "https://lapetrovaseloinvie.ro/",
+    "link_fb": "https://www.facebook.com/trailrunpetrovaselo/",
     "id": 53,
     "year": 2025,
     "month": 4,
@@ -1104,10 +1333,28 @@
       "3.5km"
     ],
     "link": "https://bucharest.run/en/",
+    "link_fb": "https://www.facebook.com/bucharest.run",
     "id": 56,
     "year": 2025,
     "month": 4,
     "day": 27
+  },
+  {
+    "name": "Crosul Primaverii - Roesti",
+    "location": "Roesti",
+    "location_details": "",
+    "display_date": "Wed 30-Apr-2025",
+    "county": "VL",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/693302219875920/",
+    "link_fb": "",
+    "id": 190,
+    "year": 2025,
+    "month": 4,
+    "day": 30
   },
   {
     "name": "Alergăraș în Făgăraș",
@@ -1124,6 +1371,7 @@
       "1.3km"
     ],
     "link": "https://alergaras.ro/",
+    "link_fb": "",
     "id": 57,
     "year": 2025,
     "month": 5,
@@ -1140,6 +1388,7 @@
       "-"
     ],
     "link": "https://urc.run/",
+    "link_fb": "https://www.facebook.com/URC.run/",
     "id": 105,
     "year": 2025,
     "month": 5,
@@ -1158,7 +1407,46 @@
       "10km"
     ],
     "link": "https://cspaduribistritene.ro/bistritatrailrunning/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61568127260010",
     "id": 106,
+    "year": 2025,
+    "month": 5,
+    "day": 3
+  },
+  {
+    "name": "Zmeu X-Fest",
+    "location": "Câmpulung Moldovenesc",
+    "location_details": "",
+    "display_date": "Sat 03-May-2025",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "89km(8848m↑)",
+      "38km(2250m↑)",
+      "19.6km(1750m↑)",
+      "9.8km(1010m↑)"
+    ],
+    "link": "https://zmeuxfest.ro/",
+    "link_fb": "https://www.facebook.com/zmeuxfest/",
+    "id": 191,
+    "year": 2025,
+    "month": 5,
+    "day": 3
+  },
+  {
+    "name": "Cros caritabil: „Pași Mari pentru Inimi Mici”",
+    "location": "București",
+    "location_details": "Politehnica",
+    "display_date": "Sat 03-May-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10.5km",
+      "3.5km"
+    ],
+    "link": "https://www.facebook.com/events/s/cros-caritabili-pasi-mari-pent/538184695571073/",
+    "link_fb": "",
+    "id": 192,
     "year": 2025,
     "month": 5,
     "day": 3
@@ -1175,7 +1463,44 @@
       "5km"
     ],
     "link": "https://runnersclub.ro/crosuldenoapte/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 147,
+    "year": 2025,
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Crosul ULBS",
+    "location": "Sibiu",
+    "location_details": "Stadionul Municipal",
+    "display_date": "Fri 09-May-2025",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2.5km",
+      "1.5km"
+    ],
+    "link": "https://events.ulbsibiu.ro/cros/",
+    "link_fb": "https://www.facebook.com/cross.ulbs/",
+    "id": 193,
+    "year": 2025,
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Crosul Europei - Timișoara",
+    "location": "Timișoara",
+    "location_details": "Stadionul Municipal",
+    "display_date": "Fri 09-May-2025",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 194,
     "year": 2025,
     "month": 5,
     "day": 9
@@ -1195,6 +1520,7 @@
       "4km(50m↑)"
     ],
     "link": "https://www.subcarpatitrailrun.ro/",
+    "link_fb": "https://www.facebook.com/subcarpatitrailrun",
     "id": 58,
     "year": 2025,
     "month": 5,
@@ -1212,6 +1538,7 @@
       "7km(178m↑)"
     ],
     "link": "https://www.thermaltrailrace.com/",
+    "link_fb": "https://www.facebook.com/ThermalTrailRace/",
     "id": 60,
     "year": 2025,
     "month": 5,
@@ -1229,6 +1556,7 @@
       "10.5km(420m↑)"
     ],
     "link": "https://dacwarrior.com/",
+    "link_fb": "https://www.facebook.com/dacwarrior/",
     "id": 64,
     "year": 2025,
     "month": 5,
@@ -1245,7 +1573,80 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 110,
+    "year": 2025,
+    "month": 5,
+    "day": 10
+  },
+  {
+    "name": "Ziua de alergare Gall Lajos",
+    "location": "Reci",
+    "location_details": "Mestecanisul de la Reci",
+    "display_date": "Sat 10-May-2025",
+    "county": "CV",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 195,
+    "year": 2025,
+    "month": 5,
+    "day": 10
+  },
+  {
+    "name": "Teleki Trail",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 10-May-2025",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "45km",
+      "35km",
+      "25km",
+      "10km"
+    ],
+    "link": "https://teleki.ekemvh.ro/",
+    "link_fb": "https://www.facebook.com/TelekiTrail",
+    "id": 196,
+    "year": 2025,
+    "month": 5,
+    "day": 10
+  },
+  {
+    "name": "Tusnad Marathon",
+    "location": "Baile Tusnad",
+    "location_details": "",
+    "display_date": "Sat 10-May-2025",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "23km(550m↑)"
+    ],
+    "link": "https://tusnadmarathon.ro/",
+    "link_fb": "https://www.facebook.com/tusnad23",
+    "id": 197,
+    "year": 2025,
+    "month": 5,
+    "day": 10
+  },
+  {
+    "name": "Maraton 100000 de pași",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 10-May-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/valea-morilor/maraton-100000-de-pa%C8%99i/9340392316045377/",
+    "link_fb": "",
+    "id": 0,
     "year": 2025,
     "month": 5,
     "day": 10
@@ -1263,6 +1664,7 @@
       "3x7km relay"
     ],
     "link": "https://www.bucuresti21km.ro/",
+    "link_fb": "https://www.facebook.com/Bucharest21km/",
     "id": 1,
     "year": 2025,
     "month": 5,
@@ -1280,7 +1682,113 @@
       "10.5km"
     ],
     "link": "https://timotion.ro/",
+    "link_fb": "https://www.facebook.com/timotiontm",
     "id": 61,
+    "year": 2025,
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "Medic de 10km",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 11-May-2025",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "10km(⚠ only members)"
+    ],
+    "link": "https://www.facebook.com/events/249970364775010/",
+    "link_fb": "",
+    "id": 198,
+    "year": 2025,
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "Crosul Primaverii - Mediaș",
+    "location": "Mediaș",
+    "location_details": "",
+    "display_date": "Sun 11-May-2025",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/570033825430964/",
+    "link_fb": "",
+    "id": 199,
+    "year": 2025,
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "Crosul Alearga Pentru Viata - București",
+    "location": "București",
+    "location_details": "Politehnica",
+    "display_date": "Sun 11-May-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://apv.lsebucuresti.org/",
+    "link_fb": "https://www.facebook.com/AleargaPentruViata",
+    "id": 200,
+    "year": 2025,
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "Semimaratonul Siretului Ilie Roșu",
+    "location": "Adjud",
+    "location_details": "",
+    "display_date": "Sun 11-May-2025",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km"
+    ],
+    "link": "https://visitvrancea.ro/ro/events/semimaratonul-siretului-in-memoriam-ilie-rosu",
+    "link_fb": "",
+    "id": 201,
+    "year": 2025,
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "Cros Alergam cu Inima - Targoviste",
+    "location": "Targoviste",
+    "location_details": "",
+    "display_date": "Sun 11-May-2025",
+    "county": "DB",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://alergamcuinima.wixsite.com/cros2025/event-details/alergam-cu-inima-2025",
+    "link_fb": "",
+    "id": 202,
+    "year": 2025,
+    "month": 5,
+    "day": 11
+  },
+  {
+    "name": "Legal Half-Marathon - Chișinău",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 11-May-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/legalhalfmarathonchisinau",
+    "link_fb": "https://www.facebook.com/legalhalfmarathonchisinau",
+    "id": 0,
     "year": 2025,
     "month": 5,
     "day": 11
@@ -1296,6 +1804,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 111,
     "year": 2025,
     "month": 5,
@@ -1313,7 +1822,117 @@
       "14km(600m↑)"
     ],
     "link": "https://ecorun.ro/",
+    "link_fb": "https://www.facebook.com/EcoRunMoieciu/",
     "id": 143,
+    "year": 2025,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Alergam pana la Luna si inapoi",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 17-May-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "7km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/s/alergam-pana-la-luna-si-inapoi/1027665099242552/",
+    "link_fb": "",
+    "id": 203,
+    "year": 2025,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Maratonul Muntelui Ceahlău",
+    "location": "Durau",
+    "location_details": "",
+    "display_date": "Sat 17-May-2025",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.2km",
+      "22.6km",
+      "14.8km"
+    ],
+    "link": "https://neamtmaraton.ro/",
+    "link_fb": "https://www.facebook.com/p/Maratonul-Muntelui-Ceahl%C4%83u-61572377323723/",
+    "id": 204,
+    "year": 2025,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Semimaraton Portile Deltei Tulcea",
+    "location": "Tulcea",
+    "location_details": "",
+    "display_date": "Sat 17-May-2025",
+    "county": "TL",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://www.atletismtulcea.ro/",
+    "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
+    "id": 205,
+    "year": 2025,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Forest Run Botoșani",
+    "location": "Botoșani",
+    "location_details": "Pădurea Rediu",
+    "display_date": "Sat 17-May-2025",
+    "county": "BT",
+    "type": "trail",
+    "distances": [
+      "15km"
+    ],
+    "link": "https://www.facebook.com/events/i/515462504390912/",
+    "link_fb": "",
+    "id": 207,
+    "year": 2025,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Crosul Cetatilor - Moneasa",
+    "location": "Moneasa",
+    "location_details": "",
+    "display_date": "Sat 17-May-2025",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://proactivi.org/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
+    "id": 208,
+    "year": 2025,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Andurant Sprint Rafael",
+    "location": "Codlea",
+    "location_details": "",
+    "display_date": "Sat 17-May-2025",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "12H race",
+      "10km(400m↑) night",
+      "5km(650m↑)"
+    ],
+    "link": "https://www.fundatiarafael.org/andurant-rafael/",
+    "link_fb": "https://www.facebook.com/FundatiaRafael",
+    "id": 212,
     "year": 2025,
     "month": 5,
     "day": 17
@@ -1331,6 +1950,7 @@
       "10km"
     ],
     "link": "https://www.maratonulnisipului.ro/",
+    "link_fb": "https://www.facebook.com/maratonulnisipului",
     "id": 24,
     "year": 2025,
     "month": 5,
@@ -1351,6 +1971,7 @@
       "22km(1230m↑)"
     ],
     "link": "https://www.transylvania100k.com/",
+    "link_fb": "https://www.facebook.com/transylvania100",
     "id": 63,
     "year": 2025,
     "month": 5,
@@ -1368,6 +1989,7 @@
       "12km(390m↑)"
     ],
     "link": "https://cros.casabunasanpetru.ro/",
+    "link_fb": "https://www.facebook.com/croscasabunasanpetru",
     "id": 67,
     "year": 2025,
     "month": 5,
@@ -1389,6 +2011,7 @@
       "4x5.3km relay"
     ],
     "link": "https://maratonsibiu.ro/",
+    "link_fb": "https://www.facebook.com/MaratonSibiu/",
     "id": 69,
     "year": 2025,
     "month": 5,
@@ -1402,30 +2025,105 @@
     "county": "TM",
     "type": "road",
     "distances": [
-      "!!!!! mandatory medical certificate",
+      "⚠ mandatory medical certificate",
       "24H (1.2km/lap)",
       "12H (1.2km/lap)",
       "6H (1.2km/lap)"
     ],
     "link": "https://s24h.ro/ro/",
+    "link_fb": "https://www.facebook.com/super24h/",
     "id": 116,
     "year": 2025,
     "month": 5,
     "day": 24
   },
   {
-    "name": "Crosul Primaverii Sovata",
-    "location": "Sovata",
+    "name": "Semimaraton Fetești",
+    "location": "Fetești",
     "location_details": "",
     "display_date": "Sat 24-May-2025",
-    "county": "MS",
+    "county": "IL",
     "type": "road",
     "distances": [
-      "!!!!! mandatory medical certificate",
-      "4km"
+      "21km",
+      "10km"
     ],
-    "link": "https://www.facebook.com/events/790607043086589/",
-    "id": 178,
+    "link": "https://www.fetestiulalearga.ro/",
+    "link_fb": "https://www.facebook.com/fetestiulalearga",
+    "id": 186,
+    "year": 2025,
+    "month": 5,
+    "day": 24
+  },
+  {
+    "name": "GAL Bike Fest",
+    "location": "Suceveni (GL)",
+    "location_details": "Rogojeni",
+    "display_date": "Sat 24-May-2025",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "42km(2100m↑)",
+      "21km(800m↑)",
+      "10km(450m↑)",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/galbikefest",
+    "link_fb": "https://www.facebook.com/galbikefest",
+    "id": 214,
+    "year": 2025,
+    "month": 5,
+    "day": 24
+  },
+  {
+    "name": "Run To The Hills",
+    "location": "Crasna (SJ)",
+    "location_details": "",
+    "display_date": "Sat 24-May-2025",
+    "county": "SJ",
+    "type": "trail",
+    "distances": [
+      "21.9km",
+      "14.4km",
+      "5.9km"
+    ],
+    "link": "https://runtothehills.ro/",
+    "link_fb": "https://www.facebook.com/runtothehillscrasna",
+    "id": 215,
+    "year": 2025,
+    "month": 5,
+    "day": 24
+  },
+  {
+    "name": "Alearga bookuros",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 24-May-2025",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "7.4km"
+    ],
+    "link": "https://www.facebook.com/events/1564270187577914",
+    "link_fb": "",
+    "id": 216,
+    "year": 2025,
+    "month": 5,
+    "day": 24
+  },
+  {
+    "name": "Crosul Universitatii București",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 24-May-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/DEFS.UB",
+    "link_fb": "https://www.facebook.com/DEFS.UB",
+    "id": 217,
     "year": 2025,
     "month": 5,
     "day": 24
@@ -1443,6 +2141,7 @@
       "3km"
     ],
     "link": "https://semimaratongalati.ro/",
+    "link_fb": "https://www.facebook.com/SemiMaratonGalati/",
     "id": 23,
     "year": 2025,
     "month": 5,
@@ -1461,6 +2160,7 @@
       "6km(337m↑)"
     ],
     "link": "https://ciclismvalcea.ro/",
+    "link_fb": "https://www.facebook.com/ciclismclubvalcea/",
     "id": 123,
     "year": 2025,
     "month": 5,
@@ -1479,6 +2179,7 @@
       "5km"
     ],
     "link": "https://phm.pitestitriathlon.ro/",
+    "link_fb": "https://www.facebook.com/PitestiHalfMarathon/",
     "id": 138,
     "year": 2025,
     "month": 5,
@@ -1495,7 +2196,42 @@
       "6km"
     ],
     "link": "https://runnersclub.ro/heroes-challenge/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 149,
+    "year": 2025,
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "Crosul Cetatii - Giroc",
+    "location": "Giroc",
+    "location_details": "",
+    "display_date": "Sun 25-May-2025",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/1993815881027003",
+    "link_fb": "",
+    "id": 218,
+    "year": 2025,
+    "month": 5,
+    "day": 25
+  },
+  {
+    "name": "Maratonul Comunității Mărișel",
+    "location": "Mărișel",
+    "location_details": "",
+    "display_date": "Sun 25-May-2025",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1395560984780886/",
+    "link_fb": "",
+    "id": 219,
     "year": 2025,
     "month": 5,
     "day": 25
@@ -1515,6 +2251,7 @@
       "8km"
     ],
     "link": "https://www.ultrabug.ro/",
+    "link_fb": "https://www.facebook.com/ultrabug",
     "id": 68,
     "year": 2025,
     "month": 5,
@@ -1528,10 +2265,28 @@
     "county": "CV",
     "type": "track",
     "distances": [
-      "6H/12H/24H (only relay)"
+      "6H/12H/24H (⚠ only relay)"
     ],
     "link": "https://www.facebook.com/fitnesstribegroup",
+    "link_fb": "https://www.facebook.com/fitnesstribegroup",
     "id": 118,
+    "year": 2025,
+    "month": 5,
+    "day": 30
+  },
+  {
+    "name": "Crosul Fugi de Fumat",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Fri 30-May-2025",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/947408264040307",
+    "link_fb": "",
+    "id": 220,
     "year": 2025,
     "month": 5,
     "day": 30
@@ -1550,6 +2305,7 @@
       "9km(369m↑) - 01-Jun"
     ],
     "link": "https://www.brasovmarathon.ro/",
+    "link_fb": "https://www.facebook.com/brasovmarathon/",
     "id": 47,
     "year": 2025,
     "month": 5,
@@ -1570,6 +2326,7 @@
       "1km"
     ],
     "link": "https://www.jidvei.ro/jidvei-weinland-trails/",
+    "link_fb": "https://www.facebook.com/jidveiweinlandtrails",
     "id": 62,
     "year": 2025,
     "month": 5,
@@ -1587,6 +2344,7 @@
       "5km"
     ],
     "link": "https://semimaratonuleroilor.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulEroilorInvictus",
     "id": 65,
     "year": 2025,
     "month": 5,
@@ -1604,7 +2362,63 @@
       "13km(370m↑)"
     ],
     "link": "https://www.bikeworks.ro/",
+    "link_fb": "https://www.facebook.com/BikeWorks",
     "id": 71,
+    "year": 2025,
+    "month": 5,
+    "day": 31
+  },
+  {
+    "name": "Crosul Teiușului",
+    "location": "Teiuș",
+    "location_details": "",
+    "display_date": "Sat 31-May-2025",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "21.6km",
+      "6km"
+    ],
+    "link": "https://www.crosulteiusului.ro/",
+    "link_fb": "https://www.facebook.com/p/Crosul-Teiu%C8%99ului-61558068608210/",
+    "id": 187,
+    "year": 2025,
+    "month": 5,
+    "day": 31
+  },
+  {
+    "name": "Alergarea Carpilor",
+    "location": "Techirghiol",
+    "location_details": "",
+    "display_date": "Sat 31-May-2025",
+    "county": "CT",
+    "type": "trail",
+    "distances": [
+      "45km",
+      "25km",
+      "15km"
+    ],
+    "link": "https://www.facebook.com/events/s/alergarea-carpilor/2138424873242634/",
+    "link_fb": "",
+    "id": 221,
+    "year": 2025,
+    "month": 5,
+    "day": 31
+  },
+  {
+    "name": "Comunitate in Miscare",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 31-May-2025",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://comunitateinmiscare.ro/",
+    "link_fb": "https://www.facebook.com/comunitateinmiscare/",
+    "id": 222,
     "year": 2025,
     "month": 5,
     "day": 31
@@ -1622,6 +2436,7 @@
       "11km"
     ],
     "link": "https://www.facebook.com/events/1793067697932335/",
+    "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2025,
     "month": 5,
@@ -1642,6 +2457,7 @@
       "2.4km(66m↑)"
     ],
     "link": "https://maratonapuseni.ro/",
+    "link_fb": "https://www.facebook.com/msgmaratonapuseni",
     "id": 22,
     "year": 2025,
     "month": 6,
@@ -1662,6 +2478,7 @@
       "3km road - 08-Jun"
     ],
     "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 46,
     "year": 2025,
     "month": 6,
@@ -1679,6 +2496,7 @@
       "10km"
     ],
     "link": "https://xmanromania.ro/",
+    "link_fb": "https://www.facebook.com/XmanRomania",
     "id": 70,
     "year": 2025,
     "month": 6,
@@ -1695,10 +2513,30 @@
       "12.5km(1000m↑)"
     ],
     "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
     "id": 78,
     "year": 2025,
     "month": 6,
     "day": 7
+  },
+  {
+    "name": "Ecovzor Trail Tour",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 08-Jun-2025",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/557390063476837/",
+    "link_fb": "",
+    "id": 0,
+    "year": 2025,
+    "month": 6,
+    "day": 8
   },
   {
     "name": "Sepsi Run",
@@ -1714,6 +2552,7 @@
       "20km(568m↑) trail - 14-Jun"
     ],
     "link": "https://www.sepsirun.ro/trasee",
+    "link_fb": "https://www.facebook.com/sepsirun.ro",
     "id": 72,
     "year": 2025,
     "month": 6,
@@ -1733,6 +2572,7 @@
       "2km(100m↑)"
     ],
     "link": "https://maratonscaunuldomnului.ro/",
+    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
     "id": 73,
     "year": 2025,
     "month": 6,
@@ -1752,6 +2592,7 @@
       "2km(100m↑)"
     ],
     "link": "https://maratonscaunuldomnului.ro/",
+    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
     "id": 74,
     "year": 2025,
     "month": 6,
@@ -1771,6 +2612,7 @@
       "5km"
     ],
     "link": "https://bloodfluencermarathon.ro/",
+    "link_fb": "https://www.facebook.com/bloodfluencerMarathon",
     "id": 77,
     "year": 2025,
     "month": 6,
@@ -1789,6 +2631,7 @@
       "4km"
     ],
     "link": "https://maratonultarnavei.ro/",
+    "link_fb": "https://www.facebook.com/maratonultarnavei.ro/",
     "id": 81,
     "year": 2025,
     "month": 6,
@@ -1805,6 +2648,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 112,
     "year": 2025,
     "month": 6,
@@ -1822,6 +2666,7 @@
       "12.5km(450m↑)"
     ],
     "link": "https://www.obciniada.ro/night-run",
+    "link_fb": "https://www.facebook.com/obciniada",
     "id": 117,
     "year": 2025,
     "month": 6,
@@ -1839,6 +2684,7 @@
       "10km(250m↑)"
     ],
     "link": "https://maratonulsarii.adrenallina.ro/",
+    "link_fb": "https://www.facebook.com/MaratonulSarii",
     "id": 121,
     "year": 2025,
     "month": 6,
@@ -1856,6 +2702,7 @@
       "10km"
     ],
     "link": "https://www.maratonulnordului.ro/MN-Botosani.html",
+    "link_fb": "https://www.facebook.com/maratonulnordului",
     "id": 76,
     "year": 2025,
     "month": 6,
@@ -1873,6 +2720,7 @@
       "5km"
     ],
     "link": "https://www.sportsfestival.com/",
+    "link_fb": "https://www.facebook.com/sportsfestivalcom/",
     "id": 79,
     "year": 2025,
     "month": 6,
@@ -1890,6 +2738,7 @@
       "14km"
     ],
     "link": "https://pedalainbanie.ro/",
+    "link_fb": "https://www.facebook.com/pedalainbanie",
     "id": 122,
     "year": 2025,
     "month": 6,
@@ -1907,6 +2756,7 @@
       "22km(570m↑)"
     ],
     "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/people/Maraton-Tarc%C4%83u/100090512883067/",
     "id": 21,
     "year": 2025,
     "month": 6,
@@ -1925,6 +2775,7 @@
       "710km(4400m↑)"
     ],
     "link": "https://www.rosiamontanamarathon.ro/",
+    "link_fb": "https://www.facebook.com/RosiaMontanaMarathon/",
     "id": 80,
     "year": 2025,
     "month": 6,
@@ -1943,6 +2794,7 @@
       "16km(500m↑)"
     ],
     "link": "https://rodneiskyrace.eu/",
+    "link_fb": "https://www.facebook.com/RodneiSkyRace/",
     "id": 82,
     "year": 2025,
     "month": 6,
@@ -1961,6 +2813,7 @@
       "7km(200m↑)"
     ],
     "link": "https://runnersclub.ro/crosulhoia/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 150,
     "year": 2025,
     "month": 6,
@@ -1978,6 +2831,7 @@
       "5km"
     ],
     "link": "https://www.facebook.com/events/s/chisinau-10-km-night-run/607806155575528/",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2025,
     "month": 6,
@@ -1997,6 +2851,7 @@
       "3km"
     ],
     "link": "https://miovenioutdoorsports.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057044126354",
     "id": 124,
     "year": 2025,
     "month": 6,
@@ -2015,6 +2870,7 @@
       "4km(100m↑)"
     ],
     "link": "https://coziamountainrun.ro/",
+    "link_fb": "https://www.facebook.com/coziamountainrun",
     "id": 7,
     "year": 2025,
     "month": 7,
@@ -2032,6 +2888,7 @@
       "14km(700m↑)"
     ],
     "link": "https://www.legendelenemirei.com/",
+    "link_fb": "https://www.facebook.com/legendelenemirei",
     "id": 19,
     "year": 2025,
     "month": 7,
@@ -2053,6 +2910,7 @@
       "6km(270m↑)"
     ],
     "link": "https://carpathiatrails.com/",
+    "link_fb": "https://www.facebook.com/carpathiatrails/",
     "id": 20,
     "year": 2025,
     "month": 7,
@@ -2074,6 +2932,7 @@
       "2.51km(125m↑)"
     ],
     "link": "https://zut.run/",
+    "link_fb": "https://www.facebook.com/p/Zalau-Ultra-Trail-61557106981327/",
     "id": 14,
     "year": 2025,
     "month": 7,
@@ -2093,6 +2952,7 @@
       "2.5km(70m↑)"
     ],
     "link": "https://predealforestrun.ro/",
+    "link_fb": "https://www.facebook.com/PredealForestRun/",
     "id": 83,
     "year": 2025,
     "month": 7,
@@ -2110,6 +2970,7 @@
       "18km(1350m↑)"
     ],
     "link": "https://www.batetoaca.ro/",
+    "link_fb": "https://www.facebook.com/www.batetoaca.ro/",
     "id": 84,
     "year": 2025,
     "month": 7,
@@ -2131,6 +2992,7 @@
       "5km(550m↑) - 25-Jul"
     ],
     "link": "https://bucovina.utmb.world/",
+    "link_fb": "https://www.facebook.com/bucovinaultrarocksbyUTMB/",
     "id": 85,
     "year": 2025,
     "month": 7,
@@ -2152,6 +3014,7 @@
       "4km(100m↑)"
     ],
     "link": "https://fagarasrocks.ro/",
+    "link_fb": "https://www.facebook.com/fagarasrocks/",
     "id": 42,
     "year": 2025,
     "month": 8,
@@ -2168,6 +3031,7 @@
       "24H (4km&495m↑/lap)"
     ],
     "link": "https://mogosaeveresting.ro/",
+    "link_fb": "https://www.facebook.com/mogosaeveresting",
     "id": 86,
     "year": 2025,
     "month": 8,
@@ -2181,10 +3045,12 @@
     "county": "MS",
     "type": "trail",
     "distances": [
-      "24H (10.8km&215m↑/lap)\n!!!!! min 10laps",
-      "12H (10.8km&215m↑/lap)\n!!!!! min 5laps"
+      "24H (10.8km&215m↑/lap)\n⚠ min 10laps",
+      "12H (10.8km&215m↑/lap)\n⚠ min 5laps",
+      "10.8km(215m↑)"
     ],
     "link": "https://muresrunners.ro/",
+    "link_fb": "https://www.facebook.com/MuresRunners",
     "id": 88,
     "year": 2025,
     "month": 8,
@@ -2201,6 +3067,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 114,
     "year": 2025,
     "month": 8,
@@ -2217,6 +3084,7 @@
       "2km"
     ],
     "link": "https://turalicuricilor.ro/",
+    "link_fb": "https://www.facebook.com/Alergotura",
     "id": 126,
     "year": 2025,
     "month": 8,
@@ -2235,6 +3103,7 @@
       "6km"
     ],
     "link": "https://www.maratonulnordului.ro/MN-trail.html",
+    "link_fb": "https://www.facebook.com/maratonulnordului",
     "id": 75,
     "year": 2025,
     "month": 8,
@@ -2251,6 +3120,7 @@
       "250km"
     ],
     "link": "https://ultraraceromania.ro/",
+    "link_fb": "https://alveskan47.ro/romaniarunning/",
     "id": 127,
     "year": 2025,
     "month": 8,
@@ -2270,6 +3140,7 @@
       "8.6km(540m↑)"
     ],
     "link": "https://retezat-maraton-rausor.ro/",
+    "link_fb": "https://www.facebook.com/retezatmountainrunRausor",
     "id": 87,
     "year": 2025,
     "month": 8,
@@ -2287,6 +3158,7 @@
       "4.5km"
     ],
     "link": "https://acceptaprovocarea.com/services/night-cross-challenge/",
+    "link_fb": "https://www.facebook.com/SibiuChallenge.ro/",
     "id": 89,
     "year": 2025,
     "month": 8,
@@ -2305,6 +3177,7 @@
       "12km(400m↑)"
     ],
     "link": "https://www.2x2race.ro/",
+    "link_fb": "https://www.facebook.com/2x2Race/",
     "id": 18,
     "year": 2025,
     "month": 8,
@@ -2323,6 +3196,7 @@
       "10km"
     ],
     "link": "https://maraton.viatransilvanica.com/",
+    "link_fb": "https://www.facebook.com/ViaTransilvanicaMaraton",
     "id": 90,
     "year": 2025,
     "month": 8,
@@ -2339,6 +3213,7 @@
       "6.8km&170m↑/lap"
     ],
     "link": "https://www.facebook.com/underdogbackyardultra",
+    "link_fb": "https://www.facebook.com/underdogbackyardultra",
     "id": 128,
     "year": 2025,
     "month": 8,
@@ -2357,6 +3232,7 @@
       "12km(400m↑)"
     ],
     "link": "https://www.runtransylvania.com/",
+    "link_fb": "https://www.facebook.com/rasnovmedievalrun",
     "id": 17,
     "year": 2025,
     "month": 8,
@@ -2376,6 +3252,7 @@
       "6km(120m↑)"
     ],
     "link": "https://www.scoriloskyrace.ro/",
+    "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
     "id": 157,
     "year": 2025,
     "month": 8,
@@ -2394,6 +3271,7 @@
       "9.1km(420m↑)"
     ],
     "link": "https://ciucasx3.ro/",
+    "link_fb": "https://www.facebook.com/ciucasX3",
     "id": 16,
     "year": 2025,
     "month": 9,
@@ -2413,6 +3291,7 @@
       "5km(170m↑)"
     ],
     "link": "https://cugirace.ro/",
+    "link_fb": "https://www.facebook.com/cugirace",
     "id": 91,
     "year": 2025,
     "month": 9,
@@ -2432,6 +3311,7 @@
       "24km(1000m↑) relay"
     ],
     "link": "https://gtr.ro/",
+    "link_fb": "https://www.facebook.com/RunTransylvaniaPage/",
     "id": 146,
     "year": 2025,
     "month": 9,
@@ -2448,6 +3328,7 @@
       "-"
     ],
     "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2025,
     "month": 9,
@@ -2466,6 +3347,7 @@
       "5km"
     ],
     "link": "https://runnersclub.ro/rombat-trail-run/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 15,
     "year": 2025,
     "month": 9,
@@ -2485,6 +3367,7 @@
       "6km"
     ],
     "link": "https://acstrib.ro/inscrieri-maratonul-dragomirnei/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
     "id": 92,
     "year": 2025,
     "month": 9,
@@ -2501,6 +3384,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 113,
     "year": 2025,
     "month": 9,
@@ -2519,6 +3403,7 @@
       "6km"
     ],
     "link": "https://wtr.ecostuff.ro/",
+    "link_fb": "https://www.facebook.com/ecostuff.romania",
     "id": 129,
     "year": 2025,
     "month": 9,
@@ -2536,6 +3421,7 @@
       "7.5km"
     ],
     "link": "https://alerglaplai.ro/",
+    "link_fb": "https://www.facebook.com/Alergotura",
     "id": 130,
     "year": 2025,
     "month": 9,
@@ -2554,6 +3440,7 @@
       "5km"
     ],
     "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 45,
     "year": 2025,
     "month": 9,
@@ -2573,6 +3460,7 @@
       "5km"
     ],
     "link": "https://marathon.md/ro",
+    "link_fb": "https://www.facebook.com/chisinaumarathon",
     "id": 0,
     "year": 2025,
     "month": 9,
@@ -2589,6 +3477,7 @@
       "2H (2.4km&230m↑/lap)"
     ],
     "link": "https://clubatia.com/siria-vertical-loop/",
+    "link_fb": "https://www.facebook.com/SiriaVerticalLoop",
     "id": 39,
     "year": 2025,
     "month": 9,
@@ -2607,7 +3496,27 @@
       "11.6km(420m↑)"
     ],
     "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/omumarathon",
     "id": 94,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Maraton Delta Dunării Sulina",
+    "location": "Tulcea",
+    "location_details": "",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "Sulina",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "6km"
+    ],
+    "link": "https://www.atletismtulcea.ro/",
+    "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
+    "id": 206,
     "year": 2025,
     "month": 9,
     "day": 20
@@ -2626,6 +3535,7 @@
       "4x5.2km relay"
     ],
     "link": "https://oradeacityrunningday.ro/",
+    "link_fb": "https://www.facebook.com/runningdayoradea/",
     "id": 6,
     "year": 2025,
     "month": 9,
@@ -2644,6 +3554,7 @@
       "4km"
     ],
     "link": "https://runbraila.ro/",
+    "link_fb": "https://www.facebook.com/runbraila/",
     "id": 93,
     "year": 2025,
     "month": 9,
@@ -2662,6 +3573,7 @@
       "2x5km relay"
     ],
     "link": "https://crosularenelor.ro/",
+    "link_fb": "https://www.facebook.com/crosularenelor/",
     "id": 95,
     "year": 2025,
     "month": 9,
@@ -2678,6 +3590,7 @@
       "6km"
     ],
     "link": "https://runnersclub.ro/crosulcompaniilor/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 151,
     "year": 2025,
     "month": 9,
@@ -2694,6 +3607,7 @@
       "41km(2250m↑)"
     ],
     "link": "https://www.carpathianman.ro/event_page.aspx?crt=4",
+    "link_fb": "https://www.facebook.com/MaratonPiatraCraiului/",
     "id": 96,
     "year": 2025,
     "month": 9,
@@ -2711,7 +3625,26 @@
       "10km"
     ],
     "link": "https://zavoitrail.adrenallina.ro/",
+    "link_fb": "https://www.facebook.com/ZavoiTrail",
     "id": 131,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Crosul Cetatilor - Cetatea Ineului",
+    "location": "Ineu",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://proactivi.org/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
+    "id": 209,
     "year": 2025,
     "month": 9,
     "day": 27
@@ -2733,6 +3666,7 @@
       "2x10.5km relay"
     ],
     "link": "https://libertymarathon.uvt.ro/",
+    "link_fb": "https://www.facebook.com/UVTLibertyMarathon/",
     "id": 98,
     "year": 2025,
     "month": 9,
@@ -2751,6 +3685,7 @@
       "3km"
     ],
     "link": "https://buzau.21k.ro/",
+    "link_fb": "https://www.facebook.com/buzau21k/",
     "id": 99,
     "year": 2025,
     "month": 9,
@@ -2768,6 +3703,7 @@
       "5km(377m↑)"
     ],
     "link": "https://apedalforward.com/",
+    "link_fb": "https://www.facebook.com/p/Discover-Valea-Doftanei-61566606266851/",
     "id": 132,
     "year": 2025,
     "month": 9,
@@ -2785,6 +3721,7 @@
       "12km(390m↑)"
     ],
     "link": "https://tourdetur.ro/",
+    "link_fb": "https://www.facebook.com/tourdeturRO",
     "id": 66,
     "year": 2025,
     "month": 10,
@@ -2802,7 +3739,25 @@
       "3km"
     ],
     "link": "https://runnersclub.ro/crosul-regina-maria/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 152,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Zalău Ultra Trail - Last Man Standing",
+    "location": "Zalău",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "SJ",
+    "type": "trail",
+    "distances": [
+      "6.7km/lap"
+    ],
+    "link": "https://zut.run/last-man-standing/",
+    "link_fb": "https://www.facebook.com/p/Zalau-Ultra-Trail-61557106981327/",
+    "id": 188,
     "year": 2025,
     "month": 10,
     "day": 4
@@ -2819,6 +3774,7 @@
       "5km"
     ],
     "link": "https://www.brasovrun.ro/",
+    "link_fb": "https://www.facebook.com/BrasovRunningFestival",
     "id": 134,
     "year": 2025,
     "month": 10,
@@ -2837,6 +3793,7 @@
       "1.6km"
     ],
     "link": "https://porolissumtrail.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100093972856046",
     "id": 97,
     "year": 2025,
     "month": 10,
@@ -2854,6 +3811,7 @@
       "6.8km(150m↑)"
     ],
     "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2025,
     "month": 10,
@@ -2873,6 +3831,7 @@
       "4x10.5km relay"
     ],
     "link": "https://bucharest-marathon.com/",
+    "link_fb": "https://www.facebook.com/BucharestMarathon",
     "id": 5,
     "year": 2025,
     "month": 10,
@@ -2892,6 +3851,7 @@
       "3km"
     ],
     "link": "https://alergareadesambata.ro/",
+    "link_fb": "https://www.facebook.com/alergareadesambata",
     "id": 135,
     "year": 2025,
     "month": 10,
@@ -2909,10 +3869,31 @@
       "7km"
     ],
     "link": "https://runnersclub.ro/faget-tour/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 153,
     "year": 2025,
     "month": 10,
     "day": 18
+  },
+  {
+    "name": "Maratonul Montan Rafael",
+    "location": "Codlea",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "42km(2100m↑)",
+      "21km(800m↑)",
+      "10km(450m↑)",
+      "5km"
+    ],
+    "link": "https://www.fundatiarafael.org/maratonul-montan-rafael/",
+    "link_fb": "https://www.facebook.com/FundatiaRafael",
+    "id": 213,
+    "year": 2025,
+    "month": 10,
+    "day": 25
   },
   {
     "name": "Timișoara City Marathon",
@@ -2928,6 +3909,7 @@
       "3km"
     ],
     "link": "https://timisoaracitymarathon.ro/",
+    "link_fb": "https://www.facebook.com/TimisoaraCityMarathon/",
     "id": 100,
     "year": 2025,
     "month": 10,
@@ -2944,6 +3926,7 @@
       "-"
     ],
     "link": "https://aleargaromania.ro/cursa-imposibila/",
+    "link_fb": "https://www.facebook.com/AleargaRomania/",
     "id": 0,
     "year": 2025,
     "month": 10,
@@ -2963,6 +3946,7 @@
       "3km"
     ],
     "link": "https://baneasaforestrun.ro/",
+    "link_fb": "https://www.facebook.com/BaneasaForestRun/",
     "id": 50,
     "year": 2025,
     "month": 11,
@@ -2980,10 +3964,29 @@
       "5km"
     ],
     "link": "https://runnersclub.ro/crosuldenoapte/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 148,
     "year": 2025,
     "month": 11,
     "day": 7
+  },
+  {
+    "name": "Crosul Cetatilor - Savarsin",
+    "location": "Savarsin",
+    "location_details": "",
+    "display_date": "Sat 08-Nov-2025",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://proactivi.org/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
+    "id": 210,
+    "year": 2025,
+    "month": 11,
+    "day": 8
   },
   {
     "name": "Crosul 15 Noiembrie 1987",
@@ -2996,6 +3999,7 @@
       "5km"
     ],
     "link": "https://15noiembrie.ro/",
+    "link_fb": "https://www.facebook.com/crosul15noiembrie/",
     "id": 11,
     "year": 2025,
     "month": 11,
@@ -3014,6 +4018,7 @@
       "10km(350m↑)"
     ],
     "link": "https://istritaxscape.ro/",
+    "link_fb": "https://www.facebook.com/istritaXscape/",
     "id": 12,
     "year": 2025,
     "month": 11,
@@ -3032,6 +4037,7 @@
       "7km"
     ],
     "link": "https://www.semimaratonulcraiovei.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
     "id": 13,
     "year": 2025,
     "month": 11,
@@ -3049,6 +4055,7 @@
       "6km"
     ],
     "link": "https://ltcx.ecostuff.ro/",
+    "link_fb": "https://www.facebook.com/yoloeventsrom",
     "id": 136,
     "year": 2025,
     "month": 11,
@@ -3067,6 +4074,7 @@
       "11km"
     ],
     "link": "https://maraton1decembrie.ro/",
+    "link_fb": "https://www.facebook.com/eliterunningromania",
     "id": 9,
     "year": 2025,
     "month": 12,
@@ -3086,6 +4094,7 @@
       "7km(200m↑)"
     ],
     "link": "https://clujecotrail.com/",
+    "link_fb": "https://www.facebook.com/clujecotrailultramarathon/",
     "id": 10,
     "year": 2025,
     "month": 12,
@@ -3103,6 +4112,7 @@
       "7km"
     ],
     "link": "https://runnersclub.ro/ovb-charity-run/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 154,
     "year": 2025,
     "month": 12,
@@ -3119,6 +4129,7 @@
       "3km"
     ],
     "link": "https://www.facebook.com/events/2739053532971860",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2025,
     "month": 12,
@@ -3137,6 +4148,7 @@
       "5km"
     ],
     "link": "https://paj.pitestitriathlon.ro/",
+    "link_fb": "https://www.facebook.com/semimaratonpitesti",
     "id": 139,
     "year": 2025,
     "month": 12,

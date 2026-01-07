@@ -10,6 +10,7 @@
       "-"
     ],
     "link": "https://aleargaromania.ro/",
+    "link_fb": "https://www.facebook.com/AleargaRomania/",
     "id": 0,
     "year": 2023,
     "month": 1,
@@ -28,6 +29,7 @@
       "7km(243m↑)"
     ],
     "link": "https://fagetwinterrace.ro/",
+    "link_fb": "https://www.facebook.com/FagetWinterRace/",
     "id": 32,
     "year": 2023,
     "month": 1,
@@ -41,10 +43,11 @@
     "county": "B",
     "type": "road",
     "distances": [
-      "21.6km(only teams)",
+      "21.6km(⚠ only teams)",
       "10.8km"
     ],
     "link": "https://gerar.ro/",
+    "link_fb": "https://www.facebook.com/semimaratongerar/",
     "id": 31,
     "year": 2023,
     "month": 1,
@@ -62,6 +65,7 @@
       "10.5km(360m↑)"
     ],
     "link": "https://www.skvb.ro/",
+    "link_fb": "https://www.facebook.com/skvverticalrace",
     "id": 34,
     "year": 2023,
     "month": 1,
@@ -78,6 +82,7 @@
       "-"
     ],
     "link": "https://rubicon.run/ro",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2023,
     "month": 2,
@@ -95,6 +100,7 @@
       "8km"
     ],
     "link": "https://runnersclub.ro/faget-winter-tour/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 29,
     "year": 2023,
     "month": 2,
@@ -111,6 +117,7 @@
       "10km(501m↑)"
     ],
     "link": "https://www.skvb.ro/",
+    "link_fb": "https://www.facebook.com/skvverticalrace",
     "id": 33,
     "year": 2023,
     "month": 2,
@@ -128,6 +135,7 @@
       "6km(270m↑)"
     ],
     "link": "https://www.ecosport.ro/winter-run-valcea-buridava/",
+    "link_fb": "https://www.facebook.com/buridava2025",
     "id": 35,
     "year": 2023,
     "month": 2,
@@ -147,6 +155,7 @@
       "0.75km"
     ],
     "link": "https://www.ecosport.ro/winter-run-valcea-buridava/",
+    "link_fb": "https://www.facebook.com/buridava2025",
     "id": 36,
     "year": 2023,
     "month": 2,
@@ -160,9 +169,10 @@
     "county": "TM",
     "type": "stairs",
     "distances": [
-      "only teams"
+      "⚠ only teams"
     ],
     "link": "https://www.teamupandrun.ro/",
+    "link_fb": "https://www.facebook.com/Alergotura",
     "id": 101,
     "year": 2023,
     "month": 2,
@@ -179,6 +189,7 @@
       "17km(1050m↑)"
     ],
     "link": "https://vladeasa.wintertrail.ro/",
+    "link_fb": "https://www.facebook.com/vladeasawintertrail/",
     "id": 159,
     "year": 2023,
     "month": 2,
@@ -197,6 +208,7 @@
       "6km(200m↑)"
     ],
     "link": "https://clubatia.com/siria-winter-trail/",
+    "link_fb": "https://www.facebook.com/siriawintertrail",
     "id": 37,
     "year": 2023,
     "month": 2,
@@ -210,10 +222,11 @@
     "county": "CJ",
     "type": "road",
     "distances": [
-      "6km(only women)",
-      "2km(only women)"
+      "6km(⚠ only women)",
+      "2km(⚠ only women)"
     ],
     "link": "https://runnersclub.ro/crosul-divelor/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 102,
     "year": 2023,
     "month": 3,
@@ -230,6 +243,7 @@
       "10km"
     ],
     "link": "https://www.facebook.com/sportermd",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2023,
     "month": 3,
@@ -247,6 +261,7 @@
       "4km"
     ],
     "link": "https://www.crosulpentruviata.ro/",
+    "link_fb": "https://www.facebook.com/crosulpentruviata",
     "id": 173,
     "year": 2023,
     "month": 3,
@@ -265,6 +280,7 @@
       "10.2km(460m↑)"
     ],
     "link": "https://www.primaveratrailrace.ro/ro/",
+    "link_fb": "https://www.facebook.com/primaveratrailrace",
     "id": 28,
     "year": 2023,
     "month": 3,
@@ -282,6 +298,7 @@
       "3km"
     ],
     "link": "https://maramures.run/crosul-primaverii/",
+    "link_fb": "https://www.facebook.com/MMRunners",
     "id": 175,
     "year": 2023,
     "month": 3,
@@ -300,6 +317,7 @@
       "3km"
     ],
     "link": "https://timisoara.21k.ro/",
+    "link_fb": "https://www.facebook.com/Timisoara21k/",
     "id": 8,
     "year": 2023,
     "month": 3,
@@ -317,6 +335,7 @@
       "7km"
     ],
     "link": "https://garboaveletrailrun.ro/",
+    "link_fb": "https://www.facebook.com/GarboaveleTrailRun/",
     "id": 27,
     "year": 2023,
     "month": 3,
@@ -334,6 +353,7 @@
       "5km(140m↑)"
     ],
     "link": "https://www.club3sport.ro/",
+    "link_fb": "https://www.facebook.com/WoodLandSeriesTrail",
     "id": 40,
     "year": 2023,
     "month": 4,
@@ -352,6 +372,7 @@
       "3km"
     ],
     "link": "https://legalrun.ro/",
+    "link_fb": "https://www.facebook.com/legalrun.ro/",
     "id": 41,
     "year": 2023,
     "month": 4,
@@ -371,6 +392,7 @@
       "3km"
     ],
     "link": "https://www.facebook.com/ultramaratongalati",
+    "link_fb": "https://www.facebook.com/ultramaratongalati",
     "id": 48,
     "year": 2023,
     "month": 4,
@@ -388,6 +410,7 @@
       "13km(400m↑)"
     ],
     "link": "https://www.proracers.ro/activitati/maratonul-codrului/",
+    "link_fb": "https://www.facebook.com/proracerssatumare",
     "id": 55,
     "year": 2023,
     "month": 4,
@@ -408,14 +431,15 @@
       "3km"
     ],
     "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
     "id": 176,
     "year": 2023,
     "month": 4,
     "day": 1
   },
   {
-    "name": "Resita Stairs Challenge",
-    "location": "Resita",
+    "name": "Reșița Stairs Challenge",
+    "location": "Reșița",
     "location_details": "",
     "display_date": "Sat 01-Apr-2023",
     "county": "CS",
@@ -425,6 +449,7 @@
       "400m(110m↑)"
     ],
     "link": "https://www.facebook.com/resita.stairs.challenge",
+    "link_fb": "https://www.facebook.com/resita.stairs.challenge",
     "id": 177,
     "year": 2023,
     "month": 4,
@@ -445,6 +470,7 @@
       "4km"
     ],
     "link": "https://maraton-cluj.ro/",
+    "link_fb": "https://www.facebook.com/ClujNapocaInternationalMarathon",
     "id": 2,
     "year": 2023,
     "month": 4,
@@ -464,6 +490,7 @@
       "3km"
     ],
     "link": "https://baneasaforestrun.ro/",
+    "link_fb": "https://www.facebook.com/BaneasaForestRun/",
     "id": 49,
     "year": 2023,
     "month": 4,
@@ -481,6 +508,7 @@
       "10km(440m↑)"
     ],
     "link": "https://semimaraton.ro/",
+    "link_fb": "https://www.facebook.com/semimaraton",
     "id": 3,
     "year": 2023,
     "month": 4,
@@ -499,6 +527,7 @@
       "1km"
     ],
     "link": "https://crosul.usamv.ro/",
+    "link_fb": "https://www.facebook.com/crosUSAMV",
     "id": 26,
     "year": 2023,
     "month": 4,
@@ -517,6 +546,7 @@
       "16km(400m↑)"
     ],
     "link": "https://www.facebook.com/CheileTurziiRace",
+    "link_fb": "https://www.facebook.com/CheileTurziiRace",
     "id": 52,
     "year": 2023,
     "month": 4,
@@ -536,6 +566,7 @@
       "13km(810m↑))"
     ],
     "link": "https://urmepeplay.ro/",
+    "link_fb": "https://www.facebook.com/@UrmePePlay",
     "id": 54,
     "year": 2023,
     "month": 4,
@@ -552,7 +583,26 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 109,
+    "year": 2023,
+    "month": 4,
+    "day": 22
+  },
+  {
+    "name": "Ziua de alergare Gall Lajos",
+    "location": "Reci",
+    "location_details": "Mestecanisul de la Reci",
+    "display_date": "Sat 22-Apr-2023",
+    "county": "CV",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 195,
     "year": 2023,
     "month": 4,
     "day": 22
@@ -571,6 +621,7 @@
       "2.5km"
     ],
     "link": "https://semimaratoniasi.ro/",
+    "link_fb": "https://www.facebook.com/semimaratoniasi/",
     "id": 4,
     "year": 2023,
     "month": 4,
@@ -589,6 +640,7 @@
       "3.5km"
     ],
     "link": "https://bucharest.run/en/",
+    "link_fb": "https://www.facebook.com/bucharest.run",
     "id": 56,
     "year": 2023,
     "month": 4,
@@ -607,6 +659,7 @@
       "10km"
     ],
     "link": "https://www.maratonulnisipului.ro/",
+    "link_fb": "https://www.facebook.com/maratonulnisipului",
     "id": 24,
     "year": 2023,
     "month": 4,
@@ -620,11 +673,88 @@
     "county": "MS",
     "type": "road",
     "distances": [
-      "!!!!! mandatory medical certificate",
+      "⚠ mandatory medical certificate",
       "4km"
     ],
     "link": "",
+    "link_fb": "",
     "id": 178,
+    "year": 2023,
+    "month": 4,
+    "day": 29
+  },
+  {
+    "name": "Forest Race Marghita",
+    "location": "Marghita",
+    "location_details": "",
+    "display_date": "Sat 29-Apr-2023",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "21.6km(460m↑)",
+      "10.8km(230m↑)",
+      "1km(20m↑)"
+    ],
+    "link": "https://runforfreedom.ro/",
+    "link_fb": "https://www.facebook.com/runforfreedommarghita/",
+    "id": 184,
+    "year": 2023,
+    "month": 4,
+    "day": 29
+  },
+  {
+    "name": "Sălciua Trail Run",
+    "location": "Sălciua",
+    "location_details": "",
+    "display_date": "Sat 29-Apr-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "28km(781m↑)",
+      "15km(554m↑)",
+      "5km"
+    ],
+    "link": "https://atleticcluj.ro/",
+    "link_fb": "https://www.facebook.com/CSAtleticCluj",
+    "id": 185,
+    "year": 2023,
+    "month": 4,
+    "day": 29
+  },
+  {
+    "name": "RotaRun for Charity - Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "Promenada Someșului",
+    "display_date": "Sat 29-Apr-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "9km",
+      "3km",
+      "3H"
+    ],
+    "link": "https://rotarun.ro/",
+    "link_fb": "https://www.facebook.com/RotaRUNforCharity/",
+    "id": 189,
+    "year": 2023,
+    "month": 4,
+    "day": 29
+  },
+  {
+    "name": "Andurant Sprint Rafael",
+    "location": "Codlea",
+    "location_details": "",
+    "display_date": "Sat 29-Apr-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "12H race",
+      "10km(400m↑) night",
+      "5km(650m↑)"
+    ],
+    "link": "https://www.fundatiarafael.org/andurant-rafael/",
+    "link_fb": "https://www.facebook.com/FundatiaRafael",
+    "id": 212,
     "year": 2023,
     "month": 4,
     "day": 29
@@ -641,6 +771,7 @@
       "22km(570m↑)"
     ],
     "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/people/Maraton-Tarc%C4%83u/100090512883067/",
     "id": 21,
     "year": 2023,
     "month": 5,
@@ -661,6 +792,7 @@
       "1.3km"
     ],
     "link": "https://alergaras.ro/",
+    "link_fb": "",
     "id": 57,
     "year": 2023,
     "month": 5,
@@ -681,6 +813,7 @@
       "4km(50m↑)"
     ],
     "link": "https://www.subcarpatitrailrun.ro/",
+    "link_fb": "https://www.facebook.com/subcarpatitrailrun",
     "id": 58,
     "year": 2023,
     "month": 5,
@@ -697,7 +830,26 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 110,
+    "year": 2023,
+    "month": 5,
+    "day": 6
+  },
+  {
+    "name": "Crosul Cetatilor - Măderat - Șiria",
+    "location": "Șiria",
+    "location_details": "",
+    "display_date": "Sat 06-May-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://proactivi.org/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
+    "id": 211,
     "year": 2023,
     "month": 5,
     "day": 6
@@ -714,6 +866,7 @@
       "10km"
     ],
     "link": "https://muresrunners.ro/",
+    "link_fb": "https://www.facebook.com/MuresRunners",
     "id": 25,
     "year": 2023,
     "month": 5,
@@ -732,6 +885,7 @@
       "5km"
     ],
     "link": "https://phm.pitestitriathlon.ro/",
+    "link_fb": "https://www.facebook.com/PitestiHalfMarathon/",
     "id": 138,
     "year": 2023,
     "month": 5,
@@ -751,6 +905,7 @@
       "9km(369m↑)"
     ],
     "link": "https://www.brasovmarathon.ro/",
+    "link_fb": "https://www.facebook.com/brasovmarathon/",
     "id": 47,
     "year": 2023,
     "month": 5,
@@ -769,6 +924,7 @@
       "5km"
     ],
     "link": "https://lapetrovaseloinvie.ro/",
+    "link_fb": "https://www.facebook.com/trailrunpetrovaselo/",
     "id": 53,
     "year": 2023,
     "month": 5,
@@ -786,7 +942,25 @@
       "7km(178m↑)"
     ],
     "link": "https://www.thermaltrailrace.com/",
+    "link_fb": "https://www.facebook.com/ThermalTrailRace/",
     "id": 60,
+    "year": 2023,
+    "month": 5,
+    "day": 13
+  },
+  {
+    "name": "Tusnad Marathon",
+    "location": "Baile Tusnad",
+    "location_details": "",
+    "display_date": "Sat 13-May-2023",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "23km(550m↑)"
+    ],
+    "link": "https://tusnadmarathon.ro/",
+    "link_fb": "https://www.facebook.com/tusnad23",
+    "id": 197,
     "year": 2023,
     "month": 5,
     "day": 13
@@ -804,6 +978,7 @@
       "3x7km relay"
     ],
     "link": "https://www.bucuresti21km.ro/",
+    "link_fb": "https://www.facebook.com/Bucharest21km/",
     "id": 1,
     "year": 2023,
     "month": 5,
@@ -821,6 +996,7 @@
       "5km"
     ],
     "link": "https://runnersclub.ro/crosuldenoapte/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 147,
     "year": 2023,
     "month": 5,
@@ -838,6 +1014,7 @@
       "12km(390m↑)"
     ],
     "link": "https://tourdetur.ro/",
+    "link_fb": "https://www.facebook.com/tourdeturRO",
     "id": 66,
     "year": 2023,
     "month": 5,
@@ -854,6 +1031,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 111,
     "year": 2023,
     "month": 5,
@@ -867,12 +1045,13 @@
     "county": "TM",
     "type": "road",
     "distances": [
-      "!!!!! mandatory medical certificate",
+      "⚠ mandatory medical certificate",
       "24H (1.2km/lap)",
       "12H (1.2km/lap)",
       "6H (1.2km/lap)"
     ],
     "link": "https://s24h.ro/ro/",
+    "link_fb": "https://www.facebook.com/super24h/",
     "id": 116,
     "year": 2023,
     "month": 5,
@@ -890,7 +1069,26 @@
       "14km(600m↑)"
     ],
     "link": "https://ecorun.ro/",
+    "link_fb": "https://www.facebook.com/EcoRunMoieciu/",
     "id": 143,
+    "year": 2023,
+    "month": 5,
+    "day": 20
+  },
+  {
+    "name": "Semimaraton Fetești",
+    "location": "Fetești",
+    "location_details": "",
+    "display_date": "Sat 20-May-2023",
+    "county": "IL",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.fetestiulalearga.ro/",
+    "link_fb": "https://www.facebook.com/fetestiulalearga",
+    "id": 186,
     "year": 2023,
     "month": 5,
     "day": 20
@@ -908,6 +1106,7 @@
       "3km"
     ],
     "link": "https://semimaratongalati.ro/",
+    "link_fb": "https://www.facebook.com/SemiMaratonGalati/",
     "id": 23,
     "year": 2023,
     "month": 5,
@@ -928,6 +1127,7 @@
       "2.4km(66m↑)"
     ],
     "link": "https://maratonapuseni.ro/",
+    "link_fb": "https://www.facebook.com/msgmaratonapuseni",
     "id": 22,
     "year": 2023,
     "month": 5,
@@ -948,6 +1148,7 @@
       "22km(1230m↑)"
     ],
     "link": "https://www.transylvania100k.com/",
+    "link_fb": "https://www.facebook.com/transylvania100",
     "id": 63,
     "year": 2023,
     "month": 5,
@@ -965,6 +1166,7 @@
       "5km"
     ],
     "link": "https://semimaratonuleroilor.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulEroilorInvictus",
     "id": 65,
     "year": 2023,
     "month": 5,
@@ -986,6 +1188,7 @@
       "4x5.3km relay"
     ],
     "link": "https://maratonsibiu.ro/",
+    "link_fb": "https://www.facebook.com/MaratonSibiu/",
     "id": 69,
     "year": 2023,
     "month": 5,
@@ -1003,6 +1206,7 @@
       "10.5km"
     ],
     "link": "https://timotion.ro/",
+    "link_fb": "https://www.facebook.com/timotiontm",
     "id": 61,
     "year": 2023,
     "month": 5,
@@ -1023,6 +1227,7 @@
       "3km road - 04-Jun"
     ],
     "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 46,
     "year": 2023,
     "month": 6,
@@ -1040,6 +1245,7 @@
       "5km"
     ],
     "link": "https://www.sportsfestival.com/",
+    "link_fb": "https://www.facebook.com/sportsfestivalcom/",
     "id": 79,
     "year": 2023,
     "month": 6,
@@ -1057,6 +1263,7 @@
       "14km"
     ],
     "link": "https://pedalainbanie.ro/",
+    "link_fb": "https://www.facebook.com/pedalainbanie",
     "id": 122,
     "year": 2023,
     "month": 6,
@@ -1077,6 +1284,7 @@
       "8km"
     ],
     "link": "https://www.ultrabug.ro/",
+    "link_fb": "https://www.facebook.com/ultrabug",
     "id": 68,
     "year": 2023,
     "month": 6,
@@ -1094,6 +1302,7 @@
       "18km(700m↑)"
     ],
     "link": "https://clubatia.com/mtr/",
+    "link_fb": "https://www.facebook.com/medievaltrailrace",
     "id": 38,
     "year": 2023,
     "month": 6,
@@ -1111,6 +1320,7 @@
       "13km(370m↑)"
     ],
     "link": "https://www.bikeworks.ro/",
+    "link_fb": "https://www.facebook.com/BikeWorks",
     "id": 71,
     "year": 2023,
     "month": 6,
@@ -1130,6 +1340,7 @@
       "2km(100m↑)"
     ],
     "link": "https://maratonscaunuldomnului.ro/",
+    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
     "id": 73,
     "year": 2023,
     "month": 6,
@@ -1149,6 +1360,7 @@
       "2km(100m↑)"
     ],
     "link": "https://maratonscaunuldomnului.ro/",
+    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
     "id": 74,
     "year": 2023,
     "month": 6,
@@ -1168,6 +1380,7 @@
       "5km"
     ],
     "link": "https://bloodfluencermarathon.ro/",
+    "link_fb": "https://www.facebook.com/bloodfluencerMarathon",
     "id": 77,
     "year": 2023,
     "month": 6,
@@ -1184,6 +1397,7 @@
       "12.5km(1000m↑)"
     ],
     "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
     "id": 78,
     "year": 2023,
     "month": 6,
@@ -1200,6 +1414,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 112,
     "year": 2023,
     "month": 6,
@@ -1217,6 +1432,7 @@
       "10km"
     ],
     "link": "https://xmanromania.ro/",
+    "link_fb": "https://www.facebook.com/XmanRomania",
     "id": 70,
     "year": 2023,
     "month": 6,
@@ -1235,6 +1451,7 @@
       "4km"
     ],
     "link": "https://maratonultarnavei.ro/",
+    "link_fb": "https://www.facebook.com/maratonultarnavei.ro/",
     "id": 81,
     "year": 2023,
     "month": 6,
@@ -1253,6 +1470,7 @@
       "710km(4400m↑)"
     ],
     "link": "https://www.rosiamontanamarathon.ro/",
+    "link_fb": "https://www.facebook.com/RosiaMontanaMarathon/",
     "id": 80,
     "year": 2023,
     "month": 6,
@@ -1271,6 +1489,7 @@
       "7km(200m↑)"
     ],
     "link": "https://runnersclub.ro/crosulhoia/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 150,
     "year": 2023,
     "month": 6,
@@ -1288,6 +1507,7 @@
       "14km(700m↑)"
     ],
     "link": "https://www.legendelenemirei.com/",
+    "link_fb": "https://www.facebook.com/legendelenemirei",
     "id": 19,
     "year": 2023,
     "month": 7,
@@ -1309,6 +1529,7 @@
       "6km(270m↑)"
     ],
     "link": "https://carpathiatrails.com/",
+    "link_fb": "https://www.facebook.com/carpathiatrails/",
     "id": 20,
     "year": 2023,
     "month": 7,
@@ -1327,6 +1548,7 @@
       "16km(500m↑)"
     ],
     "link": "https://rodneiskyrace.eu/",
+    "link_fb": "https://www.facebook.com/RodneiSkyRace/",
     "id": 82,
     "year": 2023,
     "month": 7,
@@ -1346,6 +1568,7 @@
       "3km"
     ],
     "link": "https://miovenioutdoorsports.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057044126354",
     "id": 124,
     "year": 2023,
     "month": 7,
@@ -1364,6 +1587,7 @@
       "4km(100m↑)"
     ],
     "link": "https://coziamountainrun.ro/",
+    "link_fb": "https://www.facebook.com/coziamountainrun",
     "id": 7,
     "year": 2023,
     "month": 7,
@@ -1381,6 +1605,7 @@
       "12km(390m↑)"
     ],
     "link": "https://cros.casabunasanpetru.ro/",
+    "link_fb": "https://www.facebook.com/croscasabunasanpetru",
     "id": 67,
     "year": 2023,
     "month": 7,
@@ -1400,10 +1625,29 @@
       "2.5km(70m↑)"
     ],
     "link": "https://predealforestrun.ro/",
+    "link_fb": "https://www.facebook.com/PredealForestRun/",
     "id": 83,
     "year": 2023,
     "month": 7,
     "day": 8
+  },
+  {
+    "name": "Semimaraton Portile Deltei Tulcea",
+    "location": "Tulcea",
+    "location_details": "",
+    "display_date": "Sun 09-Jul-2023",
+    "county": "TL",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://www.atletismtulcea.ro/",
+    "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
+    "id": 205,
+    "year": 2023,
+    "month": 7,
+    "day": 9
   },
   {
     "name": "Maraton Bate Toaca",
@@ -1417,6 +1661,7 @@
       "18km(1350m↑)"
     ],
     "link": "https://www.batetoaca.ro/",
+    "link_fb": "https://www.facebook.com/www.batetoaca.ro/",
     "id": 84,
     "year": 2023,
     "month": 7,
@@ -1434,6 +1679,7 @@
       "10km(1350m↑)"
     ],
     "link": "https://veveritanightrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100092161306756",
     "id": 133,
     "year": 2023,
     "month": 7,
@@ -1456,6 +1702,7 @@
       "5km(550m↑)"
     ],
     "link": "https://bucovina.utmb.world/",
+    "link_fb": "https://www.facebook.com/bucovinaultrarocksbyUTMB/",
     "id": 85,
     "year": 2023,
     "month": 7,
@@ -1469,10 +1716,12 @@
     "county": "MS",
     "type": "trail",
     "distances": [
-      "24H (10.8km&215m↑/lap)\n!!!!! min 10laps",
-      "12H (10.8km&215m↑/lap)\n!!!!! min 5laps"
+      "24H (10.8km&215m↑/lap)\n⚠ min 10laps",
+      "12H (10.8km&215m↑/lap)\n⚠ min 5laps",
+      "10.8km(215m↑)"
     ],
     "link": "https://muresrunners.ro/",
+    "link_fb": "https://www.facebook.com/MuresRunners",
     "id": 88,
     "year": 2023,
     "month": 7,
@@ -1489,6 +1738,7 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 114,
     "year": 2023,
     "month": 7,
@@ -1510,6 +1760,7 @@
       "4km(100m↑)"
     ],
     "link": "https://fagarasrocks.ro/",
+    "link_fb": "https://www.facebook.com/fagarasrocks/",
     "id": 42,
     "year": 2023,
     "month": 8,
@@ -1526,6 +1777,7 @@
       "24H (4km&495m↑/lap)"
     ],
     "link": "https://mogosaeveresting.ro/",
+    "link_fb": "https://www.facebook.com/mogosaeveresting",
     "id": 86,
     "year": 2023,
     "month": 8,
@@ -1544,6 +1796,7 @@
       "6km"
     ],
     "link": "https://www.maratonulnordului.ro/MN-trail.html",
+    "link_fb": "https://www.facebook.com/maratonulnordului",
     "id": 75,
     "year": 2023,
     "month": 8,
@@ -1561,6 +1814,7 @@
       "4.5km"
     ],
     "link": "https://acceptaprovocarea.com/services/night-cross-challenge/",
+    "link_fb": "https://www.facebook.com/SibiuChallenge.ro/",
     "id": 89,
     "year": 2023,
     "month": 8,
@@ -1579,6 +1833,7 @@
       "12km(400m↑)"
     ],
     "link": "https://www.2x2race.ro/",
+    "link_fb": "https://www.facebook.com/2x2Race/",
     "id": 18,
     "year": 2023,
     "month": 8,
@@ -1597,6 +1852,7 @@
       "10km"
     ],
     "link": "https://maraton.viatransilvanica.com/",
+    "link_fb": "https://www.facebook.com/ViaTransilvanicaMaraton",
     "id": 90,
     "year": 2023,
     "month": 8,
@@ -1616,6 +1872,7 @@
       "6km(120m↑)"
     ],
     "link": "https://www.scoriloskyrace.ro/",
+    "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
     "id": 157,
     "year": 2023,
     "month": 8,
@@ -1634,6 +1891,7 @@
       "12km(400m↑)"
     ],
     "link": "https://www.runtransylvania.com/",
+    "link_fb": "https://www.facebook.com/rasnovmedievalrun",
     "id": 17,
     "year": 2023,
     "month": 9,
@@ -1654,6 +1912,7 @@
       "1km"
     ],
     "link": "https://www.jidvei.ro/jidvei-weinland-trails/",
+    "link_fb": "https://www.facebook.com/jidveiweinlandtrails",
     "id": 62,
     "year": 2023,
     "month": 9,
@@ -1673,10 +1932,48 @@
       "5km(170m↑)"
     ],
     "link": "https://cugirace.ro/",
+    "link_fb": "https://www.facebook.com/cugirace",
     "id": 91,
     "year": 2023,
     "month": 9,
     "day": 2
+  },
+  {
+    "name": "Crosul Cetatilor - Cetatea Ineului",
+    "location": "Ineu",
+    "location_details": "",
+    "display_date": "Sat 02-Sep-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://proactivi.org/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
+    "id": 209,
+    "year": 2023,
+    "month": 9,
+    "day": 2
+  },
+  {
+    "name": "Run To The Hills",
+    "location": "Crasna (SJ)",
+    "location_details": "",
+    "display_date": "Sun 03-Sep-2023",
+    "county": "SJ",
+    "type": "trail",
+    "distances": [
+      "21.9km",
+      "14.4km",
+      "5.9km"
+    ],
+    "link": "https://runtothehills.ro/",
+    "link_fb": "https://www.facebook.com/runtothehillscrasna",
+    "id": 215,
+    "year": 2023,
+    "month": 9,
+    "day": 3
   },
   {
     "name": "Ciucaș X3",
@@ -1691,6 +1988,7 @@
       "9.1km(420m↑)"
     ],
     "link": "https://ciucasx3.ro/",
+    "link_fb": "https://www.facebook.com/ciucasX3",
     "id": 16,
     "year": 2023,
     "month": 9,
@@ -1710,6 +2008,7 @@
       "6km"
     ],
     "link": "https://acstrib.ro/inscrieri-maratonul-dragomirnei/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
     "id": 92,
     "year": 2023,
     "month": 9,
@@ -1727,6 +2026,7 @@
       "7.5km"
     ],
     "link": "https://alerglaplai.ro/",
+    "link_fb": "https://www.facebook.com/Alergotura",
     "id": 130,
     "year": 2023,
     "month": 9,
@@ -1744,6 +2044,7 @@
       "5km"
     ],
     "link": "https://www.brasovrun.ro/",
+    "link_fb": "https://www.facebook.com/BrasovRunningFestival",
     "id": 134,
     "year": 2023,
     "month": 9,
@@ -1762,6 +2063,7 @@
       "11.6km(420m↑)"
     ],
     "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/omumarathon",
     "id": 94,
     "year": 2023,
     "month": 9,
@@ -1778,7 +2080,27 @@
       "5km"
     ],
     "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
     "id": 113,
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "Maraton Delta Dunării Sulina",
+    "location": "Tulcea",
+    "location_details": "",
+    "display_date": "Sat 16-Sep-2023",
+    "county": "Sulina",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "6km"
+    ],
+    "link": "https://www.atletismtulcea.ro/",
+    "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
+    "id": 206,
     "year": 2023,
     "month": 9,
     "day": 16
@@ -1797,6 +2119,7 @@
       "4x5.2km relay"
     ],
     "link": "https://oradeacityrunningday.ro/",
+    "link_fb": "https://www.facebook.com/runningdayoradea/",
     "id": 6,
     "year": 2023,
     "month": 9,
@@ -1815,6 +2138,7 @@
       "5km"
     ],
     "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 45,
     "year": 2023,
     "month": 9,
@@ -1831,6 +2155,7 @@
       "2H (2.4km&230m↑/lap)"
     ],
     "link": "https://clubatia.com/siria-vertical-loop/",
+    "link_fb": "https://www.facebook.com/SiriaVerticalLoop",
     "id": 39,
     "year": 2023,
     "month": 9,
@@ -1849,7 +2174,28 @@
       "8.4km(500m↑)"
     ],
     "link": "https://trascautrailrun.ro/",
+    "link_fb": "https://www.facebook.com/TrascauTrailRun/",
     "id": 59,
+    "year": 2023,
+    "month": 9,
+    "day": 23
+  },
+  {
+    "name": "Teleki Trail",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 23-Sep-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "45km",
+      "35km",
+      "25km",
+      "10km"
+    ],
+    "link": "https://teleki.ekemvh.ro/",
+    "link_fb": "https://www.facebook.com/TelekiTrail",
+    "id": 196,
     "year": 2023,
     "month": 9,
     "day": 23
@@ -1867,6 +2213,7 @@
       "4km"
     ],
     "link": "https://runbraila.ro/",
+    "link_fb": "https://www.facebook.com/runbraila/",
     "id": 93,
     "year": 2023,
     "month": 9,
@@ -1885,6 +2232,7 @@
       "2x5km relay"
     ],
     "link": "https://crosularenelor.ro/",
+    "link_fb": "https://www.facebook.com/crosularenelor/",
     "id": 95,
     "year": 2023,
     "month": 9,
@@ -1901,6 +2249,7 @@
       "6km"
     ],
     "link": "https://runnersclub.ro/crosulcompaniilor/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 151,
     "year": 2023,
     "month": 9,
@@ -1920,6 +2269,7 @@
       "5km"
     ],
     "link": "https://marathon.md/ro",
+    "link_fb": "https://www.facebook.com/chisinaumarathon",
     "id": 0,
     "year": 2023,
     "month": 9,
@@ -1938,6 +2288,7 @@
       "5km"
     ],
     "link": "https://runnersclub.ro/rombat-trail-run/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 15,
     "year": 2023,
     "month": 9,
@@ -1955,6 +2306,7 @@
       "10.5km(420m↑)"
     ],
     "link": "https://dacwarrior.com/",
+    "link_fb": "https://www.facebook.com/dacwarrior/",
     "id": 64,
     "year": 2023,
     "month": 9,
@@ -1971,6 +2323,7 @@
       "41km(2250m↑)"
     ],
     "link": "https://www.carpathianman.ro/event_page.aspx?crt=4",
+    "link_fb": "https://www.facebook.com/MaratonPiatraCraiului/",
     "id": 96,
     "year": 2023,
     "month": 9,
@@ -1993,10 +2346,31 @@
       "2x10.5km relay"
     ],
     "link": "https://libertymarathon.uvt.ro/",
+    "link_fb": "https://www.facebook.com/UVTLibertyMarathon/",
     "id": 98,
     "year": 2023,
     "month": 10,
     "day": 1
+  },
+  {
+    "name": "Maratonul Montan Rafael",
+    "location": "Codlea",
+    "location_details": "",
+    "display_date": "Sat 07-Oct-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "42km(2100m↑)",
+      "21km(800m↑)",
+      "10km(450m↑)",
+      "5km"
+    ],
+    "link": "https://www.fundatiarafael.org/maratonul-montan-rafael/",
+    "link_fb": "https://www.facebook.com/FundatiaRafael",
+    "id": 213,
+    "year": 2023,
+    "month": 10,
+    "day": 7
   },
   {
     "name": "Semimaraton Călărași",
@@ -2012,6 +2386,7 @@
       "3km"
     ],
     "link": "https://alergareadesambata.ro/",
+    "link_fb": "https://www.facebook.com/alergareadesambata",
     "id": 135,
     "year": 2023,
     "month": 10,
@@ -2030,6 +2405,7 @@
       "1.6km"
     ],
     "link": "https://porolissumtrail.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100093972856046",
     "id": 97,
     "year": 2023,
     "month": 10,
@@ -2049,6 +2425,7 @@
       "4x10.5km relay"
     ],
     "link": "https://bucharest-marathon.com/",
+    "link_fb": "https://www.facebook.com/BucharestMarathon",
     "id": 5,
     "year": 2023,
     "month": 10,
@@ -2066,6 +2443,7 @@
       "7km"
     ],
     "link": "https://runnersclub.ro/faget-tour/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 153,
     "year": 2023,
     "month": 10,
@@ -2085,6 +2463,7 @@
       "3km"
     ],
     "link": "https://timisoaracitymarathon.ro/",
+    "link_fb": "https://www.facebook.com/TimisoaraCityMarathon/",
     "id": 100,
     "year": 2023,
     "month": 10,
@@ -2104,6 +2483,7 @@
       "3km"
     ],
     "link": "https://baneasaforestrun.ro/",
+    "link_fb": "https://www.facebook.com/BaneasaForestRun/",
     "id": 50,
     "year": 2023,
     "month": 10,
@@ -2122,6 +2502,7 @@
       "10km(350m↑)"
     ],
     "link": "https://istritaxscape.ro/",
+    "link_fb": "https://www.facebook.com/istritaXscape/",
     "id": 12,
     "year": 2023,
     "month": 11,
@@ -2140,6 +2521,7 @@
       "7km"
     ],
     "link": "https://www.semimaratonulcraiovei.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
     "id": 13,
     "year": 2023,
     "month": 11,
@@ -2157,10 +2539,29 @@
       "5km"
     ],
     "link": "https://runnersclub.ro/crosuldenoapte/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 148,
     "year": 2023,
     "month": 11,
     "day": 10
+  },
+  {
+    "name": "Crosul Cetatilor - Moneasa",
+    "location": "Moneasa",
+    "location_details": "",
+    "display_date": "Sat 11-Nov-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://proactivi.org/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
+    "id": 208,
+    "year": 2023,
+    "month": 11,
+    "day": 11
   },
   {
     "name": "Crosul 15 Noiembrie 1987",
@@ -2173,6 +2574,7 @@
       "5km"
     ],
     "link": "https://15noiembrie.ro/",
+    "link_fb": "https://www.facebook.com/crosul15noiembrie/",
     "id": 11,
     "year": 2023,
     "month": 11,
@@ -2190,6 +2592,7 @@
       "6km"
     ],
     "link": "https://ltcx.ecostuff.ro/",
+    "link_fb": "https://www.facebook.com/yoloeventsrom",
     "id": 136,
     "year": 2023,
     "month": 11,
@@ -2208,6 +2611,7 @@
       "11km"
     ],
     "link": "https://maraton1decembrie.ro/",
+    "link_fb": "https://www.facebook.com/eliterunningromania",
     "id": 9,
     "year": 2023,
     "month": 12,
@@ -2227,6 +2631,7 @@
       "7km(200m↑)"
     ],
     "link": "https://clujecotrail.com/",
+    "link_fb": "https://www.facebook.com/clujecotrailultramarathon/",
     "id": 10,
     "year": 2023,
     "month": 12,
@@ -2245,6 +2650,7 @@
       "5km"
     ],
     "link": "https://paj.pitestitriathlon.ro/",
+    "link_fb": "https://www.facebook.com/semimaratonpitesti",
     "id": 139,
     "year": 2023,
     "month": 12,
@@ -2261,6 +2667,7 @@
       "3km"
     ],
     "link": "https://www.facebook.com/sportermd",
+    "link_fb": "https://www.facebook.com/sportermd",
     "id": 0,
     "year": 2023,
     "month": 12,
