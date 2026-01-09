@@ -5231,6 +5231,11 @@
       "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
       "editions": [
         {
+          "year": 2026,
+          "month": 3,
+          "day": 1
+        },
+        {
           "year": 2025,
           "month": 3,
           "day": 2
@@ -6861,6 +6866,871 @@
           "year": 2025,
           "month": 5,
           "day": 31
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Active Hub Forest Run",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "20km",
+        "10km",
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/1371208647225678/"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Duna Nap",
+      "location": "Rimetea",
+      "county": "AB",
+      "type": "trail",
+      "distances": [
+        "11km"
+      ],
+      "link": "https://www.dunanap.com/",
+      "link_fb": "https://www.facebook.com/dunanapoktorocko",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Giarmata in Miscare",
+      "location": "Giarmata",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10.5km",
+        "5km"
+      ],
+      "link": "https://www.facebook.com/GiarmataInMiscare/",
+      "link_fb": "https://www.facebook.com/GiarmataInMiscare/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Cupa si crosul primaverii",
+      "location": "Fulga de Sus",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "4km",
+        "1km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/688547713673794/"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Crosul Inimilor Mari",
+      "location": "Cluj-Napoca",
+      "location_details": "Parcul Central",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "5km",
+        "0.8km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/704908142191135/"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Crosul Albertina Rusu",
+      "location": "Ilișești",
+      "county": "SV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/924738873016157"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Crosul Copiilor - Venetia de Jos",
+      "location": "Venetia de Jos",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "⚠ only kids"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/2050707425419192"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "AniRUN",
+      "location": "Arad",
+      "location_details": "Pădurea Ceala",
+      "county": "AR",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "https://www.anirun.ro/",
+      "link_fb": "https://www.facebook.com/sportforstrays/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 1
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "AniRUN - Christmas Special",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "https://www.anirun.ro/",
+      "link_fb": "https://www.facebook.com/sportforstrays/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 12,
+          "day": 15
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "name": "AniRUN - track",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "9.6km",
+        "4km",
+        "2km"
+      ],
+      "link": "https://www.anirun.ro/",
+      "link_fb": "https://www.facebook.com/sportforstrays/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "name": "AniRUN - Maratonul Mosilor",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "4km",
+        "2km"
+      ],
+      "link": "https://www.anirun.ro/",
+      "link_fb": "https://www.facebook.com/sportforstrays/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 12,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Family Run - ziua copilului",
+      "location": "București",
+      "location_details": "Stadionul Iolanda Balas",
+      "county": "B",
+      "type": "track",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/593173463798553/"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Stafeta Impreuna 1x100",
+      "location": "Timișoara",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "1km"
+      ],
+      "link": "https://sightrunning.ro/impreuna-1x100/",
+      "link_fb": "https://www.facebook.com/MebRunTm/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Crosul Copiilor - Baia Mare",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "⚠ only kids"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/2565221807013031"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Crosul Copiilor - Limanu",
+      "location": "Limanu",
+      "county": "CT",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/1046620270715630"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Wolf's Run",
+      "location": "Oravita",
+      "county": "CS",
+      "type": "road",
+      "distances": [
+        "⚠ only kids"
+      ],
+      "link": "https://www.facebook.com/cursawolfsrun",
+      "link_fb": "https://www.facebook.com/cursawolfsrun",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Global Running Day - București",
+      "location": "București",
+      "location_details": "Stadionul Iolanda Balas",
+      "county": "B",
+      "type": "track",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 4,
+          "event_link": "https://www.facebook.com/events/1915796912543363/"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Crosul Memorial Nicolae Guțoiu",
+      "location": "Targoviste",
+      "location_details": "Complexul Turistic de Natatie Targoviste",
+      "county": "DB",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 4,
+          "event_link": "https://www.facebook.com/events/2822963381241164"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Crosul ARC",
+      "location": "București",
+      "location_details": "Parcul Lumea Copiilor",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/721069510299948"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Crosul Ziua Olimpica - Craiova",
+      "location": "Craiova",
+      "location_details": "Parcul Nicolae Romanescu",
+      "county": "DJ",
+      "type": "road",
+      "distances": [
+        "7km",
+        "1.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/1192265979607031"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/805548924509172/"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Crosul Lacului Albastru",
+      "location": "Baia Sprie",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "10km",
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/3039895709512928"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/943278037266910"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Geopark Mehedinți Adventure",
+      "location": "Moisesti",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "28km(1253m↑)",
+        "18km(640m↑)"
+      ],
+      "link": "https://www.geoparkmehedintiadventure.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 7
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Cros Alergăm pentru Suflete Albastre",
+      "location": "Sulița (BT)",
+      "location_details": "Dracşani",
+      "county": "BT",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/604537069144000/"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/2192587507748365"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Romanați Trail Run",
+      "location": "Caracal",
+      "county": "OT",
+      "type": "trail",
+      "distances": [
+        "23km",
+        "11km",
+        "5km"
+      ],
+      "link": "https://romanatirun.ro/",
+      "link_fb": "https://www.facebook.com/p/Romanati-Trail-RUN-61573807836624/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 7
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 11
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Turnu Rosu Challenge",
+      "location": "Turnu Rosu",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "13.7km(700m↑)",
+        "6.2km(400m↑)"
+      ],
+      "link": "https://www.turnurosuchallenge.ro/",
+      "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 8
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 12
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Crosul Ziua Olimpica - Caracal",
+      "location": "Caracal",
+      "county": "OT",
+      "type": "road",
+      "distances": [
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 12,
+          "event_link": "https://www.facebook.com/events/1849622832276127"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Retezat SkyRace",
+      "location": "Uricani",
+      "location_details": "Cheile Butii",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "28km(2300m↑)",
+        "23km(1400m↑)",
+        "7km(300m↑)"
+      ],
+      "link": "https://retezat.skyrace.ro/",
+      "link_fb": "https://www.facebook.com/RetezatSkyRace/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 14
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 15
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Velocrosul Castanilor",
+      "location": "Floresti Prahova",
+      "location_details": "Domeniul Cantacuzino",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "6.5km"
+      ],
+      "link": "https://velocros.domeniulcantacuzino.ro/",
+      "link_fb": "https://www.facebook.com/velocrosulcastanilor/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 14
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Crosul Zilei Olimpice - Miercurea Ciuc",
+      "location": "Miercurea Ciuc",
+      "county": "HR",
+      "type": "road",
+      "distances": [
+        "1.6km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1216969756562780"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Crosul National Ziua Olimpica - Pitești",
+      "location": "Pitești",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1462484651397765"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Crosul Prieteniei - Petrică Puran - Călărași",
+      "location": "Călărași",
+      "county": "CL",
+      "type": "road",
+      "distances": [
+        "1.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/553941650927123"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Run for Heroes",
+      "location": "București",
+      "location_details": "Biblioteca Națională a României",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "7km"
+      ],
+      "link": "https://www.runforheroes.ro/",
+      "link_fb": "https://www.facebook.com/runforheroesfueledbyoscar/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Brașov Heroes",
+      "location": "Brașov",
+      "location_details": "Lacul Noua",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "7.7km",
+        "5.9km",
+        "4.1km"
+      ],
+      "link": "https://www.runforheroes.ro/",
+      "link_fb": "https://www.facebook.com/Brasov.Heroes/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 15
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 8
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 3
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Race for the Cure Romania",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "4km"
+      ],
+      "link": "https://www.raceforthecure.eu/ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 15
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 15
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Cros Montan Traversare Igniș",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "27km",
+        "16km"
+      ],
+      "link": "https://sites.google.com/view/crosignis",
+      "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 21
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Hoia Baciu Night Run",
+      "location": "Cluj-Napoca",
+      "location_details": "Pădurea Hoia",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "21km(620m↑)",
+        "10.5km(421m↑)",
+        "5km"
+      ],
+      "link": "https://hoiabaciunight.run/",
+      "link_fb": "https://www.facebook.com/hoiabaciunightrun/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 21
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "day": 1
         }
       ]
     }

@@ -923,6 +923,25 @@
     "day": 11
   },
   {
+    "name": "Romanați Trail Run",
+    "location": "Caracal",
+    "location_details": "",
+    "display_date": "Sat 11-May-2024",
+    "county": "OT",
+    "type": "trail",
+    "distances": [
+      "23km",
+      "11km",
+      "5km"
+    ],
+    "link": "https://romanatirun.ro/",
+    "link_fb": "https://www.facebook.com/p/Romanati-Trail-RUN-61573807836624/",
+    "id": 246,
+    "year": 2024,
+    "month": 5,
+    "day": 11
+  },
+  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -1183,6 +1202,24 @@
     "day": 25
   },
   {
+    "name": "Crosul Lacului Albastru",
+    "location": "Baia Sprie",
+    "location_details": "",
+    "display_date": "Sat 25-May-2024",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/events/943278037266910",
+    "link_fb": "",
+    "id": 243,
+    "year": 2024,
+    "month": 5,
+    "day": 25
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",
@@ -1373,6 +1410,23 @@
     "day": 1
   },
   {
+    "name": "Cros Alergăm pentru Suflete Albastre",
+    "location": "Sulița (BT)",
+    "location_details": "Dracşani",
+    "display_date": "Sat 01-Jun-2024",
+    "county": "BT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/2192587507748365",
+    "link_fb": "",
+    "id": 245,
+    "year": 2024,
+    "month": 6,
+    "day": 1
+  },
+  {
     "name": "Maraton Apuseni",
     "location": "Băișoara",
     "location_details": "Muntele Băișorii",
@@ -1424,6 +1478,23 @@
     "link": "https://carpatrace.ro/atinge-omu/",
     "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
     "id": 78,
+    "year": 2024,
+    "month": 6,
+    "day": 8
+  },
+  {
+    "name": "Race for the Cure Romania",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 08-Jun-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "4km"
+    ],
+    "link": "https://www.raceforthecure.eu/ro/",
+    "link_fb": "",
+    "id": 256,
     "year": 2024,
     "month": 6,
     "day": 8
@@ -1524,6 +1595,25 @@
     "day": 15
   },
   {
+    "name": "Retezat SkyRace",
+    "location": "Uricani",
+    "location_details": "Cheile Butii",
+    "display_date": "Sat 15-Jun-2024",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "28km(2300m↑)",
+      "23km(1400m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://retezat.skyrace.ro/",
+    "link_fb": "https://www.facebook.com/RetezatSkyRace/",
+    "id": 249,
+    "year": 2024,
+    "month": 6,
+    "day": 15
+  },
+  {
     "name": "Sports Festival Cluj",
     "location": "Cluj-Napoca",
     "location_details": "Cluj Arena",
@@ -1612,6 +1702,79 @@
     "link": "https://www.fundatiarafael.org/andurant-rafael/",
     "link_fb": "https://www.facebook.com/FundatiaRafael",
     "id": 212,
+    "year": 2024,
+    "month": 6,
+    "day": 22
+  },
+  {
+    "name": "Crosul Ziua Olimpica - Craiova",
+    "location": "Craiova",
+    "location_details": "Parcul Nicolae Romanescu",
+    "display_date": "Sat 22-Jun-2024",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "7km",
+      "1.5km"
+    ],
+    "link": "https://www.facebook.com/events/805548924509172/",
+    "link_fb": "",
+    "id": 242,
+    "year": 2024,
+    "month": 6,
+    "day": 22
+  },
+  {
+    "name": "Geopark Mehedinți Adventure",
+    "location": "Moisesti",
+    "location_details": "",
+    "display_date": "Sat 22-Jun-2024",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "28km(1253m↑)",
+      "18km(640m↑)"
+    ],
+    "link": "https://www.geoparkmehedintiadventure.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
+    "id": 244,
+    "year": 2024,
+    "month": 6,
+    "day": 22
+  },
+  {
+    "name": "Cros Montan Traversare Igniș",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 22-Jun-2024",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "27km",
+      "16km"
+    ],
+    "link": "https://sites.google.com/view/crosignis",
+    "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
+    "id": 257,
+    "year": 2024,
+    "month": 6,
+    "day": 22
+  },
+  {
+    "name": "Hoia Baciu Night Run",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Hoia",
+    "display_date": "Sat 22-Jun-2024",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "21km(620m↑)",
+      "10.5km(421m↑)",
+      "5km"
+    ],
+    "link": "https://hoiabaciunight.run/",
+    "link_fb": "https://www.facebook.com/hoiabaciunightrun/",
+    "id": 258,
     "year": 2024,
     "month": 6,
     "day": 22
@@ -2120,6 +2283,26 @@
     "day": 31
   },
   {
+    "name": "AniRUN",
+    "location": "Arad",
+    "location_details": "Pădurea Ceala",
+    "display_date": "Sun 01-Sep-2024",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.anirun.ro/",
+    "link_fb": "https://www.facebook.com/sportforstrays/",
+    "id": 230,
+    "year": 2024,
+    "month": 9,
+    "day": 1
+  },
+  {
     "name": "Ciucaș X3",
     "location": "Cheia (PH)",
     "location_details": "",
@@ -2157,6 +2340,25 @@
     "year": 2024,
     "month": 9,
     "day": 7
+  },
+  {
+    "name": "Brașov Heroes",
+    "location": "Brașov",
+    "location_details": "Lacul Noua",
+    "display_date": "Sun 08-Sep-2024",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "7.7km",
+      "5.9km",
+      "4.1km"
+    ],
+    "link": "https://www.runforheroes.ro/",
+    "link_fb": "https://www.facebook.com/Brasov.Heroes/",
+    "id": 255,
+    "year": 2024,
+    "month": 9,
+    "day": 8
   },
   {
     "name": "Rombat Trail Run",
@@ -2608,6 +2810,24 @@
     "day": 12
   },
   {
+    "name": "Turnu Rosu Challenge",
+    "location": "Turnu Rosu",
+    "location_details": "",
+    "display_date": "Sat 12-Oct-2024",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "13.7km(700m↑)",
+      "6.2km(400m↑)"
+    ],
+    "link": "https://www.turnurosuchallenge.ro/",
+    "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
+    "id": 247,
+    "year": 2024,
+    "month": 10,
+    "day": 12
+  },
+  {
     "name": "TulbuRun la Asconi Winery",
     "location": "Chisinau",
     "location_details": "Republica Moldova",
@@ -2659,6 +2879,23 @@
     "link": "https://runnersclub.ro/faget-tour/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 153,
+    "year": 2024,
+    "month": 10,
+    "day": 19
+  },
+  {
+    "name": "Velocrosul Castanilor",
+    "location": "Floresti Prahova",
+    "location_details": "Domeniul Cantacuzino",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "6.5km"
+    ],
+    "link": "https://velocros.domeniulcantacuzino.ro/",
+    "link_fb": "https://www.facebook.com/velocrosulcastanilor/",
+    "id": 250,
     "year": 2024,
     "month": 10,
     "day": 19
@@ -2903,6 +3140,25 @@
     "link": "https://paj.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/semimaratonpitesti",
     "id": 139,
+    "year": 2024,
+    "month": 12,
+    "day": 15
+  },
+  {
+    "name": "AniRUN - Christmas Special",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sun 15-Dec-2024",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.anirun.ro/",
+    "link_fb": "https://www.facebook.com/sportforstrays/",
+    "id": 231,
     "year": 2024,
     "month": 12,
     "day": 15

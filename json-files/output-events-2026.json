@@ -213,6 +213,24 @@
     "day": 28
   },
   {
+    "name": "Scorilo Winter Trail",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sun 01-Mar-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "8km(320m↑)",
+      "5km(1000m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
+    "id": 158,
+    "year": 2026,
+    "month": 3,
+    "day": 1
+  },
+  {
     "name": "Crosul Divelor",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -1578,6 +1596,24 @@
     "day": 30
   },
   {
+    "name": "Geopark Mehedinți Adventure",
+    "location": "Moisesti",
+    "location_details": "",
+    "display_date": "Sat 30-May-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "28km(1253m↑)",
+      "18km(640m↑)"
+    ],
+    "link": "https://www.geoparkmehedintiadventure.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
+    "id": 244,
+    "year": 2026,
+    "month": 5,
+    "day": 30
+  },
+  {
     "name": "Marea provocare de mișcare",
     "location": "Sfântu Gheorghe",
     "location_details": "",
@@ -1894,6 +1930,23 @@
     "year": 2026,
     "month": 6,
     "day": 14
+  },
+  {
+    "name": "Race for the Cure Romania",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Mon 15-Jun-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "4km"
+    ],
+    "link": "https://www.raceforthecure.eu/ro/",
+    "link_fb": "",
+    "id": 256,
+    "year": 2026,
+    "month": 6,
+    "day": 15
   },
   {
     "name": "Roșia Montană Marathon",

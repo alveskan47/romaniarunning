@@ -855,6 +855,25 @@
     "day": 6
   },
   {
+    "name": "Romanați Trail Run",
+    "location": "Caracal",
+    "location_details": "",
+    "display_date": "Sat 06-May-2023",
+    "county": "OT",
+    "type": "trail",
+    "distances": [
+      "23km",
+      "11km",
+      "5km"
+    ],
+    "link": "https://romanatirun.ro/",
+    "link_fb": "https://www.facebook.com/p/Romanati-Trail-RUN-61573807836624/",
+    "id": 246,
+    "year": 2023,
+    "month": 5,
+    "day": 6
+  },
+  {
     "name": "Mureș Half Marathon",
     "location": "Târgu Mureș",
     "location_details": "",
@@ -1234,6 +1253,24 @@
     "day": 3
   },
   {
+    "name": "Geopark Mehedinți Adventure",
+    "location": "Moisesti",
+    "location_details": "",
+    "display_date": "Sat 03-Jun-2023",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "28km(1253m↑)",
+      "18km(640m↑)"
+    ],
+    "link": "https://www.geoparkmehedintiadventure.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
+    "id": 244,
+    "year": 2023,
+    "month": 6,
+    "day": 3
+  },
+  {
     "name": "Sports Festival Cluj",
     "location": "Cluj-Napoca",
     "location_details": "Cluj Arena",
@@ -1439,6 +1476,43 @@
     "day": 17
   },
   {
+    "name": "Retezat SkyRace",
+    "location": "Uricani",
+    "location_details": "Cheile Butii",
+    "display_date": "Sat 17-Jun-2023",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "28km(2300m↑)",
+      "23km(1400m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://retezat.skyrace.ro/",
+    "link_fb": "https://www.facebook.com/RetezatSkyRace/",
+    "id": 249,
+    "year": 2023,
+    "month": 6,
+    "day": 17
+  },
+  {
+    "name": "Cros Montan Traversare Igniș",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 17-Jun-2023",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "27km",
+      "16km"
+    ],
+    "link": "https://sites.google.com/view/crosignis",
+    "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
+    "id": 257,
+    "year": 2023,
+    "month": 6,
+    "day": 17
+  },
+  {
     "name": "Maratonul Târnavei",
     "location": "Târnăveni",
     "location_details": "",
@@ -1550,6 +1624,25 @@
     "link": "https://rodneiskyrace.eu/",
     "link_fb": "https://www.facebook.com/RodneiSkyRace/",
     "id": 82,
+    "year": 2023,
+    "month": 7,
+    "day": 1
+  },
+  {
+    "name": "Hoia Baciu Night Run",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Hoia",
+    "display_date": "Sat 01-Jul-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "21km(620m↑)",
+      "10.5km(421m↑)",
+      "5km"
+    ],
+    "link": "https://hoiabaciunight.run/",
+    "link_fb": "https://www.facebook.com/hoiabaciunightrun/",
+    "id": 258,
     "year": 2023,
     "month": 7,
     "day": 1
@@ -1976,6 +2069,25 @@
     "day": 3
   },
   {
+    "name": "Brașov Heroes",
+    "location": "Brașov",
+    "location_details": "Lacul Noua",
+    "display_date": "Sun 03-Sep-2023",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "7.7km",
+      "5.9km",
+      "4.1km"
+    ],
+    "link": "https://www.runforheroes.ro/",
+    "link_fb": "https://www.facebook.com/Brasov.Heroes/",
+    "id": 255,
+    "year": 2023,
+    "month": 9,
+    "day": 3
+  },
+  {
     "name": "Ciucaș X3",
     "location": "Cheia (PH)",
     "location_details": "",
@@ -2140,6 +2252,26 @@
     "link": "https://festivalulsporturilor.ro/",
     "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 45,
+    "year": 2023,
+    "month": 9,
+    "day": 17
+  },
+  {
+    "name": "AniRUN",
+    "location": "Arad",
+    "location_details": "Pădurea Ceala",
+    "display_date": "Sun 17-Sep-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.anirun.ro/",
+    "link_fb": "https://www.facebook.com/sportforstrays/",
+    "id": 230,
     "year": 2023,
     "month": 9,
     "day": 17
@@ -2432,6 +2564,24 @@
     "day": 15
   },
   {
+    "name": "Turnu Rosu Challenge",
+    "location": "Turnu Rosu",
+    "location_details": "",
+    "display_date": "Sun 15-Oct-2023",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "13.7km(700m↑)",
+      "6.2km(400m↑)"
+    ],
+    "link": "https://www.turnurosuchallenge.ro/",
+    "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
+    "id": 247,
+    "year": 2023,
+    "month": 10,
+    "day": 15
+  },
+  {
     "name": "Faget Tour",
     "location": "Cluj-Napoca",
     "location_details": "Pădurea Faget",
@@ -2672,5 +2822,24 @@
     "year": 2023,
     "month": 12,
     "day": 16
+  },
+  {
+    "name": "AniRUN - Christmas Special",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sun 17-Dec-2023",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.anirun.ro/",
+    "link_fb": "https://www.facebook.com/sportforstrays/",
+    "id": 231,
+    "year": 2023,
+    "month": 12,
+    "day": 17
   }
 ]
