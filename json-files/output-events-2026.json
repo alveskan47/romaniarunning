@@ -1461,6 +1461,25 @@
     "day": 23
   },
   {
+    "name": "Alergarea Carpilor",
+    "location": "Techirghiol",
+    "location_details": "",
+    "display_date": "Sat 23-May-2026",
+    "county": "CT",
+    "type": "trail",
+    "distances": [
+      "45km",
+      "25km",
+      "15km"
+    ],
+    "link": "https://www.facebook.com/events/s/alergarea-carpilor-techirghiol/3795323333936860/",
+    "link_fb": "",
+    "id": 221,
+    "year": 2026,
+    "month": 5,
+    "day": 23
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",

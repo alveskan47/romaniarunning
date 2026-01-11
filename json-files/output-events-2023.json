@@ -874,6 +874,25 @@
     "day": 6
   },
   {
+    "name": "Maraton Tarcau",
+    "location": "Tarcau",
+    "location_details": "Schitu Tarcau",
+    "display_date": "Sat 06-May-2023",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.7km(1140m↑)",
+      "22km(570m↑)",
+      "8km"
+    ],
+    "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
+    "id": 260,
+    "year": 2023,
+    "month": 5,
+    "day": 6
+  },
+  {
     "name": "Mureș Half Marathon",
     "location": "Târgu Mureș",
     "location_details": "",
@@ -1570,6 +1589,45 @@
     "day": 24
   },
   {
+    "name": "Crosul Agnitei",
+    "location": "Agnita",
+    "location_details": "",
+    "display_date": "Sat 24-Jun-2023",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://crosagnita.ro/",
+    "link_fb": "",
+    "id": 259,
+    "year": 2023,
+    "month": 6,
+    "day": 24
+  },
+  {
+    "name": "Transylvania 6 Days",
+    "location": "Reghin",
+    "location_details": "",
+    "display_date": "Mon 26-Jun-2023",
+    "county": "MS",
+    "type": "track",
+    "distances": [
+      "144H",
+      "72H",
+      "48H",
+      "24H",
+      "12H"
+    ],
+    "link": "https://transylvania6days.ro/en/home/",
+    "link_fb": "https://www.facebook.com/p/Transylvania-6-days-100075920528532/",
+    "id": 266,
+    "year": 2023,
+    "month": 6,
+    "day": 26
+  },
+  {
     "name": "Maraton Legendele Nemirei",
     "location": "Slănic Moldova",
     "location_details": "",
@@ -1643,6 +1701,23 @@
     "link": "https://hoiabaciunight.run/",
     "link_fb": "https://www.facebook.com/hoiabaciunightrun/",
     "id": 258,
+    "year": 2023,
+    "month": 7,
+    "day": 1
+  },
+  {
+    "name": "Ultra Zarand History - Soimos",
+    "location": "Soimos",
+    "location_details": "",
+    "display_date": "Sat 01-Jul-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 262,
     "year": 2023,
     "month": 7,
     "day": 1
@@ -2600,6 +2675,25 @@
     "day": 21
   },
   {
+    "name": "Ultra Zarand - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sat 21-Oct-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "110km(4000m↑)",
+      "23.5km(1100m↑)",
+      "12.5km(600m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 263,
+    "year": 2023,
+    "month": 10,
+    "day": 21
+  },
+  {
     "name": "Timișoara City Marathon",
     "location": "Timișoara",
     "location_details": "",
@@ -2805,6 +2899,26 @@
     "year": 2023,
     "month": 12,
     "day": 10
+  },
+  {
+    "name": "Ultra Zarand Everesting - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Fri 15-Dec-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "193km(10450m↑)",
+      "172km(9250m↑)",
+      "86km(4600m↑)",
+      "11km(580m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 264,
+    "year": 2023,
+    "month": 12,
+    "day": 15
   },
   {
     "name": "Maratonul de Craciun - Chișinău",

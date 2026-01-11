@@ -3346,6 +3346,43 @@
     "day": 21
   },
   {
+    "name": "Crosul Agnitei",
+    "location": "Agnita",
+    "location_details": "",
+    "display_date": "Sat 21-Jun-2025",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://crosagnita.ro/",
+    "link_fb": "",
+    "id": 259,
+    "year": 2025,
+    "month": 6,
+    "day": 21
+  },
+  {
+    "name": "Maraton Tarcau",
+    "location": "Tarcau",
+    "location_details": "Schitu Tarcau",
+    "display_date": "Sat 21-Jun-2025",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.7km(1140m↑)",
+      "22km(570m↑)",
+      "8km"
+    ],
+    "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
+    "id": 260,
+    "year": 2025,
+    "month": 6,
+    "day": 21
+  },
+  {
     "name": "Roșia Montană Marathon",
     "location": "Roșia Montană",
     "location_details": "",
@@ -3360,6 +3397,24 @@
     "link": "https://www.rosiamontanamarathon.ro/",
     "link_fb": "https://www.facebook.com/RosiaMontanaMarathon/",
     "id": 80,
+    "year": 2025,
+    "month": 6,
+    "day": 22
+  },
+  {
+    "name": "Crosul Culorilor - Blaj",
+    "location": "Blaj",
+    "location_details": "",
+    "display_date": "Sun 22-Jun-2025",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "8km",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/688061790769316",
+    "link_fb": "",
+    "id": 261,
     "year": 2025,
     "month": 6,
     "day": 22
@@ -3403,6 +3458,42 @@
     "day": 28
   },
   {
+    "name": "Ultra Zarand History - Soimos",
+    "location": "Soimos",
+    "location_details": "",
+    "display_date": "Sat 28-Jun-2025",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 262,
+    "year": 2025,
+    "month": 6,
+    "day": 28
+  },
+  {
+    "name": "Heritage Run Biertan",
+    "location": "Biertan",
+    "location_details": "",
+    "display_date": "Sat 28-Jun-2025",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "22km(625m↑)",
+      "10km(225m↑)",
+      "7km(90m↑)"
+    ],
+    "link": "https://experiences.mytransylvania.ro/heritage-run-alergam-pentru-patrimoniu/",
+    "link_fb": "https://www.facebook.com/p/Heritage-Run-Transylvania-61575681676360/",
+    "id": 265,
+    "year": 2025,
+    "month": 6,
+    "day": 28
+  },
+  {
     "name": "Chișinău 10 km Night Run",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -3436,6 +3527,27 @@
     "link": "https://miovenioutdoorsports.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=100057044126354",
     "id": 124,
+    "year": 2025,
+    "month": 6,
+    "day": 29
+  },
+  {
+    "name": "Transylvania 6 Days",
+    "location": "Reghin",
+    "location_details": "",
+    "display_date": "Sun 29-Jun-2025",
+    "county": "MS",
+    "type": "track",
+    "distances": [
+      "144H",
+      "72H",
+      "48H",
+      "24H",
+      "12H"
+    ],
+    "link": "https://transylvania6days.ro/en/home/",
+    "link_fb": "https://www.facebook.com/p/Transylvania-6-days-100075920528532/",
+    "id": 266,
     "year": 2025,
     "month": 6,
     "day": 29
@@ -4478,6 +4590,25 @@
     "day": 18
   },
   {
+    "name": "Ultra Zarand - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "110km(4000m↑)",
+      "23.5km(1100m↑)",
+      "12.5km(600m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 263,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -4770,6 +4901,26 @@
     "link": "https://paj.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/semimaratonpitesti",
     "id": 139,
+    "year": 2025,
+    "month": 12,
+    "day": 14
+  },
+  {
+    "name": "Ultra Zarand Everesting - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sun 14-Dec-2025",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "193km(10450m↑)",
+      "172km(9250m↑)",
+      "86km(4600m↑)",
+      "11km(580m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 264,
     "year": 2025,
     "month": 12,
     "day": 14

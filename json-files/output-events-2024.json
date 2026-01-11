@@ -942,6 +942,25 @@
     "day": 11
   },
   {
+    "name": "Maraton Tarcau",
+    "location": "Tarcau",
+    "location_details": "Schitu Tarcau",
+    "display_date": "Sat 11-May-2024",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.7km(1140m↑)",
+      "22km(570m↑)",
+      "8km"
+    ],
+    "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
+    "id": 260,
+    "year": 2024,
+    "month": 5,
+    "day": 11
+  },
+  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -1780,6 +1799,24 @@
     "day": 22
   },
   {
+    "name": "Crosul Agnitei",
+    "location": "Agnita",
+    "location_details": "",
+    "display_date": "Sat 22-Jun-2024",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://crosagnita.ro/",
+    "link_fb": "",
+    "id": 259,
+    "year": 2024,
+    "month": 6,
+    "day": 22
+  },
+  {
     "name": "Crosul Hoia",
     "location": "Cluj-Napoca",
     "location_details": "Pădurea Hoia",
@@ -1833,6 +1870,23 @@
     "link": "https://runtothehills.ro/",
     "link_fb": "https://www.facebook.com/runtothehillscrasna",
     "id": 215,
+    "year": 2024,
+    "month": 6,
+    "day": 29
+  },
+  {
+    "name": "Ultra Zarand History - Soimos",
+    "location": "Soimos",
+    "location_details": "",
+    "display_date": "Sat 29-Jun-2024",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 262,
     "year": 2024,
     "month": 6,
     "day": 29
@@ -2901,6 +2955,25 @@
     "day": 19
   },
   {
+    "name": "Ultra Zarand - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "110km(4000m↑)",
+      "23.5km(1100m↑)",
+      "12.5km(600m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 263,
+    "year": 2024,
+    "month": 10,
+    "day": 19
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -3162,5 +3235,25 @@
     "year": 2024,
     "month": 12,
     "day": 15
+  },
+  {
+    "name": "Ultra Zarand Everesting - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sun 22-Dec-2024",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "193km(10450m↑)",
+      "172km(9250m↑)",
+      "86km(4600m↑)",
+      "11km(580m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 264,
+    "year": 2024,
+    "month": 12,
+    "day": 22
   }
 ]
