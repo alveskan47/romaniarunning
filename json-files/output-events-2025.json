@@ -3612,6 +3612,45 @@
     "day": 5
   },
   {
+    "name": "Stana de Vale Trail Race",
+    "location": "Stana de Vale",
+    "location_details": "",
+    "display_date": "Sat 05-Jul-2025",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "33km(1500m↑)",
+      "11km(550m↑)"
+    ],
+    "link": "https://stanatrailrace.ro/",
+    "link_fb": "https://www.facebook.com/p/St%C3%A2na-de-Vale-Trail-Race-61575894238907/",
+    "id": 267,
+    "year": 2025,
+    "month": 7,
+    "day": 5
+  },
+  {
+    "name": "Runfest - Cernica-Pantelimon",
+    "location": "Cernica",
+    "location_details": "Pădurea Cernica",
+    "display_date": "Sun 06-Jul-2025",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "6km",
+      "3km",
+      "1km"
+    ],
+    "link": "https://www.runfestseries.ro/",
+    "link_fb": "https://www.facebook.com/runfest/",
+    "id": 268,
+    "year": 2025,
+    "month": 7,
+    "day": 6
+  },
+  {
     "name": "Zalău Ultra Trail",
     "location": "Zalău",
     "location_details": "",
@@ -4607,6 +4646,27 @@
     "year": 2025,
     "month": 10,
     "day": 18
+  },
+  {
+    "name": "Runfest - Moara Vlasiei",
+    "location": "Moara Vlasiei",
+    "location_details": "Pădurea Surlari",
+    "display_date": "Sun 19-Oct-2025",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "6km",
+      "3km",
+      "1km"
+    ],
+    "link": "https://www.runfestseries.ro/",
+    "link_fb": "https://www.facebook.com/runfest/",
+    "id": 269,
+    "year": 2025,
+    "month": 10,
+    "day": 19
   },
   {
     "name": "Maratonul Montan Rafael",

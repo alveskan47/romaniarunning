@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 import sys
+from pathlib import Path
 
 
 def load_json_file(json_file_path):
@@ -438,7 +439,9 @@ def test_json_structure():
     print("TEST 1: Validating JSON structure")
     print("-" * 80)
 
-    json_file = "D:\\47x05\\romaniarunning\\json-files\\input-all-competitions.json"
+    # Use relative path to json-files directory
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'input-all-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -462,7 +465,9 @@ def test_dates():
     print("\nTEST 2: Validating dates")
     print("-" * 80)
 
-    json_file = "D:\\47x05\\romaniarunning\\json-files\\input-all-competitions.json"
+    # Use relative path to json-files directory
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'input-all-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -486,7 +491,9 @@ def test_unique_years():
     print("\nTEST 3: Validating unique years per competition")
     print("-" * 80)
 
-    json_file = "D:\\47x05\\romaniarunning\\json-files\\input-all-competitions.json"
+    # Use relative path to json-files directory
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'input-all-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -510,7 +517,9 @@ def test_competition_ids():
     print("\nTEST 4: Validating competition IDs")
     print("-" * 80)
 
-    json_file = "D:\\47x05\\romaniarunning\\json-files\\input-all-competitions.json"
+    # Use relative path to json-files directory
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'input-all-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -534,7 +543,9 @@ def test_unique_competition_names():
     print("\nTEST 5: Validating unique competition names")
     print("-" * 80)
 
-    json_file = "D:\\47x05\\romaniarunning\\json-files\\input-all-competitions.json"
+    # Use relative path to json-files directory
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'input-all-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:

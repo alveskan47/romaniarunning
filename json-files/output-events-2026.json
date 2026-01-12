@@ -1915,6 +1915,25 @@
     "day": 13
   },
   {
+    "name": "Retezat SkyRace",
+    "location": "Uricani",
+    "location_details": "Cheile Butii",
+    "display_date": "Sat 13-Jun-2026",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "28km(2300m↑)",
+      "23km(1400m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://retezat.skyrace.ro/",
+    "link_fb": "https://www.facebook.com/RetezatSkyRace/",
+    "id": 249,
+    "year": 2026,
+    "month": 6,
+    "day": 13
+  },
+  {
     "name": "Sports Festival Cluj",
     "location": "Cluj-Napoca",
     "location_details": "Cluj Arena",

@@ -1,6 +1,7 @@
 import json
 import re
 import sys
+from pathlib import Path
 
 # Fix Windows console encoding
 if sys.platform == 'win32':
@@ -285,7 +286,9 @@ def fix_text_with_diacritics(text):
 
 def fix_json_diacritics():
     """Fix Romanian diacritics in the JSON file"""
-    json_file = "D:\\47x05\\romaniarunning\\json-files\\input-all-competitions.json"
+    # Use relative path to json-files directory
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'input-all-competitions.json'
 
     print("Loading JSON file...")
     with open(json_file, 'r', encoding='utf-8') as f:
