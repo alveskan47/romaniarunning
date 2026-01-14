@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version_id": "7",
+      "date": {
+        "year": 2026,
+        "month": 1,
+        "day": 14
+      }
+    },
+    {
       "version_id": "6",
       "date": {
         "year": 2026,

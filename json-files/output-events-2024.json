@@ -1519,6 +1519,25 @@
     "day": 8
   },
   {
+    "name": "Border Marathon",
+    "location": "Ungheni",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 08-Jun-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "42km",
+      "21km",
+      "11km"
+    ],
+    "link": "https://moldovatrail.run/",
+    "link_fb": "https://www.facebook.com/moldovatrailrun",
+    "id": 0,
+    "year": 2024,
+    "month": 6,
+    "day": 8
+  },
+  {
     "name": "Semimaratonul Eroilor Invictus - Bistrița",
     "location": "Bistrița",
     "location_details": "",
@@ -1990,6 +2009,26 @@
     "day": 6
   },
   {
+    "name": "Crosul Hospice - Alearga Tu Pentru Ei",
+    "location": "Brașov",
+    "location_details": "Tampa",
+    "display_date": "Sat 06-Jul-2024",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "18km",
+      "10km",
+      "4km",
+      "2km"
+    ],
+    "link": "https://team.hospice.ro/",
+    "link_fb": "",
+    "id": 272,
+    "year": 2024,
+    "month": 7,
+    "day": 6
+  },
+  {
     "name": "Predeal Forest Run",
     "location": "Predeal",
     "location_details": "",
@@ -2008,6 +2047,134 @@
     "year": 2024,
     "month": 7,
     "day": 13
+  },
+  {
+    "name": "Budeasa Swim & Run",
+    "location": "Budeasa",
+    "location_details": "",
+    "display_date": "Sat 13-Jul-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://triatlet.ro/",
+    "link_fb": "https://www.facebook.com/p/Budeasa-SWIM-RUN-61555396305833/",
+    "id": 271,
+    "year": 2024,
+    "month": 7,
+    "day": 13
+  },
+  {
+    "name": "Semimaraton Țara de Piatră",
+    "location": "Campeni",
+    "location_details": "",
+    "display_date": "Sun 14-Jul-2024",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22.3km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.semimaraton.com/",
+    "link_fb": "https://www.facebook.com/p/Semimaraton-%C8%9Aara-de-Piatr%C4%83-61563079674542/",
+    "id": 273,
+    "year": 2024,
+    "month": 7,
+    "day": 14
+  },
+  {
+    "name": "Zynir Bike & Run",
+    "location": "Seini",
+    "location_details": "",
+    "display_date": "Sun 14-Jul-2024",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "42km(1660m↑)",
+      "21km(860m↑)",
+      "11km(330m↑)"
+    ],
+    "link": "https://asociatiacsth.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61575664934045",
+    "id": 281,
+    "year": 2024,
+    "month": 7,
+    "day": 14
+  },
+  {
+    "name": "Buila Trail Race",
+    "location": "Barbatesti",
+    "location_details": "",
+    "display_date": "Sat 20-Jul-2024",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "36km(2300m↑)",
+      "19km(1300m↑)",
+      "11km(500m↑)"
+    ],
+    "link": "https://builatrailrace.ro/",
+    "link_fb": "https://www.facebook.com/BuilaTrailRace",
+    "id": 274,
+    "year": 2024,
+    "month": 7,
+    "day": 20
+  },
+  {
+    "name": "Burduf Challenge",
+    "location": "Rau Sadului",
+    "location_details": "",
+    "display_date": "Sat 20-Jul-2024",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "21km(1300m↑)",
+      "14km(1000m↑)"
+    ],
+    "link": "https://experiences.mytransylvania.ro/burduf-challenge/",
+    "link_fb": "",
+    "id": 276,
+    "year": 2024,
+    "month": 7,
+    "day": 20
+  },
+  {
+    "name": "Szent Gellert Cross",
+    "location": "Ditrau",
+    "location_details": "",
+    "display_date": "Sun 21-Jul-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "45km(1600m↑)",
+      "23km(900m↑)",
+      "8km(280m↑)"
+    ],
+    "link": "https://szentgellertcross.ro/",
+    "link_fb": "https://www.facebook.com/szentgellertcross/",
+    "id": 279,
+    "year": 2024,
+    "month": 7,
+    "day": 21
+  },
+  {
+    "name": "Cros Montan Borsec",
+    "location": "Borsec",
+    "location_details": "",
+    "display_date": "Sun 21-Jul-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "14.1km"
+    ],
+    "link": "https://www.facebook.com/Cea1BorsecFestival",
+    "link_fb": "https://www.facebook.com/Cea1BorsecFestival",
+    "id": 280,
+    "year": 2024,
+    "month": 7,
+    "day": 21
   },
   {
     "name": "Făgăraș Rocks",
@@ -2070,6 +2237,62 @@
     "year": 2024,
     "month": 7,
     "day": 27
+  },
+  {
+    "name": "Corcova Fest",
+    "location": "Corcova",
+    "location_details": "",
+    "display_date": "Sat 27-Jul-2024",
+    "county": "MH",
+    "type": "trail",
+    "distances": [
+      "16km(400m↑)",
+      "6km(195m↑)"
+    ],
+    "link": "https://corcovafest.com/",
+    "link_fb": "https://www.facebook.com/CorcovaFest/",
+    "id": 282,
+    "year": 2024,
+    "month": 7,
+    "day": 27
+  },
+  {
+    "name": "Cindrel In Alergare",
+    "location": "Paltinis",
+    "location_details": "",
+    "display_date": "Sat 27-Jul-2024",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "91km(5500m↑)",
+      "42km(1900m↑)",
+      "21km(1000m↑)",
+      "12km(500m↑)"
+    ],
+    "link": "https://www.inalergare.ro/",
+    "link_fb": "https://www.facebook.com/Inalergare/",
+    "id": 283,
+    "year": 2024,
+    "month": 7,
+    "day": 27
+  },
+  {
+    "name": "Casoaia Bike, Run & Fun",
+    "location": "Casoaia",
+    "location_details": "",
+    "display_date": "Sun 28-Jul-2024",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km(750m↑)",
+      "6km(250m↑)"
+    ],
+    "link": "https://euromediu.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057529934395",
+    "id": 284,
+    "year": 2024,
+    "month": 7,
+    "day": 28
   },
   {
     "name": "Zalău Ultra Trail",
@@ -2344,7 +2567,6 @@
     "county": "AR",
     "type": "trail",
     "distances": [
-      "21km",
       "10km",
       "5km",
       "2km"
@@ -2685,6 +2907,25 @@
     "link": "https://www.carpathianman.ro/event_page.aspx?crt=4",
     "link_fb": "https://www.facebook.com/MaratonPiatraCraiului/",
     "id": 96,
+    "year": 2024,
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "Ascotid Trail Race",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "display_date": "Sat 28-Sep-2024",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "21km(660m↑)",
+      "10km(320m↑)",
+      "5km(177m↑)"
+    ],
+    "link": "https://trailrace.ascotid.ro/",
+    "link_fb": "https://www.facebook.com/Ascotidtrailrace/",
+    "id": 277,
     "year": 2024,
     "month": 9,
     "day": 28
@@ -3047,6 +3288,24 @@
     "link": "https://www.semimaratonulcraiovei.ro/",
     "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
     "id": 13,
+    "year": 2024,
+    "month": 11,
+    "day": 2
+  },
+  {
+    "name": "Beiuș Running Day",
+    "location": "Beiuș",
+    "location_details": "",
+    "display_date": "Sat 02-Nov-2024",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.beiusrunningday.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057105803737",
+    "id": 270,
     "year": 2024,
     "month": 11,
     "day": 2

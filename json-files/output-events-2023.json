@@ -1800,6 +1800,44 @@
     "day": 8
   },
   {
+    "name": "Crosul Hospice - Alearga Tu Pentru Ei",
+    "location": "Brașov",
+    "location_details": "Tampa",
+    "display_date": "Sat 08-Jul-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "18km",
+      "10km",
+      "4km",
+      "2km"
+    ],
+    "link": "https://team.hospice.ro/",
+    "link_fb": "",
+    "id": 272,
+    "year": 2023,
+    "month": 7,
+    "day": 8
+  },
+  {
+    "name": "Burduf Challenge",
+    "location": "Rau Sadului",
+    "location_details": "",
+    "display_date": "Sat 08-Jul-2023",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "21km(1300m↑)",
+      "14km(1000m↑)"
+    ],
+    "link": "https://experiences.mytransylvania.ro/burduf-challenge/",
+    "link_fb": "",
+    "id": 276,
+    "year": 2023,
+    "month": 7,
+    "day": 8
+  },
+  {
     "name": "Semimaraton Portile Deltei Tulcea",
     "location": "Tulcea",
     "location_details": "",
@@ -1852,6 +1890,99 @@
     "year": 2023,
     "month": 7,
     "day": 15
+  },
+  {
+    "name": "Semimaraton Țara de Piatră",
+    "location": "Campeni",
+    "location_details": "",
+    "display_date": "Sun 16-Jul-2023",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22.3km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.semimaraton.com/",
+    "link_fb": "https://www.facebook.com/p/Semimaraton-%C8%9Aara-de-Piatr%C4%83-61563079674542/",
+    "id": 273,
+    "year": 2023,
+    "month": 7,
+    "day": 16
+  },
+  {
+    "name": "Cros Montan Borsec",
+    "location": "Borsec",
+    "location_details": "",
+    "display_date": "Sun 16-Jul-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "14.1km"
+    ],
+    "link": "https://www.facebook.com/Cea1BorsecFestival",
+    "link_fb": "https://www.facebook.com/Cea1BorsecFestival",
+    "id": 280,
+    "year": 2023,
+    "month": 7,
+    "day": 16
+  },
+  {
+    "name": "Buila Trail Race",
+    "location": "Barbatesti",
+    "location_details": "",
+    "display_date": "Sat 22-Jul-2023",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "36km(2300m↑)",
+      "19km(1300m↑)",
+      "11km(500m↑)"
+    ],
+    "link": "https://builatrailrace.ro/",
+    "link_fb": "https://www.facebook.com/BuilaTrailRace",
+    "id": 274,
+    "year": 2023,
+    "month": 7,
+    "day": 22
+  },
+  {
+    "name": "Up to Postavaru",
+    "location": "Brașov",
+    "location_details": "Telecabina Kanzel",
+    "display_date": "Sat 22-Jul-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "21km(1184m↑)",
+      "11km(614m↑)",
+      "4.5km(641m↑)"
+    ],
+    "link": "https://www.uptopostavaru.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100084000551368",
+    "id": 275,
+    "year": 2023,
+    "month": 7,
+    "day": 22
+  },
+  {
+    "name": "Szent Gellert Cross",
+    "location": "Ditrau",
+    "location_details": "",
+    "display_date": "Sun 23-Jul-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "45km(1600m↑)",
+      "23km(900m↑)",
+      "8km(280m↑)"
+    ],
+    "link": "https://szentgellertcross.ro/",
+    "link_fb": "https://www.facebook.com/szentgellertcross/",
+    "id": 279,
+    "year": 2023,
+    "month": 7,
+    "day": 23
   },
   {
     "name": "Bucovina Ultra Rocks",
@@ -1913,6 +2044,62 @@
     "day": 29
   },
   {
+    "name": "Corcova Fest",
+    "location": "Corcova",
+    "location_details": "",
+    "display_date": "Sat 29-Jul-2023",
+    "county": "MH",
+    "type": "trail",
+    "distances": [
+      "16km(400m↑)",
+      "6km(195m↑)"
+    ],
+    "link": "https://corcovafest.com/",
+    "link_fb": "https://www.facebook.com/CorcovaFest/",
+    "id": 282,
+    "year": 2023,
+    "month": 7,
+    "day": 29
+  },
+  {
+    "name": "Cindrel In Alergare",
+    "location": "Paltinis",
+    "location_details": "",
+    "display_date": "Sat 29-Jul-2023",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "91km(5500m↑)",
+      "42km(1900m↑)",
+      "21km(1000m↑)",
+      "12km(500m↑)"
+    ],
+    "link": "https://www.inalergare.ro/",
+    "link_fb": "https://www.facebook.com/Inalergare/",
+    "id": 283,
+    "year": 2023,
+    "month": 7,
+    "day": 29
+  },
+  {
+    "name": "Casoaia Bike, Run & Fun",
+    "location": "Casoaia",
+    "location_details": "",
+    "display_date": "Sun 30-Jul-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km(750m↑)",
+      "6km(250m↑)"
+    ],
+    "link": "https://euromediu.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057529934395",
+    "id": 284,
+    "year": 2023,
+    "month": 7,
+    "day": 30
+  },
+  {
     "name": "Făgăraș Rocks",
     "location": "Recea (BV)",
     "location_details": "",
@@ -1947,6 +2134,24 @@
     "link": "https://mogosaeveresting.ro/",
     "link_fb": "https://www.facebook.com/mogosaeveresting",
     "id": 86,
+    "year": 2023,
+    "month": 8,
+    "day": 5
+  },
+  {
+    "name": "Beiuș Running Day",
+    "location": "Beiuș",
+    "location_details": "",
+    "display_date": "Sat 05-Aug-2023",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.beiusrunningday.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057105803737",
+    "id": 270,
     "year": 2023,
     "month": 8,
     "day": 5
@@ -2339,7 +2544,6 @@
     "county": "AR",
     "type": "trail",
     "distances": [
-      "21km",
       "10km",
       "5km",
       "2km"
@@ -2532,6 +2736,25 @@
     "link": "https://www.carpathianman.ro/event_page.aspx?crt=4",
     "link_fb": "https://www.facebook.com/MaratonPiatraCraiului/",
     "id": 96,
+    "year": 2023,
+    "month": 9,
+    "day": 30
+  },
+  {
+    "name": "Ascotid Trail Race",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "display_date": "Sat 30-Sep-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "21km(660m↑)",
+      "10km(320m↑)",
+      "5km(177m↑)"
+    ],
+    "link": "https://trailrace.ascotid.ro/",
+    "link_fb": "https://www.facebook.com/Ascotidtrailrace/",
+    "id": 277,
     "year": 2023,
     "month": 9,
     "day": 30
