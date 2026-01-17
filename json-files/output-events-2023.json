@@ -2176,6 +2176,60 @@
     "day": 6
   },
   {
+    "name": "Alerg in Dumbrava",
+    "location": "Glogoveanu",
+    "location_details": "",
+    "display_date": "Sat 12-Aug-2023",
+    "county": "DB",
+    "type": "trail",
+    "distances": [
+      "42.5km",
+      "21.25km",
+      "4.2km"
+    ],
+    "link": "https://alergindumbrava.ro/",
+    "link_fb": "https://www.facebook.com/alergindumbrava",
+    "id": 288,
+    "year": 2023,
+    "month": 8,
+    "day": 12
+  },
+  {
+    "name": "Maraton Granitul Greci",
+    "location": "Greci",
+    "location_details": "",
+    "display_date": "Sat 12-Aug-2023",
+    "county": "TL",
+    "type": "trail",
+    "distances": [
+      "24km(800m↑)",
+      "10km"
+    ],
+    "link": "https://www.maratongranitulgreci.ro/",
+    "link_fb": "https://www.facebook.com/maratongranitulgreci/",
+    "id": 289,
+    "year": 2023,
+    "month": 8,
+    "day": 12
+  },
+  {
+    "name": "Castle Run",
+    "location": "Lazarea",
+    "location_details": "",
+    "display_date": "Sun 13-Aug-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "6.5km(200m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100072136397659",
+    "link_fb": "https://www.facebook.com/profile.php?id=100072136397659",
+    "id": 292,
+    "year": 2023,
+    "month": 8,
+    "day": 13
+  },
+  {
     "name": "GLS Night Cross Challenge Sibiu",
     "location": "Sibiu",
     "location_details": "Muzeul Astra",
@@ -2250,6 +2304,44 @@
     "year": 2023,
     "month": 8,
     "day": 26
+  },
+  {
+    "name": "Oslea Run",
+    "location": "Uricani",
+    "location_details": "Cabana Vanatoreasca - Campusel",
+    "display_date": "Sat 26-Aug-2023",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "41km(3000m↑)",
+      "26km(2000m↑)",
+      "15km(1000m↑)",
+      "8.5km(500m↑)"
+    ],
+    "link": "https://run.oslea.ro/",
+    "link_fb": "https://www.facebook.com/oslearun/",
+    "id": 295,
+    "year": 2023,
+    "month": 8,
+    "day": 26
+  },
+  {
+    "name": "Maratonul Olteniei",
+    "location": "Ramnicu Valcea",
+    "location_details": "",
+    "display_date": "Sun 27-Aug-2023",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "22km(700m↑)",
+      "12km(400m↑)"
+    ],
+    "link": "https://maratonulolteniei.ro/",
+    "link_fb": "https://www.facebook.com/MaratonulOlteniei",
+    "id": 300,
+    "year": 2023,
+    "month": 8,
+    "day": 27
   },
   {
     "name": "Râșnov Medieval Run",
@@ -2420,6 +2512,23 @@
     "link": "https://alerglaplai.ro/",
     "link_fb": "https://www.facebook.com/Alergotura",
     "id": 130,
+    "year": 2023,
+    "month": 9,
+    "day": 9
+  },
+  {
+    "name": "Cros Popestiul in Miscare",
+    "location": "Popesti-Leordeni",
+    "location_details": "",
+    "display_date": "Sat 09-Sep-2023",
+    "county": "IF",
+    "type": "road",
+    "distances": [
+      "1.2km"
+    ],
+    "link": "https://popestiulinmiscare.ro/",
+    "link_fb": "https://www.facebook.com/p/Popestiul-in-miscare-61550500731006/",
+    "id": 303,
     "year": 2023,
     "month": 9,
     "day": 9

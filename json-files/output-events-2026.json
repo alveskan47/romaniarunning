@@ -937,25 +937,6 @@
     "day": 25
   },
   {
-    "name": "Sălciua Trail Run",
-    "location": "Sălciua",
-    "location_details": "",
-    "display_date": "Sat 25-Apr-2026",
-    "county": "CJ",
-    "type": "trail",
-    "distances": [
-      "28km(781m↑)",
-      "15km(554m↑)",
-      "5km"
-    ],
-    "link": "https://atleticcluj.ro/",
-    "link_fb": "https://www.facebook.com/CSAtleticCluj",
-    "id": 185,
-    "year": 2026,
-    "month": 4,
-    "day": 25
-  },
-  {
     "name": "Semimaraton Iași",
     "location": "Iași",
     "location_details": "",
@@ -1029,6 +1010,25 @@
     "link": "https://alergaras.ro/",
     "link_fb": "",
     "id": 57,
+    "year": 2026,
+    "month": 5,
+    "day": 2
+  },
+  {
+    "name": "Sălciua Trail Run",
+    "location": "Sălciua",
+    "location_details": "",
+    "display_date": "Sat 02-May-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "28km(781m↑)",
+      "15km(554m↑)",
+      "5km"
+    ],
+    "link": "https://atleticcluj.ro/",
+    "link_fb": "https://www.facebook.com/CSAtleticCluj",
+    "id": 185,
     "year": 2026,
     "month": 5,
     "day": 2
@@ -1468,9 +1468,9 @@
     "county": "CT",
     "type": "trail",
     "distances": [
-      "45km",
-      "25km",
-      "15km"
+      "26km",
+      "16km",
+      "8km"
     ],
     "link": "https://www.facebook.com/events/s/alergarea-carpilor-techirghiol/3795323333936860/",
     "link_fb": "",
@@ -2239,6 +2239,25 @@
     "day": 11
   },
   {
+    "name": "Stana de Vale Trail Race",
+    "location": "Stana de Vale",
+    "location_details": "",
+    "display_date": "Sat 11-Jul-2026",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "33km(1500m↑)",
+      "11km(550m↑)",
+      "8km(1100m↑)"
+    ],
+    "link": "https://www.facebook.com/p/St%C3%A2na-de-Vale-Trail-Race-61575894238907/",
+    "link_fb": "https://www.facebook.com/p/St%C3%A2na-de-Vale-Trail-Race-61575894238907/",
+    "id": 267,
+    "year": 2026,
+    "month": 7,
+    "day": 11
+  },
+  {
     "name": "Maraton Bate Toaca",
     "location": "Durău",
     "location_details": "",
@@ -2445,6 +2464,24 @@
     "year": 2026,
     "month": 8,
     "day": 9
+  },
+  {
+    "name": "Oltenia Forest Run - Baile Govora",
+    "location": "Baile Govora",
+    "location_details": "",
+    "display_date": "Sun 16-Aug-2026",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "6km"
+    ],
+    "link": "https://www.facebook.com/olteniaalearga",
+    "link_fb": "https://www.facebook.com/olteniaalearga",
+    "id": 291,
+    "year": 2026,
+    "month": 8,
+    "day": 16
   },
   {
     "name": "GLS Night Cross Challenge Sibiu",

@@ -2409,6 +2409,113 @@
     "day": 10
   },
   {
+    "name": "Crosul Siretului",
+    "location": "Rachiteni",
+    "location_details": "",
+    "display_date": "Sat 10-Aug-2024",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/CrosulSiretului/",
+    "link_fb": "https://www.facebook.com/CrosulSiretului/",
+    "id": 286,
+    "year": 2024,
+    "month": 8,
+    "day": 10
+  },
+  {
+    "name": "Stafeta Prieteniei IPA",
+    "location": "Drobeta Turnu-Severin",
+    "location_details": "",
+    "display_date": "Sat 10-Aug-2024",
+    "county": "MH",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 287,
+    "year": 2024,
+    "month": 8,
+    "day": 10
+  },
+  {
+    "name": "Alerg in Dumbrava",
+    "location": "Glogoveanu",
+    "location_details": "",
+    "display_date": "Sat 10-Aug-2024",
+    "county": "DB",
+    "type": "trail",
+    "distances": [
+      "42.5km",
+      "21.25km",
+      "4.2km"
+    ],
+    "link": "https://alergindumbrava.ro/",
+    "link_fb": "https://www.facebook.com/alergindumbrava",
+    "id": 288,
+    "year": 2024,
+    "month": 8,
+    "day": 10
+  },
+  {
+    "name": "Maraton Granitul Greci",
+    "location": "Greci",
+    "location_details": "",
+    "display_date": "Sat 10-Aug-2024",
+    "county": "TL",
+    "type": "trail",
+    "distances": [
+      "24km(800m↑)",
+      "10km"
+    ],
+    "link": "https://www.maratongranitulgreci.ro/",
+    "link_fb": "https://www.facebook.com/maratongranitulgreci/",
+    "id": 289,
+    "year": 2024,
+    "month": 8,
+    "day": 10
+  },
+  {
+    "name": "Castle Run",
+    "location": "Lazarea",
+    "location_details": "",
+    "display_date": "Sun 18-Aug-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "6.5km(200m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100072136397659",
+    "link_fb": "https://www.facebook.com/profile.php?id=100072136397659",
+    "id": 292,
+    "year": 2024,
+    "month": 8,
+    "day": 18
+  },
+  {
+    "name": "Hit the egg - Ouşoru Challenge",
+    "location": "Vatra Dornei",
+    "location_details": "",
+    "display_date": "Sun 18-Aug-2024",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "42km(2000m↑)",
+      "24km(1200m↑)",
+      "10km(400m↑)"
+    ],
+    "link": "https://www.hte.run/",
+    "link_fb": "https://www.facebook.com/hittheegg/",
+    "id": 298,
+    "year": 2024,
+    "month": 8,
+    "day": 18
+  },
+  {
     "name": "GLS Night Cross Challenge Sibiu",
     "location": "Sibiu",
     "location_details": "Muzeul Astra",
@@ -2480,6 +2587,44 @@
     "year": 2024,
     "month": 8,
     "day": 24
+  },
+  {
+    "name": "Oslea Run",
+    "location": "Uricani",
+    "location_details": "Cabana Vanatoreasca - Campusel",
+    "display_date": "Sat 24-Aug-2024",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "41km(3000m↑)",
+      "26km(2000m↑)",
+      "15km(1000m↑)",
+      "8.5km(500m↑)"
+    ],
+    "link": "https://run.oslea.ro/",
+    "link_fb": "https://www.facebook.com/oslearun/",
+    "id": 295,
+    "year": 2024,
+    "month": 8,
+    "day": 24
+  },
+  {
+    "name": "Maratonul Olteniei",
+    "location": "Ramnicu Valcea",
+    "location_details": "",
+    "display_date": "Sun 25-Aug-2024",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "22km(700m↑)",
+      "12km(400m↑)"
+    ],
+    "link": "https://maratonulolteniei.ro/",
+    "link_fb": "https://www.facebook.com/MaratonulOlteniei",
+    "id": 300,
+    "year": 2024,
+    "month": 8,
+    "day": 25
   },
   {
     "name": "Râșnov Medieval Run",
@@ -2613,6 +2758,40 @@
     "link": "https://cugirace.ro/",
     "link_fb": "https://www.facebook.com/cugirace",
     "id": 91,
+    "year": 2024,
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "Cros Popestiul in Miscare",
+    "location": "Popesti-Leordeni",
+    "location_details": "",
+    "display_date": "Sat 07-Sep-2024",
+    "county": "IF",
+    "type": "road",
+    "distances": [
+      "1.2km"
+    ],
+    "link": "https://popestiulinmiscare.ro/",
+    "link_fb": "https://www.facebook.com/p/Popestiul-in-miscare-61550500731006/",
+    "id": 303,
+    "year": 2024,
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "Castelul din Carpati - Pasul Vâlcan",
+    "location": "Vulcan",
+    "location_details": "",
+    "display_date": "Sat 07-Sep-2024",
+    "county": "HD",
+    "type": "road",
+    "distances": [
+      "1.2km"
+    ],
+    "link": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
+    "link_fb": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
+    "id": 304,
     "year": 2024,
     "month": 9,
     "day": 7

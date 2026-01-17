@@ -5949,8 +5949,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 4,
-          "day": 25
+          "month": 5,
+          "day": 2
         },
         {
           "year": 2025,
@@ -6839,9 +6839,9 @@
       "county": "CT",
       "type": "trail",
       "distances": [
-        "45km",
-        "25km",
-        "15km"
+        "26km",
+        "16km",
+        "8km"
       ],
       "link": "",
       "link_fb": "",
@@ -7986,11 +7986,17 @@
       "type": "trail",
       "distances": [
         "33km(1500m↑)",
-        "11km(550m↑)"
+        "11km(550m↑)",
+        "8km(1100m↑)"
       ],
-      "link": "https://stanatrailrace.ro/",
+      "link": "https://www.facebook.com/p/St%C3%A2na-de-Vale-Trail-Race-61575894238907/",
       "link_fb": "https://www.facebook.com/p/St%C3%A2na-de-Vale-Trail-Race-61575894238907/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 11
+        },
         {
           "year": 2025,
           "month": 7,
@@ -8514,6 +8520,480 @@
           "month": 7,
           "day": 27,
           "event_link": "https://www.facebook.com/XiaomiRomania/posts/763698282676500/"
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "name": "Crosul Siretului",
+      "location": "Rachiteni",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/CrosulSiretului/",
+      "link_fb": "https://www.facebook.com/CrosulSiretului/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 2
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Stafeta Prieteniei IPA",
+      "location": "Drobeta Turnu-Severin",
+      "county": "MH",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/1922647651904298/",
+          "event_distances": [
+            "⚠ 03-31 Aug 2025",
+            "Putna - Drobeta Turnu-Severin"
+          ]
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Alerg in Dumbrava",
+      "location": "Glogoveanu",
+      "county": "DB",
+      "type": "trail",
+      "distances": [
+        "42.5km",
+        "21.25km",
+        "4.2km"
+      ],
+      "link": "https://alergindumbrava.ro/",
+      "link_fb": "https://www.facebook.com/alergindumbrava",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 9
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 10
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Maraton Granitul Greci",
+      "location": "Greci",
+      "county": "TL",
+      "type": "trail",
+      "distances": [
+        "24km(800m↑)",
+        "10km"
+      ],
+      "link": "https://www.maratongranitulgreci.ro/",
+      "link_fb": "https://www.facebook.com/maratongranitulgreci/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 9
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 10
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Crosul Inimi și Tuberoze Hoghilag",
+      "location": "Hoghilag",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/1808113433252729"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Oltenia Forest Run - Baile Govora",
+      "location": "Baile Govora",
+      "county": "VL",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "6km"
+      ],
+      "link": "https://www.facebook.com/olteniaalearga",
+      "link_fb": "https://www.facebook.com/olteniaalearga",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Castle Run",
+      "location": "Lazarea",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "6.5km(200m↑)"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=100072136397659",
+      "link_fb": "https://www.facebook.com/profile.php?id=100072136397659",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 17
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 18
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Coloract Botoșani",
+      "location": "Botoșani",
+      "county": "BT",
+      "type": "road",
+      "distances": [
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/1258538862477145/"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Cros Donaton",
+      "location": "Cluj-Napoca",
+      "location_details": "Parcul Etnografic Romulus Vuia",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "1km"
+      ],
+      "link": "https://donaton.ro/ro/",
+      "link_fb": "https://www.facebook.com/kmndonaton/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Oslea Run",
+      "location": "Uricani",
+      "location_details": "Cabana Vanatoreasca - Campusel",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "41km(3000m↑)",
+        "26km(2000m↑)",
+        "15km(1000m↑)",
+        "8.5km(500m↑)"
+      ],
+      "link": "https://run.oslea.ro/",
+      "link_fb": "https://www.facebook.com/oslearun/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 23
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 24
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Cros Drumul Aurului",
+      "location": "Brad",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "8.5km(256m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/721058564052216"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "name": "Maraton Stafeta la Valtoare",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "⚠ only relay"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/24030190843329471"
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Hit the egg - Ouşoru Challenge",
+      "location": "Vatra Dornei",
+      "county": "SV",
+      "type": "trail",
+      "distances": [
+        "42km(2000m↑)",
+        "24km(1200m↑)",
+        "10km(400m↑)"
+      ],
+      "link": "https://www.hte.run/",
+      "link_fb": "https://www.facebook.com/hittheegg/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 30
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Cupa Pădurea Verde - Dumbravita",
+      "location": "Dumbravita",
+      "county": "TM",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10.5km",
+        "5.4km"
+      ],
+      "link": "https://raceday.ro/padureaverde/",
+      "link_fb": "https://www.facebook.com/vlcts",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Maratonul Olteniei",
+      "location": "Râmnicu Vâlcea",
+      "county": "VL",
+      "type": "trail",
+      "distances": [
+        "22km(700m↑)",
+        "12km(400m↑)"
+      ],
+      "link": "https://maratonulolteniei.ro/",
+      "link_fb": "https://www.facebook.com/MaratonulOlteniei",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 31
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 25
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Szenes Trail",
+      "location": "Lupeni (HR)",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 30,
+          "event_link": "https://www.facebook.com/events/1916513145835359"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Moneasa Green Run",
+      "location": "Moneasa",
+      "county": "AR",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://euromediu.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=100057529934395",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Cros Popestiul in Miscare",
+      "location": "Popești-Leordeni",
+      "county": "IF",
+      "type": "road",
+      "distances": [
+        "1.2km"
+      ],
+      "link": "https://popestiulinmiscare.ro/",
+      "link_fb": "https://www.facebook.com/p/Popestiul-in-miscare-61550500731006/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 6
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 7
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Castelul din Carpati - Pasul Vâlcan",
+      "location": "Vulcan",
+      "county": "HD",
+      "type": "road",
+      "distances": [
+        "1.2km"
+      ],
+      "link": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
+      "link_fb": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 6
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 7
         }
       ]
     }
