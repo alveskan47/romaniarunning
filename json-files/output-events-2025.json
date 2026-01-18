@@ -2897,7 +2897,8 @@
     "county": "SB",
     "type": "trail",
     "distances": [
-      "13.7km(700m↑)",
+      "31.0km(1363m↑)",
+      "11km(674m↑)",
       "6.2km(400m↑)"
     ],
     "link": "https://www.turnurosuchallenge.ro/",
@@ -4395,7 +4396,7 @@
   },
   {
     "name": "Maraton Stafeta la Valtoare",
-    "location": "Targu Mures",
+    "location": "Târgu Mureș",
     "location_details": "",
     "display_date": "Wed 27-Aug-2025",
     "county": "MS",
@@ -4486,7 +4487,7 @@
     "day": 30
   },
   {
-    "name": "Cupa Padurea Verde - Dumbravita",
+    "name": "Cupa Pădurea Verde - Dumbravita",
     "location": "Dumbravita",
     "location_details": "",
     "display_date": "Sat 30-Aug-2025",
@@ -4523,6 +4524,24 @@
     "day": 30
   },
   {
+    "name": "Vrancea Montana Run",
+    "location": "Paulesti",
+    "location_details": "",
+    "display_date": "Sat 30-Aug-2025",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km(550m↑)",
+      "10km(350m↑)"
+    ],
+    "link": "https://vranceamontanarun.ro/",
+    "link_fb": "https://www.facebook.com/VranceaMontanaRun/",
+    "id": 312,
+    "year": 2025,
+    "month": 8,
+    "day": 30
+  },
+  {
     "name": "Stafeta Prieteniei IPA",
     "location": "Drobeta Turnu-Severin",
     "location_details": "",
@@ -4542,7 +4561,7 @@
   },
   {
     "name": "Maratonul Olteniei",
-    "location": "Ramnicu Valcea",
+    "location": "Râmnicu Vâlcea",
     "location_details": "",
     "display_date": "Sun 31-Aug-2025",
     "county": "VL",
@@ -4636,7 +4655,7 @@
   },
   {
     "name": "Cros Popestiul in Miscare",
-    "location": "Popesti-Leordeni",
+    "location": "Popești-Leordeni",
     "location_details": "",
     "display_date": "Sat 06-Sep-2025",
     "county": "IF",
@@ -4669,6 +4688,41 @@
     "day": 6
   },
   {
+    "name": "Bârlad Hills Challenge",
+    "location": "Bârlad",
+    "location_details": "",
+    "display_date": "Sat 06-Sep-2025",
+    "county": "VS",
+    "type": "trail",
+    "distances": [
+      "11.2km(255m↑)"
+    ],
+    "link": "https://www.facebook.com/events/zona-gr%C4%83tarepicnic-cotu-negru-b%C3%A2rlad/b%C3%A2rlad-hills-challenge/721220984288538/",
+    "link_fb": "",
+    "id": 309,
+    "year": 2025,
+    "month": 9,
+    "day": 6
+  },
+  {
+    "name": "CrosISU",
+    "location": "Piatra Neamț",
+    "location_details": "Cozla",
+    "display_date": "Sat 06-Sep-2025",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "5.3km(340m↑)",
+      "1.7m(110m↑)"
+    ],
+    "link": "https://www.facebook.com/events/791440350202813",
+    "link_fb": "",
+    "id": 310,
+    "year": 2025,
+    "month": 9,
+    "day": 6
+  },
+  {
     "name": "Maratonul Dragonul de Aur",
     "location": "Trebujeni",
     "location_details": "Republica Moldova",
@@ -4684,6 +4738,60 @@
     "year": 2025,
     "month": 9,
     "day": 6
+  },
+  {
+    "name": "Via Pontica",
+    "location": "Limanu",
+    "location_details": "2 Mai - Krapets",
+    "display_date": "Sun 07-Sep-2025",
+    "county": "CT",
+    "type": "mixed",
+    "distances": [
+      "28km",
+      "16km"
+    ],
+    "link": "https://viapontica.eu/",
+    "link_fb": "https://www.facebook.com/viaponticarun",
+    "id": 311,
+    "year": 2025,
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "Transmaraton (Bucegi)",
+    "location": "Moroeni",
+    "location_details": "Hotel Peștera",
+    "display_date": "Sun 07-Sep-2025",
+    "county": "DB",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.transmaraton.org/",
+    "link_fb": "https://www.facebook.com/transmaraton/",
+    "id": 313,
+    "year": 2025,
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "Sopa Forest Race",
+    "location": "Selimbar",
+    "location_details": "Pădurea Sopa",
+    "display_date": "Sun 07-Sep-2025",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 315,
+    "year": 2025,
+    "month": 9,
+    "day": 7
   },
   {
     "name": "Rombat Trail Run",
@@ -4798,6 +4906,23 @@
     "day": 13
   },
   {
+    "name": "Autism 24h Marea Neagra",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "CT",
+    "type": "sand",
+    "distances": [
+      "24H (3km/lap)"
+    ],
+    "link": "https://www.autism24h.ro/",
+    "link_fb": "https://www.facebook.com/Autism24H/",
+    "id": 316,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
     "name": "Festivalul Sporturilor București (toamnă)",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -4887,6 +5012,25 @@
     "link": "https://www.atletismtulcea.ro/",
     "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
     "id": 206,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Trail la Cabana",
+    "location": "Ciurea",
+    "location_details": "",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/traillacabana",
+    "link_fb": "https://www.facebook.com/traillacabana",
+    "id": 305,
     "year": 2025,
     "month": 9,
     "day": 20
@@ -5170,6 +5314,25 @@
     "day": 4
   },
   {
+    "name": "Mârzeşti Trail Run",
+    "location": "Rediu",
+    "location_details": "Pădurea Mârzeşti, Breazu",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10.5km",
+      "4km"
+    ],
+    "link": "https://marzestirun.ro/",
+    "link_fb": "https://www.facebook.com/FacebookMTR/",
+    "id": 306,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
     "name": "Brașov Running Festival",
     "location": "Brașov",
     "location_details": "",
@@ -5302,6 +5465,26 @@
     "day": 18
   },
   {
+    "name": "Azuga Trail Race",
+    "location": "Azuga",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "31km(2190m↑)",
+      "20km(1330m↑)",
+      "13km(920m↑)",
+      "2km(550m↑) night"
+    ],
+    "link": "https://azuga.trailrace.ro/",
+    "link_fb": "https://www.facebook.com/AzugaTrailRace/",
+    "id": 307,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
     "name": "Runfest - Moara Vlasiei",
     "location": "Moara Vlasiei",
     "location_details": "Pădurea Surlari",
@@ -5358,6 +5541,23 @@
     "link": "https://timisoaracitymarathon.ro/",
     "link_fb": "https://www.facebook.com/TimisoaraCityMarathon/",
     "id": 100,
+    "year": 2025,
+    "month": 10,
+    "day": 26
+  },
+  {
+    "name": "Run Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sun 26-Oct-2025",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://runiasi.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61579340574304",
+    "id": 308,
     "year": 2025,
     "month": 10,
     "day": 26

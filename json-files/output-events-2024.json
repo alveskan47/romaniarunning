@@ -2610,7 +2610,7 @@
   },
   {
     "name": "Maratonul Olteniei",
-    "location": "Ramnicu Valcea",
+    "location": "Râmnicu Vâlcea",
     "location_details": "",
     "display_date": "Sun 25-Aug-2024",
     "county": "VL",
@@ -2724,6 +2724,24 @@
     "day": 1
   },
   {
+    "name": "Vrancea Montana Run",
+    "location": "Paulesti",
+    "location_details": "",
+    "display_date": "Sun 01-Sep-2024",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km(550m↑)",
+      "10km(350m↑)"
+    ],
+    "link": "https://vranceamontanarun.ro/",
+    "link_fb": "https://www.facebook.com/VranceaMontanaRun/",
+    "id": 312,
+    "year": 2024,
+    "month": 9,
+    "day": 1
+  },
+  {
     "name": "Ciucaș X3",
     "location": "Cheia (PH)",
     "location_details": "",
@@ -2764,7 +2782,7 @@
   },
   {
     "name": "Cros Popestiul in Miscare",
-    "location": "Popesti-Leordeni",
+    "location": "Popești-Leordeni",
     "location_details": "",
     "display_date": "Sat 07-Sep-2024",
     "county": "IF",
@@ -2811,6 +2829,24 @@
     "link": "https://www.runforheroes.ro/",
     "link_fb": "https://www.facebook.com/Brasov.Heroes/",
     "id": 255,
+    "year": 2024,
+    "month": 9,
+    "day": 8
+  },
+  {
+    "name": "Transmaraton (Bucegi)",
+    "location": "Moroeni",
+    "location_details": "Hotel Peștera",
+    "display_date": "Sun 08-Sep-2024",
+    "county": "DB",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.transmaraton.org/",
+    "link_fb": "https://www.facebook.com/transmaraton/",
+    "id": 313,
     "year": 2024,
     "month": 9,
     "day": 8
@@ -2885,6 +2921,23 @@
     "link": "https://alerglaplai.ro/",
     "link_fb": "https://www.facebook.com/Alergotura",
     "id": 130,
+    "year": 2024,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Autism 24h Marea Neagra",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "display_date": "Sat 14-Sep-2024",
+    "county": "CT",
+    "type": "sand",
+    "distances": [
+      "24H (3km/lap)"
+    ],
+    "link": "https://www.autism24h.ro/",
+    "link_fb": "https://www.facebook.com/Autism24H/",
+    "id": 316,
     "year": 2024,
     "month": 9,
     "day": 14
@@ -2976,6 +3029,25 @@
     "link": "https://www.atletismtulcea.ro/",
     "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
     "id": 206,
+    "year": 2024,
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "Trail la Cabana",
+    "location": "Ciurea",
+    "location_details": "",
+    "display_date": "Sat 21-Sep-2024",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/traillacabana",
+    "link_fb": "https://www.facebook.com/traillacabana",
+    "id": 305,
     "year": 2024,
     "month": 9,
     "day": 21
@@ -3247,6 +3319,25 @@
     "day": 5
   },
   {
+    "name": "Mârzeşti Trail Run",
+    "location": "Rediu",
+    "location_details": "Pădurea Mârzeşti, Breazu",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10.5km",
+      "4km"
+    ],
+    "link": "https://marzestirun.ro/",
+    "link_fb": "https://www.facebook.com/FacebookMTR/",
+    "id": 306,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -3291,7 +3382,8 @@
     "county": "SB",
     "type": "trail",
     "distances": [
-      "13.7km(700m↑)",
+      "31.0km(1363m↑)",
+      "11km(674m↑)",
       "6.2km(400m↑)"
     ],
     "link": "https://www.turnurosuchallenge.ro/",
@@ -3389,6 +3481,26 @@
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",
     "id": 263,
+    "year": 2024,
+    "month": 10,
+    "day": 19
+  },
+  {
+    "name": "Azuga Trail Race",
+    "location": "Azuga",
+    "location_details": "",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "31km(2190m↑)",
+      "20km(1330m↑)",
+      "13km(920m↑)",
+      "2km(550m↑) night"
+    ],
+    "link": "https://azuga.trailrace.ro/",
+    "link_fb": "https://www.facebook.com/AzugaTrailRace/",
+    "id": 307,
     "year": 2024,
     "month": 10,
     "day": 19

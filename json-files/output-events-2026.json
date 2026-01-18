@@ -508,6 +508,24 @@
     "day": 14
   },
   {
+    "name": "Crosul Primaverii - Baia Mare",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 15-Mar-2026",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://maramures.run/crosul-primaverii/",
+    "link_fb": "https://www.facebook.com/MMRunners",
+    "id": 175,
+    "year": 2026,
+    "month": 3,
+    "day": 15
+  },
+  {
     "name": "Woodland Series - Trail run",
     "location": "Săldăbagiu de Munte",
     "location_details": "",
@@ -1293,6 +1311,25 @@
     "day": 16
   },
   {
+    "name": "Turnu Rosu Challenge",
+    "location": "Turnu Rosu",
+    "location_details": "",
+    "display_date": "Sat 16-May-2026",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "31.0km(1363m↑)",
+      "11km(674m↑)",
+      "6.2km(400m↑)"
+    ],
+    "link": "https://www.turnurosuchallenge.ro/",
+    "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
+    "id": 247,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
     "name": "Maratonul Nisipului",
     "location": "Constanța",
     "location_details": "",
@@ -1529,6 +1566,23 @@
     "link": "https://runnersclub.ro/heroes-challenge/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 149,
+    "year": 2026,
+    "month": 5,
+    "day": 24
+  },
+  {
+    "name": "Crosul Copiilor - Baia Mare",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 24-May-2026",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/869352635794586",
+    "link_fb": "",
+    "id": 236,
     "year": 2026,
     "month": 5,
     "day": 24
@@ -2557,6 +2611,26 @@
     "day": 28
   },
   {
+    "name": "Oslea Run",
+    "location": "Uricani",
+    "location_details": "Cabana Vanatoreasca - Campusel",
+    "display_date": "Sat 29-Aug-2026",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "41km(3000m↑)",
+      "26km(2000m↑)",
+      "15km(1000m↑)",
+      "8.5km(500m↑)"
+    ],
+    "link": "https://run.oslea.ro/",
+    "link_fb": "https://www.facebook.com/oslearun/",
+    "id": 295,
+    "year": 2026,
+    "month": 8,
+    "day": 29
+  },
+  {
     "name": "Maratonul Dragonul de Aur",
     "location": "Trebujeni",
     "location_details": "Republica Moldova",
@@ -2572,6 +2646,24 @@
     "year": 2026,
     "month": 8,
     "day": 29
+  },
+  {
+    "name": "Vrancea Montana Run",
+    "location": "Paulesti",
+    "location_details": "",
+    "display_date": "Sun 30-Aug-2026",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km(550m↑)",
+      "10km(350m↑)"
+    ],
+    "link": "https://vranceamontanarun.ro/",
+    "link_fb": "https://www.facebook.com/VranceaMontanaRun/",
+    "id": 312,
+    "year": 2026,
+    "month": 8,
+    "day": 30
   },
   {
     "name": "CugiRace",
@@ -2613,6 +2705,24 @@
     "year": 2026,
     "month": 9,
     "day": 5
+  },
+  {
+    "name": "Via Pontica",
+    "location": "Limanu",
+    "location_details": "2 Mai - Krapets",
+    "display_date": "Sun 06-Sep-2026",
+    "county": "CT",
+    "type": "mixed",
+    "distances": [
+      "28km",
+      "16km"
+    ],
+    "link": "https://viapontica.eu/",
+    "link_fb": "https://www.facebook.com/viaponticarun",
+    "id": 311,
+    "year": 2026,
+    "month": 9,
+    "day": 6
   },
   {
     "name": "Maratonul Dragomirnei",
@@ -2897,6 +3007,25 @@
     "day": 20
   },
   {
+    "name": "Trail la Cabana",
+    "location": "Ciurea",
+    "location_details": "",
+    "display_date": "Sun 20-Sep-2026",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/traillacabana",
+    "link_fb": "https://www.facebook.com/traillacabana",
+    "id": 305,
+    "year": 2026,
+    "month": 9,
+    "day": 20
+  },
+  {
     "name": "Maraton Piatra Craiului",
     "location": "Zărnești",
     "location_details": "",
@@ -3103,6 +3232,25 @@
     "day": 4
   },
   {
+    "name": "Mârzeşti Trail Run",
+    "location": "Rediu",
+    "location_details": "Pădurea Mârzeşti, Breazu",
+    "display_date": "Sun 04-Oct-2026",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10.5km",
+      "4km"
+    ],
+    "link": "https://marzestirun.ro/",
+    "link_fb": "https://www.facebook.com/FacebookMTR/",
+    "id": 306,
+    "year": 2026,
+    "month": 10,
+    "day": 4
+  },
+  {
     "name": "TulbuRun la Asconi Winery",
     "location": "Chisinau",
     "location_details": "Republica Moldova",
@@ -3179,6 +3327,26 @@
     "day": 17
   },
   {
+    "name": "Azuga Trail Race",
+    "location": "Azuga",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "31km(2190m↑)",
+      "20km(1330m↑)",
+      "13km(920m↑)",
+      "2km(550m↑) night"
+    ],
+    "link": "https://azuga.trailrace.ro/",
+    "link_fb": "https://www.facebook.com/AzugaTrailRace/",
+    "id": 307,
+    "year": 2026,
+    "month": 10,
+    "day": 17
+  },
+  {
     "name": "Timișoara City Marathon",
     "location": "Timișoara",
     "location_details": "",
@@ -3249,6 +3417,23 @@
     "link": "https://baneasaforestrun.ro/",
     "link_fb": "https://www.facebook.com/BaneasaForestRun/",
     "id": 50,
+    "year": 2026,
+    "month": 11,
+    "day": 1
+  },
+  {
+    "name": "Run Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sun 01-Nov-2026",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://runiasi.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61579340574304",
+    "id": 308,
     "year": 2026,
     "month": 11,
     "day": 1

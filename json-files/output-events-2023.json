@@ -2327,7 +2327,7 @@
   },
   {
     "name": "Maratonul Olteniei",
-    "location": "Ramnicu Valcea",
+    "location": "Râmnicu Vâlcea",
     "location_details": "",
     "display_date": "Sun 27-Aug-2023",
     "county": "VL",
@@ -2339,6 +2339,24 @@
     "link": "https://maratonulolteniei.ro/",
     "link_fb": "https://www.facebook.com/MaratonulOlteniei",
     "id": 300,
+    "year": 2023,
+    "month": 8,
+    "day": 27
+  },
+  {
+    "name": "Vrancea Montana Run",
+    "location": "Paulesti",
+    "location_details": "",
+    "display_date": "Sun 27-Aug-2023",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km(550m↑)",
+      "10km(350m↑)"
+    ],
+    "link": "https://vranceamontanarun.ro/",
+    "link_fb": "https://www.facebook.com/VranceaMontanaRun/",
+    "id": 312,
     "year": 2023,
     "month": 8,
     "day": 27
@@ -2518,7 +2536,7 @@
   },
   {
     "name": "Cros Popestiul in Miscare",
-    "location": "Popesti-Leordeni",
+    "location": "Popești-Leordeni",
     "location_details": "",
     "display_date": "Sat 09-Sep-2023",
     "county": "IF",
@@ -2529,6 +2547,23 @@
     "link": "https://popestiulinmiscare.ro/",
     "link_fb": "https://www.facebook.com/p/Popestiul-in-miscare-61550500731006/",
     "id": 303,
+    "year": 2023,
+    "month": 9,
+    "day": 9
+  },
+  {
+    "name": "Autism 24h Marea Neagra",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "display_date": "Sat 09-Sep-2023",
+    "county": "CT",
+    "type": "sand",
+    "distances": [
+      "24H (3km/lap)"
+    ],
+    "link": "https://www.autism24h.ro/",
+    "link_fb": "https://www.facebook.com/Autism24H/",
+    "id": 316,
     "year": 2023,
     "month": 9,
     "day": 9
@@ -2547,6 +2582,27 @@
     "link": "https://www.brasovrun.ro/",
     "link_fb": "https://www.facebook.com/BrasovRunningFestival",
     "id": 134,
+    "year": 2023,
+    "month": 9,
+    "day": 10
+  },
+  {
+    "name": "Transmaraton (Transfagarasan)",
+    "location": "Arefu",
+    "location_details": "Cabana Capra",
+    "display_date": "Sun 10-Sep-2023",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "53.4km(2050m↑)",
+      "43km(1962m↑)",
+      "34.5km(1108m↑)",
+      "21.5km(978m↑)",
+      "8.5km"
+    ],
+    "link": "https://www.transmaraton.org/",
+    "link_fb": "https://www.facebook.com/transmaraton/",
+    "id": 314,
     "year": 2023,
     "month": 9,
     "day": 10
@@ -2602,6 +2658,25 @@
     "link": "https://www.atletismtulcea.ro/",
     "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
     "id": 206,
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "Trail la Cabana",
+    "location": "Ciurea",
+    "location_details": "",
+    "display_date": "Sat 16-Sep-2023",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/traillacabana",
+    "link_fb": "https://www.facebook.com/traillacabana",
+    "id": 305,
     "year": 2023,
     "month": 9,
     "day": 16
@@ -2869,6 +2944,25 @@
     "day": 30
   },
   {
+    "name": "Mârzeşti Trail Run",
+    "location": "Rediu",
+    "location_details": "Pădurea Mârzeşti, Breazu",
+    "display_date": "Sat 30-Sep-2023",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10.5km",
+      "4km"
+    ],
+    "link": "https://marzestirun.ro/",
+    "link_fb": "https://www.facebook.com/FacebookMTR/",
+    "id": 306,
+    "year": 2023,
+    "month": 9,
+    "day": 30
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -2978,7 +3072,8 @@
     "county": "SB",
     "type": "trail",
     "distances": [
-      "13.7km(700m↑)",
+      "31.0km(1363m↑)",
+      "11km(674m↑)",
       "6.2km(400m↑)"
     ],
     "link": "https://www.turnurosuchallenge.ro/",
@@ -3021,6 +3116,26 @@
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",
     "id": 263,
+    "year": 2023,
+    "month": 10,
+    "day": 21
+  },
+  {
+    "name": "Azuga Trail Race",
+    "location": "Azuga",
+    "location_details": "",
+    "display_date": "Sat 21-Oct-2023",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "31km(2190m↑)",
+      "20km(1330m↑)",
+      "13km(920m↑)",
+      "2km(550m↑) night"
+    ],
+    "link": "https://azuga.trailrace.ro/",
+    "link_fb": "https://www.facebook.com/AzugaTrailRace/",
+    "id": 307,
     "year": 2023,
     "month": 10,
     "day": 21

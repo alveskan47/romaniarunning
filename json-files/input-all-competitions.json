@@ -5672,6 +5672,11 @@
       "link_fb": "https://www.facebook.com/MMRunners",
       "editions": [
         {
+          "year": 2026,
+          "month": 3,
+          "day": 15
+        },
+        {
           "year": 2025,
           "month": 3,
           "day": 30
@@ -7182,6 +7187,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/869352635794586"
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 1,
@@ -7446,12 +7457,18 @@
       "county": "SB",
       "type": "trail",
       "distances": [
-        "13.7km(700m↑)",
+        "31.0km(1363m↑)",
+        "11km(674m↑)",
         "6.2km(400m↑)"
       ],
       "link": "https://www.turnurosuchallenge.ro/",
       "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        },
         {
           "year": 2025,
           "month": 6,
@@ -8771,6 +8788,11 @@
       "link_fb": "https://www.facebook.com/oslearun/",
       "editions": [
         {
+          "year": 2026,
+          "month": 8,
+          "day": 29
+        },
+        {
           "year": 2025,
           "month": 8,
           "day": 23
@@ -8994,6 +9016,345 @@
           "year": 2024,
           "month": 9,
           "day": 7
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Trail la Cabana",
+      "location": "Ciurea",
+      "county": "IS",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "11km",
+        "3km"
+      ],
+      "link": "https://www.facebook.com/traillacabana",
+      "link_fb": "https://www.facebook.com/traillacabana",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 20
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 20
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 21
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Mârzeşti Trail Run",
+      "location": "Rediu",
+      "location_details": "Pădurea Mârzeşti, Breazu",
+      "county": "IS",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10.5km",
+        "4km"
+      ],
+      "link": "https://marzestirun.ro/",
+      "link_fb": "https://www.facebook.com/FacebookMTR/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Azuga Trail Race",
+      "location": "Azuga",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "31km(2190m↑)",
+        "20km(1330m↑)",
+        "13km(920m↑)",
+        "2km(550m↑) night"
+      ],
+      "link": "https://azuga.trailrace.ro/",
+      "link_fb": "https://www.facebook.com/AzugaTrailRace/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 18
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 19
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Run Iași",
+      "location": "Iași",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "https://runiasi.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61579340574304",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 1
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "name": "Bârlad Hills Challenge",
+      "location": "Bârlad",
+      "county": "VS",
+      "type": "trail",
+      "distances": [
+        "11.2km(255m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/zona-gr%C4%83tarepicnic-cotu-negru-b%C3%A2rlad/b%C3%A2rlad-hills-challenge/721220984288538/"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "CrosISU",
+      "location": "Piatra Neamț",
+      "location_details": "Cozla",
+      "county": "NT",
+      "type": "trail",
+      "distances": [
+        "5.3km(340m↑)",
+        "1.7m(110m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/791440350202813"
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Via Pontica",
+      "location": "Limanu",
+      "location_details": "2 Mai - Krapets",
+      "county": "CT",
+      "type": "mixed",
+      "distances": [
+        "28km",
+        "16km"
+      ],
+      "link": "https://viapontica.eu/",
+      "link_fb": "https://www.facebook.com/viaponticarun",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 6
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Vrancea Montana Run",
+      "location": "Paulesti",
+      "county": "VN",
+      "type": "trail",
+      "distances": [
+        "21km(550m↑)",
+        "10km(350m↑)"
+      ],
+      "link": "https://vranceamontanarun.ro/",
+      "link_fb": "https://www.facebook.com/VranceaMontanaRun/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 30
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "day": 30
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 1
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Transmaraton (Bucegi)",
+      "location": "Moroeni",
+      "location_details": "Hotel Peștera",
+      "county": "DB",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km"
+      ],
+      "link": "https://www.transmaraton.org/",
+      "link_fb": "https://www.facebook.com/transmaraton/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 7
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Transmaraton (Transfagarasan)",
+      "location": "Arefu",
+      "location_details": "Cabana Capra",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "53.4km(2050m↑)",
+        "43km(1962m↑)",
+        "34.5km(1108m↑)",
+        "21.5km(978m↑)",
+        "8.5km"
+      ],
+      "link": "https://www.transmaraton.org/",
+      "link_fb": "https://www.facebook.com/transmaraton/",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Sopa Forest Race",
+      "location": "Selimbar",
+      "location_details": "Pădurea Sopa",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 7,
+          "event_details": "https://www.facebook.com/events/786933853870064"
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Autism 24h Marea Neagra",
+      "location": "Constanța",
+      "location_details": "Mamaia",
+      "county": "CT",
+      "type": "sand",
+      "distances": [
+        "24H (3km/lap)"
+      ],
+      "link": "https://www.autism24h.ro/",
+      "link_fb": "https://www.facebook.com/Autism24H/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 13
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 14
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 9
         }
       ]
     }
