@@ -250,7 +250,7 @@
     "day": 11
   },
   {
-    "name": "Crosul Pentru Viata",
+    "name": "Crosul Pentru Viață",
     "location": "București",
     "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
     "display_date": "Sat 18-Mar-2023",
@@ -2569,6 +2569,43 @@
     "day": 9
   },
   {
+    "name": "Gugulan MTB & RUN Caransebeș",
+    "location": "Caransebeș",
+    "location_details": "",
+    "display_date": "Sat 09-Sep-2023",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "22km(550m↑)",
+      "6km"
+    ],
+    "link": "https://gugulanmtb.ro/",
+    "link_fb": "https://www.facebook.com/gugulanmtb/",
+    "id": 319,
+    "year": 2023,
+    "month": 9,
+    "day": 9
+  },
+  {
+    "name": "Mogosa Race",
+    "location": "Baia Sprie",
+    "location_details": "Domeniul Mogosa",
+    "display_date": "Sat 09-Sep-2023",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "21km(1120m↑)",
+      "11km(664m↑)",
+      "1km(37m↑)"
+    ],
+    "link": "https://www.facebook.com/BMMiscare",
+    "link_fb": "https://www.facebook.com/BMMiscare",
+    "id": 330,
+    "year": 2023,
+    "month": 9,
+    "day": 9
+  },
+  {
     "name": "Brașov Running Festival",
     "location": "Brașov",
     "location_details": "",
@@ -2645,10 +2682,10 @@
   },
   {
     "name": "Maraton Delta Dunării Sulina",
-    "location": "Tulcea",
+    "location": "Sulina",
     "location_details": "",
     "display_date": "Sat 16-Sep-2023",
-    "county": "Sulina",
+    "county": "TL",
     "type": "road",
     "distances": [
       "42km",
@@ -2677,6 +2714,48 @@
     "link": "https://www.facebook.com/traillacabana",
     "link_fb": "https://www.facebook.com/traillacabana",
     "id": 305,
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "Running Festival Csikszereda",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 16-Sep-2023",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km",
+      "2.5km",
+      "4x10km relay",
+      "7km night"
+    ],
+    "link": "https://www.runningfestival.ro/",
+    "link_fb": "https://www.facebook.com/running.csikszereda/",
+    "id": 317,
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "Aiud Green Run",
+    "location": "Aiud",
+    "location_details": "",
+    "display_date": "Sat 16-Sep-2023",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22km",
+      "8km",
+      "2km"
+    ],
+    "link": "https://www.aiudgreenrun.ro/",
+    "link_fb": "https://www.facebook.com/aiudgreenrun/",
+    "id": 318,
     "year": 2023,
     "month": 9,
     "day": 16
@@ -2735,6 +2814,26 @@
     "link": "https://www.anirun.ro/",
     "link_fb": "https://www.facebook.com/sportforstrays/",
     "id": 230,
+    "year": 2023,
+    "month": 9,
+    "day": 17
+  },
+  {
+    "name": "Baia Mare Half Marathon",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 17-Sep-2023",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km",
+      "3km",
+      "3x7km relay"
+    ],
+    "link": "https://maramures.run/baia-mare-half-marathon/",
+    "link_fb": "https://www.facebook.com/MMRunners",
+    "id": 323,
     "year": 2023,
     "month": 9,
     "day": 17

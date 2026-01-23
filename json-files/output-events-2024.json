@@ -304,7 +304,7 @@
     "day": 16
   },
   {
-    "name": "Crosul Pentru Viata",
+    "name": "Crosul Pentru Viață",
     "location": "București",
     "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
     "display_date": "Sat 16-Mar-2024",
@@ -2943,6 +2943,48 @@
     "day": 14
   },
   {
+    "name": "Running Festival Csikszereda",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 14-Sep-2024",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km",
+      "2.5km",
+      "4x10km relay",
+      "7km night"
+    ],
+    "link": "https://www.runningfestival.ro/",
+    "link_fb": "https://www.facebook.com/running.csikszereda/",
+    "id": 317,
+    "year": 2024,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Aiud Green Run",
+    "location": "Aiud",
+    "location_details": "",
+    "display_date": "Sat 14-Sep-2024",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22km",
+      "8km",
+      "2km"
+    ],
+    "link": "https://www.aiudgreenrun.ro/",
+    "link_fb": "https://www.facebook.com/aiudgreenrun/",
+    "id": 318,
+    "year": 2024,
+    "month": 9,
+    "day": 14
+  },
+  {
     "name": "Maratonul Dragonul de Aur",
     "location": "Trebujeni",
     "location_details": "Republica Moldova",
@@ -2974,6 +3016,26 @@
     "link": "https://festivalulsporturilor.ro/",
     "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 45,
+    "year": 2024,
+    "month": 9,
+    "day": 15
+  },
+  {
+    "name": "Baia Mare Half Marathon",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 15-Sep-2024",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km",
+      "3km",
+      "3x7km relay"
+    ],
+    "link": "https://maramures.run/baia-mare-half-marathon/",
+    "link_fb": "https://www.facebook.com/MMRunners",
+    "id": 323,
     "year": 2024,
     "month": 9,
     "day": 15
@@ -3016,10 +3078,10 @@
   },
   {
     "name": "Maraton Delta Dunării Sulina",
-    "location": "Tulcea",
+    "location": "Sulina",
     "location_details": "",
     "display_date": "Sat 21-Sep-2024",
-    "county": "Sulina",
+    "county": "TL",
     "type": "road",
     "distances": [
       "42km",
@@ -3048,6 +3110,61 @@
     "link": "https://www.facebook.com/traillacabana",
     "link_fb": "https://www.facebook.com/traillacabana",
     "id": 305,
+    "year": 2024,
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "Gugulan MTB & RUN Caransebeș",
+    "location": "Caransebeș",
+    "location_details": "",
+    "display_date": "Sat 21-Sep-2024",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "22km(550m↑)",
+      "6km"
+    ],
+    "link": "https://gugulanmtb.ro/",
+    "link_fb": "https://www.facebook.com/gugulanmtb/",
+    "id": 319,
+    "year": 2024,
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "Sepsi Inst. Run",
+    "location": "Sfantu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 21-Sep-2024",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "8km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/784459426485496/",
+    "link_fb": "",
+    "id": 327,
+    "year": 2024,
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "Mogosa Race",
+    "location": "Baia Sprie",
+    "location_details": "Domeniul Mogosa",
+    "display_date": "Sat 21-Sep-2024",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "21km(1120m↑)",
+      "11km(664m↑)",
+      "1km(37m↑)"
+    ],
+    "link": "https://www.facebook.com/BMMiscare",
+    "link_fb": "https://www.facebook.com/BMMiscare",
+    "id": 330,
     "year": 2024,
     "month": 9,
     "day": 21
@@ -3501,6 +3618,23 @@
     "link": "https://azuga.trailrace.ro/",
     "link_fb": "https://www.facebook.com/AzugaTrailRace/",
     "id": 307,
+    "year": 2024,
+    "month": 10,
+    "day": 19
+  },
+  {
+    "name": "Crosul Democrației - Mangalia",
+    "location": "Mangalia",
+    "location_details": "",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/553440660672235",
+    "link_fb": "",
+    "id": 329,
     "year": 2024,
     "month": 10,
     "day": 19

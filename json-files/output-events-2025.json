@@ -691,7 +691,7 @@
     "day": 22
   },
   {
-    "name": "Crosul Pentru Viata",
+    "name": "Crosul Pentru Viață",
     "location": "București",
     "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
     "display_date": "Sat 22-Mar-2025",
@@ -4723,6 +4723,23 @@
     "day": 6
   },
   {
+    "name": "Maraton de Sebeș",
+    "location": "Sebeș",
+    "location_details": "",
+    "display_date": "Sat 06-Sep-2025",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61579622734497",
+    "link_fb": "https://www.facebook.com/profile.php?id=61579622734497",
+    "id": 326,
+    "year": 2025,
+    "month": 9,
+    "day": 6
+  },
+  {
     "name": "Maratonul Dragonul de Aur",
     "location": "Trebujeni",
     "location_details": "Republica Moldova",
@@ -4923,6 +4940,122 @@
     "day": 13
   },
   {
+    "name": "Running Festival Csikszereda",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km",
+      "2.5km",
+      "4x10km relay",
+      "7km night"
+    ],
+    "link": "https://www.runningfestival.ro/",
+    "link_fb": "https://www.facebook.com/running.csikszereda/",
+    "id": 317,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
+    "name": "Aiud Green Run",
+    "location": "Aiud",
+    "location_details": "",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22km",
+      "8km",
+      "2km"
+    ],
+    "link": "https://www.aiudgreenrun.ro/",
+    "link_fb": "https://www.facebook.com/aiudgreenrun/",
+    "id": 318,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
+    "name": "Gugulan MTB & RUN Caransebeș",
+    "location": "Caransebeș",
+    "location_details": "",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "22km(550m↑)",
+      "6km"
+    ],
+    "link": "https://gugulanmtb.ro/",
+    "link_fb": "https://www.facebook.com/gugulanmtb/",
+    "id": 319,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
+    "name": "StruguRUN",
+    "location": "Odobesti",
+    "location_details": "",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "22km(850m↑)",
+      "12km(500m↑)",
+      "5km"
+    ],
+    "link": "https://strugurun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61575336716620",
+    "id": 320,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
+    "name": "Oradea Run Fest",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "1km"
+    ],
+    "link": "https://www.oradearunfest.ro/",
+    "link_fb": "https://www.facebook.com/oradearunfest",
+    "id": 321,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
+    "name": "Corbeanca - Inimi in Miscare",
+    "location": "Corbeanca",
+    "location_details": "",
+    "display_date": "Sat 13-Sep-2025",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "8km",
+      "4.5km"
+    ],
+    "link": "https://www.facebook.com/events/1299763374876963",
+    "link_fb": "",
+    "id": 322,
+    "year": 2025,
+    "month": 9,
+    "day": 13
+  },
+  {
     "name": "Festivalul Sporturilor București (toamnă)",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -4937,6 +5070,62 @@
     "link": "https://festivalulsporturilor.ro/",
     "link_fb": "https://www.facebook.com/FestivalulSporturilor",
     "id": 45,
+    "year": 2025,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Baia Mare Half Marathon",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 14-Sep-2025",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km",
+      "3km",
+      "3x7km relay"
+    ],
+    "link": "https://maramures.run/baia-mare-half-marathon/",
+    "link_fb": "https://www.facebook.com/MMRunners",
+    "id": 323,
+    "year": 2025,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sighisoara 10k",
+    "location": "Sighisoara",
+    "location_details": "",
+    "display_date": "Sun 14-Sep-2025",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://sighisoara10k.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61576868926816",
+    "id": 324,
+    "year": 2025,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Tinca Cross",
+    "location": "Tinca",
+    "location_details": "",
+    "display_date": "Sun 14-Sep-2025",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.tincacross.ro/",
+    "link_fb": "https://www.facebook.com/p/Tinca-Cross-61577613865038/",
+    "id": 325,
     "year": 2025,
     "month": 9,
     "day": 14
@@ -4960,6 +5149,24 @@
     "year": 2025,
     "month": 9,
     "day": 14
+  },
+  {
+    "name": "Sepsi Inst. Run",
+    "location": "Sfantu Gheorghe",
+    "location_details": "",
+    "display_date": "Fri 19-Sep-2025",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "8km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/1112857150945365/",
+    "link_fb": "",
+    "id": 327,
+    "year": 2025,
+    "month": 9,
+    "day": 19
   },
   {
     "name": "Șiria Vertical Loop 2h",
@@ -4999,10 +5206,10 @@
   },
   {
     "name": "Maraton Delta Dunării Sulina",
-    "location": "Tulcea",
+    "location": "Sulina",
     "location_details": "",
     "display_date": "Sat 20-Sep-2025",
-    "county": "Sulina",
+    "county": "TL",
     "type": "road",
     "distances": [
       "42km",
@@ -5031,6 +5238,94 @@
     "link": "https://www.facebook.com/traillacabana",
     "link_fb": "https://www.facebook.com/traillacabana",
     "id": 305,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Crosul Copiilor - Neptun",
+    "location": "Neptun",
+    "location_details": "",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/2168859610264983",
+    "link_fb": "",
+    "id": 328,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Mogosa Race",
+    "location": "Baia Sprie",
+    "location_details": "Domeniul Mogosa",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "21km(1120m↑)",
+      "11km(664m↑)",
+      "1km(37m↑)"
+    ],
+    "link": "https://www.facebook.com/BMMiscare",
+    "link_fb": "https://www.facebook.com/BMMiscare",
+    "id": 330,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Via Bacovia Trail",
+    "location": "Luizi Călugara",
+    "location_details": "",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "BC",
+    "type": "trail",
+    "distances": [
+      "21km(1100m↑)",
+      "12km(500m↑)"
+    ],
+    "link": "https://vbtrail.ro/",
+    "link_fb": "https://www.facebook.com/viabacoviatrail",
+    "id": 331,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Alergam la fapte bune - Oradea",
+    "location": "Oradea",
+    "location_details": "Parcul Cetatii Oradea",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/2230712520715597",
+    "link_fb": "",
+    "id": 332,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Cursa Cavalerilor lui Vlad",
+    "location": "Arefu",
+    "location_details": "Cetatea Poenari",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "AG",
+    "type": "stairs",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/CursaCavalerilor",
+    "link_fb": "https://www.facebook.com/CursaCavalerilor",
+    "id": 333,
     "year": 2025,
     "month": 9,
     "day": 20

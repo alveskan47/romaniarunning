@@ -17,6 +17,16 @@
       "page_link": "bad-news.html"
     },
     {
+      "page_name": "Other",
+      "dropdown": true,
+      "sub_pages": [
+        {
+          "page_name": "Archive",
+          "page_link": "archive.html"
+        }
+      ]
+    },
+    {
       "page_name": "Contact",
       "page_link": "contact.html"
     }

@@ -491,6 +491,24 @@
     "day": 14
   },
   {
+    "name": "Crosul Pentru Viață",
+    "location": "București",
+    "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
+    "display_date": "Sat 14-Mar-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "12km",
+      "4km"
+    ],
+    "link": "https://www.crosulpentruviata.ro/",
+    "link_fb": "https://www.facebook.com/crosulpentruviata",
+    "id": 173,
+    "year": 2026,
+    "month": 3,
+    "day": 14
+  },
+  {
     "name": "Mileștii Mici Winerun",
     "location": "Mileștii Mici",
     "location_details": "Republica Moldova",
@@ -2783,6 +2801,24 @@
     "day": 12
   },
   {
+    "name": "Gugulan MTB & RUN Caransebeș",
+    "location": "Caransebeș",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "22km(550m↑)",
+      "6km"
+    ],
+    "link": "https://gugulanmtb.ro/",
+    "link_fb": "https://www.facebook.com/gugulanmtb/",
+    "id": 319,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
     "name": "Rombat Trail Run",
     "location": "Bistrița",
     "location_details": "",
@@ -2876,6 +2912,26 @@
     "day": 13
   },
   {
+    "name": "Baia Mare Half Marathon",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sun 13-Sep-2026",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km",
+      "3km",
+      "3x7km relay"
+    ],
+    "link": "https://maramures.run/baia-mare-half-marathon/",
+    "link_fb": "https://www.facebook.com/MMRunners",
+    "id": 323,
+    "year": 2026,
+    "month": 9,
+    "day": 13
+  },
+  {
     "name": "Șiria Vertical Loop 2h",
     "location": "Șiria",
     "location_details": "",
@@ -2927,6 +2983,25 @@
     "link": "https://gtr.ro/",
     "link_fb": "https://www.facebook.com/RunTransylvaniaPage/",
     "id": 146,
+    "year": 2026,
+    "month": 9,
+    "day": 19
+  },
+  {
+    "name": "Mogosa Race",
+    "location": "Baia Sprie",
+    "location_details": "Domeniul Mogosa",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "21km(1120m↑)",
+      "11km(664m↑)",
+      "1km(37m↑)"
+    ],
+    "link": "https://www.facebook.com/BMMiscare",
+    "link_fb": "https://www.facebook.com/BMMiscare",
+    "id": 330,
     "year": 2026,
     "month": 9,
     "day": 19

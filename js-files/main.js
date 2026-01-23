@@ -56,6 +56,46 @@ function createNavLink(page, isActive) {
 }
 
 /**
+ * Creates a dropdown navigation menu for pages with sub-items
+ * @param {Object} page - The page object from pages.json
+ * @param {string} page.page_name - Display name of the dropdown
+ * @param {Array} page.sub_pages - Array of sub-page objects
+ * @param {string} currentPage - The current active page filename
+ * @returns {string} HTML string for the dropdown navigation item
+ */
+function createNavDropdown(page, currentPage) {
+    // Check if any sub-page is active
+    const hasActivePage = page.sub_pages.some(subPage => subPage.page_link === currentPage);
+    const activeClass = hasActivePage ? ' active' : '';
+
+    // Generate dropdown items
+    const dropdownItems = page.sub_pages
+        .map(subPage => {
+            const subActiveClass = subPage.page_link === currentPage ? ' active' : '';
+            const subAriaCurrent = subPage.page_link === currentPage ? ' aria-current="page"' : '';
+            return `
+                <li>
+                    <a class="dropdown-item${subActiveClass}"${subAriaCurrent} href="${subPage.page_link}">
+                        ${subPage.page_name}
+                    </a>
+                </li>
+            `;
+        })
+        .join('');
+
+    return `
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle${activeClass}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                ${page.page_name}
+            </a>
+            <ul class="dropdown-menu">
+                ${dropdownItems}
+            </ul>
+        </li>
+    `;
+}
+
+/**
  * Creates the theme switcher dropdown HTML
  * @returns {string} HTML string for the theme switcher
  */
@@ -107,9 +147,17 @@ async function initializeNavbar() {
         // Get current page to determine active state
         const currentPage = getCurrentPage();
 
-        // Generate navigation links
+        // Generate navigation links (handle both regular links and dropdowns)
         const navLinks = pagesData.pages
-            .map(page => createNavLink(page, page.page_link === currentPage))
+            .map(page => {
+                if (page.dropdown && page.sub_pages) {
+                    // Create dropdown menu for pages with sub_pages
+                    return createNavDropdown(page, currentPage);
+                } else {
+                    // Create regular navigation link
+                    return createNavLink(page, page.page_link === currentPage);
+                }
+            })
             .join('');
 
         // Insert navigation links into the navbar

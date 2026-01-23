@@ -4,18 +4,19 @@ update-all.py
 Purpose:
 --------
 This is the main script to update all competition data and statistics.
-It orchestrates the execution of three sub-scripts in the correct order:
+It orchestrates the execution of four sub-scripts in the correct order:
 
 1. test_json_input_file.py - Tests and validates the input JSON data
 2. create-competitions-tables.py - Generates yearly competition tables from the input data
-3. update-statistics.py - Calculates and updates all statistics based on the competition data
+3. create-all-competitions-list.py - Creates an alphabetically sorted list of all competitions
+4. update-statistics.py - Calculates and updates all statistics based on the competition data
 
 Usage:
 ------
 Run this script whenever you need to update the competition data:
     python update-all.py
 
-This ensures both the yearly tables and statistics are updated consistently.
+This ensures all output files are updated consistently.
 """
 
 import subprocess
@@ -81,7 +82,8 @@ def main():
     This function coordinates the execution of:
     1. JSON input validation
     2. Competition tables generation
-    3. Statistics calculation
+    3. All competitions list generation
+    4. Statistics calculation
 
     If any script fails, the process stops and reports the error.
     """
@@ -113,7 +115,19 @@ def main():
         print("=" * 70)
         sys.exit(1)
 
-    # Step 3: Update statistics
+    # Step 3: Create all competitions list
+    success = run_script(
+        "create-all-competitions-list.py",
+        "Creating alphabetically sorted list of all competitions"
+    )
+
+    if not success:
+        print("\n" + "=" * 70)
+        print("✗ UPDATE FAILED: Could not create all competitions list")
+        print("=" * 70)
+        sys.exit(1)
+
+    # Step 4: Update statistics
     success = run_script(
         "update-statistics.py",
         "Updating competition statistics"
@@ -131,6 +145,7 @@ def main():
     print("=" * 70)
     print("\nUpdated files:")
     print("  - json-files/output-events-{year}.json (one file per year)")
+    print("  - json-files/output-all-competitions-list.json")
     print("  - json-files/output-all-statistics.json")
     print("\n")
 
