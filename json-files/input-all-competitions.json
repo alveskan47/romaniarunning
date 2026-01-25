@@ -410,13 +410,18 @@
       "county": "BZ",
       "type": "trail",
       "distances": [
-        "39km(1800m↑)",
-        "24.6km(900m↑)",
+        "41km(1800m↑)",
+        "24km(900m↑)",
         "10km(350m↑)"
       ],
       "link": "https://istritaxscape.ro/",
       "link_fb": "https://www.facebook.com/istritaXscape/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7
+        },
         {
           "year": 2025,
           "month": 11,
@@ -580,6 +585,11 @@
       "link": "https://www.runtransylvania.com/",
       "link_fb": "https://www.facebook.com/rasnovmedievalrun",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        },
         {
           "year": 2025,
           "month": 8,
@@ -7728,6 +7738,11 @@
       "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 20
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 21
@@ -8507,6 +8522,11 @@
       "link": "https://euromediu.ro/",
       "link_fb": "https://www.facebook.com/profile.php?id=100057529934395",
       "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26
+        },
         {
           "year": 2025,
           "month": 7,
@@ -9347,6 +9367,11 @@
       "link_fb": "https://www.facebook.com/Autism24H/",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 19
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 13
@@ -9566,8 +9591,8 @@
     },
     {
       "id": 324,
-      "name": "Sighisoara 10k",
-      "location": "Sighisoara",
+      "name": "Sighișoara 10k",
+      "location": "Sighișoara",
       "county": "MS",
       "type": "road",
       "distances": [
@@ -9626,7 +9651,7 @@
     {
       "id": 327,
       "name": "Sepsi Inst. Run",
-      "location": "Sfantu Gheorghe",
+      "location": "Sfântu Gheorghe",
       "county": "CV",
       "type": "road",
       "distances": [
@@ -9785,6 +9810,487 @@
           "year": 2025,
           "month": 9,
           "day": 20
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Viteza pe faleza",
+      "location": "Brăila",
+      "location_details": "Faleza Dunării Brăila",
+      "county": "BR",
+      "type": "road",
+      "distances": [
+        "1km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 2,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/886505584135004"
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "name": "Hercules Maraton",
+      "location": "Baile Herculane",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "43km(2300m↑)",
+        "21km(1100m↑)",
+        "4km(180m↑)"
+      ],
+      "link": "https://hercules-maraton.ro/",
+      "link_fb": "https://www.facebook.com/HerculesMaraton",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 11
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 12
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Hațeg Royal Trail",
+      "location": "Hațeg",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "43.9km(2115m↑)",
+        "21km(922m↑)",
+        "12.4km(596m↑)",
+        "5.8km(224m↑)"
+      ],
+      "link": "https://hategroyaltrail.ro/",
+      "link_fb": "https://www.facebook.com/p/Hateg-Royal-Trail-61561625116652/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "name": "Sighet Run",
+      "location": "Sighetu Marmației",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 20,
+          "event_link": "https://www.salutsighet.ro/sighet-run-2025/"
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "name": "Crosul OncoHelp",
+      "location": "Timișoara",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "10km",
+        "4.2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/706004499070577"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "name": "Crosul Ilfovului",
+      "location": "Snagov",
+      "county": "IF",
+      "type": "road",
+      "distances": [
+        "5.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.facebook.com/CJIlfov/posts/1203161195182076"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Alba Iulia City Race",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://albaiulia.cityrace.ro/",
+      "link_fb": "https://www.facebook.com/AlbaIuliaCityRace",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 28
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "Run for Life - Dumbrava Vlasiei",
+      "location": "Snagov",
+      "location_details": "Pădurea Vladiceasa",
+      "county": "IF",
+      "type": "trail",
+      "distances": [
+        "22km",
+        "12km",
+        "6km",
+        "3km"
+      ],
+      "link": "https://runforlife.ro/",
+      "link_fb": "https://www.facebook.com/runforlife.ro/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Run for Life - București",
+      "location": "București",
+      "location_details": "Arena Nationala",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "3km"
+      ],
+      "link": "https://runforlife.ro/",
+      "link_fb": "https://www.facebook.com/runforlife.ro/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Crosul Odorheiului",
+      "location": "Odorheiu Secuiesc",
+      "county": "HR",
+      "type": "road",
+      "distances": [
+        "4.2km"
+      ],
+      "link": "https://tomegfutas.ro/ro/pagina-principala/",
+      "link_fb": "https://www.facebook.com/tomegfutas/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 28
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "name": "Run for Future - Ploiești",
+      "location": "Ploiești",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "5km",
+        "2km",
+        "1km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/663605119433053"
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Crosul Severinului",
+      "location": "Drobeta Turnu-Severin",
+      "county": "MH",
+      "type": "road",
+      "distances": [
+        "2.15km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://restartnews.ro/2025/09/19/start-inscrieri-la-crosul-severinului-2025/"
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Crosul Brâncuși",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "0.9km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/784142807922681"
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Crosul #BeActive",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/24241819612180965/"
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/476179475289342/"
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1461696034630597/"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "name": "Crosul Inimilor - Alba Iulia",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "type": "road",
+      "distances": [
+        "5.4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/1986479028796791/"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "name": "15k Free Spirit Run Ruse - Giurgiu",
+      "location": "Giurgiu",
+      "county": "GR",
+      "type": "road",
+      "distances": [
+        "15km"
+      ],
+      "link": "https://run.ruse-giurgiu.eu/",
+      "link_fb": "https://www.facebook.com/RunRuseGiurgiu/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 28
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
+      "location": "Petrila",
+      "location_details": "Cheile Taii",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "14km"
+      ],
+      "link": "https://www.facebook.com/Asociatia.SanMontan",
+      "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 28
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 6
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Delicium Run Fest",
+      "location": "Borsa (CJ)",
+      "location_details": "Ferma Delicium",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/ferma-delicium/delicium-run-fest/755724333893683/"
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "name": "Crosul inimii – Sibiul are inima",
+      "location": "Sibiu",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "14km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/1263342372193058"
         }
       ]
     }

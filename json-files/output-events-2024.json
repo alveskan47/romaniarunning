@@ -304,7 +304,7 @@
     "day": 16
   },
   {
-    "name": "Crosul Pentru Viață",
+    "name": "Crosul Pentru Viață - București",
     "location": "București",
     "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
     "display_date": "Sat 16-Mar-2024",
@@ -3134,7 +3134,7 @@
   },
   {
     "name": "Sepsi Inst. Run",
-    "location": "Sfantu Gheorghe",
+    "location": "Sfântu Gheorghe",
     "location_details": "",
     "display_date": "Sat 21-Sep-2024",
     "county": "CV",
@@ -3299,6 +3299,59 @@
     "day": 28
   },
   {
+    "name": "Alba Iulia City Race",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "display_date": "Sat 28-Sep-2024",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://albaiulia.cityrace.ro/",
+    "link_fb": "https://www.facebook.com/AlbaIuliaCityRace",
+    "id": 340,
+    "year": 2024,
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "Crosul Odorheiului",
+    "location": "Odorheiu Secuiesc",
+    "location_details": "",
+    "display_date": "Sat 28-Sep-2024",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "4.2km"
+    ],
+    "link": "https://tomegfutas.ro/ro/pagina-principala/",
+    "link_fb": "https://www.facebook.com/tomegfutas/",
+    "id": 343,
+    "year": 2024,
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "Crosul #BeActive",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 28-Sep-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/476179475289342/",
+    "link_fb": "",
+    "id": 347,
+    "year": 2024,
+    "month": 9,
+    "day": 28
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -3455,6 +3508,79 @@
     "day": 5
   },
   {
+    "name": "Hațeg Royal Trail",
+    "location": "Hațeg",
+    "location_details": "",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "43.9km(2115m↑)",
+      "21km(922m↑)",
+      "12.4km(596m↑)",
+      "5.8km(224m↑)"
+    ],
+    "link": "https://hategroyaltrail.ro/",
+    "link_fb": "https://www.facebook.com/p/Hateg-Royal-Trail-61561625116652/",
+    "id": 336,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Run for Life - București",
+    "location": "București",
+    "location_details": "Arena Nationala",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "3km"
+    ],
+    "link": "https://runforlife.ro/",
+    "link_fb": "https://www.facebook.com/runforlife.ro/",
+    "id": 342,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "15k Free Spirit Run Ruse - Giurgiu",
+    "location": "Giurgiu",
+    "location_details": "",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "GR",
+    "type": "road",
+    "distances": [
+      "15km"
+    ],
+    "link": "https://run.ruse-giurgiu.eu/",
+    "link_fb": "https://www.facebook.com/RunRuseGiurgiu/",
+    "id": 349,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
+    "location": "Petrila",
+    "location_details": "Cheile Taii",
+    "display_date": "Sun 06-Oct-2024",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.facebook.com/Asociatia.SanMontan",
+    "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
+    "id": 350,
+    "year": 2024,
+    "month": 10,
+    "day": 6
+  },
+  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -3506,6 +3632,25 @@
     "link": "https://www.turnurosuchallenge.ro/",
     "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
     "id": 247,
+    "year": 2024,
+    "month": 10,
+    "day": 12
+  },
+  {
+    "name": "Hercules Maraton",
+    "location": "Baile Herculane",
+    "location_details": "",
+    "display_date": "Sat 12-Oct-2024",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "43km(2300m↑)",
+      "21km(1100m↑)",
+      "4km(180m↑)"
+    ],
+    "link": "https://hercules-maraton.ro/",
+    "link_fb": "https://www.facebook.com/HerculesMaraton",
+    "id": 335,
     "year": 2024,
     "month": 10,
     "day": 12
@@ -3687,8 +3832,8 @@
     "county": "BZ",
     "type": "trail",
     "distances": [
-      "39km(1800m↑)",
-      "24.6km(900m↑)",
+      "41km(1800m↑)",
+      "24km(900m↑)",
       "10km(350m↑)"
     ],
     "link": "https://istritaxscape.ro/",

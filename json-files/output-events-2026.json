@@ -177,6 +177,23 @@
     "day": 7
   },
   {
+    "name": "Viteza pe faleza",
+    "location": "Brăila",
+    "location_details": "Faleza Dunării Brăila",
+    "display_date": "Sun 08-Feb-2026",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "1km"
+    ],
+    "link": "https://www.facebook.com/events/886505584135004",
+    "link_fb": "",
+    "id": 334,
+    "year": 2026,
+    "month": 2,
+    "day": 8
+  },
+  {
     "name": "Șiria Winter Trail",
     "location": "Șiria",
     "location_details": "",
@@ -491,7 +508,7 @@
     "day": 14
   },
   {
-    "name": "Crosul Pentru Viață",
+    "name": "Crosul Pentru Viață - București",
     "location": "București",
     "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
     "display_date": "Sat 14-Mar-2026",
@@ -2116,6 +2133,24 @@
     "day": 20
   },
   {
+    "name": "Cros Montan Traversare Igniș",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 20-Jun-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "27km",
+      "16km"
+    ],
+    "link": "https://sites.google.com/view/crosignis",
+    "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
+    "id": 257,
+    "year": 2026,
+    "month": 6,
+    "day": 20
+  },
+  {
     "name": "Rodnei Sky Race",
     "location": "Borșa",
     "location_details": "",
@@ -2402,6 +2437,24 @@
     "link": "https://www.uptopostavaru.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=100084000551368",
     "id": 275,
+    "year": 2026,
+    "month": 7,
+    "day": 26
+  },
+  {
+    "name": "Casoaia Bike, Run & Fun",
+    "location": "Casoaia",
+    "location_details": "",
+    "display_date": "Sun 26-Jul-2026",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "21km(750m↑)",
+      "6km(250m↑)"
+    ],
+    "link": "https://euromediu.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057529934395",
+    "id": 284,
     "year": 2026,
     "month": 7,
     "day": 26
@@ -2743,6 +2796,25 @@
     "day": 6
   },
   {
+    "name": "Râșnov Medieval Run",
+    "location": "Râșnov",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "40km(2000m↑)",
+      "25km(1030m↑)",
+      "12km(400m↑)"
+    ],
+    "link": "https://www.runtransylvania.com/",
+    "link_fb": "https://www.facebook.com/rasnovmedievalrun",
+    "id": 17,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
     "name": "Maratonul Dragomirnei",
     "location": "Mitocu Dragomirnei",
     "location_details": "",
@@ -2988,6 +3060,23 @@
     "day": 19
   },
   {
+    "name": "Autism 24h Marea Neagra",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "CT",
+    "type": "sand",
+    "distances": [
+      "24H (3km/lap)"
+    ],
+    "link": "https://www.autism24h.ro/",
+    "link_fb": "https://www.facebook.com/Autism24H/",
+    "id": 316,
+    "year": 2026,
+    "month": 9,
+    "day": 19
+  },
+  {
     "name": "Mogosa Race",
     "location": "Baia Sprie",
     "location_details": "Domeniul Mogosa",
@@ -3174,6 +3263,23 @@
     "day": 26
   },
   {
+    "name": "Crosul Odorheiului",
+    "location": "Odorheiu Secuiesc",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "4.2km"
+    ],
+    "link": "https://tomegfutas.ro/ro/pagina-principala/",
+    "link_fb": "https://www.facebook.com/tomegfutas/",
+    "id": 343,
+    "year": 2026,
+    "month": 9,
+    "day": 26
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -3324,6 +3430,25 @@
     "year": 2026,
     "month": 10,
     "day": 4
+  },
+  {
+    "name": "Hercules Maraton",
+    "location": "Baile Herculane",
+    "location_details": "",
+    "display_date": "Sat 10-Oct-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "43km(2300m↑)",
+      "21km(1100m↑)",
+      "4km(180m↑)"
+    ],
+    "link": "https://hercules-maraton.ro/",
+    "link_fb": "https://www.facebook.com/HerculesMaraton",
+    "id": 335,
+    "year": 2026,
+    "month": 10,
+    "day": 10
   },
   {
     "name": "TulbuRun la Asconi Winery",
@@ -3477,6 +3602,26 @@
     "day": 31
   },
   {
+    "name": "Hațeg Royal Trail",
+    "location": "Hațeg",
+    "location_details": "",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "43.9km(2115m↑)",
+      "21km(922m↑)",
+      "12.4km(596m↑)",
+      "5.8km(224m↑)"
+    ],
+    "link": "https://hategroyaltrail.ro/",
+    "link_fb": "https://www.facebook.com/p/Hateg-Royal-Trail-61561625116652/",
+    "id": 336,
+    "year": 2026,
+    "month": 10,
+    "day": 31
+  },
+  {
     "name": "Băneasa Forest Run - Autumn",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -3512,6 +3657,25 @@
     "year": 2026,
     "month": 11,
     "day": 1
+  },
+  {
+    "name": "IstritaXscape",
+    "location": "Sărăta Monteoru",
+    "location_details": "",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "BZ",
+    "type": "trail",
+    "distances": [
+      "41km(1800m↑)",
+      "24km(900m↑)",
+      "10km(350m↑)"
+    ],
+    "link": "https://istritaxscape.ro/",
+    "link_fb": "https://www.facebook.com/istritaXscape/",
+    "id": 12,
+    "year": 2026,
+    "month": 11,
+    "day": 7
   },
   {
     "name": "Lunca Timișului CX",

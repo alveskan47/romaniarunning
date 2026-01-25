@@ -11,6 +11,16 @@
       "year_2023": ""
     },
     {
+      "id": 349,
+      "name": "15k Free Spirit Run Ruse - Giurgiu",
+      "location": "Giurgiu",
+      "county": "GR",
+      "year_2026": "",
+      "year_2025": "Sun 28-Sep",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": "Sat 30-Sep"
+    },
+    {
       "id": 140,
       "name": "1Run",
       "location": "București",
@@ -61,6 +71,16 @@
       "year_2023": "Sat 16-Sep"
     },
     {
+      "id": 340,
+      "name": "Alba Iulia City Race",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 28-Sep",
+      "year_2023": "Sat 30-Sep"
+    },
+    {
       "id": 216,
       "name": "Alearga bookuros",
       "location": "Sfântu Gheorghe",
@@ -69,6 +89,16 @@
       "year_2025": "Sat 24-May",
       "year_2024": "",
       "year_2023": ""
+    },
+    {
+      "id": 350,
+      "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
+      "location": "Petrila",
+      "county": "HD",
+      "year_2026": "",
+      "year_2025": "Sun 28-Sep",
+      "year_2024": "Sun 6-Oct",
+      "year_2023": "Sun 22-Oct"
     },
     {
       "id": 288,
@@ -195,7 +225,7 @@
       "name": "Autism 24h Marea Neagra",
       "location": "Constanța",
       "county": "CT",
-      "year_2026": "",
+      "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "Sat 14-Sep",
       "year_2023": "Sat 9-Sep"
@@ -425,7 +455,7 @@
       "name": "Casoaia Bike, Run & Fun",
       "location": "Casoaia",
       "county": "AR",
-      "year_2026": "",
+      "year_2026": "Sun 26-Jul",
       "year_2025": "Sun 27-Jul",
       "year_2024": "Sun 28-Jul",
       "year_2023": "Sun 30-Jul"
@@ -735,7 +765,7 @@
       "name": "Cros Montan Traversare Igniș",
       "location": "Baia Mare",
       "county": "MM",
-      "year_2026": "",
+      "year_2026": "Sat 20-Jun",
       "year_2025": "Sat 21-Jun",
       "year_2024": "Sat 22-Jun",
       "year_2023": "Sat 17-Jun"
@@ -759,6 +789,16 @@
       "year_2025": "Sat 6-Sep",
       "year_2024": "",
       "year_2023": ""
+    },
+    {
+      "id": 347,
+      "name": "Crosul #BeActive",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "Sat 27-Sep",
+      "year_2024": "Sat 28-Sep",
+      "year_2023": "Sat 23-Sep"
     },
     {
       "id": 11,
@@ -819,6 +859,16 @@
       "year_2025": "Sun 21-Sep",
       "year_2024": "Sun 22-Sep",
       "year_2023": "Sun 24-Sep"
+    },
+    {
+      "id": 346,
+      "name": "Crosul Brâncuși",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "Sat 27-Sep",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 218,
@@ -1011,6 +1061,16 @@
       "year_2023": "Sat 8-Jul"
     },
     {
+      "id": 339,
+      "name": "Crosul Ilfovului",
+      "location": "Snagov",
+      "county": "IF",
+      "year_2026": "",
+      "year_2025": "Fri 26-Sep",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 155,
       "name": "Crosul Indragostitilor de Alergare",
       "location": "Bistrița",
@@ -1027,6 +1087,26 @@
       "county": "SB",
       "year_2026": "",
       "year_2025": "Sat 9-Aug",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 352,
+      "name": "Crosul inimii – Sibiul are inima",
+      "location": "Sibiu",
+      "county": "SB",
+      "year_2026": "",
+      "year_2025": "Mon 29-Sep",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 348,
+      "name": "Crosul Inimilor - Alba Iulia",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "year_2026": "",
+      "year_2025": "Sat 27-Sep",
       "year_2024": "",
       "year_2023": ""
     },
@@ -1091,6 +1171,26 @@
       "year_2023": ""
     },
     {
+      "id": 343,
+      "name": "Crosul Odorheiului",
+      "location": "Odorheiu Secuiesc",
+      "county": "HR",
+      "year_2026": "Sat 26-Sep",
+      "year_2025": "Sat 27-Sep",
+      "year_2024": "Sat 28-Sep",
+      "year_2023": "Sat 30-Sep"
+    },
+    {
+      "id": 338,
+      "name": "Crosul OncoHelp",
+      "location": "Timișoara",
+      "county": "TM",
+      "year_2026": "",
+      "year_2025": "Sun 21-Sep",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 124,
       "name": "Crosul Orasului Mioveni 1485",
       "location": "Mioveni",
@@ -1101,24 +1201,24 @@
       "year_2023": "Sun 2-Jul"
     },
     {
-      "id": 180,
-      "name": "Crosul Pentru Viata - Craiova",
-      "location": "Craiova",
-      "county": "DJ",
-      "year_2026": "",
-      "year_2025": "Sat 5-Apr",
-      "year_2024": "",
-      "year_2023": ""
-    },
-    {
       "id": 173,
-      "name": "Crosul Pentru Viață",
+      "name": "Crosul Pentru Viață - București",
       "location": "București",
       "county": "B",
       "year_2026": "Sat 14-Mar",
       "year_2025": "Sat 22-Mar",
       "year_2024": "Sat 16-Mar",
       "year_2023": "Sat 18-Mar"
+    },
+    {
+      "id": 180,
+      "name": "Crosul Pentru Viață - Craiova",
+      "location": "Craiova",
+      "county": "DJ",
+      "year_2026": "",
+      "year_2025": "Sat 5-Apr",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 253,
@@ -1178,6 +1278,16 @@
       "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 5-Oct",
+      "year_2023": ""
+    },
+    {
+      "id": 345,
+      "name": "Crosul Severinului",
+      "location": "Drobeta Turnu-Severin",
+      "county": "MH",
+      "year_2026": "",
+      "year_2025": "Sat 27-Sep",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -1337,6 +1447,16 @@
       "county": "VN",
       "year_2026": "Sun 19-Apr",
       "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 351,
+      "name": "Delicium Run Fest",
+      "location": "Borsa (CJ)",
+      "county": "CJ",
+      "year_2026": "",
+      "year_2025": "Sun 28-Sep",
       "year_2024": "",
       "year_2023": ""
     },
@@ -1591,6 +1711,26 @@
       "year_2023": ""
     },
     {
+      "id": 336,
+      "name": "Hațeg Royal Trail",
+      "location": "Hațeg",
+      "county": "HD",
+      "year_2026": "Sat 31-Oct",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": "Sat 7-Oct"
+    },
+    {
+      "id": 335,
+      "name": "Hercules Maraton",
+      "location": "Baile Herculane",
+      "county": "CS",
+      "year_2026": "Sat 10-Oct",
+      "year_2025": "Sat 11-Oct",
+      "year_2024": "Sat 12-Oct",
+      "year_2023": "Sat 14-Oct"
+    },
+    {
       "id": 265,
       "name": "Heritage Run Biertan",
       "location": "Biertan",
@@ -1625,7 +1765,7 @@
       "name": "IstritaXscape",
       "location": "Sărăta Monteoru",
       "county": "BZ",
-      "year_2026": "",
+      "year_2026": "Sat 7-Nov",
       "year_2025": "Sat 15-Nov",
       "year_2024": "Sat 2-Nov",
       "year_2023": "Sat 4-Nov"
@@ -2195,7 +2335,7 @@
       "name": "Râșnov Medieval Run",
       "location": "Râșnov",
       "county": "BV",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 30-Aug",
       "year_2024": "Sat 31-Aug",
       "year_2023": "Sat 2-Sep"
@@ -2281,12 +2421,42 @@
       "year_2023": "Sat 29-Apr"
     },
     {
+      "id": 344,
+      "name": "Run for Future - Ploiești",
+      "location": "Ploiești",
+      "county": "PH",
+      "year_2026": "",
+      "year_2025": "Sat 27-Sep",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 254,
       "name": "Run for Heroes",
       "location": "București",
       "county": "B",
       "year_2026": "",
       "year_2025": "Sun 15-Jun",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 342,
+      "name": "Run for Life - București",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": "Sat 7-Oct"
+    },
+    {
+      "id": 341,
+      "name": "Run for Life - Dumbrava Vlasiei",
+      "location": "Snagov",
+      "county": "IF",
+      "year_2026": "",
+      "year_2025": "Sat 27-Sep",
       "year_2024": "",
       "year_2023": ""
     },
@@ -2543,7 +2713,7 @@
     {
       "id": 327,
       "name": "Sepsi Inst. Run",
-      "location": "Sfantu Gheorghe",
+      "location": "Sfântu Gheorghe",
       "county": "CV",
       "year_2026": "",
       "year_2025": "Fri 19-Sep",
@@ -2561,9 +2731,19 @@
       "year_2023": ""
     },
     {
+      "id": 337,
+      "name": "Sighet Run",
+      "location": "Sighetu Marmației",
+      "county": "MM",
+      "year_2026": "",
+      "year_2025": "Sat 20-Sep",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 324,
-      "name": "Sighisoara 10k",
-      "location": "Sighisoara",
+      "name": "Sighișoara 10k",
+      "location": "Sighișoara",
       "county": "MS",
       "year_2026": "",
       "year_2025": "Sun 14-Sep",
@@ -3159,6 +3339,16 @@
       "year_2025": "Sat 23-Aug",
       "year_2024": "Sat 24-Aug",
       "year_2023": "Sat 26-Aug"
+    },
+    {
+      "id": 334,
+      "name": "Viteza pe faleza",
+      "location": "Brăila",
+      "county": "BR",
+      "year_2026": "Sun 8-Feb",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 159,

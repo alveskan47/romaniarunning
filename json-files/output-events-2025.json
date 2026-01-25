@@ -691,7 +691,7 @@
     "day": 22
   },
   {
-    "name": "Crosul Pentru Viață",
+    "name": "Crosul Pentru Viață - București",
     "location": "București",
     "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
     "display_date": "Sat 22-Mar-2025",
@@ -930,7 +930,7 @@
     "day": 5
   },
   {
-    "name": "Crosul Pentru Viata - Craiova",
+    "name": "Crosul Pentru Viață - Craiova",
     "location": "Craiova",
     "location_details": "Parcul Tineretului",
     "display_date": "Sat 05-Apr-2025",
@@ -5095,8 +5095,8 @@
     "day": 14
   },
   {
-    "name": "Sighisoara 10k",
-    "location": "Sighisoara",
+    "name": "Sighișoara 10k",
+    "location": "Sighișoara",
     "location_details": "",
     "display_date": "Sun 14-Sep-2025",
     "county": "MS",
@@ -5152,7 +5152,7 @@
   },
   {
     "name": "Sepsi Inst. Run",
-    "location": "Sfantu Gheorghe",
+    "location": "Sfântu Gheorghe",
     "location_details": "",
     "display_date": "Fri 19-Sep-2025",
     "county": "CV",
@@ -5331,6 +5331,25 @@
     "day": 20
   },
   {
+    "name": "Sighet Run",
+    "location": "Sighetu Marmației",
+    "location_details": "",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "4km"
+    ],
+    "link": "https://www.salutsighet.ro/sighet-run-2025/",
+    "link_fb": "",
+    "id": 337,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
     "name": "Oradea City Running Day",
     "location": "Oradea",
     "location_details": "",
@@ -5406,6 +5425,41 @@
     "day": 21
   },
   {
+    "name": "Crosul OncoHelp",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sun 21-Sep-2025",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "10km",
+      "4.2km"
+    ],
+    "link": "https://www.facebook.com/events/706004499070577",
+    "link_fb": "",
+    "id": 338,
+    "year": 2025,
+    "month": 9,
+    "day": 21
+  },
+  {
+    "name": "Crosul Ilfovului",
+    "location": "Snagov",
+    "location_details": "",
+    "display_date": "Fri 26-Sep-2025",
+    "county": "IF",
+    "type": "road",
+    "distances": [
+      "5.5km"
+    ],
+    "link": "https://www.facebook.com/CJIlfov/posts/1203161195182076",
+    "link_fb": "",
+    "id": 339,
+    "year": 2025,
+    "month": 9,
+    "day": 26
+  },
+  {
     "name": "Maraton Piatra Craiului",
     "location": "Zărnești",
     "location_details": "",
@@ -5478,6 +5532,130 @@
     "day": 27
   },
   {
+    "name": "Run for Life - Dumbrava Vlasiei",
+    "location": "Snagov",
+    "location_details": "Pădurea Vladiceasa",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "22km",
+      "12km",
+      "6km",
+      "3km"
+    ],
+    "link": "https://runforlife.ro/",
+    "link_fb": "https://www.facebook.com/runforlife.ro/",
+    "id": 341,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Crosul Odorheiului",
+    "location": "Odorheiu Secuiesc",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "4.2km"
+    ],
+    "link": "https://tomegfutas.ro/ro/pagina-principala/",
+    "link_fb": "https://www.facebook.com/tomegfutas/",
+    "id": 343,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Run for Future - Ploiești",
+    "location": "Ploiești",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2km",
+      "1km"
+    ],
+    "link": "https://www.facebook.com/events/663605119433053",
+    "link_fb": "",
+    "id": 344,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Crosul Severinului",
+    "location": "Drobeta Turnu-Severin",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "MH",
+    "type": "road",
+    "distances": [
+      "2.15km"
+    ],
+    "link": "https://restartnews.ro/2025/09/19/start-inscrieri-la-crosul-severinului-2025/",
+    "link_fb": "",
+    "id": 345,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Crosul Brâncuși",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "0.9km"
+    ],
+    "link": "https://www.facebook.com/events/784142807922681",
+    "link_fb": "",
+    "id": 346,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Crosul #BeActive",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/24241819612180965/",
+    "link_fb": "",
+    "id": 347,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
+    "name": "Crosul Inimilor - Alba Iulia",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "display_date": "Sat 27-Sep-2025",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "5.4km"
+    ],
+    "link": "https://www.facebook.com/events/1986479028796791/",
+    "link_fb": "",
+    "id": 348,
+    "year": 2025,
+    "month": 9,
+    "day": 27
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -5536,6 +5714,74 @@
     "year": 2025,
     "month": 9,
     "day": 28
+  },
+  {
+    "name": "15k Free Spirit Run Ruse - Giurgiu",
+    "location": "Giurgiu",
+    "location_details": "",
+    "display_date": "Sun 28-Sep-2025",
+    "county": "GR",
+    "type": "road",
+    "distances": [
+      "15km"
+    ],
+    "link": "https://run.ruse-giurgiu.eu/",
+    "link_fb": "https://www.facebook.com/RunRuseGiurgiu/",
+    "id": 349,
+    "year": 2025,
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
+    "location": "Petrila",
+    "location_details": "Cheile Taii",
+    "display_date": "Sun 28-Sep-2025",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.facebook.com/Asociatia.SanMontan",
+    "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
+    "id": 350,
+    "year": 2025,
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "Delicium Run Fest",
+    "location": "Borsa (CJ)",
+    "location_details": "Ferma Delicium",
+    "display_date": "Sun 28-Sep-2025",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/ferma-delicium/delicium-run-fest/755724333893683/",
+    "link_fb": "",
+    "id": 351,
+    "year": 2025,
+    "month": 9,
+    "day": 28
+  },
+  {
+    "name": "Crosul inimii – Sibiul are inima",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Mon 29-Sep-2025",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.facebook.com/events/1263342372193058",
+    "link_fb": "",
+    "id": 352,
+    "year": 2025,
+    "month": 9,
+    "day": 29
   },
   {
     "name": "Beiuș Running Day",
@@ -5628,6 +5874,26 @@
     "day": 4
   },
   {
+    "name": "Hațeg Royal Trail",
+    "location": "Hațeg",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "43.9km(2115m↑)",
+      "21km(922m↑)",
+      "12.4km(596m↑)",
+      "5.8km(224m↑)"
+    ],
+    "link": "https://hategroyaltrail.ro/",
+    "link_fb": "https://www.facebook.com/p/Hateg-Royal-Trail-61561625116652/",
+    "id": 336,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
     "name": "Brașov Running Festival",
     "location": "Brașov",
     "location_details": "",
@@ -5660,6 +5926,25 @@
     "link": "https://porolissumtrail.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=100093972856046",
     "id": 97,
+    "year": 2025,
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "Hercules Maraton",
+    "location": "Baile Herculane",
+    "location_details": "",
+    "display_date": "Sat 11-Oct-2025",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "43km(2300m↑)",
+      "21km(1100m↑)",
+      "4km(180m↑)"
+    ],
+    "link": "https://hercules-maraton.ro/",
+    "link_fb": "https://www.facebook.com/HerculesMaraton",
+    "id": 335,
     "year": 2025,
     "month": 10,
     "day": 11
@@ -5955,8 +6240,8 @@
     "county": "BZ",
     "type": "trail",
     "distances": [
-      "39km(1800m↑)",
-      "24.6km(900m↑)",
+      "41km(1800m↑)",
+      "24km(900m↑)",
       "10km(350m↑)"
     ],
     "link": "https://istritaxscape.ro/",
