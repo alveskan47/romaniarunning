@@ -2967,6 +2967,24 @@
     "day": 24
   },
   {
+    "name": "Budureasa Mountain Running",
+    "location": "Budureasa",
+    "location_details": "",
+    "display_date": "Sun 24-Sep-2023",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "16km(800m↑)",
+      "8km(300m↑)"
+    ],
+    "link": "https://www.budureasarunning.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100093200435475",
+    "id": 353,
+    "year": 2023,
+    "month": 9,
+    "day": 24
+  },
+  {
     "name": "Chișinău Maraton",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -3403,6 +3421,26 @@
     "year": 2023,
     "month": 10,
     "day": 22
+  },
+  {
+    "name": "AlerGând la pădure",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 28-Oct-2023",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 355,
+    "year": 2023,
+    "month": 10,
+    "day": 28
   },
   {
     "name": "Băneasa Forest Run - Autumn",

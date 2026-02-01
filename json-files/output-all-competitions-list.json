@@ -151,6 +151,16 @@
       "year_2023": "Sat 6-May"
     },
     {
+      "id": 355,
+      "name": "AlerGând la pădure",
+      "location": "Reșița",
+      "county": "CS",
+      "year_2026": "Sat 24-Oct",
+      "year_2025": "Sat 18-Oct",
+      "year_2024": "Sat 26-Oct",
+      "year_2023": "Sat 28-Oct"
+    },
+    {
       "id": 212,
       "name": "Andurant Sprint Rafael",
       "location": "Codlea",
@@ -395,10 +405,20 @@
       "name": "Budeasa Swim & Run",
       "location": "Budeasa",
       "county": "AG",
-      "year_2026": "",
+      "year_2026": "Sat 11-Jul",
       "year_2025": "Sat 12-Jul",
       "year_2024": "Sat 13-Jul",
       "year_2023": ""
+    },
+    {
+      "id": 353,
+      "name": "Budureasa Mountain Running",
+      "location": "Budureasa",
+      "county": "BH",
+      "year_2026": "Sun 10-May",
+      "year_2025": "Sun 25-May",
+      "year_2024": "Sun 30-Jun",
+      "year_2023": "Sun 24-Sep"
     },
     {
       "id": 274,
@@ -1711,6 +1731,16 @@
       "year_2023": ""
     },
     {
+      "id": 354,
+      "name": "Harvest Run",
+      "location": "Vladimirescu (AR)",
+      "county": "AR",
+      "year_2026": "Sat 3-Oct",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": ""
+    },
+    {
       "id": 336,
       "name": "Hațeg Royal Trail",
       "location": "Hațeg",
@@ -2845,7 +2875,7 @@
       "name": "StruguRUN",
       "location": "Odobesti",
       "county": "VN",
-      "year_2026": "",
+      "year_2026": "Sat 5-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "",
       "year_2023": ""

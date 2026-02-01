@@ -1237,6 +1237,24 @@
     "day": 10
   },
   {
+    "name": "Budureasa Mountain Running",
+    "location": "Budureasa",
+    "location_details": "",
+    "display_date": "Sun 10-May-2026",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "16km(800m↑)",
+      "8km(300m↑)"
+    ],
+    "link": "https://www.budureasarunning.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100093200435475",
+    "id": 353,
+    "year": 2026,
+    "month": 5,
+    "day": 10
+  },
+  {
     "name": "Wings for Life World Run",
     "location": "-",
     "location_details": "",
@@ -2365,6 +2383,23 @@
     "day": 11
   },
   {
+    "name": "Budeasa Swim & Run",
+    "location": "Budeasa",
+    "location_details": "",
+    "display_date": "Sat 11-Jul-2026",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://triatlet.ro/",
+    "link_fb": "https://www.facebook.com/p/Budeasa-SWIM-RUN-61555396305833/",
+    "id": 271,
+    "year": 2026,
+    "month": 7,
+    "day": 11
+  },
+  {
     "name": "Maraton Bate Toaca",
     "location": "Durău",
     "location_details": "",
@@ -2773,6 +2808,25 @@
     "link": "https://www.facebook.com/profile.php?id=100064617015844",
     "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
     "id": 176,
+    "year": 2026,
+    "month": 9,
+    "day": 5
+  },
+  {
+    "name": "StruguRUN",
+    "location": "Odobesti",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "22km(850m↑)",
+      "12km(500m↑)",
+      "5km"
+    ],
+    "link": "https://strugurun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61575336716620",
+    "id": 320,
     "year": 2026,
     "month": 9,
     "day": 5
@@ -3395,6 +3449,26 @@
     "day": 3
   },
   {
+    "name": "Harvest Run",
+    "location": "Vladimirescu (AR)",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 354,
+    "year": 2026,
+    "month": 10,
+    "day": 3
+  },
+  {
     "name": "Brașov Running Festival",
     "location": "Brașov",
     "location_details": "",
@@ -3545,6 +3619,26 @@
     "year": 2026,
     "month": 10,
     "day": 17
+  },
+  {
+    "name": "AlerGând la pădure",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 355,
+    "year": 2026,
+    "month": 10,
+    "day": 24
   },
   {
     "name": "Timișoara City Marathon",

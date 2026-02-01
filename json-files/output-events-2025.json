@@ -2237,6 +2237,24 @@
     "day": 25
   },
   {
+    "name": "Budureasa Mountain Running",
+    "location": "Budureasa",
+    "location_details": "",
+    "display_date": "Sun 25-May-2025",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "16km(800m↑)",
+      "8km(300m↑)"
+    ],
+    "link": "https://www.budureasarunning.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100093200435475",
+    "id": 353,
+    "year": 2025,
+    "month": 5,
+    "day": 25
+  },
+  {
     "name": "Ultrabug",
     "location": "Fundu Moldovei",
     "location_details": "",
@@ -5894,6 +5912,26 @@
     "day": 4
   },
   {
+    "name": "Harvest Run",
+    "location": "Vladimirescu (AR)",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 354,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
     "name": "Brașov Running Festival",
     "location": "Brașov",
     "location_details": "",
@@ -6060,6 +6098,26 @@
     "link": "https://azuga.trailrace.ro/",
     "link_fb": "https://www.facebook.com/AzugaTrailRace/",
     "id": 307,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
+    "name": "AlerGând la pădure",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 355,
     "year": 2025,
     "month": 10,
     "day": 18

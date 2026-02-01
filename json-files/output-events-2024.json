@@ -1931,6 +1931,24 @@
     "day": 30
   },
   {
+    "name": "Budureasa Mountain Running",
+    "location": "Budureasa",
+    "location_details": "",
+    "display_date": "Sun 30-Jun-2024",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "16km(800m↑)",
+      "8km(300m↑)"
+    ],
+    "link": "https://www.budureasarunning.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100093200435475",
+    "id": 353,
+    "year": 2024,
+    "month": 6,
+    "day": 30
+  },
+  {
     "name": "Cozia Mountain Run",
     "location": "Călimănești",
     "location_details": "",
@@ -3564,6 +3582,26 @@
     "day": 5
   },
   {
+    "name": "Harvest Run",
+    "location": "Vladimirescu (AR)",
+    "location_details": "",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 354,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
     "location": "Petrila",
     "location_details": "Cheile Taii",
@@ -3800,6 +3838,26 @@
     "link": "https://www.fundatiarafael.org/maratonul-montan-rafael/",
     "link_fb": "https://www.facebook.com/FundatiaRafael",
     "id": 213,
+    "year": 2024,
+    "month": 10,
+    "day": 26
+  },
+  {
+    "name": "AlerGând la pădure",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 26-Oct-2024",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://harvestrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "id": 355,
     "year": 2024,
     "month": 10,
     "day": 26

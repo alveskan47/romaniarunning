@@ -8137,6 +8137,11 @@
       "link_fb": "https://www.facebook.com/p/Budeasa-SWIM-RUN-61555396305833/",
       "editions": [
         {
+          "year": 2026,
+          "month": 7,
+          "day": 11
+        },
+        {
           "year": 2025,
           "month": 7,
           "day": 12
@@ -9504,6 +9509,11 @@
       "link_fb": "https://www.facebook.com/profile.php?id=61575336716620",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 13
@@ -10291,6 +10301,110 @@
           "month": 9,
           "day": 29,
           "event_link": "https://www.facebook.com/events/1263342372193058"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Budureasa Mountain Running",
+      "location": "Budureasa",
+      "county": "BH",
+      "type": "trail",
+      "distances": [
+        "16km(800m↑)",
+        "8km(300m↑)"
+      ],
+      "link": "https://www.budureasarunning.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=100093200435475",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 10
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 25
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 30
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Harvest Run",
+      "location": "Vladimirescu (AR)",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "https://harvestrun.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "name": "AlerGând la pădure",
+      "location": "Reșița",
+      "county": "CS",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "https://harvestrun.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 18
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 26
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 28
         }
       ]
     }
