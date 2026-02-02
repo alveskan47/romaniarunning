@@ -941,6 +941,16 @@
       "year_2023": ""
     },
     {
+      "id": 357,
+      "name": "Crosul Cetății Oradea",
+      "location": "Oradea",
+      "county": "BH",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "Mon 7-Oct",
+      "year_2023": "Thu 7-Sep"
+    },
+    {
       "id": 151,
       "name": "Crosul Companiilor Cluj",
       "location": "Cluj-Napoca",
@@ -1319,6 +1329,16 @@
       "year_2025": "Sat 2-Aug",
       "year_2024": "Sat 10-Aug",
       "year_2023": ""
+    },
+    {
+      "id": 356,
+      "name": "Crosul Sperantei Blaj",
+      "location": "Blaj",
+      "county": "AB",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "",
+      "year_2023": "Sat 7-Oct"
     },
     {
       "id": 187,
@@ -1791,6 +1811,16 @@
       "year_2023": "Sat 1-Jul"
     },
     {
+      "id": 359,
+      "name": "Honey Run",
+      "location": "Lugoj",
+      "county": "TM",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "Sun 2-Jun",
+      "year_2023": "Sun 7-May"
+    },
+    {
       "id": 12,
       "name": "IstritaXscape",
       "location": "Sărăta Monteoru",
@@ -1959,16 +1989,6 @@
       "year_2025": "Wed 27-Aug",
       "year_2024": "",
       "year_2023": ""
-    },
-    {
-      "id": 260,
-      "name": "Maraton Tarcau",
-      "location": "Tarcau",
-      "county": "NT",
-      "year_2026": "",
-      "year_2025": "Sat 21-Jun",
-      "year_2024": "Sat 11-May",
-      "year_2023": "Sat 6-May"
     },
     {
       "id": 21,
@@ -2177,6 +2197,16 @@
       "county": "AR",
       "year_2026": "",
       "year_2025": "Sun 31-Aug",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 358,
+      "name": "Moonlight Run Marghita",
+      "location": "Marghita",
+      "county": "BH",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
       "year_2024": "",
       "year_2023": ""
     },
@@ -2716,9 +2746,9 @@
       "location": "Craiova",
       "county": "DJ",
       "year_2026": "",
-      "year_2025": "Sat 15-Nov",
-      "year_2024": "Sat 2-Nov",
-      "year_2023": "Sat 4-Nov"
+      "year_2025": "Sat 18-Oct",
+      "year_2024": "Sat 19-Oct",
+      "year_2023": "Tue 22-Aug"
     },
     {
       "id": 65,
@@ -3319,6 +3349,16 @@
       "year_2025": "Sun 28-Sep",
       "year_2024": "Sun 29-Sep",
       "year_2023": "Sun 1-Oct"
+    },
+    {
+      "id": 260,
+      "name": "Vâlcea Forest Run",
+      "location": "Bujoreni",
+      "county": "VL",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": "Sat 21-Oct"
     },
     {
       "id": 250,

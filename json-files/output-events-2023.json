@@ -874,25 +874,6 @@
     "day": 6
   },
   {
-    "name": "Maraton Tarcau",
-    "location": "Tarcau",
-    "location_details": "Schitu Tarcau",
-    "display_date": "Sat 06-May-2023",
-    "county": "NT",
-    "type": "trail",
-    "distances": [
-      "42.7km(1140m↑)",
-      "22km(570m↑)",
-      "8km"
-    ],
-    "link": "https://maraton-tarcau.ro/",
-    "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
-    "id": 260,
-    "year": 2023,
-    "month": 5,
-    "day": 6
-  },
-  {
     "name": "Mureș Half Marathon",
     "location": "Târgu Mureș",
     "location_details": "",
@@ -925,6 +906,26 @@
     "link": "https://phm.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/PitestiHalfMarathon/",
     "id": 138,
+    "year": 2023,
+    "month": 5,
+    "day": 7
+  },
+  {
+    "name": "Honey Run",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sun 07-May-2023",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21.1km",
+      "10km",
+      "5km",
+      "1.5km"
+    ],
+    "link": "https://www.honeyrun.ro/",
+    "link_fb": "https://www.facebook.com/HoneyRunLugoj/",
+    "id": 359,
     "year": 2023,
     "month": 5,
     "day": 7
@@ -2267,6 +2268,25 @@
     "day": 19
   },
   {
+    "name": "Semimaratonul Craiovei",
+    "location": "Craiova",
+    "location_details": "",
+    "display_date": "Tue 22-Aug-2023",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "14km",
+      "7km"
+    ],
+    "link": "https://www.semimaratonulcraiovei.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
+    "id": 13,
+    "year": 2023,
+    "month": 8,
+    "day": 22
+  },
+  {
     "name": "Via Transilvanica Maraton",
     "location": "Piatra Fântânele",
     "location_details": "Campusul Tasuleasa Social",
@@ -2476,6 +2496,24 @@
     "year": 2023,
     "month": 9,
     "day": 3
+  },
+  {
+    "name": "Crosul Cetății Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Thu 07-Sep-2023",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.crosulcetatii.ro/ro/",
+    "link_fb": "https://www.facebook.com/crosulcetatii",
+    "id": 357,
+    "year": 2023,
+    "month": 9,
+    "day": 7
   },
   {
     "name": "Ciucaș X3",
@@ -3232,6 +3270,25 @@
     "day": 7
   },
   {
+    "name": "Crosul Sperantei Blaj",
+    "location": "Blaj",
+    "location_details": "",
+    "display_date": "Sat 07-Oct-2023",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "8km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/RunningAndCyclingClubBlaj",
+    "link_fb": "https://www.facebook.com/RunningAndCyclingClubBlaj",
+    "id": 356,
+    "year": 2023,
+    "month": 10,
+    "day": 7
+  },
+  {
     "name": "Semimaraton Călărași",
     "location": "Călărași",
     "location_details": "",
@@ -3342,6 +3399,25 @@
     "link": "https://runnersclub.ro/faget-tour/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 153,
+    "year": 2023,
+    "month": 10,
+    "day": 21
+  },
+  {
+    "name": "Vâlcea Forest Run",
+    "location": "Bujoreni",
+    "location_details": "Muzeul Satului Vâlcean",
+    "display_date": "Sat 21-Oct-2023",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://fcvl.ro/vfr/",
+    "link_fb": "https://www.facebook.com/valceaforestrun/",
+    "id": 260,
     "year": 2023,
     "month": 10,
     "day": 21
@@ -3477,25 +3553,6 @@
     "link": "https://istritaxscape.ro/",
     "link_fb": "https://www.facebook.com/istritaXscape/",
     "id": 12,
-    "year": 2023,
-    "month": 11,
-    "day": 4
-  },
-  {
-    "name": "Semimaratonul Craiovei",
-    "location": "Craiova",
-    "location_details": "",
-    "display_date": "Sat 04-Nov-2023",
-    "county": "DJ",
-    "type": "road",
-    "distances": [
-      "21km",
-      "14km",
-      "7km"
-    ],
-    "link": "https://www.semimaratonulcraiovei.ro/",
-    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
-    "id": 13,
     "year": 2023,
     "month": 11,
     "day": 4

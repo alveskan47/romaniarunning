@@ -942,25 +942,6 @@
     "day": 11
   },
   {
-    "name": "Maraton Tarcau",
-    "location": "Tarcau",
-    "location_details": "Schitu Tarcau",
-    "display_date": "Sat 11-May-2024",
-    "county": "NT",
-    "type": "trail",
-    "distances": [
-      "42.7km(1140m↑)",
-      "22km(570m↑)",
-      "8km"
-    ],
-    "link": "https://maraton-tarcau.ro/",
-    "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
-    "id": 260,
-    "year": 2024,
-    "month": 5,
-    "day": 11
-  },
-  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -1444,6 +1425,26 @@
     "year": 2024,
     "month": 6,
     "day": 1
+  },
+  {
+    "name": "Honey Run",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sun 02-Jun-2024",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21.1km",
+      "10km",
+      "5km",
+      "1.5km"
+    ],
+    "link": "https://www.honeyrun.ro/",
+    "link_fb": "https://www.facebook.com/HoneyRunLugoj/",
+    "id": 359,
+    "year": 2024,
+    "month": 6,
+    "day": 2
   },
   {
     "name": "Maraton Apuseni",
@@ -3507,6 +3508,25 @@
     "day": 5
   },
   {
+    "name": "Vâlcea Forest Run",
+    "location": "Bujoreni",
+    "location_details": "Muzeul Satului Vâlcean",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://fcvl.ro/vfr/",
+    "link_fb": "https://www.facebook.com/valceaforestrun/",
+    "id": 260,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Mârzeşti Trail Run",
     "location": "Rediu",
     "location_details": "Pădurea Mârzeşti, Breazu",
@@ -3617,6 +3637,24 @@
     "year": 2024,
     "month": 10,
     "day": 6
+  },
+  {
+    "name": "Crosul Cetății Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Mon 07-Oct-2024",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.crosulcetatii.ro/ro/",
+    "link_fb": "https://www.facebook.com/crosulcetatii",
+    "id": 357,
+    "year": 2024,
+    "month": 10,
+    "day": 7
   },
   {
     "name": "Porolissum Trail",
@@ -3730,6 +3768,25 @@
     "year": 2024,
     "month": 10,
     "day": 13
+  },
+  {
+    "name": "Semimaratonul Craiovei",
+    "location": "Craiova",
+    "location_details": "",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "14km",
+      "7km"
+    ],
+    "link": "https://www.semimaratonulcraiovei.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
+    "id": 13,
+    "year": 2024,
+    "month": 10,
+    "day": 19
   },
   {
     "name": "Faget Tour",
@@ -3897,25 +3954,6 @@
     "link": "https://istritaxscape.ro/",
     "link_fb": "https://www.facebook.com/istritaXscape/",
     "id": 12,
-    "year": 2024,
-    "month": 11,
-    "day": 2
-  },
-  {
-    "name": "Semimaratonul Craiovei",
-    "location": "Craiova",
-    "location_details": "",
-    "display_date": "Sat 02-Nov-2024",
-    "county": "DJ",
-    "type": "road",
-    "distances": [
-      "21km",
-      "14km",
-      "7km"
-    ],
-    "link": "https://www.semimaratonulcraiovei.ro/",
-    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
-    "id": 13,
     "year": 2024,
     "month": 11,
     "day": 2

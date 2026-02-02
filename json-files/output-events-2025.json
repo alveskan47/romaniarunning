@@ -3382,25 +3382,6 @@
     "day": 21
   },
   {
-    "name": "Maraton Tarcau",
-    "location": "Tarcau",
-    "location_details": "Schitu Tarcau",
-    "display_date": "Sat 21-Jun-2025",
-    "county": "NT",
-    "type": "trail",
-    "distances": [
-      "42.7km(1140m↑)",
-      "22km(570m↑)",
-      "8km"
-    ],
-    "link": "https://maraton-tarcau.ro/",
-    "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
-    "id": 260,
-    "year": 2025,
-    "month": 6,
-    "day": 21
-  },
-  {
     "name": "Roșia Montană Marathon",
     "location": "Roșia Montană",
     "location_details": "",
@@ -5873,6 +5854,25 @@
     "day": 4
   },
   {
+    "name": "Vâlcea Forest Run",
+    "location": "Bujoreni",
+    "location_details": "Muzeul Satului Vâlcean",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://fcvl.ro/vfr/",
+    "link_fb": "https://www.facebook.com/valceaforestrun/",
+    "id": 260,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
     "name": "Mârzeşti Trail Run",
     "location": "Rediu",
     "location_details": "Pădurea Mârzeşti, Breazu",
@@ -5927,6 +5927,80 @@
     "link": "https://harvestrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
     "id": 354,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Crosul Sperantei Blaj",
+    "location": "Blaj",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "8km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/RunningAndCyclingClubBlaj",
+    "link_fb": "https://www.facebook.com/RunningAndCyclingClubBlaj",
+    "id": 356,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Crosul Cetății Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.crosulcetatii.ro/ro/",
+    "link_fb": "https://www.facebook.com/crosulcetatii",
+    "id": 357,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Moonlight Run Marghita",
+    "location": "Marghita",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://runforfreedom.ro/",
+    "link_fb": "https://www.facebook.com/runforfreedommarghita/",
+    "id": 358,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Honey Run",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21.1km",
+      "10km",
+      "5km",
+      "1.5km"
+    ],
+    "link": "https://www.honeyrun.ro/",
+    "link_fb": "https://www.facebook.com/HoneyRunLugoj/",
+    "id": 359,
     "year": 2025,
     "month": 10,
     "day": 4
@@ -6024,6 +6098,25 @@
     "year": 2025,
     "month": 10,
     "day": 12
+  },
+  {
+    "name": "Semimaratonul Craiovei",
+    "location": "Craiova",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "14km",
+      "7km"
+    ],
+    "link": "https://www.semimaratonulcraiovei.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
+    "id": 13,
+    "year": 2025,
+    "month": 10,
+    "day": 18
   },
   {
     "name": "Semimaraton Călărași",
@@ -6305,25 +6398,6 @@
     "link": "https://istritaxscape.ro/",
     "link_fb": "https://www.facebook.com/istritaXscape/",
     "id": 12,
-    "year": 2025,
-    "month": 11,
-    "day": 15
-  },
-  {
-    "name": "Semimaratonul Craiovei",
-    "location": "Craiova",
-    "location_details": "",
-    "display_date": "Sat 15-Nov-2025",
-    "county": "DJ",
-    "type": "road",
-    "distances": [
-      "21km",
-      "14km",
-      "7km"
-    ],
-    "link": "https://www.semimaratonulcraiovei.ro/",
-    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
-    "id": 13,
     "year": 2025,
     "month": 11,
     "day": 15

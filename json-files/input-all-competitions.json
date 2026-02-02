@@ -455,18 +455,18 @@
       "editions": [
         {
           "year": 2025,
-          "month": 11,
-          "day": 15
+          "month": 10,
+          "day": 18
         },
         {
           "year": 2024,
-          "month": 11,
-          "day": 2
+          "month": 10,
+          "day": 19
         },
         {
           "year": 2023,
-          "month": 11,
-          "day": 4
+          "month": 8,
+          "day": 22
         }
       ]
     },
@@ -7823,33 +7823,33 @@
     },
     {
       "id": 260,
-      "name": "Maraton Tarcau",
-      "location": "Tarcau",
-      "location_details": "Schitu Tarcau",
-      "county": "NT",
+      "name": "Vâlcea Forest Run",
+      "location": "Bujoreni",
+      "location_details": "Muzeul Satului Vâlcean",
+      "county": "VL",
       "type": "trail",
       "distances": [
-        "42.7km(1140m↑)",
-        "22km(570m↑)",
-        "8km"
+        "21km",
+        "10km",
+        "5km"
       ],
-      "link": "https://maraton-tarcau.ro/",
-      "link_fb": "https://www.facebook.com/profile.php?id=100090512883067",
+      "link": "https://fcvl.ro/vfr/",
+      "link_fb": "https://www.facebook.com/valceaforestrun/",
       "editions": [
         {
           "year": 2025,
-          "month": 6,
-          "day": 21
+          "month": 10,
+          "day": 4
         },
         {
           "year": 2024,
-          "month": 5,
-          "day": 11
+          "month": 10,
+          "day": 5
         },
         {
           "year": 2023,
-          "month": 5,
-          "day": 6
+          "month": 10,
+          "day": 21
         }
       ]
     },
@@ -10405,6 +10405,113 @@
           "year": 2023,
           "month": 10,
           "day": 28
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Crosul Sperantei Blaj",
+      "location": "Blaj",
+      "county": "AB",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "8km",
+        "3km"
+      ],
+      "link": "https://www.facebook.com/RunningAndCyclingClubBlaj",
+      "link_fb": "https://www.facebook.com/RunningAndCyclingClubBlaj",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "name": "Crosul Cetății Oradea",
+      "location": "Oradea",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "https://www.crosulcetatii.ro/ro/",
+      "link_fb": "https://www.facebook.com/crosulcetatii",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 7
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Moonlight Run Marghita",
+      "location": "Marghita",
+      "county": "BH",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://runforfreedom.ro/",
+      "link_fb": "https://www.facebook.com/runforfreedommarghita/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "name": "Honey Run",
+      "location": "Lugoj",
+      "county": "TM",
+      "type": "trail",
+      "distances": [
+        "21.1km",
+        "10km",
+        "5km",
+        "1.5km"
+      ],
+      "link": "https://www.honeyrun.ro/",
+      "link_fb": "https://www.facebook.com/HoneyRunLugoj/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 4
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 2
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 7
         }
       ]
     }
