@@ -209,7 +209,7 @@
       "8km",
       "4km"
     ],
-    "link": "https://iticket.md/event/love-run-fest-2024",
+    "link": "https://www.runmoldova.com/",
     "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2024,
@@ -3622,6 +3622,23 @@
     "day": 5
   },
   {
+    "name": "Alergarea Acasa la Taraboste",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
+    "id": 0,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
     "location": "Petrila",
     "location_details": "Cheile Taii",
@@ -3634,6 +3651,43 @@
     "link": "https://www.facebook.com/Asociatia.SanMontan",
     "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
     "id": 350,
+    "year": 2024,
+    "month": 10,
+    "day": 6
+  },
+  {
+    "name": "Olt Forras Trail Running Race",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sun 06-Oct-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "22km(1000m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://szentgellertcross.ro/ro/oltforrastrail/",
+    "link_fb": "https://www.facebook.com/szentgellertcross/",
+    "id": 365,
+    "year": 2024,
+    "month": 10,
+    "day": 6
+  },
+  {
+    "name": "Sun Challenge",
+    "location": "București",
+    "location_details": "Parcul Vacarești",
+    "display_date": "Sun 06-Oct-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "20km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.sun-plaza.ro/sun-challenge-2024/",
+    "link_fb": "",
+    "id": 366,
     "year": 2024,
     "month": 10,
     "day": 6

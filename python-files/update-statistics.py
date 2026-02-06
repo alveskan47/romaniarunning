@@ -87,9 +87,12 @@ def update_total_competitions(competitions_data):
     # Dictionary to store count of competitions per year
     year_counts = defaultdict(int)
 
-    # Iterate through all competitions
+    # Iterate through all competitions (excluding competitions with id 0)
     competitions = competitions_data.get('competitions', [])
     for competition in competitions:
+        # Skip competitions with id 0
+        if competition.get('id') == 0:
+            continue
         # Get editions for this competition
         editions = competition.get('editions', [])
 
@@ -128,9 +131,12 @@ def update_competitions_by_month(competitions_data):
     # Each year will have an array of 12 integers (one for each month)
     year_month_counts = defaultdict(lambda: [0] * 12)
 
-    # Iterate through all competitions
+    # Iterate through all competitions (excluding competitions with id 0)
     competitions = competitions_data.get('competitions', [])
     for competition in competitions:
+        # Skip competitions with id 0
+        if competition.get('id') == 0:
+            continue
         # Get editions for this competition
         editions = competition.get('editions', [])
 
@@ -173,9 +179,12 @@ def update_competitions_by_type(competitions_data):
     # Dictionary to store competitions by type for each year
     year_type_counts = defaultdict(lambda: defaultdict(int))
 
-    # Iterate through all competitions
+    # Iterate through all competitions (excluding competitions with id 0)
     competitions = competitions_data.get('competitions', [])
     for competition in competitions:
+        # Skip competitions with id 0
+        if competition.get('id') == 0:
+            continue
         # Get the type of competition (road, trail, sand, etc.)
         comp_type = competition.get('type', 'other')
 
@@ -229,9 +238,12 @@ def update_competitions_by_county(competitions_data):
     # Dictionary to store competitions by county for each year
     year_county_counts = defaultdict(lambda: defaultdict(int))
 
-    # Iterate through all competitions
+    # Iterate through all competitions (excluding competitions with id 0)
     competitions = competitions_data.get('competitions', [])
     for competition in competitions:
+        # Skip competitions with id 0
+        if competition.get('id') == 0:
+            continue
         # Get the county code
         county = competition.get('county')
 
@@ -282,9 +294,12 @@ def update_competitions_by_towns(competitions_data):
     # Dictionary to store competitions by town for each year
     year_town_counts = defaultdict(lambda: defaultdict(int))
 
-    # Iterate through all competitions
+    # Iterate through all competitions (excluding competitions with id 0)
     competitions = competitions_data.get('competitions', [])
     for competition in competitions:
+        # Skip competitions with id 0
+        if competition.get('id') == 0:
+            continue
         # Get the location (town name)
         location = competition.get('location')
 

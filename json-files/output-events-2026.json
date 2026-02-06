@@ -587,7 +587,10 @@
     "type": "trail",
     "distances": [
       "21km(530m↑)",
-      "10.5km(265m↑)"
+      "10.5km(265m↑)",
+      "5.6km(167m↑)",
+      "2km(59m↑)",
+      "kids race"
     ],
     "link": "https://urc.run/",
     "link_fb": "https://www.facebook.com/URC.run/",
@@ -1098,7 +1101,7 @@
       "22km",
       "11km"
     ],
-    "link": "https://www.facebook.com/events/641805045550158",
+    "link": "https://www.runmoldova.com/",
     "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2026,
@@ -2077,6 +2080,23 @@
     "day": 14
   },
   {
+    "name": "Run for Heroes",
+    "location": "București",
+    "location_details": "Biblioteca Națională a României",
+    "display_date": "Sun 14-Jun-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.runforheroes.ro/",
+    "link_fb": "https://www.facebook.com/runforheroesfueledbyoscar/",
+    "id": 254,
+    "year": 2026,
+    "month": 6,
+    "day": 14
+  },
+  {
     "name": "Race for the Cure Romania",
     "location": "București",
     "location_details": "",
@@ -2240,6 +2260,23 @@
     "link": "https://runnersclub.ro/crosulhoia/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 150,
+    "year": 2026,
+    "month": 6,
+    "day": 27
+  },
+  {
+    "name": "Ultra Zarand History - Soimos",
+    "location": "Soimos",
+    "location_details": "",
+    "display_date": "Sat 27-Jun-2026",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 262,
     "year": 2026,
     "month": 6,
     "day": 27
@@ -3334,29 +3371,6 @@
     "day": 26
   },
   {
-    "name": "UVT Liberty Marathon Timișoara",
-    "location": "Timișoara",
-    "location_details": "",
-    "display_date": "Sun 27-Sep-2026",
-    "county": "TM",
-    "type": "road",
-    "distances": [
-      "42km",
-      "21km",
-      "10.5km",
-      "2km",
-      "2x21km relay",
-      "4x10.5km relay",
-      "2x10.5km relay"
-    ],
-    "link": "https://libertymarathon.uvt.ro/",
-    "link_fb": "https://www.facebook.com/UVTLibertyMarathon/",
-    "id": 98,
-    "year": 2026,
-    "month": 9,
-    "day": 27
-  },
-  {
     "name": "Buzău 21k",
     "location": "Buzău",
     "location_details": "",
@@ -3467,6 +3481,29 @@
     "year": 2026,
     "month": 10,
     "day": 3
+  },
+  {
+    "name": "UVT Liberty Marathon Timișoara",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sun 04-Oct-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10.5km",
+      "2km",
+      "2x21km relay",
+      "4x10.5km relay",
+      "2x10.5km relay"
+    ],
+    "link": "https://libertymarathon.uvt.ro/",
+    "link_fb": "https://www.facebook.com/UVTLibertyMarathon/",
+    "id": 98,
+    "year": 2026,
+    "month": 10,
+    "day": 4
   },
   {
     "name": "Brașov Running Festival",
@@ -3601,6 +3638,25 @@
     "day": 17
   },
   {
+    "name": "Ultra Zarand - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "110km(4000m↑)",
+      "23.5km(1100m↑)",
+      "12.5km(600m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 263,
+    "year": 2026,
+    "month": 10,
+    "day": 17
+  },
+  {
     "name": "Azuga Trail Race",
     "location": "Azuga",
     "location_details": "",
@@ -3662,11 +3718,11 @@
   },
   {
     "name": "Cursa Imposibilă",
-    "location": "-",
+    "location": "anywhere",
     "location_details": "",
     "display_date": "Sun 25-Oct-2026",
     "county": "-",
-    "type": "virtual",
+    "type": "road",
     "distances": [
       "-"
     ],
@@ -3916,6 +3972,26 @@
     "link": "https://paj.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/semimaratonpitesti",
     "id": 139,
+    "year": 2026,
+    "month": 12,
+    "day": 13
+  },
+  {
+    "name": "Ultra Zarand Everesting - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sun 13-Dec-2026",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "193km(10450m↑)",
+      "172km(9250m↑)",
+      "86km(4600m↑)",
+      "11km(580m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 264,
     "year": 2026,
     "month": 12,
     "day": 13

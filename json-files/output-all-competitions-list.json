@@ -1001,6 +1001,16 @@
       "year_2023": ""
     },
     {
+      "id": 362,
+      "name": "Crosul Copiilor Sibiu",
+      "location": "Sibiu",
+      "county": "SB",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 261,
       "name": "Crosul Culorilor - Blaj",
       "location": "Blaj",
@@ -1447,6 +1457,16 @@
       "county": "PH",
       "year_2026": "",
       "year_2025": "Sat 31-May",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 363,
+      "name": "Cupa Startsport",
+      "location": "Craiova",
+      "county": "DJ",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
       "year_2024": "",
       "year_2023": ""
     },
@@ -2241,6 +2261,16 @@
       "year_2023": ""
     },
     {
+      "id": 365,
+      "name": "Olt Forras Trail Running Race",
+      "location": "Gheorgheni",
+      "county": "HR",
+      "year_2026": "",
+      "year_2025": "Sun 5-Oct",
+      "year_2024": "Sun 6-Oct",
+      "year_2023": ""
+    },
+    {
       "id": 291,
       "name": "Oltenia Forest Run - Baile Govora",
       "location": "Baile Govora",
@@ -2327,6 +2357,16 @@
       "county": "BN",
       "year_2026": "",
       "year_2025": "Sat 22-Mar",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 360,
+      "name": "Penny competitie de mers",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
       "year_2024": "",
       "year_2023": ""
     },
@@ -2495,7 +2535,7 @@
       "name": "Run for Heroes",
       "location": "București",
       "county": "B",
-      "year_2026": "",
+      "year_2026": "Sun 14-Jun",
       "year_2025": "Sun 15-Jun",
       "year_2024": "",
       "year_2023": ""
@@ -2621,6 +2661,16 @@
       "year_2023": ""
     },
     {
+      "id": 361,
+      "name": "Secret Paradise Running",
+      "location": "Piatra Fantanele",
+      "county": "BN",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 3,
       "name": "Semimaraton Brașov",
       "location": "Brașov",
@@ -2659,6 +2709,16 @@
       "year_2025": "Sat 24-May",
       "year_2024": "Sat 25-May",
       "year_2023": "Sat 20-May"
+    },
+    {
+      "id": 364,
+      "name": "Semimaraton Focșani",
+      "location": "Focșani",
+      "county": "VN",
+      "year_2026": "",
+      "year_2025": "Sun 5-Oct",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 23,
@@ -2919,6 +2979,16 @@
       "year_2025": "Sat 10-May",
       "year_2024": "Sat 11-May",
       "year_2023": "Sat 6-May"
+    },
+    {
+      "id": 366,
+      "name": "Sun Challenge",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "Sun 5-Oct",
+      "year_2024": "Sun 6-Oct",
+      "year_2023": "Sun 1-Oct"
     },
     {
       "id": 301,
@@ -3225,7 +3295,7 @@
       "name": "Ultra Zarand - Căsoaia",
       "location": "Căsoaia",
       "county": "AR",
-      "year_2026": "",
+      "year_2026": "Sat 17-Oct",
       "year_2025": "Sat 18-Oct",
       "year_2024": "Sat 19-Oct",
       "year_2023": "Sat 21-Oct"
@@ -3235,17 +3305,17 @@
       "name": "Ultra Zarand Everesting - Căsoaia",
       "location": "Căsoaia",
       "county": "AR",
-      "year_2026": "",
+      "year_2026": "Sun 13-Dec",
       "year_2025": "Sun 14-Dec",
       "year_2024": "Sun 22-Dec",
-      "year_2023": "Fri 15-Dec"
+      "year_2023": "Sun 17-Dec"
     },
     {
       "id": 262,
       "name": "Ultra Zarand History - Soimos",
       "location": "Soimos",
       "county": "AR",
-      "year_2026": "",
+      "year_2026": "Sat 27-Jun",
       "year_2025": "Sat 28-Jun",
       "year_2024": "Sat 29-Jun",
       "year_2023": "Sat 1-Jul"
@@ -3345,7 +3415,7 @@
       "name": "UVT Liberty Marathon Timișoara",
       "location": "Timișoara",
       "county": "TM",
-      "year_2026": "Sun 27-Sep",
+      "year_2026": "Sun 4-Oct",
       "year_2025": "Sun 28-Sep",
       "year_2024": "Sun 29-Sep",
       "year_2023": "Sun 1-Oct"
@@ -3592,6 +3662,14 @@
     }
   ],
   "competitions_moldova": [
+    {
+      "name": "Alergarea Acasa la Taraboste",
+      "location": "Chișinău",
+      "year_2026": "",
+      "year_2025": "Sat 4-Oct",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": ""
+    },
     {
       "name": "Border Marathon",
       "location": "Ungheni",

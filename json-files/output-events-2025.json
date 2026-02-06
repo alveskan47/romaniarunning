@@ -209,7 +209,7 @@
       "8km",
       "4km"
     ],
-    "link": "https://www.facebook.com/events/1075237307085497/",
+    "link": "https://www.runmoldova.com/",
     "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2025,
@@ -663,7 +663,10 @@
     "type": "trail",
     "distances": [
       "21km(530m↑)",
-      "10.5km(265m↑)"
+      "10.5km(265m↑)",
+      "5.6km(167m↑)",
+      "2km(59m↑)",
+      "kids race"
     ],
     "link": "https://urc.run/",
     "link_fb": "https://www.facebook.com/URC.run/",
@@ -2578,7 +2581,7 @@
       "22km",
       "11km"
     ],
-    "link": "https://www.facebook.com/events/1793067697932335/",
+    "link": "https://www.runmoldova.com/",
     "link_fb": "https://www.facebook.com/runmoldova",
     "id": 0,
     "year": 2025,
@@ -6006,6 +6009,91 @@
     "day": 4
   },
   {
+    "name": "Penny competitie de mers",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10.5km"
+    ],
+    "link": "https://competitiedemers.ro/",
+    "link_fb": "https://www.facebook.com/walk15.global",
+    "id": 360,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Secret Paradise Running",
+    "location": "Piatra Fantanele",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "16.3km(697m↑)"
+    ],
+    "link": "https://www.facebook.com/events/785249060658043/",
+    "link_fb": "",
+    "id": 361,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Crosul Copiilor Sibiu",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/801742469206005",
+    "link_fb": "",
+    "id": 362,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Cupa Startsport",
+    "location": "Craiova",
+    "location_details": "",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/s/cupa-startsport-2025/610087725368824/",
+    "link_fb": "",
+    "id": 363,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
+    "name": "Alergarea Acasa la Taraboste",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 04-Oct-2025",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
+    "id": 0,
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  {
     "name": "Brașov Running Festival",
     "location": "Brașov",
     "location_details": "",
@@ -6019,6 +6107,61 @@
     "link": "https://www.brasovrun.ro/",
     "link_fb": "https://www.facebook.com/BrasovRunningFestival",
     "id": 134,
+    "year": 2025,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Semimaraton Focșani",
+    "location": "Focșani",
+    "location_details": "",
+    "display_date": "Sun 05-Oct-2025",
+    "county": "VN",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.facebook.com/p/Semimaraton-Foc%C8%99ani-61575506177847/",
+    "link_fb": "https://www.facebook.com/p/Semimaraton-Foc%C8%99ani-61575506177847/",
+    "id": 364,
+    "year": 2025,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Olt Forras Trail Running Race",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sun 05-Oct-2025",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "22km(1000m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://szentgellertcross.ro/ro/oltforrastrail/",
+    "link_fb": "https://www.facebook.com/szentgellertcross/",
+    "id": 365,
+    "year": 2025,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Sun Challenge",
+    "location": "București",
+    "location_details": "Parcul Vacarești",
+    "display_date": "Sun 05-Oct-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "20km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.sun-plaza.ro/sun-challenge-2025/",
+    "link_fb": "",
+    "id": 366,
     "year": 2025,
     "month": 10,
     "day": 5
@@ -6295,11 +6438,11 @@
   },
   {
     "name": "Cursa Imposibilă",
-    "location": "-",
+    "location": "anywhere",
     "location_details": "",
     "display_date": "Sun 26-Oct-2025",
     "county": "-",
-    "type": "virtual",
+    "type": "road",
     "distances": [
       "-"
     ],

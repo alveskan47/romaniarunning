@@ -3211,6 +3211,25 @@
     "day": 1
   },
   {
+    "name": "Sun Challenge",
+    "location": "București",
+    "location_details": "Parcul Vacarești",
+    "display_date": "Sun 01-Oct-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "20km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.sun-plaza.ro/sun-challenge-2023/",
+    "link_fb": "",
+    "id": 366,
+    "year": 2023,
+    "month": 10,
+    "day": 1
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -3687,26 +3706,6 @@
     "day": 10
   },
   {
-    "name": "Ultra Zarand Everesting - Căsoaia",
-    "location": "Căsoaia",
-    "location_details": "",
-    "display_date": "Fri 15-Dec-2023",
-    "county": "AR",
-    "type": "trail",
-    "distances": [
-      "193km(10450m↑)",
-      "172km(9250m↑)",
-      "86km(4600m↑)",
-      "11km(580m↑)"
-    ],
-    "link": "https://www.facebook.com/ultrazarand/",
-    "link_fb": "https://www.facebook.com/ultrazarand/",
-    "id": 264,
-    "year": 2023,
-    "month": 12,
-    "day": 15
-  },
-  {
     "name": "Maratonul de Craciun - Chișinău",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -3738,6 +3737,26 @@
     "link": "https://www.anirun.ro/",
     "link_fb": "https://www.facebook.com/sportforstrays/",
     "id": 231,
+    "year": 2023,
+    "month": 12,
+    "day": 17
+  },
+  {
+    "name": "Ultra Zarand Everesting - Căsoaia",
+    "location": "Căsoaia",
+    "location_details": "",
+    "display_date": "Sun 17-Dec-2023",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "193km(10450m↑)",
+      "172km(9250m↑)",
+      "86km(4600m↑)",
+      "11km(580m↑)"
+    ],
+    "link": "https://www.facebook.com/ultrazarand/",
+    "link_fb": "https://www.facebook.com/ultrazarand/",
+    "id": 264,
     "year": 2023,
     "month": 12,
     "day": 17
