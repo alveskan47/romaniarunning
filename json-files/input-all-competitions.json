@@ -6097,6 +6097,11 @@
       "link_fb": "https://www.facebook.com/RotaRUNforCharity/",
       "editions": [
         {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        },
+        {
           "year": 2025,
           "month": 4,
           "day": 26
@@ -6937,6 +6942,11 @@
       "link": "https://www.dunanap.com/",
       "link_fb": "https://www.facebook.com/dunanapoktorocko",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
         {
           "year": 2025,
           "month": 5,
@@ -8193,6 +8203,11 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 7,
+          "day": 11
+        },
+        {
           "year": 2025,
           "month": 7,
           "day": 12
@@ -8489,6 +8504,11 @@
       "link_fb": "https://www.facebook.com/CorcovaFest/",
       "editions": [
         {
+          "year": 2026,
+          "month": 7,
+          "day": 4
+        },
+        {
           "year": 2025,
           "month": 7,
           "day": 26
@@ -8660,6 +8680,11 @@
       "link": "https://alergindumbrava.ro/",
       "link_fb": "https://www.facebook.com/alergindumbrava",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 8
+        },
         {
           "year": 2025,
           "month": 8,
@@ -8962,6 +8987,11 @@
       "link": "https://maratonulolteniei.ro/",
       "link_fb": "https://www.facebook.com/MaratonulOlteniei",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 30
+        },
         {
           "year": 2025,
           "month": 8,
@@ -10881,16 +10911,20 @@
       "type": "trail",
       "distances": [
         "15km",
-        "2km"
+        "3.5km"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://acstrib.ro/crosul-cetatilor/",
+      "link_fb": "https://www.facebook.com/TRIBSV",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        },
         {
           "year": 2025,
           "month": 10,
-          "day": 18,
-          "event_link": "https://www.facebook.com/events/593127070400823"
+          "day": 18
         }
       ]
     },
@@ -10923,6 +10957,27 @@
           "month": 10,
           "day": 21,
           "event_link": "https://www.facebook.com/events/1030185841467793/"
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Chindia City Race",
+      "location": "Targoviste",
+      "county": "DB",
+      "type": "road",
+      "distances": [
+        "21km",
+        "11km",
+        "5.5km"
+      ],
+      "link": "https://carpatrace.ro/chindia-city-race-2/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61587516692651",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 2
         }
       ]
     }

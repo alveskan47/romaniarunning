@@ -105,7 +105,7 @@
       "name": "Alerg in Dumbrava",
       "location": "Glogoveanu",
       "county": "DB",
-      "year_2026": "",
+      "year_2026": "Sat 8-Aug",
       "year_2025": "Sat 9-Aug",
       "year_2024": "Sat 10-Aug",
       "year_2023": "Sat 12-Aug"
@@ -511,6 +511,16 @@
       "year_2023": ""
     },
     {
+      "id": 376,
+      "name": "Chindia City Race",
+      "location": "Targoviste",
+      "county": "DB",
+      "year_2026": "Sat 2-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 283,
       "name": "Cindrel In Alergare",
       "location": "Paltinis",
@@ -575,7 +585,7 @@
       "name": "Corcova Fest",
       "location": "Corcova",
       "county": "MH",
-      "year_2026": "",
+      "year_2026": "Sat 4-Jul",
       "year_2025": "Sat 26-Jul",
       "year_2024": "Sat 27-Jul",
       "year_2023": "Sat 29-Jul"
@@ -945,7 +955,7 @@
       "name": "Crosul Cetatilor – Suceava",
       "location": "Suceava",
       "county": "SV",
-      "year_2026": "",
+      "year_2026": "Sat 16-May",
       "year_2025": "Sat 18-Oct",
       "year_2024": "",
       "year_2023": ""
@@ -1105,7 +1115,7 @@
       "name": "Crosul Hospice - Alearga Tu Pentru Ei",
       "location": "Brașov",
       "county": "BV",
-      "year_2026": "",
+      "year_2026": "Sat 11-Jul",
       "year_2025": "Sat 12-Jul",
       "year_2024": "Sat 6-Jul",
       "year_2023": "Sat 8-Jul"
@@ -1575,7 +1585,7 @@
       "name": "Duna Nap",
       "location": "Rimetea",
       "county": "AB",
-      "year_2026": "",
+      "year_2026": "Sat 30-May",
       "year_2025": "Sat 31-May",
       "year_2024": "",
       "year_2023": ""
@@ -2165,7 +2175,7 @@
       "name": "Maratonul Olteniei",
       "location": "Râmnicu Vâlcea",
       "county": "VL",
-      "year_2026": "",
+      "year_2026": "Sun 30-Aug",
       "year_2025": "Sun 31-Aug",
       "year_2024": "Sun 25-Aug",
       "year_2023": "Sun 27-Aug"
@@ -2565,7 +2575,7 @@
       "name": "RotaRun for Charity - Cluj",
       "location": "Cluj-Napoca",
       "county": "CJ",
-      "year_2026": "",
+      "year_2026": "Sat 25-Apr",
       "year_2025": "Sat 26-Apr",
       "year_2024": "Sat 27-Apr",
       "year_2023": "Sat 29-Apr"

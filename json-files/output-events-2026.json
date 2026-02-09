@@ -993,6 +993,25 @@
     "day": 25
   },
   {
+    "name": "RotaRun for Charity - Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "Promenada Someșului",
+    "display_date": "Sat 25-Apr-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "9km",
+      "3km",
+      "3H"
+    ],
+    "link": "https://rotarun.ro/",
+    "link_fb": "https://www.facebook.com/RotaRUNforCharity/",
+    "id": 189,
+    "year": 2026,
+    "month": 4,
+    "day": 25
+  },
+  {
     "name": "Semimaraton Iași",
     "location": "Iași",
     "location_details": "",
@@ -1085,6 +1104,25 @@
     "link": "https://atleticcluj.ro/",
     "link_fb": "https://www.facebook.com/CSAtleticCluj",
     "id": 185,
+    "year": 2026,
+    "month": 5,
+    "day": 2
+  },
+  {
+    "name": "Chindia City Race",
+    "location": "Targoviste",
+    "location_details": "",
+    "display_date": "Sat 02-May-2026",
+    "county": "DB",
+    "type": "road",
+    "distances": [
+      "21km",
+      "11km",
+      "5.5km"
+    ],
+    "link": "https://carpatrace.ro/chindia-city-race-2/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61587516692651",
+    "id": 376,
     "year": 2026,
     "month": 5,
     "day": 2
@@ -1381,6 +1419,24 @@
     "link": "https://www.turnurosuchallenge.ro/",
     "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
     "id": 247,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
+    "name": "Crosul Cetatilor – Suceava",
+    "location": "Suceava",
+    "location_details": "",
+    "display_date": "Sat 16-May-2026",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "15km",
+      "3.5km"
+    ],
+    "link": "https://acstrib.ro/crosul-cetatilor/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
+    "id": 374,
     "year": 2026,
     "month": 5,
     "day": 16
@@ -1720,6 +1776,23 @@
     "link": "https://www.crosulteiusului.ro/",
     "link_fb": "https://www.facebook.com/p/Crosul-Teiu%C8%99ului-61558068608210/",
     "id": 187,
+    "year": 2026,
+    "month": 5,
+    "day": 30
+  },
+  {
+    "name": "Duna Nap",
+    "location": "Rimetea",
+    "location_details": "",
+    "display_date": "Sat 30-May-2026",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "11km"
+    ],
+    "link": "https://www.dunanap.com/",
+    "link_fb": "https://www.facebook.com/dunanapoktorocko",
+    "id": 224,
     "year": 2026,
     "month": 5,
     "day": 30
@@ -2359,6 +2432,24 @@
     "day": 4
   },
   {
+    "name": "Corcova Fest",
+    "location": "Corcova",
+    "location_details": "",
+    "display_date": "Sat 04-Jul-2026",
+    "county": "MH",
+    "type": "trail",
+    "distances": [
+      "16km(400m↑)",
+      "6km(195m↑)"
+    ],
+    "link": "https://corcovafest.com/",
+    "link_fb": "https://www.facebook.com/CorcovaFest/",
+    "id": 282,
+    "year": 2026,
+    "month": 7,
+    "day": 4
+  },
+  {
     "name": "Zalău Ultra Trail",
     "location": "Zalău",
     "location_details": "",
@@ -2432,6 +2523,26 @@
     "link": "https://triatlet.ro/",
     "link_fb": "https://www.facebook.com/p/Budeasa-SWIM-RUN-61555396305833/",
     "id": 271,
+    "year": 2026,
+    "month": 7,
+    "day": 11
+  },
+  {
+    "name": "Crosul Hospice - Alearga Tu Pentru Ei",
+    "location": "Brașov",
+    "location_details": "Tampa",
+    "display_date": "Sat 11-Jul-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "18km",
+      "10km",
+      "4km",
+      "2km"
+    ],
+    "link": "https://team.hospice.ro/",
+    "link_fb": "",
+    "id": 272,
     "year": 2026,
     "month": 7,
     "day": 11
@@ -2644,6 +2755,25 @@
     "day": 8
   },
   {
+    "name": "Alerg in Dumbrava",
+    "location": "Glogoveanu",
+    "location_details": "",
+    "display_date": "Sat 08-Aug-2026",
+    "county": "DB",
+    "type": "trail",
+    "distances": [
+      "42.5km",
+      "21.25km",
+      "4.2km"
+    ],
+    "link": "https://alergindumbrava.ro/",
+    "link_fb": "https://www.facebook.com/alergindumbrava",
+    "id": 288,
+    "year": 2026,
+    "month": 8,
+    "day": 8
+  },
+  {
     "name": "Maratonul Nordului - Teioasa Trail",
     "location": "Darabani",
     "location_details": "Pădurea Teioasa",
@@ -2789,6 +2919,24 @@
     "year": 2026,
     "month": 8,
     "day": 29
+  },
+  {
+    "name": "Maratonul Olteniei",
+    "location": "Râmnicu Vâlcea",
+    "location_details": "",
+    "display_date": "Sun 30-Aug-2026",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "22km(700m↑)",
+      "12km(400m↑)"
+    ],
+    "link": "https://maratonulolteniei.ro/",
+    "link_fb": "https://www.facebook.com/MaratonulOlteniei",
+    "id": 300,
+    "year": 2026,
+    "month": 8,
+    "day": 30
   },
   {
     "name": "Vrancea Montana Run",
