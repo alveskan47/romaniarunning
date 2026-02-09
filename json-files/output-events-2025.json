@@ -6167,6 +6167,44 @@
     "day": 5
   },
   {
+    "name": "Run for Genomics",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 05-Oct-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "9km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/s/run-for-genomics/764034993218579/",
+    "link_fb": "",
+    "id": 367,
+    "year": 2025,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "Cursa Speranței",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 05-Oct-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "10km",
+      "7.5km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/events/2801073490102072/",
+    "link_fb": "",
+    "id": 0,
+    "year": 2025,
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -6200,6 +6238,58 @@
     "link": "https://hercules-maraton.ro/",
     "link_fb": "https://www.facebook.com/HerculesMaraton",
     "id": 335,
+    "year": 2025,
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "Cupa Călimani la alergare montana",
+    "location": "Toplița",
+    "location_details": "Cabana Lomas",
+    "display_date": "Sat 11-Oct-2025",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "25km(1500m↑)",
+      "10km(500m↑)"
+    ],
+    "link": "https://cupacalimani.ro/",
+    "link_fb": "https://www.facebook.com/cupacalimani/",
+    "id": 368,
+    "year": 2025,
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "Vardomb Backyard Ultra",
+    "location": "Păuleni-Ciuc",
+    "location_details": "",
+    "display_date": "Sat 11-Oct-2025",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "(5km&120m↑/lap)"
+    ],
+    "link": "https://cupacalimani.ro/",
+    "link_fb": "https://www.facebook.com/cupacalimani/",
+    "id": 369,
+    "year": 2025,
+    "month": 10,
+    "day": 11
+  },
+  {
+    "name": "Gold Trail Baia de Arieș",
+    "location": "Baia de Arieș",
+    "location_details": "",
+    "display_date": "Sat 11-Oct-2025",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "8km"
+    ],
+    "link": "https://cupacalimani.ro/",
+    "link_fb": "https://www.facebook.com/cupacalimani/",
+    "id": 370,
     "year": 2025,
     "month": 10,
     "day": 11
@@ -6241,6 +6331,42 @@
     "year": 2025,
     "month": 10,
     "day": 12
+  },
+  {
+    "name": "Crosul Toamnei Blăjel",
+    "location": "Blăjel",
+    "location_details": "",
+    "display_date": "Sun 12-Oct-2025",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "21km(570m↑)",
+      "12km(370m↑)",
+      "4km(135m↑)"
+    ],
+    "link": "https://nextsports.ro/crosul-toamnei-blajel/",
+    "link_fb": "https://www.facebook.com/CrosulToamnei/",
+    "id": 371,
+    "year": 2025,
+    "month": 10,
+    "day": 12
+  },
+  {
+    "name": "Stafeta Veteranilor Târgu Mureș - Mediaș",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "display_date": "Wed 15-Oct-2025",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1300451384963786",
+    "link_fb": "",
+    "id": 372,
+    "year": 2025,
+    "month": 10,
+    "day": 15
   },
   {
     "name": "Semimaratonul Craiovei",
@@ -6354,6 +6480,59 @@
     "link": "https://harvestrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
     "id": 355,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
+    "name": "Semimaraton Sfântu Gheorghe",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/1718133698824423",
+    "link_fb": "",
+    "id": 373,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
+    "name": "Crosul Cetatilor – Suceava",
+    "location": "Suceava",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "15km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/events/593127070400823",
+    "link_fb": "",
+    "id": 374,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
+    "name": "Crosul Marii Negre",
+    "location": "Constanța",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "CT",
+    "type": "sand",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/2757637121098590/",
+    "link_fb": "",
+    "id": 375,
     "year": 2025,
     "month": 10,
     "day": 18

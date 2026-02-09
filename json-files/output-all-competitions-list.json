@@ -941,6 +941,16 @@
       "year_2023": ""
     },
     {
+      "id": 374,
+      "name": "Crosul Cetatilor – Suceava",
+      "location": "Suceava",
+      "county": "SV",
+      "year_2026": "",
+      "year_2025": "Sat 18-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 357,
       "name": "Crosul Cetății Oradea",
       "location": "Oradea",
@@ -1181,6 +1191,16 @@
       "year_2023": ""
     },
     {
+      "id": 375,
+      "name": "Crosul Marii Negre",
+      "location": "Constanța",
+      "county": "CT",
+      "year_2026": "",
+      "year_2025": "Sat 18-Oct",
+      "year_2024": "Sat 26-Oct",
+      "year_2023": "Sat 21-Oct"
+    },
+    {
       "id": 240,
       "name": "Crosul Memorial Nicolae Guțoiu",
       "location": "Targoviste",
@@ -1361,6 +1381,16 @@
       "year_2023": ""
     },
     {
+      "id": 371,
+      "name": "Crosul Toamnei Blăjel",
+      "location": "Blăjel",
+      "county": "SB",
+      "year_2026": "",
+      "year_2025": "Sun 12-Oct",
+      "year_2024": "Sat 19-Oct",
+      "year_2023": "Sun 1-Oct"
+    },
+    {
       "id": 193,
       "name": "Crosul ULBS",
       "location": "Sibiu",
@@ -1439,6 +1469,16 @@
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 7-Sep",
       "year_2023": "Sat 2-Sep"
+    },
+    {
+      "id": 368,
+      "name": "Cupa Călimani la alergare montana",
+      "location": "Toplița",
+      "county": "HR",
+      "year_2026": "",
+      "year_2025": "Sat 11-Oct",
+      "year_2024": "Sat 5-Oct",
+      "year_2023": "Sat 7-Oct"
     },
     {
       "id": 299,
@@ -1749,6 +1789,16 @@
       "year_2025": "Fri 22-Aug",
       "year_2024": "Fri 23-Aug",
       "year_2023": "Fri 18-Aug"
+    },
+    {
+      "id": 370,
+      "name": "Gold Trail Baia de Arieș",
+      "location": "Baia de Arieș",
+      "county": "AB",
+      "year_2026": "",
+      "year_2025": "Sat 11-Oct",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 319,
@@ -2531,6 +2581,16 @@
       "year_2023": ""
     },
     {
+      "id": 367,
+      "name": "Run for Genomics",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "Sun 5-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 254,
       "name": "Run for Heroes",
       "location": "București",
@@ -2771,6 +2831,16 @@
       "year_2023": "Sun 9-Jul"
     },
     {
+      "id": 373,
+      "name": "Semimaraton Sfântu Gheorghe",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "year_2026": "",
+      "year_2025": "Sat 18-Oct",
+      "year_2024": "Sat 19-Oct",
+      "year_2023": "Sat 7-Oct"
+    },
+    {
       "id": 61,
       "name": "Semimaraton Timotion",
       "location": "Timișoara",
@@ -2948,6 +3018,16 @@
       "year_2026": "",
       "year_2025": "Sun 31-Aug",
       "year_2024": "Sat 10-Aug",
+      "year_2023": ""
+    },
+    {
+      "id": 372,
+      "name": "Stafeta Veteranilor Târgu Mureș - Mediaș",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "year_2026": "",
+      "year_2025": "Wed 15-Oct",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -3421,6 +3501,16 @@
       "year_2023": "Sun 1-Oct"
     },
     {
+      "id": 369,
+      "name": "Vardomb Backyard Ultra",
+      "location": "Păuleni-Ciuc",
+      "county": "HR",
+      "year_2026": "",
+      "year_2025": "Sat 11-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 260,
       "name": "Vâlcea Forest Run",
       "location": "Bujoreni",
@@ -3707,6 +3797,14 @@
       "location": "Chișinău",
       "year_2026": "Sun 8-Mar",
       "year_2025": "Sun 9-Mar",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "name": "Cursa Speranței",
+      "location": "Chișinău",
+      "year_2026": "",
+      "year_2025": "Sun 5-Oct",
       "year_2024": "",
       "year_2023": ""
     },

@@ -3622,6 +3622,24 @@
     "day": 5
   },
   {
+    "name": "Cupa Călimani la alergare montana",
+    "location": "Toplița",
+    "location_details": "Cabana Lomas",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "25km(1500m↑)",
+      "10km(500m↑)"
+    ],
+    "link": "https://cupacalimani.ro/",
+    "link_fb": "https://www.facebook.com/cupacalimani/",
+    "id": 368,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
     "name": "Alergarea Acasa la Taraboste",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -3934,6 +3952,43 @@
     "day": 19
   },
   {
+    "name": "Crosul Toamnei Blăjel",
+    "location": "Blăjel",
+    "location_details": "",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "21km(570m↑)",
+      "12km(370m↑)",
+      "4km(135m↑)"
+    ],
+    "link": "https://nextsports.ro/crosul-toamnei-blajel/",
+    "link_fb": "https://www.facebook.com/CrosulToamnei/",
+    "id": 371,
+    "year": 2024,
+    "month": 10,
+    "day": 19
+  },
+  {
+    "name": "Semimaraton Sfântu Gheorghe",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 19-Oct-2024",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/465927369520847",
+    "link_fb": "",
+    "id": 373,
+    "year": 2024,
+    "month": 10,
+    "day": 19
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -3969,6 +4024,23 @@
     "link": "https://harvestrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
     "id": 355,
+    "year": 2024,
+    "month": 10,
+    "day": 26
+  },
+  {
+    "name": "Crosul Marii Negre",
+    "location": "Constanța",
+    "location_details": "",
+    "display_date": "Sat 26-Oct-2024",
+    "county": "CT",
+    "type": "sand",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/895198149172844",
+    "link_fb": "",
+    "id": 375,
     "year": 2024,
     "month": 10,
     "day": 26

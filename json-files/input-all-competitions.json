@@ -10696,6 +10696,235 @@
           "event_link": "https://www.sun-plaza.ro/sun-challenge-2023/"
         }
       ]
+    },
+    {
+      "id": 367,
+      "name": "Run for Genomics",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "9km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/s/run-for-genomics/764034993218579/"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Cupa Călimani la alergare montana",
+      "location": "Toplița",
+      "location_details": "Cabana Lomas",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "25km(1500m↑)",
+        "10km(500m↑)"
+      ],
+      "link": "https://cupacalimani.ro/",
+      "link_fb": "https://www.facebook.com/cupacalimani/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 11
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Vardomb Backyard Ultra",
+      "location": "Păuleni-Ciuc",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "(5km&120m↑/lap)"
+      ],
+      "link": "https://cupacalimani.ro/",
+      "link_fb": "https://www.facebook.com/cupacalimani/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 11,
+          "event_link": "https://www.facebook.com/events/s/vardomb-backyard-ultra/657967867352859/"
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Gold Trail Baia de Arieș",
+      "location": "Baia de Arieș",
+      "county": "AB",
+      "type": "trail",
+      "distances": [
+        "8km"
+      ],
+      "link": "https://cupacalimani.ro/",
+      "link_fb": "https://www.facebook.com/cupacalimani/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 11,
+          "event_link": "https://www.facebook.com/permalink.php?story_fbid=122142587762903122&id=61577093664564"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "name": "Crosul Toamnei Blăjel",
+      "location": "Blăjel",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "21km(570m↑)",
+        "12km(370m↑)",
+        "4km(135m↑)"
+      ],
+      "link": "https://nextsports.ro/crosul-toamnei-blajel/",
+      "link_fb": "https://www.facebook.com/CrosulToamnei/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 12
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 19
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Stafeta Veteranilor Târgu Mureș - Mediaș",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 15,
+          "event_link": "https://www.facebook.com/events/1300451384963786"
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Semimaraton Sfântu Gheorghe",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "type": "road",
+      "distances": [
+        "21km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/1718133698824423"
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/465927369520847"
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/9572210989519880/"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "name": "Crosul Cetatilor – Suceava",
+      "location": "Suceava",
+      "county": "SV",
+      "type": "trail",
+      "distances": [
+        "15km",
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/593127070400823"
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Crosul Marii Negre",
+      "location": "Constanța",
+      "county": "CT",
+      "type": "sand",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/2757637121098590/"
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/895198149172844"
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/1030185841467793/"
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -11254,6 +11483,30 @@
           "year": 2024,
           "month": 10,
           "day": 5
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Cursa Speranței",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "10km",
+        "7.5km",
+        "5km",
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/2801073490102072/"
         }
       ]
     }
