@@ -6538,6 +6538,23 @@
     "day": 18
   },
   {
+    "name": "Hășmaș Trail Fest",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sat 18-Oct-2025",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/s/hasmas-hagymas-trail-fest/1355180722914907/",
+    "link_fb": "",
+    "id": 377,
+    "year": 2025,
+    "month": 10,
+    "day": 18
+  },
+  {
     "name": "Runfest - Moara Vlasiei",
     "location": "Moara Vlasiei",
     "location_details": "Pădurea Surlari",
@@ -6559,6 +6576,23 @@
     "day": 19
   },
   {
+    "name": "1K Run Fast & Fun - Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sun 19-Oct-2025",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "1km"
+    ],
+    "link": "https://www.runfast.acsatletis.ro/",
+    "link_fb": "https://www.facebook.com/runfastiasi/",
+    "id": 378,
+    "year": 2025,
+    "month": 10,
+    "day": 19
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -6574,6 +6608,148 @@
     "link": "https://www.fundatiarafael.org/maratonul-montan-rafael/",
     "link_fb": "https://www.facebook.com/FundatiaRafael",
     "id": 213,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Brașov Marathon Night Challenge",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "7.5km(360m↑)"
+    ],
+    "link": "https://www.brasovmarathon.ro/",
+    "link_fb": "https://www.facebook.com/brasovmarathon/",
+    "id": 379,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Oradea Night Run",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "19km",
+      "11.1km",
+      "3.2km"
+    ],
+    "link": "https://oradeanightrun.ro/ro/",
+    "link_fb": "https://www.facebook.com/oradeanightrun/",
+    "id": 380,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Monor Trail Run",
+    "location": "Monor",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "23.05km(578m↑)",
+      "10.91km(309m↑)",
+      "6.39km(193m↑)",
+      "1km(32m↑)"
+    ],
+    "link": "https://www.monortrail.run/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61578775119546",
+    "id": 381,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "4 RUN 4 FUN - Memorial Szasz Albert",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 382,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Ovidio Running Constanța",
+    "location": "Constanța",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.ovidiorunning.eu/ovidio-running-constanta/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100091564201310",
+    "id": 386,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Run Iași - 10km",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/1256496729555097",
+    "link_fb": "",
+    "id": 387,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "HalloWeRun Cricova",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.runtransylvania.com/halloween-run/",
+    "link_fb": "",
+    "id": 0,
+    "year": 2025,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Dante's Hell Backyard Ultra",
+    "location": "Suruceni",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "6.7km/lap"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
+    "id": 0,
     "year": 2025,
     "month": 10,
     "day": 25
@@ -6633,6 +6809,57 @@
     "day": 26
   },
   {
+    "name": "Race for the Cure Moldova",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 26-Oct-2025",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1890645101776852",
+    "link_fb": "",
+    "id": 0,
+    "year": 2025,
+    "month": 10,
+    "day": 26
+  },
+  {
+    "name": "Cros SNOMRun",
+    "location": "Sinaia",
+    "location_details": "",
+    "display_date": "Thu 30-Oct-2025",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=1242366187937809",
+    "link_fb": "",
+    "id": 388,
+    "year": 2025,
+    "month": 10,
+    "day": 30
+  },
+  {
+    "name": "Subcarpati Trail Run Night",
+    "location": "Cocorastii Mislii",
+    "location_details": "",
+    "display_date": "Sat 01-Nov-2025",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "9km(250m↑)"
+    ],
+    "link": "https://www.subcarpatitrailrun.ro/strbynight/",
+    "link_fb": "https://www.facebook.com/subcarpatitrailrun",
+    "id": 389,
+    "year": 2025,
+    "month": 11,
+    "day": 1
+  },
+  {
     "name": "Băneasa Forest Run - Autumn",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -6684,6 +6911,23 @@
     "link": "https://proactivi.org/",
     "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
     "id": 210,
+    "year": 2025,
+    "month": 11,
+    "day": 8
+  },
+  {
+    "name": "4 RUN 4 FUN - Stone Bear Race",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 08-Nov-2025",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 383,
     "year": 2025,
     "month": 11,
     "day": 8
@@ -6743,6 +6987,23 @@
     "day": 16
   },
   {
+    "name": "4 RUN 4 FUN - Memorial Klosz Peter – Night Run",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 22-Nov-2025",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 384,
+    "year": 2025,
+    "month": 11,
+    "day": 22
+  },
+  {
     "name": "Maraton 1 Decembrie București",
     "location": "București",
     "location_details": "",
@@ -6795,6 +7056,23 @@
     "link": "https://www.anirun.ro/",
     "link_fb": "https://www.facebook.com/sportforstrays/",
     "id": 233,
+    "year": 2025,
+    "month": 12,
+    "day": 6
+  },
+  {
+    "name": "4 RUN 4 FUN - Alergare de Moș Nicolae",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 06-Dec-2025",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 385,
     "year": 2025,
     "month": 12,
     "day": 6

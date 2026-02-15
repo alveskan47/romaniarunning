@@ -2346,6 +2346,25 @@
     "day": 26
   },
   {
+    "name": "Oradea Night Run",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 26-Aug-2023",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "19km",
+      "11.1km",
+      "3.2km"
+    ],
+    "link": "https://oradeanightrun.ro/ro/",
+    "link_fb": "https://www.facebook.com/oradeanightrun/",
+    "id": 380,
+    "year": 2023,
+    "month": 8,
+    "day": 26
+  },
+  {
     "name": "Maratonul Olteniei",
     "location": "Râmnicu Vâlcea",
     "location_details": "",
@@ -2950,6 +2969,23 @@
     "day": 23
   },
   {
+    "name": "Brașov Marathon Night Challenge",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 23-Sep-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "7.5km(360m↑)"
+    ],
+    "link": "https://www.brasovmarathon.ro/",
+    "link_fb": "https://www.facebook.com/brasovmarathon/",
+    "id": 379,
+    "year": 2023,
+    "month": 9,
+    "day": 23
+  },
+  {
     "name": "Semimaraton Brăila",
     "location": "Brăila",
     "location_details": "",
@@ -3383,6 +3419,23 @@
     "day": 8
   },
   {
+    "name": "1K Run Fast & Fun - Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sun 08-Oct-2023",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "1km"
+    ],
+    "link": "https://www.runfast.acsatletis.ro/",
+    "link_fb": "https://www.facebook.com/runfastiasi/",
+    "id": 378,
+    "year": 2023,
+    "month": 10,
+    "day": 8
+  },
+  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -3610,6 +3663,23 @@
     "day": 28
   },
   {
+    "name": "4 RUN 4 FUN - Memorial Szasz Albert",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 28-Oct-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 382,
+    "year": 2023,
+    "month": 10,
+    "day": 28
+  },
+  {
     "name": "Băneasa Forest Run - Autumn",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -3685,6 +3755,23 @@
     "day": 11
   },
   {
+    "name": "4 RUN 4 FUN - Stone Bear Race",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 11-Nov-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 383,
+    "year": 2023,
+    "month": 11,
+    "day": 11
+  },
+  {
     "name": "Crosul 15 Noiembrie 1987",
     "location": "Brașov",
     "location_details": "",
@@ -3718,6 +3805,23 @@
     "year": 2023,
     "month": 11,
     "day": 12
+  },
+  {
+    "name": "4 RUN 4 FUN - Memorial Klosz Peter – Night Run",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 25-Nov-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 384,
+    "year": 2023,
+    "month": 11,
+    "day": 25
   },
   {
     "name": "Maraton 1 Decembrie București",
@@ -3757,6 +3861,23 @@
     "year": 2023,
     "month": 12,
     "day": 1
+  },
+  {
+    "name": "4 RUN 4 FUN - Alergare de Moș Nicolae",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 09-Dec-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 385,
+    "year": 2023,
+    "month": 12,
+    "day": 9
   },
   {
     "name": "Semimaraton Pe Argeș in Jos",

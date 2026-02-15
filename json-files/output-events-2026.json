@@ -248,6 +248,42 @@
     "day": 1
   },
   {
+    "name": "Vladeasa Winter Trail",
+    "location": "Săcuieu",
+    "location_details": "Rogojel",
+    "display_date": "Sun 01-Mar-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "17km(1050m↑)"
+    ],
+    "link": "https://vladeasa.wintertrail.ro/",
+    "link_fb": "https://www.facebook.com/vladeasawintertrail/",
+    "id": 159,
+    "year": 2026,
+    "month": 3,
+    "day": 1
+  },
+  {
+    "name": "Mărțișor Trail Run",
+    "location": "Căpriana–Scoreni",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 01-Mar-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "6km"
+    ],
+    "link": "https://moldovatrail.run/",
+    "link_fb": "https://www.facebook.com/moldovatrailrun",
+    "id": 0,
+    "year": 2026,
+    "month": 3,
+    "day": 1
+  },
+  {
     "name": "Crosul Divelor",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -556,6 +592,25 @@
     "link": "https://maramures.run/crosul-primaverii/",
     "link_fb": "https://www.facebook.com/MMRunners",
     "id": 175,
+    "year": 2026,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Pițigoi Vertical Challenge",
+    "location": "Sângeorgiu de Mureș",
+    "location_details": "",
+    "display_date": "Sun 15-Mar-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "20km",
+      "10km",
+      "6km"
+    ],
+    "link": "https://www.facebook.com/events/s/-pitigoi-vertical-challenge-ed/908759895069957/",
+    "link_fb": "",
+    "id": 391,
     "year": 2026,
     "month": 3,
     "day": 15
@@ -1405,6 +1460,24 @@
     "day": 16
   },
   {
+    "name": "Ziua de alergare Gall Lajos",
+    "location": "Reci",
+    "location_details": "Mestecanisul de la Reci",
+    "display_date": "Sat 16-May-2026",
+    "county": "CV",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 195,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
     "name": "Turnu Rosu Challenge",
     "location": "Turnu Rosu",
     "location_details": "",
@@ -1798,6 +1871,25 @@
     "day": 30
   },
   {
+    "name": "Giarmata in Miscare",
+    "location": "Giarmata",
+    "location_details": "",
+    "display_date": "Sat 30-May-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10.5km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/GiarmataInMiscare/",
+    "link_fb": "https://www.facebook.com/GiarmataInMiscare/",
+    "id": 225,
+    "year": 2026,
+    "month": 5,
+    "day": 30
+  },
+  {
     "name": "Geopark Mehedinți Adventure",
     "location": "Moisesti",
     "location_details": "",
@@ -1948,6 +2040,24 @@
     "day": 6
   },
   {
+    "name": "Maraton Tarcău",
+    "location": "Tarcău",
+    "location_details": "Schitu Tarcău",
+    "display_date": "Sat 13-Jun-2026",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.7km(1140m↑)",
+      "22km(570m↑)"
+    ],
+    "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/people/Maraton-Tarc%C4%83u/100090512883067/",
+    "id": 21,
+    "year": 2026,
+    "month": 6,
+    "day": 13
+  },
+  {
     "name": "Sepsi Run",
     "location": "Sfântu Gheorghe",
     "location_details": "",
@@ -2093,6 +2203,24 @@
     "link": "https://maratonulsarii.adrenallina.ro/",
     "link_fb": "https://www.facebook.com/MaratonulSarii",
     "id": 121,
+    "year": 2026,
+    "month": 6,
+    "day": 13
+  },
+  {
+    "name": "Peniel Run",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 13-Jun-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.run.peniel.ro/",
+    "link_fb": "https://www.facebook.com/PenielRun",
+    "id": 172,
     "year": 2026,
     "month": 6,
     "day": 13
@@ -2957,6 +3085,23 @@
     "day": 30
   },
   {
+    "name": "Bobâlna Trail Run Night",
+    "location": "Bobâlna",
+    "location_details": "",
+    "display_date": "Sun 30-Aug-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://atleticcluj.ro/",
+    "link_fb": "https://www.facebook.com/CSAtleticCluj",
+    "id": 390,
+    "year": 2026,
+    "month": 8,
+    "day": 30
+  },
+  {
     "name": "CugiRace",
     "location": "Cugir",
     "location_details": "",
@@ -3483,6 +3628,26 @@
     "day": 26
   },
   {
+    "name": "Teleki Trail",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "45km",
+      "35km",
+      "25km",
+      "10km"
+    ],
+    "link": "https://teleki.ekemvh.ro/",
+    "link_fb": "https://www.facebook.com/TelekiTrail",
+    "id": 196,
+    "year": 2026,
+    "month": 9,
+    "day": 26
+  },
+  {
     "name": "Ascotid Trail Race",
     "location": "Târgu Mureș",
     "location_details": "",
@@ -3840,6 +4005,26 @@
     "link": "https://harvestrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
     "id": 355,
+    "year": 2026,
+    "month": 10,
+    "day": 24
+  },
+  {
+    "name": "Monor Trail Run",
+    "location": "Monor",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "23.05km(578m↑)",
+      "10.91km(309m↑)",
+      "6.39km(193m↑)",
+      "1km(32m↑)"
+    ],
+    "link": "https://www.monortrail.run/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61578775119546",
+    "id": 381,
     "year": 2026,
     "month": 10,
     "day": 24

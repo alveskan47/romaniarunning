@@ -732,6 +732,11 @@
       "link_fb": "https://www.facebook.com/people/Maraton-Tarc%C4%83u/100090512883067/",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 13
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 21
@@ -5279,6 +5284,11 @@
       "link_fb": "https://www.facebook.com/vladeasawintertrail/",
       "editions": [
         {
+          "year": 2026,
+          "month": 3,
+          "day": 1
+        },
+        {
           "year": 2025,
           "month": 3,
           "day": 2
@@ -5613,6 +5623,11 @@
       "link": "https://www.run.peniel.ro/",
       "link_fb": "https://www.facebook.com/PenielRun",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 13
+        },
         {
           "year": 2025,
           "month": 3,
@@ -6240,6 +6255,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 16,
+          "link_event": "https://www.facebook.com/events/860140720324402"
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 10,
@@ -6274,6 +6295,11 @@
       "link": "https://teleki.ekemvh.ro/",
       "link_fb": "https://www.facebook.com/TelekiTrail",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
         {
           "year": 2025,
           "month": 5,
@@ -6968,6 +6994,11 @@
       "link": "https://www.facebook.com/GiarmataInMiscare/",
       "link_fb": "https://www.facebook.com/GiarmataInMiscare/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
         {
           "year": 2025,
           "month": 5,
@@ -10980,6 +11011,386 @@
           "day": 2
         }
       ]
+    },
+    {
+      "id": 377,
+      "name": "Hășmaș Trail Fest",
+      "location": "Gheorgheni",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/s/hasmas-hagymas-trail-fest/1355180722914907/"
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "name": "1K Run Fast & Fun - Iași",
+      "location": "Iași",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "1km"
+      ],
+      "link": "https://www.runfast.acsatletis.ro/",
+      "link_fb": "https://www.facebook.com/runfastiasi/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 19
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 20
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Brașov Marathon Night Challenge",
+      "location": "Brașov",
+      "county": "BV",
+      "type": "trail",
+      "distances": [
+        "7.5km(360m↑)"
+      ],
+      "link": "https://www.brasovmarathon.ro/",
+      "link_fb": "https://www.facebook.com/brasovmarathon/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 5
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Oradea Night Run",
+      "location": "Oradea",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "19km",
+        "11.1km",
+        "3.2km"
+      ],
+      "link": "https://oradeanightrun.ro/ro/",
+      "link_fb": "https://www.facebook.com/oradeanightrun/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 19
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "name": "Monor Trail Run",
+      "location": "Monor",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "23.05km(578m↑)",
+        "10.91km(309m↑)",
+        "6.39km(193m↑)",
+        "1km(32m↑)"
+      ],
+      "link": "https://www.monortrail.run/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61578775119546",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "name": "4 RUN 4 FUN - Memorial Szasz Albert",
+      "location": "Târgu Mureș",
+      "location_details": "Platoul Cornesti",
+      "county": "MS",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://4run4fun.ro/",
+      "link_fb": "https://www.facebook.com/4run4funtgm",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "day": 26
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "name": "4 RUN 4 FUN - Stone Bear Race",
+      "location": "Târgu Mureș",
+      "location_details": "Platoul Cornesti",
+      "county": "MS",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://4run4fun.ro/",
+      "link_fb": "https://www.facebook.com/4run4funtgm",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 11,
+          "day": 8
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "day": 9
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "name": "4 RUN 4 FUN - Memorial Klosz Peter – Night Run",
+      "location": "Târgu Mureș",
+      "location_details": "Platoul Cornesti",
+      "county": "MS",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://4run4fun.ro/",
+      "link_fb": "https://www.facebook.com/4run4funtgm",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 11,
+          "day": 22
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "day": 23
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "name": "4 RUN 4 FUN - Alergare de Moș Nicolae",
+      "location": "Târgu Mureș",
+      "location_details": "Platoul Cornesti",
+      "county": "MS",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://4run4fun.ro/",
+      "link_fb": "https://www.facebook.com/4run4funtgm",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 12,
+          "day": 6
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "day": 7
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Ovidio Running Constanța",
+      "location": "Constanța",
+      "county": "CT",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "https://www.ovidiorunning.eu/ovidio-running-constanta/",
+      "link_fb": "https://www.facebook.com/profile.php?id=100091564201310",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Run Iași - 10km",
+      "location": "Iași",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/1256496729555097"
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "name": "Cros SNOMRun",
+      "location": "Sinaia",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 30,
+          "event_link": "https://www.facebook.com/photo/?fbid=1242366187937809"
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "name": "Subcarpati Trail Run Night",
+      "location": "Cocorastii Mislii",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "9km(250m↑)"
+      ],
+      "link": "https://www.subcarpatitrailrun.ro/strbynight/",
+      "link_fb": "https://www.facebook.com/subcarpatitrailrun",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 11,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Bobâlna Trail Run Night",
+      "location": "Bobâlna",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://atleticcluj.ro/",
+      "link_fb": "https://www.facebook.com/CSAtleticCluj",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "name": "Pițigoi Vertical Challenge",
+      "location": "Sângeorgiu de Mureș",
+      "county": "MS",
+      "type": "trail",
+      "distances": [
+        "20km",
+        "10km",
+        "6km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 15,
+          "event_link": "https://www.facebook.com/events/s/-pitigoi-vertical-challenge-ed/908759895069957/"
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -11562,6 +11973,90 @@
           "month": 10,
           "day": 5,
           "event_link": "https://www.facebook.com/events/2801073490102072/"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "HalloWeRun Cricova",
+      "location": "Cricova",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "wine cellar",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "https://www.runtransylvania.com/halloween-run/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Dante's Hell Backyard Ultra",
+      "location": "Suruceni",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "wine cellar",
+      "distances": [
+        "6.7km/lap"
+      ],
+      "link": "https://www.runmoldova.com/",
+      "link_fb": "https://www.facebook.com/runmoldova",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Race for the Cure Moldova",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 10,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/1890645101776852"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Mărțișor Trail Run",
+      "location": "Căpriana–Scoreni",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "11km",
+        "6km"
+      ],
+      "link": "https://moldovatrail.run/",
+      "link_fb": "https://www.facebook.com/moldovatrailrun",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 1
         }
       ]
     }
