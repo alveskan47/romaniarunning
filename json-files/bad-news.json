@@ -3,6 +3,20 @@
     {
       "original_date": {
         "year": 2026,
+        "month": 5,
+        "day": 9
+      },
+      "competition": "Thermal Trail Race",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 5,
+        "day": 30
+      }
+    },
+    {
+      "original_date": {
+        "year": 2026,
         "month": 9,
         "day": 27
       },

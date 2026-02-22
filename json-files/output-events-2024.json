@@ -3206,6 +3206,24 @@
     "day": 21
   },
   {
+    "name": "Crosul Loteriei Romane - București",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 21-Sep-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "6.4km",
+      "3.2km"
+    ],
+    "link": "https://www.facebook.com/events/851410930462620/",
+    "link_fb": "",
+    "id": 405,
+    "year": 2024,
+    "month": 9,
+    "day": 21
+  },
+  {
     "name": "Oradea City Running Day",
     "location": "Oradea",
     "location_details": "",
@@ -4190,6 +4208,44 @@
     "day": 2
   },
   {
+    "name": "Zărnești Challenge Semimaraton",
+    "location": "Zărnești",
+    "location_details": "",
+    "display_date": "Sat 02-Nov-2024",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "18.7km(850m↑)",
+      "10.6km(594m↑)",
+      "5.7km(302m↑)"
+    ],
+    "link": "https://zarnestichallenge.ro/semimaraton/",
+    "link_fb": "https://www.facebook.com/zarnestichallenge",
+    "id": 392,
+    "year": 2024,
+    "month": 11,
+    "day": 2
+  },
+  {
+    "name": "Bistrița November Run",
+    "location": "Bistrița",
+    "location_details": "Pădurea Schullerwald",
+    "display_date": "Sat 02-Nov-2024",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "31km",
+      "13km",
+      "6km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61552233767137",
+    "link_fb": "https://www.facebook.com/profile.php?id=61552233767137",
+    "id": 396,
+    "year": 2024,
+    "month": 11,
+    "day": 2
+  },
+  {
     "name": "Băneasa Forest Run - Autumn",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -4245,6 +4301,57 @@
     "day": 9
   },
   {
+    "name": "Spartan Race Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 09-Nov-2024",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "13km(700m↑)"
+    ],
+    "link": "https://www.spartantrail.com/sovata/",
+    "link_fb": "https://www.facebook.com/SpartanRaceRomania",
+    "id": 393,
+    "year": 2024,
+    "month": 11,
+    "day": 9
+  },
+  {
+    "name": "Sky Run",
+    "location": "București",
+    "location_details": "Sky Tower",
+    "display_date": "Sat 09-Nov-2024",
+    "county": "B",
+    "type": "stairs",
+    "distances": [
+      "1km(122m↑)"
+    ],
+    "link": "https://skyrun.skytower.ro/",
+    "link_fb": "",
+    "id": 394,
+    "year": 2024,
+    "month": 11,
+    "day": 9
+  },
+  {
+    "name": "Duatlonul Regal Invictus - Curtea de Argeș",
+    "location": "Curtea de Argeș",
+    "location_details": "",
+    "display_date": "Sat 09-Nov-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.invictusromania.ro/",
+    "link_fb": "https://www.facebook.com/InvictusTeamRomania/",
+    "id": 395,
+    "year": 2024,
+    "month": 11,
+    "day": 9
+  },
+  {
     "name": "Lunca Timișului CX",
     "location": "Lunca Timișului",
     "location_details": "",
@@ -4281,6 +4388,40 @@
     "day": 15
   },
   {
+    "name": "Ultra-trail de la Cluj-Napoca la Dej",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Fri 15-Nov-2024",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "65km"
+    ],
+    "link": "https://www.facebook.com/events/732298329109866/",
+    "link_fb": "",
+    "id": 399,
+    "year": 2024,
+    "month": 11,
+    "day": 15
+  },
+  {
+    "name": "24 de ore pentru un zambet",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Fri 15-Nov-2024",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://xterrasport.ro/caritate/ro/",
+    "link_fb": "https://www.facebook.com/24deorepentruunzambet/",
+    "id": 404,
+    "year": 2024,
+    "month": 11,
+    "day": 15
+  },
+  {
     "name": "Crosul 15 Noiembrie 1987",
     "location": "Brașov",
     "location_details": "",
@@ -4310,6 +4451,23 @@
     "link": "https://4run4fun.ro/",
     "link_fb": "https://www.facebook.com/4run4funtgm",
     "id": 384,
+    "year": 2024,
+    "month": 11,
+    "day": 23
+  },
+  {
+    "name": "Alpine Reșița - Semenic Challenge",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 23-Nov-2024",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "29km(2030m↑)"
+    ],
+    "link": "https://sites.google.com/view/alpineresitatrailchallenge/",
+    "link_fb": "https://www.facebook.com/ResitaOutdoor/",
+    "id": 407,
     "year": 2024,
     "month": 11,
     "day": 23
@@ -4424,6 +4582,41 @@
     "year": 2024,
     "month": 12,
     "day": 15
+  },
+  {
+    "name": "Maraton Podu Inalt",
+    "location": "Vaslui",
+    "location_details": "Cabana Bahnari",
+    "display_date": "Sun 15-Dec-2024",
+    "county": "VS",
+    "type": "trail",
+    "distances": [
+      "14km",
+      "7km"
+    ],
+    "link": "https://www.facebook.com/events/1670359560567173/",
+    "link_fb": "",
+    "id": 413,
+    "year": 2024,
+    "month": 12,
+    "day": 15
+  },
+  {
+    "name": "Marea Moșmondeala",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Mon 16-Dec-2024",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1077136363920539/",
+    "link_fb": "",
+    "id": 411,
+    "year": 2024,
+    "month": 12,
+    "day": 16
   },
   {
     "name": "Ultra Zarand Everesting - Căsoaia",

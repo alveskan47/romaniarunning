@@ -844,6 +844,24 @@
     "day": 4
   },
   {
+    "name": "Reșița Stairs Challenge",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 04-Apr-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "12.5km(1000m↑)",
+      "400m(110m↑)"
+    ],
+    "link": "https://www.facebook.com/resita.stairs.challenge",
+    "link_fb": "https://www.facebook.com/resita.stairs.challenge",
+    "id": 177,
+    "year": 2026,
+    "month": 4,
+    "day": 4
+  },
+  {
     "name": "Băneasa Forest Run - Spring",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -950,6 +968,26 @@
     "link": "https://velopower.ro/dalhauti-trail-challenge/",
     "link_fb": "https://www.facebook.com/vprro/",
     "id": 108,
+    "year": 2026,
+    "month": 4,
+    "day": 19
+  },
+  {
+    "name": "Brăila 10k",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Sun 19-Apr-2026",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "10km",
+      "7km",
+      "3km",
+      "1.5km"
+    ],
+    "link": "https://runbraila.ro/",
+    "link_fb": "https://www.facebook.com/runbraila/",
+    "id": 181,
     "year": 2026,
     "month": 4,
     "day": 19
@@ -1255,24 +1293,6 @@
     "link": "https://trascautrailrun.ro/",
     "link_fb": "https://www.facebook.com/TrascauTrailRun/",
     "id": 59,
-    "year": 2026,
-    "month": 5,
-    "day": 9
-  },
-  {
-    "name": "Thermal Trail Race",
-    "location": "Baile 1 Mai",
-    "location_details": "",
-    "display_date": "Sat 09-May-2026",
-    "county": "BH",
-    "type": "trail",
-    "distances": [
-      "14km(308m↑)",
-      "7km(178m↑)"
-    ],
-    "link": "https://www.thermaltrailrace.com/",
-    "link_fb": "https://www.facebook.com/ThermalTrailRace/",
-    "id": 60,
     "year": 2026,
     "month": 5,
     "day": 9
@@ -1809,6 +1829,24 @@
     "link": "https://www.brasovmarathon.ro/",
     "link_fb": "https://www.facebook.com/brasovmarathon/",
     "id": 47,
+    "year": 2026,
+    "month": 5,
+    "day": 30
+  },
+  {
+    "name": "Thermal Trail Race",
+    "location": "Baile 1 Mai",
+    "location_details": "",
+    "display_date": "Sat 30-May-2026",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "14km(308m↑)",
+      "7km(178m↑)"
+    ],
+    "link": "https://www.thermaltrailrace.com/",
+    "link_fb": "https://www.facebook.com/ThermalTrailRace/",
+    "id": 60,
     "year": 2026,
     "month": 5,
     "day": 30
@@ -4161,24 +4199,6 @@
     "day": 7
   },
   {
-    "name": "Lunca Timișului CX",
-    "location": "Lunca Timișului",
-    "location_details": "",
-    "display_date": "Sat 07-Nov-2026",
-    "county": "TM",
-    "type": "trail",
-    "distances": [
-      "12km",
-      "6km"
-    ],
-    "link": "https://ltcx.ecostuff.ro/",
-    "link_fb": "https://www.facebook.com/yoloeventsrom",
-    "id": 136,
-    "year": 2026,
-    "month": 11,
-    "day": 7
-  },
-  {
     "name": "Bucharest 21k",
     "location": "București",
     "location_details": "",
@@ -4211,6 +4231,24 @@
     "link": "https://15noiembrie.ro/",
     "link_fb": "https://www.facebook.com/crosul15noiembrie/",
     "id": 11,
+    "year": 2026,
+    "month": 11,
+    "day": 14
+  },
+  {
+    "name": "Lunca Timișului CX",
+    "location": "Lunca Timișului",
+    "location_details": "",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "12km",
+      "6km"
+    ],
+    "link": "https://ltcx.ecostuff.ro/",
+    "link_fb": "https://www.facebook.com/yoloeventsrom",
+    "id": 136,
     "year": 2026,
     "month": 11,
     "day": 14
