@@ -433,7 +433,7 @@ function draw_highcharts_county(competitions_by_county) {
     (async () => {
         const colors = getThemeColors();
         const topology = await fetch(
-            'https://code.highcharts.com/mapdata/countries/ro/ro-all.topo.json'
+            'json-files/ro-all.topo.json'
         ).then(response => response.json());
 
         // Create the chart
