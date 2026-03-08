@@ -3,6 +3,20 @@
     {
       "original_date": {
         "year": 2026,
+        "month": 6,
+        "day": 6
+      },
+      "competition": "Urlea Super Vertical",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 20
+      }
+    },
+    {
+      "original_date": {
+        "year": 2026,
         "month": 5,
         "day": 9
       },

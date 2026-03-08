@@ -17,6 +17,24 @@
     "day": 1
   },
   {
+    "name": "Vatra Dornei Night Run",
+    "location": "Vatra Dornei",
+    "location_details": "",
+    "display_date": "Sat 20-Jan-2024",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "11.2km",
+      "5.6km"
+    ],
+    "link": "https://apedalforward.com/",
+    "link_fb": "",
+    "id": 424,
+    "year": 2024,
+    "month": 1,
+    "day": 20
+  },
+  {
     "name": "Semimaraton Gerar",
     "location": "București",
     "location_details": "Politehnica",
@@ -145,6 +163,23 @@
     "day": 10
   },
   {
+    "name": "Ziua Indragostitilor de Alergare",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 17-Feb-2024",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://calendar.sportic.ro/events/view?hash=61e9784acb23531c55cf243774c1bfd7b79a1feb",
+    "link_fb": "",
+    "id": 425,
+    "year": 2024,
+    "month": 2,
+    "day": 17
+  },
+  {
     "name": "Vladeasa Winter Trail",
     "location": "Săcuieu",
     "location_details": "Rogojel",
@@ -234,6 +269,24 @@
     "day": 2
   },
   {
+    "name": "GRR Martisor",
+    "location": "Tulucești",
+    "location_details": "Pădurea Gârboavele",
+    "display_date": "Sat 02-Mar-2024",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "10km(⚠ only women)",
+      "5km(⚠ only women)"
+    ],
+    "link": "https://www.facebook.com/events/283542291404648/",
+    "link_fb": "",
+    "id": 426,
+    "year": 2024,
+    "month": 3,
+    "day": 2
+  },
+  {
     "name": "Mileștii Mici Winerun",
     "location": "Mileștii Mici",
     "location_details": "Republica Moldova",
@@ -264,6 +317,23 @@
     "link": "https://www.scoriloskyrace.ro/",
     "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
     "id": 158,
+    "year": 2024,
+    "month": 3,
+    "day": 3
+  },
+  {
+    "name": "Pitești 4 Seasons Running - Spring",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 03-Mar-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 427,
     "year": 2024,
     "month": 3,
     "day": 3
@@ -1854,6 +1924,23 @@
     "day": 22
   },
   {
+    "name": "Pitești 4 Seasons Running - Summer",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 23-Jun-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 428,
+    "year": 2024,
+    "month": 6,
+    "day": 23
+  },
+  {
     "name": "Crosul Hoia",
     "location": "Cluj-Napoca",
     "location_details": "Pădurea Hoia",
@@ -2862,7 +2949,7 @@
       "5.9km",
       "4.1km"
     ],
-    "link": "https://www.runforheroes.ro/",
+    "link": "https://brasovheroes.fundatiacomunitarabrasov.ro/",
     "link_fb": "https://www.facebook.com/Brasov.Heroes/",
     "id": 255,
     "year": 2024,
@@ -4370,6 +4457,23 @@
     "day": 10
   },
   {
+    "name": "Pitești 4 Seasons Running - Autumn",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 10-Nov-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 429,
+    "year": 2024,
+    "month": 11,
+    "day": 10
+  },
+  {
     "name": "Crosul de Noapte Cluj (toamna)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -4527,6 +4631,23 @@
     "year": 2024,
     "month": 12,
     "day": 7
+  },
+  {
+    "name": "Pitești 4 Seasons Running - Winter",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 08-Dec-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 430,
+    "year": 2024,
+    "month": 12,
+    "day": 8
   },
   {
     "name": "Maratonul de Craciun - Chișinău",

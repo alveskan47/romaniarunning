@@ -196,6 +196,23 @@
     "day": 19
   },
   {
+    "name": "Pitești 4 Seasons Running - Spring",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 19-Feb-2023",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 427,
+    "year": 2023,
+    "month": 2,
+    "day": 19
+  },
+  {
     "name": "Șiria Winter Trail",
     "location": "Șiria",
     "location_details": "",
@@ -1929,6 +1946,23 @@
     "day": 16
   },
   {
+    "name": "Pitești 4 Seasons Running - Summer",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 16-Jul-2023",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 428,
+    "year": 2023,
+    "month": 7,
+    "day": 16
+  },
+  {
     "name": "Buila Trail Race",
     "location": "Barbatesti",
     "location_details": "",
@@ -2509,7 +2543,7 @@
       "5.9km",
       "4.1km"
     ],
-    "link": "https://www.runforheroes.ro/",
+    "link": "https://brasovheroes.fundatiacomunitarabrasov.ro/",
     "link_fb": "https://www.facebook.com/Brasov.Heroes/",
     "id": 255,
     "year": 2023,
@@ -3735,6 +3769,23 @@
     "day": 29
   },
   {
+    "name": "Pitești 4 Seasons Running - Autumn",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 29-Oct-2023",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 429,
+    "year": 2023,
+    "month": 10,
+    "day": 29
+  },
+  {
     "name": "IstritaXscape",
     "location": "Sărăta Monteoru",
     "location_details": "",
@@ -4128,6 +4179,23 @@
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",
     "id": 264,
+    "year": 2023,
+    "month": 12,
+    "day": 17
+  },
+  {
+    "name": "Pitești 4 Seasons Running - Winter",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "display_date": "Sun 17-Dec-2023",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/triathlonteampitesti",
+    "link_fb": "https://www.facebook.com/triathlonteampitesti",
+    "id": 430,
     "year": 2023,
     "month": 12,
     "day": 17

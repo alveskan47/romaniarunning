@@ -4128,7 +4128,7 @@
         {
           "year": 2026,
           "month": 6,
-          "day": 6
+          "day": 20
         }
       ]
     },
@@ -5814,6 +5814,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 2,
+          "event_link": "https://www.facebook.com/events/1558770275225360/"
+        },
+        {
           "year": 2025,
           "month": 4,
           "day": 5,
@@ -6926,7 +6932,7 @@
     },
     {
       "id": 222,
-      "name": "Comunitate in Miscare",
+      "name": "Comunitate in Mișcare - Reșița",
       "location": "Reșița",
       "county": "CS",
       "type": "road",
@@ -6937,6 +6943,11 @@
       "link": "https://comunitateinmiscare.ro/",
       "link_fb": "https://www.facebook.com/comunitateinmiscare/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
         {
           "year": 2025,
           "month": 5,
@@ -7734,9 +7745,14 @@
         "5.9km",
         "4.1km"
       ],
-      "link": "https://www.runforheroes.ro/",
+      "link": "https://brasovheroes.fundatiacomunitarabrasov.ro/",
       "link_fb": "https://www.facebook.com/Brasov.Heroes/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 14
+        },
         {
           "year": 2025,
           "month": 6,
@@ -9290,10 +9306,16 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/26139225392402432/"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 6,
-          "event_link": "https://www.facebook.com/events/zona-gr%C4%83tarepicnic-cotu-negru-b%C3%A2rlad/b%C3%A2rlad-hills-challenge/721220984288538/"
+          "event_link": "https://www.facebook.com/events/721220984288538/"
         }
       ]
     },
@@ -12043,6 +12065,314 @@
           "month": 12,
           "day": 26,
           "event_link": "https://www.facebook.com/events/865587866195260/"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "name": "The Horn Run",
+      "location": " București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://thehornrun.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61575510355351",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 14
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Run 4 animals",
+      "location": " București",
+      "location_details": " Parcul Titan",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/s/run-4-animals/1654806558857492/"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Crosul Primăverii Câmpia Turzii",
+      "location": "Câmpia Turzii",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "4km",
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 28,
+          "event_link": "https://www.facebook.com/photo/?fbid=26210972355235252&set=pcb.26210978728567948"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "name": "Trail Run Țara Năsăudului",
+      "location": "Năsăud",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "https://trtn.ro/",
+      "link_fb": "https://www.facebook.com/trailruntaranasaudului",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Ciudanovița în mișcare",
+      "location": "Ciudanovița",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/1408542417385960/"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 2,
+          "event_link": "https://www.radioresita.ro/actualitate/ciudanovita-in-miscare-un-eveniment-pentru-toate-varstele"
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Felix Trail Run",
+      "location": "Baile Felix",
+      "county": "BH",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://thermaltrailrace.com/inscriere-felix-trail-race",
+      "link_fb": "https://www.facebook.com/FelixTrail",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "name": "Vatra Dornei Night Run",
+      "location": "Vatra Dornei",
+      "county": "SV",
+      "type": "trail",
+      "distances": [
+        "11.2km",
+        "5.6km"
+      ],
+      "link": "https://apedalforward.com/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 1,
+          "day": 20
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "name": "Ziua Indragostitilor de Alergare",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "6km"
+      ],
+      "link": "https://calendar.sportic.ro/events/view?hash=61e9784acb23531c55cf243774c1bfd7b79a1feb",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 2,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "name": "GRR Martisor",
+      "location": "Tulucești",
+      "location_details": "Pădurea Gârboavele",
+      "county": "GL",
+      "type": "trail",
+      "distances": [
+        "10km(⚠ only women)",
+        "5km(⚠ only women)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/2315528872260712/"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/896904978891186/"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 2,
+          "event_link": "https://www.facebook.com/events/283542291404648/"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Pitești 4 Seasons Running - Spring",
+      "location": "Pitești",
+      "location_details": "Lunca Argeșului",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "https://www.facebook.com/triathlonteampitesti",
+      "link_fb": "https://www.facebook.com/triathlonteampitesti",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 3,
+          "day": 3
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Pitești 4 Seasons Running - Summer",
+      "location": "Pitești",
+      "location_details": "Lunca Argeșului",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "https://www.facebook.com/triathlonteampitesti",
+      "link_fb": "https://www.facebook.com/triathlonteampitesti",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 23
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "name": "Pitești 4 Seasons Running - Autumn",
+      "location": "Pitești",
+      "location_details": "Lunca Argeșului",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "https://www.facebook.com/triathlonteampitesti",
+      "link_fb": "https://www.facebook.com/triathlonteampitesti",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 11,
+          "day": 10
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "name": "Pitești 4 Seasons Running - Winter",
+      "location": "Pitești",
+      "location_details": "Lunca Argeșului",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "https://www.facebook.com/triathlonteampitesti",
+      "link_fb": "https://www.facebook.com/triathlonteampitesti",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 12,
+          "day": 8
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "day": 17
         }
       ]
     }

@@ -302,6 +302,24 @@
     "day": 7
   },
   {
+    "name": "GRR Martisor",
+    "location": "Tulucești",
+    "location_details": "Pădurea Gârboavele",
+    "display_date": "Sat 07-Mar-2026",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "10km(⚠ only women)",
+      "5km(⚠ only women)"
+    ],
+    "link": "https://www.facebook.com/events/2315528872260712/",
+    "link_fb": "",
+    "id": 426,
+    "year": 2026,
+    "month": 3,
+    "day": 7
+  },
+  {
     "name": "SportGuru Timișoara 21k",
     "location": "Timișoara",
     "location_details": "",
@@ -562,6 +580,23 @@
     "day": 14
   },
   {
+    "name": "The Horn Run",
+    "location": " București",
+    "location_details": "",
+    "display_date": "Sat 14-Mar-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://thehornrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61575510355351",
+    "id": 418,
+    "year": 2026,
+    "month": 3,
+    "day": 14
+  },
+  {
     "name": "Mileștii Mici Winerun",
     "location": "Mileștii Mici",
     "location_details": "Republica Moldova",
@@ -723,6 +758,43 @@
     "link": "https://sa-run-i.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61566338354647",
     "id": 43,
+    "year": 2026,
+    "month": 3,
+    "day": 28
+  },
+  {
+    "name": "Run 4 animals",
+    "location": " București",
+    "location_details": " Parcul Titan",
+    "display_date": "Sat 28-Mar-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/s/run-4-animals/1654806558857492/",
+    "link_fb": "",
+    "id": 419,
+    "year": 2026,
+    "month": 3,
+    "day": 28
+  },
+  {
+    "name": "Crosul Primăverii Câmpia Turzii",
+    "location": "Câmpia Turzii",
+    "location_details": "",
+    "display_date": "Sat 28-Mar-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "4km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=26210972355235252&set=pcb.26210978728567948",
+    "link_fb": "",
+    "id": 420,
     "year": 2026,
     "month": 3,
     "day": 28
@@ -1183,6 +1255,24 @@
     "day": 2
   },
   {
+    "name": "Crosul Primaverii Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 02-May-2026",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "⚠ mandatory medical certificate",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/1558770275225360/",
+    "link_fb": "",
+    "id": 178,
+    "year": 2026,
+    "month": 5,
+    "day": 2
+  },
+  {
     "name": "Sălciua Trail Run",
     "location": "Sălciua",
     "location_details": "",
@@ -1293,6 +1383,43 @@
     "link": "https://trascautrailrun.ro/",
     "link_fb": "https://www.facebook.com/TrascauTrailRun/",
     "id": 59,
+    "year": 2026,
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Trail Run Țara Năsăudului",
+    "location": "Năsăud",
+    "location_details": "",
+    "display_date": "Sat 09-May-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://trtn.ro/",
+    "link_fb": "https://www.facebook.com/trailruntaranasaudului",
+    "id": 421,
+    "year": 2026,
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Ciudanovița în mișcare",
+    "location": "Ciudanovița",
+    "location_details": "",
+    "display_date": "Sat 09-May-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/1408542417385960/",
+    "link_fb": "",
+    "id": 422,
     "year": 2026,
     "month": 5,
     "day": 9
@@ -1722,6 +1849,23 @@
     "day": 23
   },
   {
+    "name": "Bârlad Hills Challenge",
+    "location": "Bârlad",
+    "location_details": "",
+    "display_date": "Sat 23-May-2026",
+    "county": "VS",
+    "type": "trail",
+    "distances": [
+      "11.2km(255m↑)"
+    ],
+    "link": "https://www.facebook.com/events/26139225392402432/",
+    "link_fb": "",
+    "id": 309,
+    "year": 2026,
+    "month": 5,
+    "day": 23
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",
@@ -1892,6 +2036,24 @@
     "day": 30
   },
   {
+    "name": "Comunitate in Mișcare - Reșița",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 30-May-2026",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://comunitateinmiscare.ro/",
+    "link_fb": "https://www.facebook.com/comunitateinmiscare/",
+    "id": 222,
+    "year": 2026,
+    "month": 5,
+    "day": 30
+  },
+  {
     "name": "Duna Nap",
     "location": "Rimetea",
     "location_details": "",
@@ -2036,23 +2198,6 @@
     "link": "https://www.bikeworks.ro/",
     "link_fb": "https://www.facebook.com/BikeWorks",
     "id": 71,
-    "year": 2026,
-    "month": 6,
-    "day": 6
-  },
-  {
-    "name": "Urlea Super Vertical",
-    "location": "Breaza (BV)",
-    "location_details": "",
-    "display_date": "Sat 06-Jun-2026",
-    "county": "BV",
-    "type": "trail",
-    "distances": [
-      "24km (1833m↑)"
-    ],
-    "link": "https://fagarasrocks.ro/urlea-super-vertical/",
-    "link_fb": "https://www.facebook.com/fagarasrocks/",
-    "id": 119,
     "year": 2026,
     "month": 6,
     "day": 6
@@ -2336,6 +2481,25 @@
     "day": 14
   },
   {
+    "name": "Brașov Heroes",
+    "location": "Brașov",
+    "location_details": "Lacul Noua",
+    "display_date": "Sun 14-Jun-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "7.7km",
+      "5.9km",
+      "4.1km"
+    ],
+    "link": "https://brasovheroes.fundatiacomunitarabrasov.ro/",
+    "link_fb": "https://www.facebook.com/Brasov.Heroes/",
+    "id": 255,
+    "year": 2026,
+    "month": 6,
+    "day": 14
+  },
+  {
     "name": "Race for the Cure Romania",
     "location": "București",
     "location_details": "",
@@ -2386,6 +2550,23 @@
     "link": "https://maratonultarnavei.ro/",
     "link_fb": "https://www.facebook.com/maratonultarnavei.ro/",
     "id": 81,
+    "year": 2026,
+    "month": 6,
+    "day": 20
+  },
+  {
+    "name": "Urlea Super Vertical",
+    "location": "Breaza (BV)",
+    "location_details": "",
+    "display_date": "Sat 20-Jun-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "24km (1833m↑)"
+    ],
+    "link": "https://fagarasrocks.ro/urlea-super-vertical/",
+    "link_fb": "https://www.facebook.com/fagarasrocks/",
+    "id": 119,
     "year": 2026,
     "month": 6,
     "day": 20
@@ -4063,6 +4244,23 @@
     "link": "https://www.monortrail.run/",
     "link_fb": "https://www.facebook.com/profile.php?id=61578775119546",
     "id": 381,
+    "year": 2026,
+    "month": 10,
+    "day": 24
+  },
+  {
+    "name": "Felix Trail Run",
+    "location": "Baile Felix",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://thermaltrailrace.com/inscriere-felix-trail-race",
+    "link_fb": "https://www.facebook.com/FelixTrail",
+    "id": 423,
     "year": 2026,
     "month": 10,
     "day": 24

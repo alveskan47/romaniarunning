@@ -323,6 +323,24 @@
     "day": 2
   },
   {
+    "name": "GRR Martisor",
+    "location": "Tulucești",
+    "location_details": "Pădurea Gârboavele",
+    "display_date": "Sat 08-Mar-2025",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "10km(⚠ only women)",
+      "5km(⚠ only women)"
+    ],
+    "link": "https://www.facebook.com/events/896904978891186/",
+    "link_fb": "",
+    "id": 426,
+    "year": 2025,
+    "month": 3,
+    "day": 8
+  },
+  {
     "name": "SportGuru Timișoara 21k",
     "location": "Timișoara",
     "location_details": "",
@@ -1358,6 +1376,24 @@
     "year": 2025,
     "month": 4,
     "day": 30
+  },
+  {
+    "name": "Ciudanovița în mișcare",
+    "location": "Ciudanovița",
+    "location_details": "",
+    "display_date": "Fri 02-May-2025",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.radioresita.ro/actualitate/ciudanovita-in-miscare-un-eveniment-pentru-toate-varstele",
+    "link_fb": "",
+    "id": 422,
+    "year": 2025,
+    "month": 5,
+    "day": 2
   },
   {
     "name": "Alergăraș în Făgăraș",
@@ -2427,7 +2463,7 @@
     "day": 31
   },
   {
-    "name": "Comunitate in Miscare",
+    "name": "Comunitate in Mișcare - Reșița",
     "location": "Reșița",
     "location_details": "",
     "display_date": "Sat 31-May-2025",
@@ -3287,7 +3323,7 @@
       "5.9km",
       "4.1km"
     ],
-    "link": "https://www.runforheroes.ro/",
+    "link": "https://brasovheroes.fundatiacomunitarabrasov.ro/",
     "link_fb": "https://www.facebook.com/Brasov.Heroes/",
     "id": 255,
     "year": 2025,
@@ -3491,6 +3527,23 @@
     "link": "https://experiences.mytransylvania.ro/heritage-run-alergam-pentru-patrimoniu/",
     "link_fb": "https://www.facebook.com/p/Heritage-Run-Transylvania-61575681676360/",
     "id": 265,
+    "year": 2025,
+    "month": 6,
+    "day": 28
+  },
+  {
+    "name": "The Horn Run",
+    "location": " București",
+    "location_details": "",
+    "display_date": "Sat 28-Jun-2025",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://thehornrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61575510355351",
+    "id": 418,
     "year": 2025,
     "month": 6,
     "day": 28
@@ -4699,7 +4752,7 @@
     "distances": [
       "11.2km(255m↑)"
     ],
-    "link": "https://www.facebook.com/events/zona-gr%C4%83tarepicnic-cotu-negru-b%C3%A2rlad/b%C3%A2rlad-hills-challenge/721220984288538/",
+    "link": "https://www.facebook.com/events/721220984288538/",
     "link_fb": "",
     "id": 309,
     "year": 2025,
