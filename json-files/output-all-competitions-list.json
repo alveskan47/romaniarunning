@@ -125,7 +125,7 @@
       "name": "Aiud Green Run",
       "location": "Aiud",
       "county": "AB",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "Sat 14-Sep",
       "year_2023": "Sat 16-Sep"
@@ -545,7 +545,7 @@
       "name": "Buila Trail Race",
       "location": "Barbatesti",
       "county": "VL",
-      "year_2026": "",
+      "year_2026": "Sat 18-Jul",
       "year_2025": "Sat 19-Jul",
       "year_2024": "Sat 20-Jul",
       "year_2023": "Sat 22-Jul"
@@ -679,6 +679,16 @@
       "year_2025": "Mon 1-Dec",
       "year_2024": "Sun 1-Dec",
       "year_2023": "Fri 1-Dec"
+    },
+    {
+      "id": 432,
+      "name": "Cluj Running Festival",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2026": "Sun 28-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 293,
@@ -1601,6 +1611,16 @@
       "year_2023": "Sat 7-Oct"
     },
     {
+      "id": 431,
+      "name": "Crosul Sport 4 all - Lugoj",
+      "location": "Lugoj",
+      "county": "TM",
+      "year_2026": "Sun 17-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 187,
       "name": "Crosul Teiușului",
       "location": "Teiuș",
@@ -2425,7 +2445,7 @@
       "name": "Maratonul Muntelui Ceahlău",
       "location": "Durau",
       "county": "NT",
-      "year_2026": "",
+      "year_2026": "Sat 27-Jun",
       "year_2025": "Sat 17-May",
       "year_2024": "",
       "year_2023": ""
@@ -3315,7 +3335,7 @@
       "name": "Semimaraton Țara de Piatră",
       "location": "Campeni",
       "county": "AB",
-      "year_2026": "",
+      "year_2026": "Sun 26-Jul",
       "year_2025": "Sun 13-Jul",
       "year_2024": "Sun 14-Jul",
       "year_2023": "Sun 16-Jul"
@@ -3805,7 +3825,7 @@
       "name": "Trăscău Trail Run",
       "location": "Rimetea",
       "county": "AB",
-      "year_2026": "Sat 9-May",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "",
       "year_2024": "",
       "year_2023": "Sat 23-Sep"
@@ -4219,6 +4239,16 @@
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 8-Jun",
       "year_2023": "Sat 17-Jun"
+    },
+    {
+      "id": 433,
+      "name": "Zaga Zaga Escape Run",
+      "location": "Garoafa (VN)",
+      "county": "VN",
+      "year_2026": "Sun 18-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 14,

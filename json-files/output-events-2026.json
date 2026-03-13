@@ -1369,25 +1369,6 @@
     "day": 9
   },
   {
-    "name": "Trăscău Trail Run",
-    "location": "Rimetea",
-    "location_details": "",
-    "display_date": "Sat 09-May-2026",
-    "county": "AB",
-    "type": "trail",
-    "distances": [
-      "45km(3000m↑)",
-      "23.5km(1475m↑)",
-      "8.4km(500m↑)"
-    ],
-    "link": "https://trascautrailrun.ro/",
-    "link_fb": "https://www.facebook.com/TrascauTrailRun/",
-    "id": 59,
-    "year": 2026,
-    "month": 5,
-    "day": 9
-  },
-  {
     "name": "Trail Run Țara Năsăudului",
     "location": "Năsăud",
     "location_details": "",
@@ -1695,6 +1676,25 @@
     "link": "https://phm.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/PitestiHalfMarathon/",
     "id": 138,
+    "year": 2026,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Crosul Sport 4 all - Lugoj",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sun 17-May-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "6km",
+      "4km",
+      "2km"
+    ],
+    "link": "https://sport4alllugoj.ro/",
+    "link_fb": "",
+    "id": 431,
     "year": 2026,
     "month": 5,
     "day": 17
@@ -2685,6 +2685,25 @@
     "day": 27
   },
   {
+    "name": "Maratonul Muntelui Ceahlău",
+    "location": "Durau",
+    "location_details": "",
+    "display_date": "Sat 27-Jun-2026",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.2km",
+      "22.6km",
+      "14.8km"
+    ],
+    "link": "https://neamtmaraton.ro/",
+    "link_fb": "https://www.facebook.com/p/Maratonul-Muntelui-Ceahl%C4%83u-61572377323723/",
+    "id": 204,
+    "year": 2026,
+    "month": 6,
+    "day": 27
+  },
+  {
     "name": "Ultra Zarand History - Soimos",
     "location": "Soimos",
     "location_details": "",
@@ -2718,6 +2737,24 @@
     "year": 2026,
     "month": 6,
     "day": 27
+  },
+  {
+    "name": "Cluj Running Festival",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 28-Jun-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://clujrun.ro/",
+    "link_fb": "https://www.facebook.com/clujrunningfestival",
+    "id": 432,
+    "year": 2026,
+    "month": 6,
+    "day": 28
   },
   {
     "name": "Cozia Mountain Run",
@@ -2930,6 +2967,25 @@
     "day": 18
   },
   {
+    "name": "Buila Trail Race",
+    "location": "Barbatesti",
+    "location_details": "",
+    "display_date": "Sat 18-Jul-2026",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "36km(2300m↑)<br />⚠ restricted",
+      "19km(1300m↑)",
+      "11km(500m↑)"
+    ],
+    "link": "https://builatrailrace.ro/",
+    "link_fb": "https://www.facebook.com/BuilaTrailRace",
+    "id": 274,
+    "year": 2026,
+    "month": 7,
+    "day": 18
+  },
+  {
     "name": "Bucovina Ultra Rocks",
     "location": "Câmpulung Moldovenesc",
     "location_details": "",
@@ -2951,6 +3007,25 @@
     "year": 2026,
     "month": 7,
     "day": 25
+  },
+  {
+    "name": "Semimaraton Țara de Piatră",
+    "location": "Campeni",
+    "location_details": "",
+    "display_date": "Sun 26-Jul-2026",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22.3km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.semimaraton.com/",
+    "link_fb": "https://www.facebook.com/p/Semimaraton-%C8%9Aara-de-Piatr%C4%83-61563079674542/",
+    "id": 273,
+    "year": 2026,
+    "month": 7,
+    "day": 26
   },
   {
     "name": "Up to Postavaru",
@@ -3476,6 +3551,25 @@
     "day": 12
   },
   {
+    "name": "Aiud Green Run",
+    "location": "Aiud",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "22km",
+      "8km",
+      "2km"
+    ],
+    "link": "https://www.aiudgreenrun.ro/",
+    "link_fb": "https://www.facebook.com/aiudgreenrun/",
+    "id": 318,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
     "name": "Gugulan MTB & RUN Caransebeș",
     "location": "Caransebeș",
     "location_details": "",
@@ -3791,6 +3885,25 @@
     "year": 2026,
     "month": 9,
     "day": 20
+  },
+  {
+    "name": "Trăscău Trail Run",
+    "location": "Rimetea",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "45km(3000m↑)",
+      "23.5km(1475m↑)",
+      "8.4km(500m↑)"
+    ],
+    "link": "https://trascautrailrun.ro/",
+    "link_fb": "https://www.facebook.com/TrascauTrailRun/",
+    "id": 59,
+    "year": 2026,
+    "month": 9,
+    "day": 26
   },
   {
     "name": "Maraton Piatra Craiului",
@@ -4207,6 +4320,26 @@
     "year": 2026,
     "month": 10,
     "day": 17
+  },
+  {
+    "name": "Zaga Zaga Escape Run",
+    "location": "Garoafa (VN)",
+    "location_details": "Resort Zaga Zaga",
+    "display_date": "Sun 18-Oct-2026",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/photo.php?fbid=122120458701151596",
+    "link_fb": "",
+    "id": 433,
+    "year": 2026,
+    "month": 10,
+    "day": 18
   },
   {
     "name": "AlerGând la pădure",

@@ -2111,8 +2111,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 5,
-          "day": 9
+          "month": 9,
+          "day": 26
         },
         {
           "year": 2023,
@@ -6498,6 +6498,11 @@
       "link_fb": "https://www.facebook.com/p/Maratonul-Muntelui-Ceahl%C4%83u-61572377323723/",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 27
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 17
@@ -8296,6 +8301,11 @@
       "link_fb": "https://www.facebook.com/p/Semimaraton-%C8%9Aara-de-Piatr%C4%83-61563079674542/",
       "editions": [
         {
+          "year": 2026,
+          "month": 7,
+          "day": 26
+        },
+        {
           "year": 2025,
           "month": 7,
           "day": 13
@@ -8319,13 +8329,18 @@
       "county": "VL",
       "type": "trail",
       "distances": [
-        "36km(2300m↑)",
+        "36km(2300m↑)<br />⚠ restricted",
         "19km(1300m↑)",
         "11km(500m↑)"
       ],
       "link": "https://builatrailrace.ro/",
       "link_fb": "https://www.facebook.com/BuilaTrailRace",
       "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 18
+        },
         {
           "year": 2025,
           "month": 7,
@@ -9558,6 +9573,11 @@
       "link": "https://www.aiudgreenrun.ro/",
       "link_fb": "https://www.facebook.com/aiudgreenrun/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        },
         {
           "year": 2025,
           "month": 9,
@@ -12373,6 +12393,71 @@
           "year": 2023,
           "month": 12,
           "day": 17
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "name": "Crosul Sport 4 all - Lugoj",
+      "location": "Lugoj",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "6km",
+        "4km",
+        "2km"
+      ],
+      "link": "https://sport4alllugoj.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "name": "Cluj Running Festival",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "https://clujrun.ro/",
+      "link_fb": "https://www.facebook.com/clujrunningfestival",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "name": "Zaga Zaga Escape Run",
+      "location": "Garoafa (VN)",
+      "location_details": "Resort Zaga Zaga",
+      "county": "VN",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/photo.php?fbid=122120458701151596"
         }
       ]
     }
