@@ -520,6 +520,58 @@
     "day": 6
   },
   {
+    "name": "Crosul Studentesc Corneliu Andrei Stroe",
+    "location": "Craiova",
+    "location_details": "Parcul Tineretului",
+    "display_date": "Sat 06-Apr-2024",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/423209793560680",
+    "link_fb": "",
+    "id": 434,
+    "year": 2024,
+    "month": 4,
+    "day": 6
+  },
+  {
+    "name": "Roca Brună Wine Run&Hike",
+    "location": "Păuliș",
+    "location_details": "",
+    "display_date": "Sat 06-Apr-2024",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "6.5km(270m↑)",
+      "4km(200m↑)"
+    ],
+    "link": "https://www.facebook.com/events/415153841181762",
+    "link_fb": "",
+    "id": 435,
+    "year": 2024,
+    "month": 4,
+    "day": 6
+  },
+  {
+    "name": "Crosul UT - Cluj-Napoca (primavara)",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 06-Apr-2024",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://etti.utcluj.ro/acasa.html",
+    "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+    "id": 436,
+    "year": 2024,
+    "month": 4,
+    "day": 6
+  },
+  {
     "name": "Crosul Primaverii - Baia Mare",
     "location": "Baia Mare",
     "location_details": "",
@@ -533,6 +585,42 @@
     "link": "https://maramures.run/crosul-primaverii/",
     "link_fb": "https://www.facebook.com/MMRunners",
     "id": 175,
+    "year": 2024,
+    "month": 4,
+    "day": 7
+  },
+  {
+    "name": "Titan Park Run",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 07-Apr-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "3km"
+    ],
+    "link": "https://eliterunning.ro/titan-park-run/inscrieri-5k-titan-park-run-2024/",
+    "link_fb": "",
+    "id": 438,
+    "year": 2024,
+    "month": 4,
+    "day": 7
+  },
+  {
+    "name": "Runway Run",
+    "location": "Borcea",
+    "location_details": "Baza 86 Aeriana Borcea",
+    "display_date": "Sun 07-Apr-2024",
+    "county": "CL",
+    "type": "road",
+    "distances": [
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/events/3507575639555915/",
+    "link_fb": "",
+    "id": 439,
     "year": 2024,
     "month": 4,
     "day": 7
@@ -594,6 +682,23 @@
     "day": 13
   },
   {
+    "name": "Cross - Noi iubim Sacalaz",
+    "location": "Sacalaz",
+    "location_details": "",
+    "display_date": "Sat 13-Apr-2024",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "3km"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=805474531606050",
+    "link_fb": "",
+    "id": 440,
+    "year": 2024,
+    "month": 4,
+    "day": 13
+  },
+  {
     "name": "Wizz Air Cluj-Napoca Marathon",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -630,6 +735,24 @@
     "link": "https://baneasaforestrun.ro/",
     "link_fb": "https://www.facebook.com/BaneasaForestRun/",
     "id": 49,
+    "year": 2024,
+    "month": 4,
+    "day": 14
+  },
+  {
+    "name": "Crosul Cleja tine pasul",
+    "location": "Cleja",
+    "location_details": "",
+    "display_date": "Sun 14-Apr-2024",
+    "county": "BC",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/969142721340901/",
+    "link_fb": "",
+    "id": 441,
     "year": 2024,
     "month": 4,
     "day": 14
@@ -784,6 +907,25 @@
     "day": 21
   },
   {
+    "name": "Lunca Timișului Trophy",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
+    "display_date": "Sun 21-Apr-2024",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://luncatimisului.ecostuff.ro/",
+    "link_fb": "",
+    "id": 442,
+    "year": 2024,
+    "month": 4,
+    "day": 21
+  },
+  {
     "name": "Medieval Trail Race",
     "location": "Șiria",
     "location_details": "",
@@ -880,6 +1022,59 @@
     "day": 27
   },
   {
+    "name": "Feleacu Running Hills",
+    "location": "Feleacu",
+    "location_details": "",
+    "display_date": "Sat 27-Apr-2024",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "19km",
+      "9km"
+    ],
+    "link": "https://www.facebook.com/feleacurunninghills/",
+    "link_fb": "https://www.facebook.com/feleacurunninghills/",
+    "id": 443,
+    "year": 2024,
+    "month": 4,
+    "day": 27
+  },
+  {
+    "name": "Somova eXtreme",
+    "location": "Somova",
+    "location_details": "",
+    "display_date": "Sat 27-Apr-2024",
+    "county": "TL",
+    "type": "trail",
+    "distances": [
+      "16km(426m↑)"
+    ],
+    "link": "https://pelicanbiketulcea.ro/",
+    "link_fb": "",
+    "id": 444,
+    "year": 2024,
+    "month": 4,
+    "day": 27
+  },
+  {
+    "name": "Cursa pentru Sanatate - Baia Mare",
+    "location": "Baia Mare",
+    "location_details": "Câmpia Tineretului",
+    "display_date": "Sat 27-Apr-2024",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "7km",
+      "1km"
+    ],
+    "link": "https://www.facebook.com/events/343661562064450/",
+    "link_fb": "",
+    "id": 445,
+    "year": 2024,
+    "month": 4,
+    "day": 27
+  },
+  {
     "name": "Urme pe Play",
     "location": "Rășinari",
     "location_details": "",
@@ -895,6 +1090,42 @@
     "link": "https://urmepeplay.ro/",
     "link_fb": "https://www.facebook.com/@UrmePePlay",
     "id": 54,
+    "year": 2024,
+    "month": 4,
+    "day": 28
+  },
+  {
+    "name": "Crosul Invictus Argeș",
+    "location": "Pitești",
+    "location_details": "Parcul Trivale",
+    "display_date": "Sun 28-Apr-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/775680027343367/",
+    "link_fb": "",
+    "id": 446,
+    "year": 2024,
+    "month": 4,
+    "day": 28
+  },
+  {
+    "name": "Crosul Veteranilor - Tulcea",
+    "location": "Pitești",
+    "location_details": "Parcul Trivale",
+    "display_date": "Sun 28-Apr-2024",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/448199071049607/",
+    "link_fb": "",
+    "id": 447,
     "year": 2024,
     "month": 4,
     "day": 28
@@ -4440,8 +4671,8 @@
   },
   {
     "name": "Lunca Timișului CX",
-    "location": "Lunca Timișului",
-    "location_details": "",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
     "display_date": "Sun 10-Nov-2024",
     "county": "TM",
     "type": "trail",

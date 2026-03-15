@@ -4595,7 +4595,8 @@
     {
       "id": 136,
       "name": "Lunca Timișului CX",
-      "location": "Lunca Timișului",
+      "location": "Moșnița Nouă",
+      "location_details": "Lunca Timișului",
       "county": "TM",
       "type": "trail",
       "distances": [
@@ -5872,6 +5873,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/4362852624044486"
+        },
         {
           "year": 2025,
           "month": 4,
@@ -7213,6 +7220,11 @@
       "link_fb": "https://www.facebook.com/sportforstrays/",
       "editions": [
         {
+          "year": 2026,
+          "month": 12,
+          "day": 5
+        },
+        {
           "year": 2025,
           "month": 12,
           "day": 6
@@ -7884,6 +7896,11 @@
       "link": "https://crosagnita.ro/",
       "link_fb": "",
       "editions": [
+         {
+          "year": 2026,
+          "month": 6,
+          "day": 20
+        },
         {
           "year": 2025,
           "month": 6,
@@ -12458,6 +12475,359 @@
           "month": 10,
           "day": 18,
           "event_link": "https://www.facebook.com/photo.php?fbid=122120458701151596"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Crosul Studentesc Corneliu Andrei Stroe",
+      "location": "Craiova",
+      "location_details": "Parcul Tineretului",
+      "county": "DJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/423209793560680"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Roca Brună Wine Run&Hike",
+      "location": "Păuliș",
+      "county": "AR",
+      "type": "trail",
+      "distances": [
+        "6.5km(270m↑)",
+        "4km(200m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/415153841181762"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "name": "Crosul UT - Cluj-Napoca (primavara)",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "6km"
+      ],
+      "link": "https://etti.utcluj.ro/acasa.html",
+      "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 6
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "name": "Crosul UT - Cluj-Napoca (toamna)",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "6km"
+      ],
+      "link": "https://etti.utcluj.ro/acasa.html",
+      "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 11,
+          "day": 9
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "name": "Titan Park Run",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 7,
+          "event_link": "https://eliterunning.ro/titan-park-run/inscrieri-5k-titan-park-run-2024/"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Runway Run",
+      "location": "Borcea",
+      "location_details": "Baza 86 Aeriana Borcea",
+      "county": "CL",
+      "type": "road",
+      "distances": [
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/3507575639555915/"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "name": "Cross - Noi iubim Sacalaz",
+      "location": "Sacalaz",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 13,
+          "event_link": "https://www.facebook.com/photo/?fbid=805474531606050"
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "name": "Crosul Cleja tine pasul",
+      "location": "Cleja",
+      "county": "BC",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/969142721340901/"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "name": "Lunca Timișului Trophy",
+      "location": "Moșnița Nouă",
+      "location_details": "Lunca Timișului",
+      "county": "TM",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://luncatimisului.ecostuff.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 21
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "Feleacu Running Hills",
+      "location": "Feleacu",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "19km",
+        "9km"
+      ],
+      "link": "https://www.facebook.com/feleacurunninghills/",
+      "link_fb": "https://www.facebook.com/feleacurunninghills/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 27
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "name": "Somova eXtreme",
+      "location": "Somova",
+      "county": "TL",
+      "type": "trail",
+      "distances": [
+        "16km(426m↑)"
+      ],
+      "link": "https://pelicanbiketulcea.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "name": "Cursa pentru Sanatate - Baia Mare",
+      "location": "Baia Mare",
+      "location_details": "Câmpia Tineretului",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "7km",
+        "1km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/343661562064450/"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "name": "Crosul Invictus Argeș",
+      "location": "Pitești",
+      "location_details": "Parcul Trivale",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/775680027343367/"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "name": "Crosul Veteranilor - Tulcea",
+      "location": "Pitești",
+      "location_details": "Parcul Trivale",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/448199071049607/"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Crosul Super Eroi pentru Viață",
+      "location": "București",
+      "location_details": "Parcul Lumea Copiilor",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "0.6km ⚠ only kids"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 25,
+          "event_link": "https://www.itsybitsy.ro/alearga-alaturi-de-copilul-tau-la-cursele-colorate-de-la-supereroi-pentru-viata-2026/"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Cros Drag de Viață",
+      "location": "Iași",
+      "location_details": "Stadionul Emil Alexandrescu",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/1505840207628256"
         }
       ]
     }

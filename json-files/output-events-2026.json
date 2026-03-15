@@ -690,6 +690,24 @@
     "day": 21
   },
   {
+    "name": "Crosul Pentru Viață - Craiova",
+    "location": "Craiova",
+    "location_details": "Parcul Tineretului",
+    "display_date": "Sat 21-Mar-2026",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "1.2km",
+      "0.7km"
+    ],
+    "link": "https://www.facebook.com/events/4362852624044486",
+    "link_fb": "",
+    "id": 180,
+    "year": 2026,
+    "month": 3,
+    "day": 21
+  },
+  {
     "name": "Legal Half-Marathon",
     "location": "București",
     "location_details": "",
@@ -1172,6 +1190,40 @@
     "link": "https://rotarun.ro/",
     "link_fb": "https://www.facebook.com/RotaRUNforCharity/",
     "id": 189,
+    "year": 2026,
+    "month": 4,
+    "day": 25
+  },
+  {
+    "name": "Crosul Super Eroi pentru Viață",
+    "location": "București",
+    "location_details": "Parcul Lumea Copiilor",
+    "display_date": "Sat 25-Apr-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "0.6km ⚠ only kids"
+    ],
+    "link": "https://www.itsybitsy.ro/alearga-alaturi-de-copilul-tau-la-cursele-colorate-de-la-supereroi-pentru-viata-2026/",
+    "link_fb": "",
+    "id": 448,
+    "year": 2026,
+    "month": 4,
+    "day": 25
+  },
+  {
+    "name": "Cros Drag de Viață",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sat 25-Apr-2026",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1505840207628256",
+    "link_fb": "",
+    "id": 449,
     "year": 2026,
     "month": 4,
     "day": 25
@@ -2604,6 +2656,24 @@
     "link": "https://sites.google.com/view/crosignis",
     "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
     "id": 257,
+    "year": 2026,
+    "month": 6,
+    "day": 20
+  },
+  {
+    "name": "Crosul Agnitei",
+    "location": "Agnita",
+    "location_details": "",
+    "display_date": "Sat 20-Jun-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://crosagnita.ro/",
+    "link_fb": "",
+    "id": 259,
     "year": 2026,
     "month": 6,
     "day": 20
@@ -4568,8 +4638,8 @@
   },
   {
     "name": "Lunca Timișului CX",
-    "location": "Lunca Timișului",
-    "location_details": "",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
     "display_date": "Sat 14-Nov-2026",
     "county": "TM",
     "type": "trail",
@@ -4655,6 +4725,24 @@
     "link": "https://runnersclub.ro/ovb-charity-run/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 154,
+    "year": 2026,
+    "month": 12,
+    "day": 5
+  },
+  {
+    "name": "AniRUN - Maratonul Moșilor",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 05-Dec-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "4km",
+      "2km"
+    ],
+    "link": "https://www.anirun.ro/",
+    "link_fb": "https://www.facebook.com/sportforstrays/",
+    "id": 233,
     "year": 2026,
     "month": 12,
     "day": 5

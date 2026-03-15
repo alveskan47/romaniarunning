@@ -265,7 +265,7 @@
       "name": "AniRUN - Maratonul Moșilor",
       "location": "Arad",
       "county": "AR",
-      "year_2026": "",
+      "year_2026": "Sat 5-Dec",
       "year_2025": "Sat 6-Dec",
       "year_2024": "",
       "year_2023": ""
@@ -911,6 +911,16 @@
       "year_2023": ""
     },
     {
+      "id": 449,
+      "name": "Cros Drag de Viață",
+      "location": "Iași",
+      "county": "AG",
+      "year_2026": "Sat 25-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 296,
       "name": "Cros Drumul Aurului",
       "location": "Brad",
@@ -981,6 +991,16 @@
       "year_2023": ""
     },
     {
+      "id": 440,
+      "name": "Cross - Noi iubim Sacalaz",
+      "location": "Sacalaz",
+      "county": "TM",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 13-Apr",
+      "year_2023": ""
+    },
+    {
       "id": 408,
       "name": "Cross Trail Poienarii de Argeș",
       "location": "Poienarii de Argeș",
@@ -1015,7 +1035,7 @@
       "name": "Crosul Agnitei",
       "location": "Agnita",
       "county": "SB",
-      "year_2026": "",
+      "year_2026": "Sat 20-Jun",
       "year_2025": "Sat 21-Jun",
       "year_2024": "Sat 22-Jun",
       "year_2023": "Sat 24-Jun"
@@ -1149,6 +1169,16 @@
       "year_2025": "Sat 4-Oct",
       "year_2024": "Mon 7-Oct",
       "year_2023": "Thu 7-Sep"
+    },
+    {
+      "id": 441,
+      "name": "Crosul Cleja tine pasul",
+      "location": "Cleja",
+      "county": "BC",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 14-Apr",
+      "year_2023": ""
     },
     {
       "id": 151,
@@ -1361,6 +1391,16 @@
       "year_2023": ""
     },
     {
+      "id": 446,
+      "name": "Crosul Invictus Argeș",
+      "location": "Pitești",
+      "county": "AG",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 28-Apr",
+      "year_2023": ""
+    },
+    {
       "id": 174,
       "name": "Crosul Jandarmeriei - Ploiești",
       "location": "Ploiești",
@@ -1505,7 +1545,7 @@
       "name": "Crosul Pentru Viață - Craiova",
       "location": "Craiova",
       "county": "DJ",
-      "year_2026": "",
+      "year_2026": "Sat 21-Mar",
       "year_2025": "Sat 5-Apr",
       "year_2024": "",
       "year_2023": ""
@@ -1621,6 +1661,26 @@
       "year_2023": ""
     },
     {
+      "id": 434,
+      "name": "Crosul Studentesc Corneliu Andrei Stroe",
+      "location": "Craiova",
+      "county": "DJ",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 6-Apr",
+      "year_2023": ""
+    },
+    {
+      "id": 448,
+      "name": "Crosul Super Eroi pentru Viață",
+      "location": "București",
+      "county": "B",
+      "year_2026": "Sat 25-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 187,
       "name": "Crosul Teiușului",
       "location": "Teiuș",
@@ -1689,6 +1749,36 @@
       "year_2025": "Sat 5-Apr",
       "year_2024": "Sat 6-Apr",
       "year_2023": "Sat 8-Apr"
+    },
+    {
+      "id": 436,
+      "name": "Crosul UT - Cluj-Napoca (primavara)",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 6-Apr",
+      "year_2023": "Sun 14-May"
+    },
+    {
+      "id": 437,
+      "name": "Crosul UT - Cluj-Napoca (toamna)",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2026": "",
+      "year_2025": "Sun 9-Nov",
+      "year_2024": "",
+      "year_2023": "Sat 4-Nov"
+    },
+    {
+      "id": 447,
+      "name": "Crosul Veteranilor - Tulcea",
+      "location": "Pitești",
+      "county": "AG",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 28-Apr",
+      "year_2023": ""
     },
     {
       "id": 251,
@@ -1788,6 +1878,16 @@
       "year_2026": "",
       "year_2025": "Sat 20-Sep",
       "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 445,
+      "name": "Cursa pentru Sanatate - Baia Mare",
+      "location": "Baia Mare",
+      "county": "MM",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 27-Apr",
       "year_2023": ""
     },
     {
@@ -1929,6 +2029,16 @@
       "year_2025": "Sat 8-Feb",
       "year_2024": "Sat 3-Feb",
       "year_2023": "Sat 4-Feb"
+    },
+    {
+      "id": 443,
+      "name": "Feleacu Running Hills",
+      "location": "Feleacu",
+      "county": "CJ",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 27-Apr",
+      "year_2023": "Sat 22-Apr"
     },
     {
       "id": 423,
@@ -2243,12 +2353,22 @@
     {
       "id": 136,
       "name": "Lunca Timișului CX",
-      "location": "Lunca Timișului",
+      "location": "Moșnița Nouă",
       "county": "TM",
       "year_2026": "Sat 14-Nov",
       "year_2025": "Sun 16-Nov",
       "year_2024": "Sun 10-Nov",
       "year_2023": "Sun 12-Nov"
+    },
+    {
+      "id": 442,
+      "name": "Lunca Timișului Trophy",
+      "location": "Moșnița Nouă",
+      "county": "TM",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 21-Apr",
+      "year_2023": "Sat 22-Apr"
     },
     {
       "id": 9,
@@ -2971,6 +3091,16 @@
       "year_2023": ""
     },
     {
+      "id": 435,
+      "name": "Roca Brună Wine Run&Hike",
+      "location": "Păuliș",
+      "county": "AR",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 6-Apr",
+      "year_2023": ""
+    },
+    {
       "id": 82,
       "name": "Rodnei Sky Race",
       "location": "Borșa",
@@ -3139,6 +3269,16 @@
       "year_2025": "Sat 13-Sep",
       "year_2024": "Sat 14-Sep",
       "year_2023": "Sat 16-Sep"
+    },
+    {
+      "id": 439,
+      "name": "Runway Run",
+      "location": "Borcea",
+      "county": "CL",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 7-Apr",
+      "year_2023": ""
     },
     {
       "id": 116,
@@ -3461,6 +3601,16 @@
       "year_2023": "Sat 11-Nov"
     },
     {
+      "id": 444,
+      "name": "Somova eXtreme",
+      "location": "Somova",
+      "county": "TL",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 27-Apr",
+      "year_2023": ""
+    },
+    {
       "id": 315,
       "name": "Sopa Forest Race",
       "location": "Selimbar",
@@ -3748,6 +3898,16 @@
       "year_2026": "",
       "year_2025": "Sun 14-Sep",
       "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 438,
+      "name": "Titan Park Run",
+      "location": "București",
+      "county": "B",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 7-Apr",
       "year_2023": ""
     },
     {

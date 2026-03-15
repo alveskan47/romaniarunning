@@ -625,6 +625,43 @@
     "day": 22
   },
   {
+    "name": "Lunca Timișului Trophy",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
+    "display_date": "Sat 22-Apr-2023",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://luncatimisului.ecostuff.ro/",
+    "link_fb": "",
+    "id": 442,
+    "year": 2023,
+    "month": 4,
+    "day": 22
+  },
+  {
+    "name": "Feleacu Running Hills",
+    "location": "Feleacu",
+    "location_details": "",
+    "display_date": "Sat 22-Apr-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "19km",
+      "9km"
+    ],
+    "link": "https://www.facebook.com/feleacurunninghills/",
+    "link_fb": "https://www.facebook.com/feleacurunninghills/",
+    "id": 443,
+    "year": 2023,
+    "month": 4,
+    "day": 22
+  },
+  {
     "name": "Semimaraton Iași",
     "location": "Iași",
     "location_details": "",
@@ -1036,6 +1073,23 @@
     "link": "https://www.bucuresti21km.ro/",
     "link_fb": "https://www.facebook.com/Bucharest21km/",
     "id": 1,
+    "year": 2023,
+    "month": 5,
+    "day": 14
+  },
+  {
+    "name": "Crosul UT - Cluj-Napoca (primavara)",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 14-May-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://etti.utcluj.ro/acasa.html",
+    "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+    "id": 436,
     "year": 2023,
     "month": 5,
     "day": 14
@@ -3843,6 +3897,23 @@
     "day": 4
   },
   {
+    "name": "Crosul UT - Cluj-Napoca (toamna)",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 04-Nov-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://etti.utcluj.ro/acasa.html",
+    "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+    "id": 437,
+    "year": 2023,
+    "month": 11,
+    "day": 4
+  },
+  {
     "name": "Crosul de Noapte Cluj (toamna)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -3948,8 +4019,8 @@
   },
   {
     "name": "Lunca Timișului CX",
-    "location": "Lunca Timișului",
-    "location_details": "",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
     "display_date": "Sun 12-Nov-2023",
     "county": "TM",
     "type": "trail",

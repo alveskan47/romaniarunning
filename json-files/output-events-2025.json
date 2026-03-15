@@ -7094,6 +7094,23 @@
     "day": 9
   },
   {
+    "name": "Crosul UT - Cluj-Napoca (toamna)",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 09-Nov-2025",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://etti.utcluj.ro/acasa.html",
+    "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+    "id": 437,
+    "year": 2025,
+    "month": 11,
+    "day": 9
+  },
+  {
     "name": "Frontaliada",
     "location": "Budeasa",
     "location_details": "Budeasa Baraj",
@@ -7220,8 +7237,8 @@
   },
   {
     "name": "Lunca Timișului CX",
-    "location": "Lunca Timișului",
-    "location_details": "",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
     "display_date": "Sun 16-Nov-2025",
     "county": "TM",
     "type": "trail",
