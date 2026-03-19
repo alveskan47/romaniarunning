@@ -17,6 +17,10 @@
       "page_link": "bad-news.html"
     },
     {
+      "page_name": "Calendar",
+      "page_link": "calendar.html"
+    },
+    {
       "page_name": "Other",
       "dropdown": true,
       "sub_pages": [
