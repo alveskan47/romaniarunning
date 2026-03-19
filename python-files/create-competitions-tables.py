@@ -13,7 +13,7 @@ import datetime
 import json
 import os
 from dataclasses import dataclass
-from typing import Any, Dict, List, Optional, Union
+from typing import Any
 
 
 @dataclass
@@ -37,10 +37,10 @@ class Competition:
     location: str = ""
     county: str = ""
     type: str = ""
-    distances: List[str] = None
+    distances: list[str] = None
     link: str = ""
     link_fb: str = ""
-    editions: List[Dict[str, Any]] = None
+    editions: list[dict[str, Any]] = None
 
     def __post_init__(self):
         """Initialize mutable default values."""
@@ -76,7 +76,7 @@ class Edition:
     display_date: str = ""
     county: str = ""
     type: str = ""
-    distances: List[str] = None
+    distances: list[str] = None
     link: str = ""
     link_fb: str = ""
     id: int = 0
@@ -90,7 +90,7 @@ class Edition:
             self.distances = []
 
 
-def event_by_year(current_competition: Dict[str, Any], year: int) -> Union[Dict[str, int], bool]:
+def event_by_year(current_competition: dict[str, Any], year: int) -> dict[str, Any] | None:
     """
     Find the edition data for a specific year within a competition.
 
@@ -99,12 +99,12 @@ def event_by_year(current_competition: Dict[str, Any], year: int) -> Union[Dict[
         year: The year to search for
 
     Returns:
-        Dictionary containing year, month, and day keys if found, False otherwise
+        Dictionary containing year, month, and day keys if found, None otherwise
     """
     for current_edition in current_competition["editions"]:
         if current_edition["year"] == year:
             return current_edition
-    return False
+    return None
 
 
 def display_date(year: int, month: int, day: int) -> str:
@@ -124,7 +124,7 @@ def display_date(year: int, month: int, day: int) -> str:
     return displayed_date
 
 
-def read_json_file(json_file: str) -> Dict[str, Any]:
+def read_json_file(json_file: str) -> dict[str, Any]:
     """
     Read and parse a JSON file.
 
