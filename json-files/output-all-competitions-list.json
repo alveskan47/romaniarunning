@@ -555,7 +555,7 @@
       "name": "Burduf Challenge",
       "location": "Rau Sadului",
       "county": "SB",
-      "year_2026": "",
+      "year_2026": "Sat 18-Jul",
       "year_2025": "Sat 19-Jul",
       "year_2024": "Sat 20-Jul",
       "year_2023": "Sat 8-Jul"
@@ -1091,6 +1091,16 @@
       "year_2023": "Sun 24-Sep"
     },
     {
+      "id": 451,
+      "name": "Crosul Asociatiei GNFOS",
+      "location": "Mangalia",
+      "county": "CT",
+      "year_2026": "Fri 3-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 346,
       "name": "Crosul Brâncuși",
       "location": "București",
@@ -1405,7 +1415,7 @@
       "name": "Crosul Jandarmeriei - Ploiești",
       "location": "Ploiești",
       "county": "PH",
-      "year_2026": "",
+      "year_2026": "Sun 29-Mar",
       "year_2025": "Sat 29-Mar",
       "year_2024": "",
       "year_2023": ""
@@ -1591,6 +1601,16 @@
       "year_2023": ""
     },
     {
+      "id": 450,
+      "name": "Crosul Primaverii - Tulcea",
+      "location": "Tulcea",
+      "county": "TL",
+      "year_2026": "Sat 21-Mar",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 178,
       "name": "Crosul Primaverii Sovata",
       "location": "Sovata",
@@ -1605,7 +1625,7 @@
       "name": "Crosul Primăverii Câmpia Turzii",
       "location": "Câmpia Turzii",
       "county": "CJ",
-      "year_2026": "Sat 28-Mar",
+      "year_2026": "Sat 25-Apr",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -2855,7 +2875,7 @@
       "name": "Oradea Run Fest",
       "location": "Oradea",
       "county": "BH",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "",
       "year_2023": ""

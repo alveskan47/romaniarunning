@@ -708,6 +708,23 @@
     "day": 21
   },
   {
+    "name": "Crosul Primaverii - Tulcea",
+    "location": "Tulcea",
+    "location_details": "",
+    "display_date": "Sat 21-Mar-2026",
+    "county": "TL",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/djst.tulcea",
+    "link_fb": "https://www.facebook.com/djst.tulcea",
+    "id": 450,
+    "year": 2026,
+    "month": 3,
+    "day": 21
+  },
+  {
     "name": "Legal Half-Marathon",
     "location": "București",
     "location_details": "",
@@ -800,24 +817,6 @@
     "day": 28
   },
   {
-    "name": "Crosul Primăverii Câmpia Turzii",
-    "location": "Câmpia Turzii",
-    "location_details": "",
-    "display_date": "Sat 28-Mar-2026",
-    "county": "CJ",
-    "type": "road",
-    "distances": [
-      "4km",
-      "2.5km"
-    ],
-    "link": "https://www.facebook.com/photo/?fbid=26210972355235252&set=pcb.26210978728567948",
-    "link_fb": "",
-    "id": 420,
-    "year": 2026,
-    "month": 3,
-    "day": 28
-  },
-  {
     "name": "Wizz Air Cluj-Napoca Marathon",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -856,6 +855,40 @@
     "year": 2026,
     "month": 3,
     "day": 29
+  },
+  {
+    "name": "Crosul Jandarmeriei - Ploiești",
+    "location": "Ploiești",
+    "location_details": "",
+    "display_date": "Sun 29-Mar-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/896768506507229",
+    "link_fb": "",
+    "id": 174,
+    "year": 2026,
+    "month": 3,
+    "day": 29
+  },
+  {
+    "name": "Crosul Asociatiei GNFOS",
+    "location": "Mangalia",
+    "location_details": "",
+    "display_date": "Fri 03-Apr-2026",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1643602359992709",
+    "link_fb": "",
+    "id": 451,
+    "year": 2026,
+    "month": 4,
+    "day": 3
   },
   {
     "name": "Semimaraton Brașov",
@@ -1190,6 +1223,24 @@
     "link": "https://rotarun.ro/",
     "link_fb": "https://www.facebook.com/RotaRUNforCharity/",
     "id": 189,
+    "year": 2026,
+    "month": 4,
+    "day": 25
+  },
+  {
+    "name": "Crosul Primăverii Câmpia Turzii",
+    "location": "Câmpia Turzii",
+    "location_details": "",
+    "display_date": "Sat 25-Apr-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "4km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=26210972355235252&set=pcb.26210978728567948",
+    "link_fb": "",
+    "id": 420,
     "year": 2026,
     "month": 4,
     "day": 25
@@ -3056,6 +3107,24 @@
     "day": 18
   },
   {
+    "name": "Burduf Challenge",
+    "location": "Rau Sadului",
+    "location_details": "",
+    "display_date": "Sat 18-Jul-2026",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "21km(1300m↑)",
+      "14km(1000m↑)"
+    ],
+    "link": "https://experiences.mytransylvania.ro/burduf-challenge/",
+    "link_fb": "https://www.facebook.com/tara.colibelor",
+    "id": 276,
+    "year": 2026,
+    "month": 7,
+    "day": 18
+  },
+  {
     "name": "Bucovina Ultra Rocks",
     "location": "Câmpulung Moldovenesc",
     "location_details": "",
@@ -3653,6 +3722,25 @@
     "link": "https://gugulanmtb.ro/",
     "link_fb": "https://www.facebook.com/gugulanmtb/",
     "id": 319,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
+    "name": "Oradea Run Fest",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "1km"
+    ],
+    "link": "https://www.oradearunfest.ro/",
+    "link_fb": "https://www.facebook.com/oradearunfest",
+    "id": 321,
     "year": 2026,
     "month": 9,
     "day": 12
