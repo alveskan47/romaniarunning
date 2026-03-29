@@ -305,7 +305,7 @@
       "name": "Atinge Omu",
       "location": "Telecabină Peștera",
       "county": "DB",
-      "year_2026": "Sat 13-Jun",
+      "year_2026": "Sat 20-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 8-Jun",
       "year_2023": "Sat 10-Jun"
@@ -1057,7 +1057,7 @@
       "county": "B",
       "year_2026": "",
       "year_2025": "Sun 11-May",
-      "year_2024": "",
+      "year_2024": "Sun 12-May",
       "year_2023": ""
     },
     {
@@ -1501,6 +1501,16 @@
       "year_2023": ""
     },
     {
+      "id": 453,
+      "name": "Crosul O zi cu tata - Arad",
+      "location": "Arad",
+      "county": "AR",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 12-May",
+      "year_2023": ""
+    },
+    {
       "id": 343,
       "name": "Crosul Odorheiului",
       "location": "Odorheiu Secuiesc",
@@ -1529,6 +1539,16 @@
       "year_2025": "Sun 29-Jun",
       "year_2024": "Sun 30-Jun",
       "year_2023": "Sun 2-Jul"
+    },
+    {
+      "id": 452,
+      "name": "Crosul Pădurenilor",
+      "location": "Cerbăl",
+      "county": "HD",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Wed 1-May",
+      "year_2023": ""
     },
     {
       "id": 403,
@@ -1587,7 +1607,7 @@
       "county": "SB",
       "year_2026": "",
       "year_2025": "Sun 11-May",
-      "year_2024": "",
+      "year_2024": "Sat 11-May",
       "year_2023": ""
     },
     {
@@ -1727,7 +1747,7 @@
       "county": "SB",
       "year_2026": "",
       "year_2025": "Fri 9-May",
-      "year_2024": "",
+      "year_2024": "Fri 17-May",
       "year_2023": ""
     },
     {
@@ -2721,6 +2741,16 @@
       "year_2023": "Sat 10-Jun"
     },
     {
+      "id": 455,
+      "name": "Micalaca Run",
+      "location": "Arad",
+      "county": "AR",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 18-May",
+      "year_2023": ""
+    },
+    {
       "id": 86,
       "name": "Mogosa Everesting",
       "location": "Baia Sprie",
@@ -3173,7 +3203,7 @@
     {
       "id": 419,
       "name": "Run 4 animals",
-      "location": " București",
+      "location": "București",
       "county": "B",
       "year_2026": "Sat 28-Mar",
       "year_2025": "",
@@ -3249,6 +3279,16 @@
       "year_2025": "Sat 25-Oct",
       "year_2024": "",
       "year_2023": ""
+    },
+    {
+      "id": 454,
+      "name": "Run On Pustnicu",
+      "location": "Pantelimon",
+      "county": "IF",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 18-May",
+      "year_2023": "Sat 27-May"
     },
     {
       "id": 215,
@@ -3621,6 +3661,16 @@
       "year_2023": "Sat 11-Nov"
     },
     {
+      "id": 456,
+      "name": "Slatina City Run",
+      "location": "Slatina",
+      "county": "OT",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 19-May",
+      "year_2023": "Sun 14-May"
+    },
+    {
       "id": 444,
       "name": "Somova eXtreme",
       "location": "Somova",
@@ -3883,7 +3933,7 @@
     {
       "id": 418,
       "name": "The Horn Run",
-      "location": " București",
+      "location": "București",
       "county": "B",
       "year_2026": "Sat 14-Mar",
       "year_2025": "Sat 28-Jun",
@@ -4585,6 +4635,14 @@
       "year_2023": ""
     },
     {
+      "name": "EU4Cahul",
+      "location": "Cahul",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 18-May",
+      "year_2023": "Sun 14-May"
+    },
+    {
       "name": "HalloWeRun Cricova",
       "location": "Cricova",
       "year_2026": "",
@@ -4663,6 +4721,14 @@
       "year_2025": "Fri 28-Feb",
       "year_2024": "Fri 22-Mar",
       "year_2023": "Fri 3-Feb"
+    },
+    {
+      "name": "Soldanesti Run",
+      "location": "Soldanesti",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 18-May",
+      "year_2023": ""
     },
     {
       "name": "Spira Mîței",

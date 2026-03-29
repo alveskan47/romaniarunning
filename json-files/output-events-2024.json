@@ -1131,6 +1131,23 @@
     "day": 28
   },
   {
+    "name": "Crosul Pădurenilor",
+    "location": "Cerbăl",
+    "location_details": "",
+    "display_date": "Wed 01-May-2024",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/431973432760895/",
+    "link_fb": "",
+    "id": 452,
+    "year": 2024,
+    "month": 5,
+    "day": 1
+  },
+  {
     "name": "Ziua de alergare Gall Lajos",
     "location": "Reci",
     "location_details": "Mestecanisul de la Reci",
@@ -1241,6 +1258,23 @@
     "day": 11
   },
   {
+    "name": "Crosul Primaverii - Mediaș",
+    "location": "Mediaș",
+    "location_details": "",
+    "display_date": "Sat 11-May-2024",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/3679668905694803/",
+    "link_fb": "",
+    "id": 199,
+    "year": 2024,
+    "month": 5,
+    "day": 11
+  },
+  {
     "name": "Romanați Trail Run",
     "location": "Caracal",
     "location_details": "",
@@ -1315,6 +1349,59 @@
     "day": 12
   },
   {
+    "name": "Crosul Alearga Pentru Viata - București",
+    "location": "București",
+    "location_details": "Politehnica",
+    "display_date": "Sun 12-May-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://apv.lsebucuresti.org/",
+    "link_fb": "https://www.facebook.com/AleargaPentruViata",
+    "id": 200,
+    "year": 2024,
+    "month": 5,
+    "day": 12
+  },
+  {
+    "name": "Crosul O zi cu tata - Arad",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sun 12-May-2024",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "1.5km"
+    ],
+    "link": "https://www.facebook.com/events/s/crosul-o-zi-cu-tata-2024/423399363743669/",
+    "link_fb": "",
+    "id": 453,
+    "year": 2024,
+    "month": 5,
+    "day": 12
+  },
+  {
+    "name": "Crosul ULBS",
+    "location": "Sibiu",
+    "location_details": "Stadionul Municipal",
+    "display_date": "Fri 17-May-2024",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2.5km",
+      "1.5km"
+    ],
+    "link": "https://events.ulbsibiu.ro/cros/",
+    "link_fb": "https://www.facebook.com/cross.ulbs/",
+    "id": 193,
+    "year": 2024,
+    "month": 5,
+    "day": 17
+  },
+  {
     "name": "Tour de Tur",
     "location": "Orasu Nou",
     "location_details": "",
@@ -1386,6 +1473,79 @@
     "day": 18
   },
   {
+    "name": "Run On Pustnicu",
+    "location": "Pantelimon",
+    "location_details": "",
+    "display_date": "Sat 18-May-2024",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://runon.dsmb.ro/",
+    "link_fb": "https://www.facebook.com/runonpustnicu/",
+    "id": 454,
+    "year": 2024,
+    "month": 5,
+    "day": 18
+  },
+  {
+    "name": "Micalaca Run",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 18-May-2024",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "2.7km"
+    ],
+    "link": "https://www.facebook.com/events/1159725831887084/",
+    "link_fb": "https://www.facebook.com/events/1159725831887084/",
+    "id": 455,
+    "year": 2024,
+    "month": 5,
+    "day": 18
+  },
+  {
+    "name": "EU4Cahul",
+    "location": "Cahul",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 18-May-2024",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 0,
+    "year": 2024,
+    "month": 5,
+    "day": 18
+  },
+  {
+    "name": "Soldanesti Run",
+    "location": "Soldanesti",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 18-May-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "12km",
+      "6km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 0,
+    "year": 2024,
+    "month": 5,
+    "day": 18
+  },
+  {
     "name": "Pitești Half Marathon",
     "location": "Pitești",
     "location_details": "",
@@ -1400,6 +1560,24 @@
     "link": "https://phm.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/PitestiHalfMarathon/",
     "id": 138,
+    "year": 2024,
+    "month": 5,
+    "day": 19
+  },
+  {
+    "name": "Slatina City Run",
+    "location": "Slatina",
+    "location_details": "",
+    "display_date": "Sun 19-May-2024",
+    "county": "OT",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 456,
     "year": 2024,
     "month": 5,
     "day": 19

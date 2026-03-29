@@ -195,7 +195,7 @@ def main() -> None:
     # Merge competitions from both arrays (competitions and competitions_no_statistics)
     all_competitions = input_data["competitions"] + input_data["competitions_no_statistics"]
     # Dictionary to store events grouped by year
-    competitions_output: Dict[int, List[Edition]] = {2026: [], 2025: [], 2024: [], 2023: []}
+    competitions_output: Dict[int, List[Edition]] = {2027: [], 2026: [], 2025: [], 2024: [], 2023: []}
 
     # Process each competition and its editions
     for competition in all_competitions:

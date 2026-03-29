@@ -1,6 +1,19 @@
 {
   "bad_news": [
-
+     {
+      "original_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 13
+      },
+      "competition": "Atinge Omu",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 20
+      }
+    },
     {
       "original_date": {
         "year": 2026,

@@ -1095,6 +1095,43 @@
     "day": 14
   },
   {
+    "name": "Slatina City Run",
+    "location": "Slatina",
+    "location_details": "",
+    "display_date": "Sun 14-May-2023",
+    "county": "OT",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 456,
+    "year": 2023,
+    "month": 5,
+    "day": 14
+  },
+  {
+    "name": "EU4Cahul",
+    "location": "Cahul",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 14-May-2023",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 0,
+    "year": 2023,
+    "month": 5,
+    "day": 14
+  },
+  {
     "name": "Crosul de Noapte Cluj (primavara)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -1300,6 +1337,24 @@
     "link": "https://maratonsibiu.ro/",
     "link_fb": "https://www.facebook.com/MaratonSibiu/",
     "id": 69,
+    "year": 2023,
+    "month": 5,
+    "day": 27
+  },
+  {
+    "name": "Run On Pustnicu",
+    "location": "Pantelimon",
+    "location_details": "",
+    "display_date": "Sat 27-May-2023",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://runon.dsmb.ro/",
+    "link_fb": "https://www.facebook.com/runonpustnicu/",
+    "id": 454,
     "year": 2023,
     "month": 5,
     "day": 27

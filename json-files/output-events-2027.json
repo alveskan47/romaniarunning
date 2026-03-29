@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Team Up & Run",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 27-Feb-2027",
+    "county": "TM",
+    "type": "stairs",
+    "distances": [
+      "⚠ only teams"
+    ],
+    "link": "https://www.teamupandrun.ro/",
+    "link_fb": "https://www.facebook.com/Alergotura",
+    "id": 101,
+    "year": 2027,
+    "month": 2,
+    "day": 27
+  },
+  {
+    "name": "Uphill Running Championship (URC) - Bencec Rolling Hills",
+    "location": "Bencecu de Jos",
+    "location_details": "",
+    "display_date": "Sat 13-Mar-2027",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21km(530m↑)",
+      "10.5km(265m↑)",
+      "5.6km(167m↑)",
+      "2km(59m↑)",
+      "kids race"
+    ],
+    "link": "https://urc.run/",
+    "link_fb": "https://www.facebook.com/URC.run/",
+    "id": 103,
+    "year": 2027,
+    "month": 3,
+    "day": 13
+  }
+]

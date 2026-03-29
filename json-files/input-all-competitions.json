@@ -2783,7 +2783,7 @@
         {
           "year": 2026,
           "month": 6,
-          "day": 13
+          "day": 20
         },
         {
           "year": 2025,
@@ -3617,6 +3617,11 @@
       "link_fb": "https://www.facebook.com/Alergotura",
       "editions": [
         {
+          "year": 2027,
+          "month": 2,
+          "day": 27
+        },
+        {
           "year": 2026,
           "month": 2,
           "day": 28
@@ -3689,6 +3694,11 @@
       "link": "https://urc.run/",
       "link_fb": "https://www.facebook.com/URC.run/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 3,
+          "day": 13
+        },
         {
           "year": 2026,
           "month": 3,
@@ -6245,6 +6255,11 @@
           "year": 2025,
           "month": 5,
           "day": 9
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 17
         }
       ]
     },
@@ -6412,6 +6427,12 @@
           "month": 5,
           "day": 11,
           "event_link": "https://www.facebook.com/events/570033825430964/"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 11,
+          "event_link": "https://www.facebook.com/events/3679668905694803/"
         }
       ]
     },
@@ -6432,6 +6453,11 @@
           "year": 2025,
           "month": 5,
           "day": 11
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 12
         }
       ]
     },
@@ -12124,7 +12150,7 @@
     {
       "id": 418,
       "name": "The Horn Run",
-      "location": " București",
+      "location": "București",
       "county": "B",
       "type": "road",
       "distances": [
@@ -12148,7 +12174,7 @@
     {
       "id": 419,
       "name": "Run 4 animals",
-      "location": " București",
+      "location": "București",
       "location_details": " Parcul Titan",
       "county": "B",
       "type": "road",
@@ -12885,6 +12911,115 @@
           "event_link": "https://www.facebook.com/events/1643602359992709"
         }
       ]
+    },
+    {
+      "id": 452,
+      "name": "Crosul Pădurenilor",
+      "location": "Cerbăl",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/431973432760895/"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "name": "Crosul O zi cu tata - Arad",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "1.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 12,
+          "event_link": "https://www.facebook.com/events/s/crosul-o-zi-cu-tata-2024/423399363743669/"
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Run On Pustnicu",
+      "location": "Pantelimon",
+      "county": "IF",
+      "type": "trail",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "https://runon.dsmb.ro/",
+      "link_fb": "https://www.facebook.com/runonpustnicu/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 18
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "name": "Micalaca Run",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "2.7km"
+      ],
+      "link": "https://www.facebook.com/events/1159725831887084/",
+      "link_fb": "https://www.facebook.com/events/1159725831887084/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Slatina City Run",
+      "location": "Slatina",
+      "county": "OT",
+      "type": "road",
+      "distances": [
+        "21km",
+        "7km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 19
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 14
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -13551,6 +13686,55 @@
           "year": 2026,
           "month": 3,
           "day": 1
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "EU4Cahul",
+      "location": "Cahul",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 18
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Soldanesti Run",
+      "location": "Soldanesti",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "12km",
+        "6km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 18
         }
       ]
     }

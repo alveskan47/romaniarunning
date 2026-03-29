@@ -581,7 +581,7 @@
   },
   {
     "name": "The Horn Run",
-    "location": " București",
+    "location": "București",
     "location_details": "",
     "display_date": "Sat 14-Mar-2026",
     "county": "B",
@@ -799,7 +799,7 @@
   },
   {
     "name": "Run 4 animals",
-    "location": " București",
+    "location": "București",
     "location_details": " Parcul Titan",
     "display_date": "Sat 28-Mar-2026",
     "county": "B",
@@ -2442,23 +2442,6 @@
     "day": 13
   },
   {
-    "name": "Atinge Omu",
-    "location": "Telecabină Peștera",
-    "location_details": "",
-    "display_date": "Sat 13-Jun-2026",
-    "county": "DB",
-    "type": "trail",
-    "distances": [
-      "12.5km(1000m↑)"
-    ],
-    "link": "https://carpatrace.ro/atinge-omu/",
-    "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
-    "id": 78,
-    "year": 2026,
-    "month": 6,
-    "day": 13
-  },
-  {
     "name": "The Color Run - Iași",
     "location": "Iași",
     "location_details": "",
@@ -2618,6 +2601,23 @@
     "year": 2026,
     "month": 6,
     "day": 15
+  },
+  {
+    "name": "Atinge Omu",
+    "location": "Telecabină Peștera",
+    "location_details": "",
+    "display_date": "Sat 20-Jun-2026",
+    "county": "DB",
+    "type": "trail",
+    "distances": [
+      "12.5km(1000m↑)"
+    ],
+    "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
+    "id": 78,
+    "year": 2026,
+    "month": 6,
+    "day": 20
   },
   {
     "name": "Roșia Montană Marathon",
