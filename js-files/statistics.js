@@ -19,6 +19,25 @@ function getThemeColors() {
 }
 
 /**
+ * Populates the year dropdown from the statistics JSON data (runs only once)
+ * @param {Object} jsonData - The complete statistics JSON data
+ */
+function populateYearDropdown(jsonData) {
+    const dropdownMenu = document.getElementById('year-dropdown-menu');
+    if (!dropdownMenu || dropdownMenu.children.length > 0) return;
+
+    const years = Object.keys(jsonData['statistics']['total_competitions'] || {})
+        .map(Number)
+        .sort((a, b) => b - a);
+
+    years.forEach(year => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="change_data(${year})">${year}</a>`;
+        dropdownMenu.appendChild(li);
+    });
+}
+
+/**
  * Main function to initialize statistics page with data for a specific year
  * @param {number} year - The year to display statistics for
  */
@@ -26,6 +45,7 @@ function statistics_main(year) {
     (async () => {
         try {
             const jsonData = await fetch_json_file('json-files/output-all-statistics.json');
+            populateYearDropdown(jsonData);
             update_charts_by_year(jsonData, year);
         } catch (error) {
             console.error('Error in fetching or using JSON:', error);

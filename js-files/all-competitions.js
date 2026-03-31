@@ -4,6 +4,7 @@
 let competitionsData = [];
 let moldovaCompetitionsData = [];
 let otherCompetitionsData = [];
+let availableYears = [];
 let sortState = {
     table1: { column: 'name', ascending: true },
     table2: { column: 'name', ascending: true },
@@ -145,7 +146,8 @@ function populateTable1(competitions) {
 
     // Check if we have data
     if (!competitions || competitions.length === 0) {
-        tableBody.innerHTML = '<tr><td colspan="8" class="text-center">No competitions found</td></tr>';
+        const colspan = 4 + availableYears.length;
+        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
         return;
     }
 
@@ -173,10 +175,10 @@ function populateTable1(competitions) {
         countyCell.textContent = competition.county || '';
         row.appendChild(countyCell);
 
-        // Year columns (2026, 2025, 2024, 2023)
-        ['year_2026', 'year_2025', 'year_2024', 'year_2023'].forEach(yearKey => {
+        // Year columns (dynamic)
+        availableYears.forEach(year => {
             const yearCell = document.createElement('td');
-            yearCell.textContent = competition[yearKey] || '';
+            yearCell.textContent = competition[`year_${year}`] || '';
             row.appendChild(yearCell);
         });
 
@@ -201,7 +203,8 @@ function populateTable2(competitions) {
 
     // Check if we have data
     if (!competitions || competitions.length === 0) {
-        tableBody.innerHTML = '<tr><td colspan="6" class="text-center">No competitions found</td></tr>';
+        const colspan = 2 + availableYears.length;
+        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
         return;
     }
 
@@ -219,10 +222,10 @@ function populateTable2(competitions) {
         locationCell.textContent = competition.location || '';
         row.appendChild(locationCell);
 
-        // Year columns (2026, 2025, 2024, 2023)
-        ['year_2026', 'year_2025', 'year_2024', 'year_2023'].forEach(yearKey => {
+        // Year columns (dynamic)
+        availableYears.forEach(year => {
             const yearCell = document.createElement('td');
-            yearCell.textContent = competition[yearKey] || '';
+            yearCell.textContent = competition[`year_${year}`] || '';
             row.appendChild(yearCell);
         });
 
@@ -247,7 +250,8 @@ function populateTable3(competitions) {
 
     // Check if we have data
     if (!competitions || competitions.length === 0) {
-        tableBody.innerHTML = '<tr><td colspan="5" class="text-center">No competitions found</td></tr>';
+        const colspan = 1 + availableYears.length;
+        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
         return;
     }
 
@@ -260,14 +264,46 @@ function populateTable3(competitions) {
         nameCell.textContent = competition.name || '';
         row.appendChild(nameCell);
 
-        // Year columns (2026, 2025, 2024, 2023)
-        ['year_2026', 'year_2025', 'year_2024', 'year_2023'].forEach(yearKey => {
+        // Year columns (dynamic)
+        availableYears.forEach(year => {
             const yearCell = document.createElement('td');
-            yearCell.textContent = competition[yearKey] || '';
+            yearCell.textContent = competition[`year_${year}`] || '';
             row.appendChild(yearCell);
         });
 
         tableBody.appendChild(row);
+    });
+}
+
+/**
+ * Dynamically updates the year column headers for all three tables
+ * @param {Array<number>} years - Array of years in descending order
+ */
+function updateTableHeaders(years) {
+    const tableConfigs = [
+        { tableId: 'table-1', sortFn: (col) => sortTable1(col) },
+        { tableId: 'table-2', sortFn: (col) => sortTable2(col) },
+        { tableId: 'table-3', sortFn: (col) => sortTable3(col) },
+    ];
+
+    tableConfigs.forEach(({ tableId, sortFn }) => {
+        const headerRow = document.querySelector(`#${tableId} thead tr`);
+        if (!headerRow) return;
+
+        // Remove existing year column headers
+        headerRow.querySelectorAll('th.year-column').forEach(th => th.remove());
+
+        // Add year column headers
+        years.forEach(year => {
+            const th = document.createElement('th');
+            th.scope = 'col';
+            th.setAttribute('data-column', `year_${year}`);
+            th.className = 'user-select-none year-column';
+            th.style.cursor = 'pointer';
+            th.innerHTML = `${year} <i class="bi bi-arrow-down-up"></i>`;
+            th.addEventListener('click', () => sortFn(`year_${year}`));
+            headerRow.appendChild(th);
+        });
     });
 }
 
@@ -340,6 +376,10 @@ async function loadAllCompetitions() {
         competitionsData = data.competitions || [];
         moldovaCompetitionsData = data.competitions_moldova || [];
         otherCompetitionsData = data.competitions_other || [];
+        availableYears = data.years || [];
+
+        // Update table headers dynamically based on available years
+        updateTableHeaders(availableYears);
 
         // Sort by name initially (already sorted from Python, but ensure consistency)
         const sorted1 = sortCompetitions(competitionsData, 'name', true);
@@ -382,17 +422,17 @@ async function loadAllCompetitions() {
         // Show error in all tables
         const tableBody1 = document.getElementById('competitions-table-body');
         if (tableBody1) {
-            tableBody1.innerHTML = '<tr><td colspan="8" class="text-center text-danger">Error loading competitions data</td></tr>';
+            tableBody1.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
         }
 
         const tableBody2 = document.getElementById('competitions-moldova-table-body');
         if (tableBody2) {
-            tableBody2.innerHTML = '<tr><td colspan="6" class="text-center text-danger">Error loading competitions data</td></tr>';
+            tableBody2.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
         }
 
         const tableBody3 = document.getElementById('competitions-other-table-body');
         if (tableBody3) {
-            tableBody3.innerHTML = '<tr><td colspan="5" class="text-center text-danger">Error loading competitions data</td></tr>';
+            tableBody3.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
         }
     }
 }

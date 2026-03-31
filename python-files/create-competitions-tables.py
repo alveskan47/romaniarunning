@@ -194,8 +194,17 @@ def main() -> None:
 
     # Merge competitions from both arrays (competitions and competitions_no_statistics)
     all_competitions = input_data["competitions"] + input_data["competitions_no_statistics"]
+
+    # Dynamically extract all years present in the data
+    all_years = sorted(set(
+        edition['year']
+        for competition in all_competitions
+        for edition in competition.get('editions', [])
+        if 'year' in edition
+    ), reverse=True)
+
     # Dictionary to store events grouped by year
-    competitions_output: Dict[int, List[Edition]] = {2027: [], 2026: [], 2025: [], 2024: [], 2023: []}
+    competitions_output: Dict[int, List[Edition]] = {year: [] for year in all_years}
 
     # Process each competition and its editions
     for competition in all_competitions:

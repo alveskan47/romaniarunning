@@ -87,11 +87,8 @@
         <button class="btn btn-success dropdown-toggle" type="button" id="yearDropdown" data-bs-toggle="dropdown" aria-expanded="false">
             <span id="text_year"><!-- Current year will be set by JavaScript --></span>
         </button>
-        <ul class="dropdown-menu" aria-labelledby="yearDropdown">
-            <li><a class="dropdown-item" href="javascript:void(0);" onclick="change_year(2026)">2026</a></li>
-            <li><a class="dropdown-item" href="javascript:void(0);" onclick="change_year(2025)">2025</a></li>
-            <li><a class="dropdown-item" href="javascript:void(0);" onclick="change_year(2024)">2024</a></li>
-            <li><a class="dropdown-item" href="javascript:void(0);" onclick="change_year(2023)">2023</a></li>
+        <ul class="dropdown-menu" id="year-dropdown-menu" aria-labelledby="yearDropdown">
+            <!-- Year items will be inserted here by JavaScript -->
         </ul>
     </div>
 

@@ -36,5 +36,44 @@
     "year": 2027,
     "month": 3,
     "day": 13
+  },
+  {
+    "name": "Maraton 1 Decembrie București",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Wed 01-Dec-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "11km"
+    ],
+    "link": "https://maraton1decembrie.ro/",
+    "link_fb": "https://www.facebook.com/eliterunningromania",
+    "id": 9,
+    "year": 2027,
+    "month": 12,
+    "day": 1
+  },
+  {
+    "name": "Cluj EcoTrail Ultramarathon",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Wed 01-Dec-2027",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "50km(1800m↑)",
+      "25km(900m↑)",
+      "15km(450m↑)",
+      "7km(200m↑)"
+    ],
+    "link": "https://clujecotrail.com/",
+    "link_fb": "https://www.facebook.com/clujecotrailultramarathon/",
+    "id": 10,
+    "year": 2027,
+    "month": 12,
+    "day": 1
   }
 ]

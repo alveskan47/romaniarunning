@@ -1414,6 +1414,25 @@
     "day": 2
   },
   {
+    "name": "Încă o rundă!",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 02-May-2026",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "6H (1.6km&60m↑/lap)",
+      "4H (1.6km&60m↑/lap)",
+      "2H (1.6km&60m↑/lap)"
+    ],
+    "link": "https://sepsirun.ro/inca-o-runda",
+    "link_fb": "https://www.facebook.com/sepsirun.ro",
+    "id": 457,
+    "year": 2026,
+    "month": 5,
+    "day": 2
+  },
+  {
     "name": "Volvo Ultra Race",
     "location": "Ulmu",
     "location_details": "Republica Moldova",
@@ -1784,6 +1803,23 @@
     "day": 17
   },
   {
+    "name": "Accenture Heroes Challenge",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Sportiv Universitar Iuliu Hatieganu",
+    "display_date": "Sun 17-May-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://runnersclub.ro/heroes-challenge/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
+    "id": 149,
+    "year": 2026,
+    "month": 5,
+    "day": 17
+  },
+  {
     "name": "Crosul Sport 4 all - Lugoj",
     "location": "Lugoj",
     "location_details": "",
@@ -1798,6 +1834,25 @@
     "link": "https://sport4alllugoj.ro/",
     "link_fb": "",
     "id": 431,
+    "year": 2026,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Alpha Running Road",
+    "location": "Ploiești",
+    "location_details": "",
+    "display_date": "Sun 17-May-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "5km",
+      "1km",
+      "0.5km"
+    ],
+    "link": "https://alphaprahova.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/alpharunningprahova",
+    "id": 458,
     "year": 2026,
     "month": 5,
     "day": 17
@@ -2001,23 +2056,6 @@
     "link": "https://cros.casabunasanpetru.ro/",
     "link_fb": "https://www.facebook.com/croscasabunasanpetru",
     "id": 67,
-    "year": 2026,
-    "month": 5,
-    "day": 24
-  },
-  {
-    "name": "Accenture Heroes Challenge",
-    "location": "Cluj-Napoca",
-    "location_details": "Parcul Sportiv Universitar Iuliu Hatieganu",
-    "display_date": "Sun 24-May-2026",
-    "county": "CJ",
-    "type": "road",
-    "distances": [
-      "6km"
-    ],
-    "link": "https://runnersclub.ro/heroes-challenge/",
-    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
-    "id": 149,
     "year": 2026,
     "month": 5,
     "day": 24
@@ -2326,6 +2364,23 @@
     "day": 6
   },
   {
+    "name": "AniRUN - Kids Run",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.anirun.ro/",
+    "link_fb": "https://www.facebook.com/sportforstrays/",
+    "id": 459,
+    "year": 2026,
+    "month": 6,
+    "day": 6
+  },
+  {
     "name": "Maraton Tarcău",
     "location": "Tarcău",
     "location_details": "Schitu Tarcău",
@@ -2509,6 +2564,24 @@
     "link": "https://retezat.skyrace.ro/",
     "link_fb": "https://www.facebook.com/RetezatSkyRace/",
     "id": 249,
+    "year": 2026,
+    "month": 6,
+    "day": 13
+  },
+  {
+    "name": "Corbeanca - Inimi in Miscare",
+    "location": "Corbeanca",
+    "location_details": "",
+    "display_date": "Sat 13-Jun-2026",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "8km",
+      "4.5km"
+    ],
+    "link": "https://www.facebook.com/events/4424612314477963",
+    "link_fb": "",
+    "id": 322,
     "year": 2026,
     "month": 6,
     "day": 13
@@ -3741,6 +3814,40 @@
     "link": "https://www.oradearunfest.ro/",
     "link_fb": "https://www.facebook.com/oradearunfest",
     "id": 321,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
+    "name": "Șureanu Race 4x2000",
+    "location": "Șugag",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "30km"
+    ],
+    "link": "https://asociatiaturismpemunte.ro/eveniment/sureanu/",
+    "link_fb": "",
+    "id": 460,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
+    "name": "Găsește-l pe Moș Crăciun în inima naturii",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1633427174451529",
+    "link_fb": "",
+    "id": 461,
     "year": 2026,
     "month": 9,
     "day": 12

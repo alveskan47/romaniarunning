@@ -311,6 +311,11 @@
       "link_fb": "https://www.facebook.com/eliterunningromania",
       "editions": [
         {
+          "year": 2027,
+          "month": 12,
+          "day": 1
+        },
+        {
           "year": 2026,
           "month": 12,
           "day": 1
@@ -347,6 +352,11 @@
       "link": "https://clujecotrail.com/",
       "link_fb": "https://www.facebook.com/clujecotrailultramarathon/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 12,
+          "day": 1
+        },
         {
           "year": 2026,
           "month": 12,
@@ -4996,7 +5006,7 @@
         {
           "year": 2026,
           "month": 5,
-          "day": 24
+          "day": 17
         },
         {
           "year": 2025,
@@ -9750,6 +9760,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/4424612314477963"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 13,
@@ -13018,6 +13034,106 @@
           "year": 2023,
           "month": 5,
           "day": 14
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "Încă o rundă!",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "type": "road",
+      "distances": [
+        "6H (1.6km&60m↑/lap)",
+        "4H (1.6km&60m↑/lap)",
+        "2H (1.6km&60m↑/lap)"
+      ],
+      "link": "https://sepsirun.ro/inca-o-runda",
+      "link_fb": "https://www.facebook.com/sepsirun.ro",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "Alpha Running Road",
+      "location": "Ploiești",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "5km",
+        "1km",
+        "0.5km"
+      ],
+      "link": "https://alphaprahova.ro/evenimente/",
+      "link_fb": "https://www.facebook.com/alpharunningprahova",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "AniRUN - Kids Run",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "⚠ only kids"
+      ],
+      "link": "https://www.anirun.ro/",
+      "link_fb": "https://www.facebook.com/sportforstrays/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "name": "Șureanu Race 4x2000",
+      "location": "Șugag",
+      "county": "AB",
+      "type": "trail",
+      "distances": [
+        "30km"
+      ],
+      "link": "https://asociatiaturismpemunte.ro/eveniment/sureanu/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Găsește-l pe Moș Crăciun în inima naturii",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12,
+          "event_link": "https://www.facebook.com/events/1633427174451529"
         }
       ]
     }

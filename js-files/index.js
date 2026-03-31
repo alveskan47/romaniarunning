@@ -8,7 +8,7 @@ let currentCompetitionYear = new Date().getFullYear();
 
 /**
  * Changes the displayed year and updates the competition table
- * @param {number} year - The year to display (2023-2026)
+ * @param {number} year - The year to display
  */
 function change_year(year) {
     currentCompetitionYear = year;
@@ -214,10 +214,35 @@ async function loadLastUpdateDate() {
     }
 }
 
+/**
+ * Loads available years from the competitions list JSON and populates the year dropdown
+ */
+async function loadAvailableYears() {
+    try {
+        const response = await fetch('json-files/output-all-competitions-list.json');
+        if (!response.ok) return;
+
+        const data = await response.json();
+        const years = data.years || [];
+        const dropdownMenu = document.getElementById('year-dropdown-menu');
+        if (!dropdownMenu) return;
+
+        dropdownMenu.innerHTML = '';
+        years.forEach(year => {
+            const li = document.createElement('li');
+            li.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="change_year(${year})">${year}</a>`;
+            dropdownMenu.appendChild(li);
+        });
+    } catch (error) {
+        console.error('Error loading available years:', error);
+    }
+}
+
 // Initialize page with current year when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
     const currentYear = new Date().getFullYear();
     document.getElementById('text_year').textContent = currentYear;
     loadCompetitionsForYear(currentYear);
     loadLastUpdateDate();
+    loadAvailableYears();
 });

@@ -159,9 +159,9 @@ def get_edition_dates_for_years(editions, years):
     return result
 
 
-def extract_competitions(data):
+def get_all_years(data):
     """
-    Extract competition data and sort them alphabetically by name using Romanian collation.
+    Extract all unique years from all competition editions.
 
     Parameters:
     -----------
@@ -170,18 +170,41 @@ def extract_competitions(data):
 
     Returns:
     --------
+    list
+        Sorted list of years in descending order
+    """
+    all_years = set()
+    for key in ['competitions', 'competitions_no_statistics']:
+        if key in data:
+            for competition in data[key]:
+                for edition in competition.get('editions', []):
+                    if 'year' in edition:
+                        all_years.add(edition['year'])
+    return sorted(all_years, reverse=True)
+
+
+def extract_competitions(data, years):
+    """
+    Extract competition data and sort them alphabetically by name using Romanian collation.
+
+    Parameters:
+    -----------
+    data : dict
+        Dictionary containing 'competitions' and optionally 'competitions_no_statistics'
+    years : list
+        List of years to extract edition dates for (in descending order)
+
+    Returns:
+    --------
     tuple
         Three lists of dictionaries: (competitions_list, moldova_competitions_list, other_competitions_list)
-        - competitions_list: id, name, location, county, and edition dates for 2026-2023
-        - moldova_competitions_list: name, location, and edition dates for 2026-2023
-        - other_competitions_list: name and edition dates for 2026-2023
+        - competitions_list: id, name, location, county, and edition dates for all available years
+        - moldova_competitions_list: name, location, and edition dates for all available years
+        - other_competitions_list: name and edition dates for all available years
     """
     competitions_list = []
     moldova_competitions_list = []
     other_competitions_list = []
-
-    # Years to extract edition dates for
-    years = [2026, 2025, 2024, 2023]
 
     # Extract data from 'competitions' array
     if 'competitions' in data:
@@ -196,11 +219,9 @@ def extract_competitions(data):
                     'name': competition.get('name', ''),
                     'location': competition.get('location', ''),
                     'county': competition.get('county', ''),
-                    'year_2026': edition_dates['2026'],
-                    'year_2025': edition_dates['2025'],
-                    'year_2024': edition_dates['2024'],
-                    'year_2023': edition_dates['2023']
                 }
+                for year in years:
+                    comp_data[f'year_{year}'] = edition_dates[str(year)]
                 competitions_list.append(comp_data)
 
     # Extract data from 'competitions_no_statistics' array if it exists
@@ -217,21 +238,17 @@ def extract_competitions(data):
                     comp_data = {
                         'name': competition.get('name', ''),
                         'location': competition.get('location', ''),
-                        'year_2026': edition_dates['2026'],
-                        'year_2025': edition_dates['2025'],
-                        'year_2024': edition_dates['2024'],
-                        'year_2023': edition_dates['2023']
                     }
+                    for year in years:
+                        comp_data[f'year_{year}'] = edition_dates[str(year)]
                     moldova_competitions_list.append(comp_data)
                 else:
                     # Other competitions (virtual, etc.)
                     comp_data = {
                         'name': competition.get('name', ''),
-                        'year_2026': edition_dates['2026'],
-                        'year_2025': edition_dates['2025'],
-                        'year_2024': edition_dates['2024'],
-                        'year_2023': edition_dates['2023']
                     }
+                    for year in years:
+                        comp_data[f'year_{year}'] = edition_dates[str(year)]
                     other_competitions_list.append(comp_data)
 
     # Try to use Romanian locale for sorting
@@ -256,7 +273,7 @@ def extract_competitions(data):
     return competitions_list, moldova_competitions_list, other_competitions_list
 
 
-def save_output(competitions_list, moldova_competitions_list, other_competitions_list, output_path):
+def save_output(competitions_list, moldova_competitions_list, other_competitions_list, years, output_path):
     """
     Save the sorted competition data to a JSON file.
 
@@ -268,10 +285,13 @@ def save_output(competitions_list, moldova_competitions_list, other_competitions
         List of Moldova competition objects
     other_competitions_list : list
         List of other competition objects (virtual, etc.)
+    years : list
+        List of years in descending order (used by frontend for dynamic column rendering)
     output_path : str or Path
         Path where the output JSON file will be saved
     """
     output_data = {
+        "years": years,
         "competitions": competitions_list,
         "competitions_moldova": moldova_competitions_list,
         "competitions_other": other_competitions_list
@@ -294,8 +314,12 @@ def main():
     print("Loading competitions data...")
     data = load_competitions_data(input_path)
 
+    print("Extracting available years...")
+    years = get_all_years(data)
+    print(f"Found years: {years}")
+
     print("Extracting and sorting competition data (using Romanian alphabet)...")
-    competitions_list, moldova_competitions_list, other_competitions_list = extract_competitions(data)
+    competitions_list, moldova_competitions_list, other_competitions_list = extract_competitions(data, years)
 
     print(f"Found {len(competitions_list)} regular competitions")
     print(f"Found {len(moldova_competitions_list)} Moldova competitions")
@@ -303,7 +327,7 @@ def main():
     print(f"Total: {len(competitions_list) + len(moldova_competitions_list) + len(other_competitions_list)} competitions")
 
     print("Saving output...")
-    save_output(competitions_list, moldova_competitions_list, other_competitions_list, output_path)
+    save_output(competitions_list, moldova_competitions_list, other_competitions_list, years, output_path)
 
     print(f"Successfully created {output_path}")
     print(f"  Regular competitions: {len(competitions_list)}")
