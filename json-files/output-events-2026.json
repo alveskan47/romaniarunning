@@ -3518,6 +3518,26 @@
     "day": 28
   },
   {
+    "name": "Scorilo Sky Race",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sat 29-Aug-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "44km(2653m↑)",
+      "26km(1100m↑)",
+      "12km(579m↑)",
+      "6km(120m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
+    "id": 157,
+    "year": 2026,
+    "month": 8,
+    "day": 29
+  },
+  {
     "name": "Oslea Run",
     "location": "Uricani",
     "location_details": "Cabana Vanatoreasca - Campusel",
