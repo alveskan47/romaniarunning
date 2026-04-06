@@ -5959,6 +5959,11 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        },
+        {
           "year": 2025,
           "month": 4,
           "day": 12
@@ -6414,14 +6419,18 @@
       "distances": [
         "10km(⚠ only members)"
       ],
-      "link": "",
+      "link": "https://www.medicde10km.ro/",
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        },
+        {
           "year": 2025,
           "month": 5,
-          "day": 11,
-          "event_link": "https://www.facebook.com/events/249970364775010/"
+          "day": 11
         }
       ]
     },
@@ -6437,6 +6446,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 2,
+          "event_link": "https://www.facebook.com/profile.php?id=100072218300252"
+        },
         {
           "year": 2025,
           "month": 5,
@@ -7943,7 +7958,7 @@
       "link": "https://crosagnita.ro/",
       "link_fb": "",
       "editions": [
-         {
+        {
           "year": 2026,
           "month": 6,
           "day": 20
@@ -8139,6 +8154,11 @@
       "link": "https://experiences.mytransylvania.ro/heritage-run-alergam-pentru-patrimoniu/",
       "link_fb": "https://www.facebook.com/p/Heritage-Run-Transylvania-61575681676360/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        },
         {
           "year": 2025,
           "month": 6,
@@ -9829,6 +9849,11 @@
       "link_fb": "https://www.facebook.com/profile.php?id=61576868926816",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 6
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 14
@@ -9848,6 +9873,11 @@
       "link": "https://www.tincacross.ro/",
       "link_fb": "https://www.facebook.com/p/Tinca-Cross-61577613865038/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 7
+        },
         {
           "year": 2025,
           "month": 9,
@@ -11237,6 +11267,11 @@
       "link_fb": "https://www.facebook.com/oradeanightrun/",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        {
           "year": 2025,
           "month": 10,
           "day": 25
@@ -11567,6 +11602,11 @@
       "link": "https://www.spartantrail.com/sovata/",
       "link_fb": "https://www.facebook.com/SpartanRaceRomania",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19
+        },
         {
           "year": 2025,
           "month": 11,
@@ -12878,7 +12918,7 @@
       "name": "Cros Drag de Viață",
       "location": "Iași",
       "location_details": "Stadionul Emil Alexandrescu",
-      "county": "AG",
+      "county": "IS",
       "type": "road",
       "distances": [
         "-"
@@ -12888,8 +12928,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 4,
-          "day": 25,
+          "month": 6,
+          "day": 7,
           "event_link": "https://www.facebook.com/events/1505840207628256"
         }
       ]
@@ -13139,6 +13179,110 @@
           "month": 9,
           "day": 12,
           "event_link": "https://www.facebook.com/events/1633427174451529"
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "name": "Alerg pentru Viață",
+      "location": "Timișoara",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "20km",
+        "10km",
+        "5km",
+        "1km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/1632271927899498"
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Vin la alergat",
+      "location": "Gura Vadului",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 4,
+          "event_link": "https://www.facebook.com/events/26227406133591211"
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "name": "Sănătate în mișcare",
+      "location": "Bacău",
+      "county": "BC",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 10,
+          "event_link": "https://www.facebook.com/events/1610235800083109"
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "name": "Neon Night Run",
+      "location": "Ploiești",
+      "location_details": "Sala Sporturilor Olimpia",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16,
+          "event_link": "https://www.facebook.com/events/1707416207306595"
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "name": "Crosul Cetatilor – Cetatea Aradului",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16,
+          "event_link": "https://proactivi.org/page6.html"
         }
       ]
     }
@@ -13740,6 +13884,11 @@
       "link": "https://www.runtransylvania.com/halloween-run/",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31
+        },
         {
           "year": 2025,
           "month": 10,

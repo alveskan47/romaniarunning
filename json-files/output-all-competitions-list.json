@@ -13,7 +13,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 25-Apr",
       "year_2025": "Sat 12-Apr",
       "year_2024": "Sat 5-Oct",
       "year_2023": ""
@@ -193,6 +193,17 @@
       "year_2025": "Sat 9-Aug",
       "year_2024": "Sat 10-Aug",
       "year_2023": "Sat 12-Aug"
+    },
+    {
+      "id": 462,
+      "name": "Alerg pentru Viață",
+      "location": "Timișoara",
+      "county": "TM",
+      "year_2027": "",
+      "year_2026": "Sat 21-Mar",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 332,
@@ -1034,9 +1045,9 @@
       "id": 449,
       "name": "Cros Drag de Viață",
       "location": "Iași",
-      "county": "AG",
+      "county": "IS",
       "year_2027": "",
-      "year_2026": "Sat 25-Apr",
+      "year_2026": "Sun 7-Jun",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -1258,6 +1269,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sun 25-May",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 466,
+      "name": "Crosul Cetatilor – Cetatea Aradului",
+      "location": "Arad",
+      "county": "AR",
+      "year_2027": "",
+      "year_2026": "Sat 16-May",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
@@ -1795,7 +1817,7 @@
       "location": "Mediaș",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 2-May",
       "year_2025": "Sun 11-May",
       "year_2024": "Sat 11-May",
       "year_2023": ""
@@ -2587,7 +2609,7 @@
       "location": "Biertan",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 28-Jun",
       "year_2024": "",
       "year_2023": ""
@@ -3049,7 +3071,7 @@
       "location": "Cluj-Napoca",
       "county": "CJ",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 23-May",
       "year_2025": "Sun 11-May",
       "year_2024": "",
       "year_2023": ""
@@ -3165,6 +3187,17 @@
       "year_2023": "Sun 7-May"
     },
     {
+      "id": 465,
+      "name": "Neon Night Run",
+      "location": "Ploiești",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Sat 16-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 117,
       "name": "Obciniada Night Run",
       "location": "Gura Humorului",
@@ -3236,7 +3269,7 @@
       "location": "Oradea",
       "county": "BH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 25-Oct",
       "year_2024": "Sat 19-Oct",
       "year_2023": "Sat 26-Aug"
@@ -3759,6 +3792,17 @@
       "year_2023": "Sat 29-Apr"
     },
     {
+      "id": 464,
+      "name": "Sănătate în mișcare",
+      "location": "Bacău",
+      "county": "BC",
+      "year_2027": "",
+      "year_2026": "Sun 10-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 43,
       "name": "Săruni Trail Race",
       "location": "Zlatna",
@@ -4028,7 +4072,7 @@
       "location": "Sighișoara",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 6-Sep",
       "year_2025": "Sun 14-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -4116,7 +4160,7 @@
       "location": "Sovata",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 8-Nov",
       "year_2024": "Sat 9-Nov",
       "year_2023": "Sat 28-Oct"
@@ -4424,7 +4468,7 @@
       "location": "Tinca",
       "county": "BH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 7-Jun",
       "year_2025": "Sun 14-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -4848,6 +4892,17 @@
       "year_2023": "Sat 26-Aug"
     },
     {
+      "id": 463,
+      "name": "Vin la alergat",
+      "location": "Gura Vadului",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Sat 4-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 334,
       "name": "Viteza pe faleza",
       "location": "Brăila",
@@ -5174,7 +5229,7 @@
       "name": "HalloWeRun Cricova",
       "location": "Cricova",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 31-Oct",
       "year_2025": "Sat 25-Oct",
       "year_2024": "",
       "year_2023": ""

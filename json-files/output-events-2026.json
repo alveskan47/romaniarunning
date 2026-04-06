@@ -725,6 +725,26 @@
     "day": 21
   },
   {
+    "name": "Alerg pentru Viață",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 21-Mar-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "20km",
+      "10km",
+      "5km",
+      "1km"
+    ],
+    "link": "https://www.facebook.com/events/1632271927899498",
+    "link_fb": "",
+    "id": 462,
+    "year": 2026,
+    "month": 3,
+    "day": 21
+  },
+  {
     "name": "Legal Half-Marathon",
     "location": "București",
     "location_details": "",
@@ -985,6 +1005,23 @@
     "day": 4
   },
   {
+    "name": "Vin la alergat",
+    "location": "Gura Vadului",
+    "location_details": "",
+    "display_date": "Sat 04-Apr-2026",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/26227406133591211",
+    "link_fb": "",
+    "id": 463,
+    "year": 2026,
+    "month": 4,
+    "day": 4
+  },
+  {
     "name": "Băneasa Forest Run - Spring",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -1190,6 +1227,24 @@
     "day": 25
   },
   {
+    "name": "140 BPM",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 25-Apr-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://sites.google.com/baneasarace.ro/140bpm/",
+    "link_fb": "",
+    "id": 182,
+    "year": 2026,
+    "month": 4,
+    "day": 25
+  },
+  {
     "name": "Forest Race Marghita",
     "location": "Marghita",
     "location_details": "",
@@ -1258,23 +1313,6 @@
     "link": "https://www.itsybitsy.ro/alearga-alaturi-de-copilul-tau-la-cursele-colorate-de-la-supereroi-pentru-viata-2026/",
     "link_fb": "",
     "id": 448,
-    "year": 2026,
-    "month": 4,
-    "day": 25
-  },
-  {
-    "name": "Cros Drag de Viață",
-    "location": "Iași",
-    "location_details": "Stadionul Emil Alexandrescu",
-    "display_date": "Sat 25-Apr-2026",
-    "county": "AG",
-    "type": "road",
-    "distances": [
-      "-"
-    ],
-    "link": "https://www.facebook.com/events/1505840207628256",
-    "link_fb": "",
-    "id": 449,
     "year": 2026,
     "month": 4,
     "day": 25
@@ -1390,6 +1428,23 @@
     "link": "https://atleticcluj.ro/",
     "link_fb": "https://www.facebook.com/CSAtleticCluj",
     "id": 185,
+    "year": 2026,
+    "month": 5,
+    "day": 2
+  },
+  {
+    "name": "Crosul Primaverii - Mediaș",
+    "location": "Mediaș",
+    "location_details": "",
+    "display_date": "Sat 02-May-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100072218300252",
+    "link_fb": "",
+    "id": 199,
     "year": 2026,
     "month": 5,
     "day": 2
@@ -1601,6 +1656,23 @@
     "day": 10
   },
   {
+    "name": "Sănătate în mișcare",
+    "location": "Bacău",
+    "location_details": "",
+    "display_date": "Sun 10-May-2026",
+    "county": "BC",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1610235800083109",
+    "link_fb": "",
+    "id": 464,
+    "year": 2026,
+    "month": 5,
+    "day": 10
+  },
+  {
     "name": "Wings for Life World Run",
     "location": "-",
     "location_details": "",
@@ -1760,6 +1832,40 @@
     "link": "https://acstrib.ro/crosul-cetatilor/",
     "link_fb": "https://www.facebook.com/TRIBSV",
     "id": 374,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
+    "name": "Neon Night Run",
+    "location": "Ploiești",
+    "location_details": "Sala Sporturilor Olimpia",
+    "display_date": "Sat 16-May-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1707416207306595",
+    "link_fb": "",
+    "id": 465,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
+    "name": "Crosul Cetatilor – Cetatea Aradului",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 16-May-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://proactivi.org/page6.html",
+    "link_fb": "",
+    "id": 466,
     "year": 2026,
     "month": 5,
     "day": 16
@@ -1983,6 +2089,23 @@
     "link": "https://www.obciniada.ro/night-run",
     "link_fb": "https://www.facebook.com/obciniada",
     "id": 117,
+    "year": 2026,
+    "month": 5,
+    "day": 23
+  },
+  {
+    "name": "Medic de 10km",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 23-May-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "10km(⚠ only members)"
+    ],
+    "link": "https://www.medicde10km.ro/",
+    "link_fb": "",
+    "id": 198,
     "year": 2026,
     "month": 5,
     "day": 23
@@ -2379,6 +2502,41 @@
     "year": 2026,
     "month": 6,
     "day": 6
+  },
+  {
+    "name": "Tinca Cross",
+    "location": "Tinca",
+    "location_details": "",
+    "display_date": "Sun 07-Jun-2026",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.tincacross.ro/",
+    "link_fb": "https://www.facebook.com/p/Tinca-Cross-61577613865038/",
+    "id": 325,
+    "year": 2026,
+    "month": 6,
+    "day": 7
+  },
+  {
+    "name": "Cros Drag de Viață",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sun 07-Jun-2026",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1505840207628256",
+    "link_fb": "",
+    "id": 449,
+    "year": 2026,
+    "month": 6,
+    "day": 7
   },
   {
     "name": "Maraton Tarcău",
@@ -3706,6 +3864,24 @@
     "day": 6
   },
   {
+    "name": "Sighișoara 10k",
+    "location": "Sighișoara",
+    "location_details": "",
+    "display_date": "Sun 06-Sep-2026",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://sighisoara10k.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61576868926816",
+    "id": 324,
+    "year": 2026,
+    "month": 9,
+    "day": 6
+  },
+  {
     "name": "Râșnov Medieval Run",
     "location": "Râșnov",
     "location_details": "",
@@ -3778,6 +3954,25 @@
     "link": "https://www.runtransylvania.com/ro/european-masters-off-road-champhionships/",
     "link_fb": "https://www.facebook.com/RunTransylvaniaPage/",
     "id": 145,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
+    "name": "Heritage Run Biertan",
+    "location": "Biertan",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "22km(625m↑)",
+      "10km(225m↑)",
+      "7km(90m↑)"
+    ],
+    "link": "https://experiences.mytransylvania.ro/heritage-run-alergam-pentru-patrimoniu/",
+    "link_fb": "https://www.facebook.com/p/Heritage-Run-Transylvania-61575681676360/",
+    "id": 265,
     "year": 2026,
     "month": 9,
     "day": 12
@@ -4073,6 +4268,23 @@
     "link": "https://www.facebook.com/BMMiscare",
     "link_fb": "https://www.facebook.com/BMMiscare",
     "id": 330,
+    "year": 2026,
+    "month": 9,
+    "day": 19
+  },
+  {
+    "name": "Spartan Race Sovata",
+    "location": "Sovata",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "13km(700m↑)"
+    ],
+    "link": "https://www.spartantrail.com/sovata/",
+    "link_fb": "https://www.facebook.com/SpartanRaceRomania",
+    "id": 393,
     "year": 2026,
     "month": 9,
     "day": 19
@@ -4408,6 +4620,25 @@
     "link": "https://harvestrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
     "id": 354,
+    "year": 2026,
+    "month": 10,
+    "day": 3
+  },
+  {
+    "name": "Oradea Night Run",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "19km",
+      "11.1km",
+      "3.2km"
+    ],
+    "link": "https://oradeanightrun.ro/ro/",
+    "link_fb": "https://www.facebook.com/oradeanightrun/",
+    "id": 380,
     "year": 2026,
     "month": 10,
     "day": 3
@@ -4754,6 +4985,24 @@
     "link": "https://hategroyaltrail.ro/",
     "link_fb": "https://www.facebook.com/p/Hateg-Royal-Trail-61561625116652/",
     "id": 336,
+    "year": 2026,
+    "month": 10,
+    "day": 31
+  },
+  {
+    "name": "HalloWeRun Cricova",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.runtransylvania.com/halloween-run/",
+    "link_fb": "",
+    "id": 0,
     "year": 2026,
     "month": 10,
     "day": 31
