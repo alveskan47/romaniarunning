@@ -7072,6 +7072,16 @@
           "year": 2025,
           "month": 5,
           "day": 31
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 1
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 3
         }
       ]
     },
@@ -7161,6 +7171,12 @@
           "month": 5,
           "day": 31,
           "event_link": "https://www.facebook.com/events/924738873016157"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/361654300252487/"
         }
       ]
     },
@@ -7356,6 +7372,11 @@
           "month": 6,
           "day": 1,
           "event_link": "https://www.facebook.com/events/2565221807013031"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 1
         }
       ]
     },
@@ -12873,8 +12894,7 @@
     {
       "id": 447,
       "name": "Crosul Veteranilor - Tulcea",
-      "location": "Pitești",
-      "location_details": "Parcul Trivale",
+      "location": "Tulcea",
       "county": "AG",
       "type": "road",
       "distances": [
@@ -12930,7 +12950,24 @@
           "year": 2026,
           "month": 6,
           "day": 7,
-          "event_link": "https://www.facebook.com/events/1505840207628256"
+          "event_link": "https://amicusjunior.ro/drag-de-viata-2026/"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://amicusjunior.ro/drag-de-viata-2025/"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 19,
+          "event_link": "https://amicusjunior.ro/drag-de-viata-2024/"
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "day": 18
         }
       ]
     },
@@ -13159,6 +13196,11 @@
           "year": 2026,
           "month": 9,
           "day": 12
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 15
         }
       ]
     },
@@ -13283,6 +13325,402 @@
           "month": 5,
           "day": 16,
           "event_link": "https://proactivi.org/page6.html"
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "name": "Triathlon Roua",
+      "location": "Iași",
+      "county": "IS",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 19,
+          "event_link": "https://rouatriclub.ro/triatlon-roua/"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "name": "King's Cross",
+      "location": "Petris",
+      "county": "AR",
+      "type": "trail",
+      "distances": [
+        "12km(400m↑)",
+        "6km(200m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 26,
+          "event_link": "https://kingscross.ecostuff.ro/"
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Crosul Ziua Olimpica - Brașov",
+      "location": "Brașov",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 5,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/755374490130302/"
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "name": "Maratonul Inimii Buziaș",
+      "location": "Buziaș",
+      "county": "TM",
+      "type": "trail",
+      "distances": [
+        "16.5km",
+        "10km",
+        "3km"
+      ],
+      "link": "https://www.facebook.com/maratonulinimii",
+      "link_fb": "https://www.facebook.com/maratonulinimii",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 24
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "name": "Crosul Zilei Olimpice - Tulcea",
+      "location": "Tulcea",
+      "county": "TL",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/djst.tulcea",
+      "link_fb": "https://www.facebook.com/djst.tulcea",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "name": "Alearga în COOLori",
+      "location": "Turda",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "3km",
+        "1.5km",
+        "0.8km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2025,
+          "month": 6,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/2221453444955265/"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/981647920245642/"
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/1310824966448659/"
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "name": "Xrace - Siriu",
+      "location": "Baile Siriu",
+      "county": "BZ",
+      "type": "trail",
+      "distances": [
+        "47km(2200m↑)",
+        "21km(1200m↑)",
+        "7km(240m↑)"
+      ],
+      "link": "https://xrace.ro/",
+      "link_fb": "https://www.facebook.com/Xrace.Traieste.Aventura",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 8
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Crosul Vaserul - Trenul Campionilor",
+      "location": "Viseu de Sus",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/p/Crosul-Vaserul-Trenul-Campionilor-100043096546507/",
+      "link_fb": "https://www.facebook.com/p/Crosul-Vaserul-Trenul-Campionilor-100043096546507/",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Baile Harghita - Harghita Madaras",
+      "location": "Baile Harghita",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "21km(800m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/s/kozossegi-futas-hargitafurdo-m/1096740724773889/"
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "name": "Cheile Nerei Bike & Trail Run Race",
+      "location": "Sasca Montana",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "24km",
+        "12km"
+      ],
+      "link": "https://www.sascabike.ro/",
+      "link_fb": "https://www.facebook.com/CheileNereiMTB/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 9
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Beard Run - Crosul Treptelor",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "6km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Beard Run - Spring Challenge",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 3,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Beard Run - Autumn Challenge",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "8km",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 4
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Boboc Air Base Run",
+      "location": "Boboc",
+      "location_details": "Baza Aeriana Boboc",
+      "county": "BZ",
+      "type": "road",
+      "distances": [
+        "13km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Zaiafet Wine Run (Băneasa)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "type": "trail",
+      "distances": [
+        "14km",
+        "8km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Traian Trail",
+      "location": "Traian (BC)",
+      "county": "BC",
+      "type": "trail",
+      "distances": [
+        "22km(466m↑)",
+        "14km(241m↑)",
+        "4.5km(115m↑)"
+      ],
+      "link": "https://www.facebook.com/traiantrail",
+      "link_fb": "https://www.facebook.com/traiantrail",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Crosul Bucuria Alergării cu Invictus",
+      "location": "Ploiești",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/823846145745914/"
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Zaiafet Wine Run (Tohani)",
+      "location": "Gura Vadului",
+      "location_details": "Tohani",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "14.5km(590m↑)",
+        "6.8km(260m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 7,
+          "day": 29
         }
       ]
     }
@@ -14005,6 +14443,28 @@
           "year": 2024,
           "month": 5,
           "day": 18
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Moonlight Rush",
+      "location": "Comuna Dolna, Straseni",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "15km",
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/3814181978904316/"
         }
       ]
     }

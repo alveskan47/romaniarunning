@@ -285,6 +285,23 @@
     "day": 18
   },
   {
+    "name": "Beard Run - Spring Challenge",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 18-Mar-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "4km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 478,
+    "year": 2023,
+    "month": 3,
+    "day": 18
+  },
+  {
     "name": "Primavera Trail Race",
     "location": "Șuncuiuș",
     "location_details": "",
@@ -1132,6 +1149,23 @@
     "day": 14
   },
   {
+    "name": "Cros Drag de Viață",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Thu 18-May-2023",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 449,
+    "year": 2023,
+    "month": 5,
+    "day": 18
+  },
+  {
     "name": "Crosul de Noapte Cluj (primavara)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -1399,6 +1433,23 @@
     "day": 3
   },
   {
+    "name": "Duna Nap",
+    "location": "Rimetea",
+    "location_details": "",
+    "display_date": "Sat 03-Jun-2023",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "11km"
+    ],
+    "link": "https://www.dunanap.com/",
+    "link_fb": "https://www.facebook.com/dunanapoktorocko",
+    "id": 224,
+    "year": 2023,
+    "month": 6,
+    "day": 3
+  },
+  {
     "name": "Geopark Mehedinți Adventure",
     "location": "Moisesti",
     "location_details": "",
@@ -1469,6 +1520,25 @@
     "link": "https://www.ultrabug.ro/",
     "link_fb": "https://www.facebook.com/ultrabug",
     "id": 68,
+    "year": 2023,
+    "month": 6,
+    "day": 9
+  },
+  {
+    "name": "Alearga în COOLori",
+    "location": "Turda",
+    "location_details": "",
+    "display_date": "Fri 09-Jun-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "3km",
+      "1.5km",
+      "0.8km"
+    ],
+    "link": "https://www.facebook.com/events/1310824966448659/",
+    "link_fb": "",
+    "id": 472,
     "year": 2023,
     "month": 6,
     "day": 9
@@ -1602,6 +1672,60 @@
     "year": 2023,
     "month": 6,
     "day": 10
+  },
+  {
+    "name": "Xrace - Siriu",
+    "location": "Baile Siriu",
+    "location_details": "",
+    "display_date": "Sat 10-Jun-2023",
+    "county": "BZ",
+    "type": "trail",
+    "distances": [
+      "47km(2200m↑)",
+      "21km(1200m↑)",
+      "7km(240m↑)"
+    ],
+    "link": "https://xrace.ro/",
+    "link_fb": "https://www.facebook.com/Xrace.Traieste.Aventura",
+    "id": 473,
+    "year": 2023,
+    "month": 6,
+    "day": 10
+  },
+  {
+    "name": "Crosul Vaserul - Trenul Campionilor",
+    "location": "Viseu de Sus",
+    "location_details": "",
+    "display_date": "Sat 10-Jun-2023",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/p/Crosul-Vaserul-Trenul-Campionilor-100043096546507/",
+    "link_fb": "https://www.facebook.com/p/Crosul-Vaserul-Trenul-Campionilor-100043096546507/",
+    "id": 474,
+    "year": 2023,
+    "month": 6,
+    "day": 10
+  },
+  {
+    "name": "Cheile Nerei Bike & Trail Run Race",
+    "location": "Sasca Montana",
+    "location_details": "",
+    "display_date": "Sun 11-Jun-2023",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "24km",
+      "12km"
+    ],
+    "link": "https://www.sascabike.ro/",
+    "link_fb": "https://www.facebook.com/CheileNereiMTB/",
+    "id": 476,
+    "year": 2023,
+    "month": 6,
+    "day": 11
   },
   {
     "name": "X-RUN Oradea",
@@ -2221,6 +2345,24 @@
     "link": "https://www.inalergare.ro/",
     "link_fb": "https://www.facebook.com/Inalergare/",
     "id": 283,
+    "year": 2023,
+    "month": 7,
+    "day": 29
+  },
+  {
+    "name": "Zaiafet Wine Run (Tohani)",
+    "location": "Gura Vadului",
+    "location_details": "Tohani",
+    "display_date": "Sat 29-Jul-2023",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "14.5km(590m↑)",
+      "6.8km(260m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 484,
     "year": 2023,
     "month": 7,
     "day": 29
@@ -3964,6 +4106,24 @@
     "link": "https://etti.utcluj.ro/acasa.html",
     "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
     "id": 437,
+    "year": 2023,
+    "month": 11,
+    "day": 4
+  },
+  {
+    "name": "Beard Run - Autumn Challenge",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 04-Nov-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "8km",
+      "4km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 479,
     "year": 2023,
     "month": 11,
     "day": 4

@@ -2168,6 +2168,25 @@
     "day": 24
   },
   {
+    "name": "Maratonul Inimii Buziaș",
+    "location": "Buziaș",
+    "location_details": "",
+    "display_date": "Sat 24-May-2025",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "16.5km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/maratonulinimii",
+    "link_fb": "https://www.facebook.com/maratonulinimii",
+    "id": 470,
+    "year": 2025,
+    "month": 5,
+    "day": 24
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",
@@ -2724,6 +2743,23 @@
     "link": "https://www.facebook.com/cursawolfsrun",
     "link_fb": "https://www.facebook.com/cursawolfsrun",
     "id": 238,
+    "year": 2025,
+    "month": 6,
+    "day": 1
+  },
+  {
+    "name": "Cros Drag de Viață",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sun 01-Jun-2025",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://amicusjunior.ro/drag-de-viata-2025/",
+    "link_fb": "",
+    "id": 449,
     "year": 2025,
     "month": 6,
     "day": 1
@@ -3416,6 +3452,25 @@
     "link": "https://crosagnita.ro/",
     "link_fb": "",
     "id": 259,
+    "year": 2025,
+    "month": 6,
+    "day": 21
+  },
+  {
+    "name": "Alearga în COOLori",
+    "location": "Turda",
+    "location_details": "",
+    "display_date": "Sat 21-Jun-2025",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "3km",
+      "1.5km",
+      "0.8km"
+    ],
+    "link": "https://www.facebook.com/events/2221453444955265/",
+    "link_fb": "",
+    "id": 472,
     "year": 2025,
     "month": 6,
     "day": 21
