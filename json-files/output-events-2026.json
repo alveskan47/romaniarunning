@@ -1153,6 +1153,23 @@
     "day": 19
   },
   {
+    "name": "Calafat Trail Run",
+    "location": "Calafat",
+    "location_details": "",
+    "display_date": "Sun 19-Apr-2026",
+    "county": "DJ",
+    "type": "trail",
+    "distances": [
+      "21km"
+    ],
+    "link": "https://www.facebook.com/events/1745992119715903",
+    "link_fb": "",
+    "id": 485,
+    "year": 2026,
+    "month": 4,
+    "day": 19
+  },
+  {
     "name": "La Petrovaselo in vie",
     "location": "Recas",
     "location_details": "Petrovaselo",
@@ -1800,6 +1817,25 @@
     "day": 16
   },
   {
+    "name": "Run To The Hills",
+    "location": "Crasna (SJ)",
+    "location_details": "",
+    "display_date": "Sat 16-May-2026",
+    "county": "SJ",
+    "type": "trail",
+    "distances": [
+      "21.9km",
+      "14.4km",
+      "5.9km"
+    ],
+    "link": "https://runtothehills.ro/",
+    "link_fb": "https://www.facebook.com/runtothehillscrasna",
+    "id": 215,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
     "name": "Turnu Rosu Challenge",
     "location": "Turnu Rosu",
     "location_details": "",
@@ -2372,6 +2408,42 @@
     "day": 30
   },
   {
+    "name": "Legal Half-Marathon - Chișinău",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 31-May-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/legalhalfmarathonchisinau",
+    "link_fb": "https://www.facebook.com/legalhalfmarathonchisinau",
+    "id": 0,
+    "year": 2026,
+    "month": 5,
+    "day": 31
+  },
+  {
+    "name": "1 Iunie Run",
+    "location": "Cocorăștii Colț",
+    "location_details": "",
+    "display_date": "Mon 01-Jun-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1700912634201798",
+    "link_fb": "",
+    "id": 486,
+    "year": 2026,
+    "month": 6,
+    "day": 1
+  },
+  {
     "name": "Marea provocare de mișcare",
     "location": "Sfântu Gheorghe",
     "location_details": "",
@@ -2396,9 +2468,9 @@
     "county": "CJ",
     "type": "trail",
     "distances": [
-      "87.6km(4430m↑)",
-      "44.1km(2540m↑)",
-      "21.3km(1000m↑)",
+      "66.1km(3100m↑)",
+      "44.8km(2531m↑)",
+      "23.2km(1110m↑)",
       "12.2km(570m↑)",
       "2.4km(66m↑)"
     ],
@@ -2482,6 +2554,25 @@
     "link": "https://busteniultrarace.ro/",
     "link_fb": "https://www.facebook.com/busteniultrarace/",
     "id": 120,
+    "year": 2026,
+    "month": 6,
+    "day": 6
+  },
+  {
+    "name": "Romanați Trail Run",
+    "location": "Caracal",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "OT",
+    "type": "trail",
+    "distances": [
+      "23km",
+      "11km",
+      "5km"
+    ],
+    "link": "https://romanatirun.ro/",
+    "link_fb": "https://www.facebook.com/p/Romanati-Trail-RUN-61573807836624/",
+    "id": 246,
     "year": 2026,
     "month": 6,
     "day": 6
@@ -3107,6 +3198,27 @@
     "year": 2026,
     "month": 6,
     "day": 28
+  },
+  {
+    "name": "Transylvania 6 Days",
+    "location": "Reghin",
+    "location_details": "",
+    "display_date": "Mon 29-Jun-2026",
+    "county": "MS",
+    "type": "track",
+    "distances": [
+      "144H",
+      "72H",
+      "48H",
+      "24H",
+      "12H"
+    ],
+    "link": "https://transylvania6days.ro/en/home/",
+    "link_fb": "https://www.facebook.com/p/Transylvania-6-days-100075920528532/",
+    "id": 266,
+    "year": 2026,
+    "month": 6,
+    "day": 29
   },
   {
     "name": "Cozia Mountain Run",
@@ -3786,6 +3898,25 @@
     "day": 30
   },
   {
+    "name": "Ciucaș X3",
+    "location": "Cheia (PH)",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "38.8km(2390m↑)",
+      "21.9km(1170m↑)",
+      "9.1km(420m↑)"
+    ],
+    "link": "https://ciucasx3.ro/",
+    "link_fb": "https://www.facebook.com/ciucasX3",
+    "id": 16,
+    "year": 2026,
+    "month": 9,
+    "day": 5
+  },
+  {
     "name": "CugiRace",
     "location": "Cugir",
     "location_details": "",
@@ -3822,6 +3953,23 @@
     "link": "https://www.facebook.com/profile.php?id=100064617015844",
     "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
     "id": 176,
+    "year": 2026,
+    "month": 9,
+    "day": 5
+  },
+  {
+    "name": "Castelul din Carpati - Pasul Vâlcan",
+    "location": "Vulcan",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "HD",
+    "type": "road",
+    "distances": [
+      "1.2km"
+    ],
+    "link": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
+    "link_fb": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
+    "id": 304,
     "year": 2026,
     "month": 9,
     "day": 5
@@ -4198,25 +4346,6 @@
     "day": 19
   },
   {
-    "name": "Omu Marathon",
-    "location": "Bran",
-    "location_details": "Castelul Bran",
-    "display_date": "Sat 19-Sep-2026",
-    "county": "BV",
-    "type": "trail",
-    "distances": [
-      "40.9km(2978m↑)",
-      "24.6km(1786m↑)",
-      "11.6km(420m↑)"
-    ],
-    "link": "https://carpatrace.ro/atinge-omu/",
-    "link_fb": "https://www.facebook.com/omumarathon",
-    "id": 94,
-    "year": 2026,
-    "month": 9,
-    "day": 19
-  },
-  {
     "name": "Gusterita Trail Run",
     "location": "Sibiu",
     "location_details": "Pădurea Gusterita",
@@ -4513,6 +4642,25 @@
     "day": 26
   },
   {
+    "name": "Alerg pentru tine Trail Run - Sucevița",
+    "location": "Sucevița",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "20km(900m↑)",
+      "9km(400m↑)",
+      "2km"
+    ],
+    "link": "https://www.centrulsfluca.ro/alerg-pentru-tine.php",
+    "link_fb": "https://www.facebook.com/p/Alerg-pentru-tine-61561917959520/",
+    "id": 487,
+    "year": 2026,
+    "month": 9,
+    "day": 26
+  },
+  {
     "name": "Buzău 21k",
     "location": "Buzău",
     "location_details": "",
@@ -4550,6 +4698,25 @@
     "year": 2026,
     "month": 9,
     "day": 27
+  },
+  {
+    "name": "Omu Marathon",
+    "location": "Bran",
+    "location_details": "Castelul Bran",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "40.9km(2978m↑)",
+      "24.6km(1786m↑)",
+      "11.6km(420m↑)"
+    ],
+    "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/omumarathon",
+    "id": 94,
+    "year": 2026,
+    "month": 10,
+    "day": 3
   },
   {
     "name": "Veverita Night Run",

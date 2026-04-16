@@ -8,6 +8,17 @@
   ],
   "competitions": [
     {
+      "id": 486,
+      "name": "1 Iunie Run",
+      "location": "Cocorăștii Colț",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Mon 1-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 182,
       "name": "140 BPM",
       "location": "București",
@@ -206,6 +217,17 @@
       "year_2023": "Sat 12-Aug"
     },
     {
+      "id": 487,
+      "name": "Alerg pentru tine Trail Run - Sucevița",
+      "location": "Sucevița",
+      "county": "SV",
+      "year_2027": "",
+      "year_2026": "Sat 26-Sep",
+      "year_2025": "",
+      "year_2024": "Sat 28-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 462,
       "name": "Alerg pentru Viață",
       "location": "Timișoara",
@@ -367,7 +389,7 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sat 15-Nov",
-      "year_2024": "",
+      "year_2024": "Sat 24-Aug",
       "year_2023": "Sat 18-Nov"
     },
     {
@@ -635,6 +657,17 @@
       "year_2023": ""
     },
     {
+      "id": 488,
+      "name": "Bucharest 10K Grand Prix",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 29-Jun",
+      "year_2023": "Sat 17-Jun"
+    },
+    {
       "id": 137,
       "name": "Bucharest 21k",
       "location": "București",
@@ -745,6 +778,17 @@
       "year_2023": ""
     },
     {
+      "id": 485,
+      "name": "Calafat Trail Run",
+      "location": "Calafat",
+      "county": "DJ",
+      "year_2027": "",
+      "year_2026": "Sun 19-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 20,
       "name": "Carpathia Trails",
       "location": "Cheile Grădiștei",
@@ -772,7 +816,7 @@
       "location": "Vulcan",
       "county": "HD",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 5-Sep",
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 7-Sep",
       "year_2023": ""
@@ -838,7 +882,7 @@
       "location": "Cheia (PH)",
       "county": "PH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 5-Sep",
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 7-Sep",
       "year_2023": "Sat 9-Sep"
@@ -1434,8 +1478,8 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sat 4-Oct",
-      "year_2024": "Mon 7-Oct",
-      "year_2023": "Thu 7-Sep"
+      "year_2024": "Sat 7-Sep",
+      "year_2023": "Sat 7-Oct"
     },
     {
       "id": 441,
@@ -2681,6 +2725,17 @@
       "year_2023": ""
     },
     {
+      "id": 491,
+      "name": "Hargita Trail Race",
+      "location": "Harghita Madaras",
+      "county": "HR",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 31-Aug",
+      "year_2023": "Sat 26-Aug"
+    },
+    {
       "id": 354,
       "name": "Harvest Run",
       "location": "Vladimirescu (AR)",
@@ -3379,7 +3434,7 @@
       "location": "Bran",
       "county": "BV",
       "year_2027": "",
-      "year_2026": "Sat 19-Sep",
+      "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 20-Sep",
       "year_2024": "Sat 21-Sep",
       "year_2023": "Sat 16-Sep"
@@ -3709,7 +3764,7 @@
       "location": "Caracal",
       "county": "OT",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 11-May",
       "year_2023": "Sat 6-May"
@@ -3852,7 +3907,7 @@
       "location": "Crasna (SJ)",
       "county": "SJ",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 16-May",
       "year_2025": "Sat 24-May",
       "year_2024": "Sat 29-Jun",
       "year_2023": "Sun 3-Sep"
@@ -3955,6 +4010,17 @@
       "year_2025": "Sat 29-Mar",
       "year_2024": "",
       "year_2023": ""
+    },
+    {
+      "id": 489,
+      "name": "Scărița Everesting",
+      "location": "Poșaga de Sus",
+      "county": "AB",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 6-Jul",
+      "year_2023": "Sat 14-Oct"
     },
     {
       "id": 157,
@@ -4274,6 +4340,17 @@
       "year_2025": "",
       "year_2024": "Sun 19-May",
       "year_2023": "Sun 14-May"
+    },
+    {
+      "id": 490,
+      "name": "Smida Trail Run",
+      "location": "Beliș",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 3-Aug",
+      "year_2023": "Sat 26-Aug"
     },
     {
       "id": 444,
@@ -4710,7 +4787,7 @@
       "location": "Reghin",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Mon 29-Jun",
       "year_2025": "Sun 29-Jun",
       "year_2024": "",
       "year_2023": "Mon 26-Jun"
@@ -5379,6 +5456,15 @@
       "year_2023": "Sun 24-Sep"
     },
     {
+      "name": "Codru Ultra Trail",
+      "location": "Donici, Orhei",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 24-Aug",
+      "year_2023": ""
+    },
+    {
       "name": "Cros caritabil Alerg pentru mama - Chișinău",
       "location": "Chișinău",
       "year_2027": "",
@@ -5406,6 +5492,15 @@
       "year_2023": ""
     },
     {
+      "name": "Ecomaraton La Fetești",
+      "location": "Fetești",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 22-Jun",
+      "year_2023": ""
+    },
+    {
       "name": "Ecovzor Trail Tour",
       "location": "Chișinău",
       "year_2027": "",
@@ -5424,6 +5519,15 @@
       "year_2023": "Sun 14-May"
     },
     {
+      "name": "Everesting Movila Magura",
+      "location": "Movila Magura",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 13-Jul",
+      "year_2023": ""
+    },
+    {
       "name": "HalloWeRun Cricova",
       "location": "Cricova",
       "year_2027": "",
@@ -5436,7 +5540,7 @@
       "name": "Legal Half-Marathon - Chișinău",
       "location": "Chișinău",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 31-May",
       "year_2025": "Sun 11-May",
       "year_2024": "Sun 26-May",
       "year_2023": ""

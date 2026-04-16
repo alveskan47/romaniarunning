@@ -2145,9 +2145,9 @@
     "county": "CJ",
     "type": "trail",
     "distances": [
-      "87.6km(4430m↑)",
-      "44.1km(2540m↑)",
-      "21.3km(1000m↑)",
+      "66.1km(3100m↑)",
+      "44.8km(2531m↑)",
+      "23.2km(1110m↑)",
       "12.2km(570m↑)",
       "2.4km(66m↑)"
     ],
@@ -2690,6 +2690,25 @@
     "day": 22
   },
   {
+    "name": "Ecomaraton La Fetești",
+    "location": "Fetești",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 22-Jun-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "42km",
+      "24km",
+      "12km"
+    ],
+    "link": "https://www.facebook.com/events/1297537194239304/",
+    "link_fb": "",
+    "id": 0,
+    "year": 2024,
+    "month": 6,
+    "day": 22
+  },
+  {
     "name": "Pitești 4 Seasons Running - Summer",
     "location": "Pitești",
     "location_details": "Lunca Argeșului",
@@ -2777,6 +2796,24 @@
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",
     "id": 262,
+    "year": 2024,
+    "month": 6,
+    "day": 29
+  },
+  {
+    "name": "Bucharest 10K Grand Prix",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 29-Jun-2024",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://bucuresti10km.ro/",
+    "link_fb": "https://www.facebook.com/Bucharest10km",
+    "id": 488,
     "year": 2024,
     "month": 6,
     "day": 29
@@ -2918,6 +2955,25 @@
     "day": 6
   },
   {
+    "name": "Scărița Everesting",
+    "location": "Poșaga de Sus",
+    "location_details": "Rezervația Scărița – Belioara",
+    "display_date": "Sat 06-Jul-2024",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "108km(8848m↑)",
+      "54km(44248m↑)",
+      "9km(750m↑)"
+    ],
+    "link": "https://www.scarita.run/",
+    "link_fb": "https://www.facebook.com/scaritaeveresting/",
+    "id": 489,
+    "year": 2024,
+    "month": 7,
+    "day": 6
+  },
+  {
     "name": "Predeal Forest Run",
     "location": "Predeal",
     "location_details": "",
@@ -2950,6 +3006,23 @@
     "link": "https://triatlet.ro/",
     "link_fb": "https://www.facebook.com/p/Budeasa-SWIM-RUN-61555396305833/",
     "id": 271,
+    "year": 2024,
+    "month": 7,
+    "day": 13
+  },
+  {
+    "name": "Everesting Movila Magura",
+    "location": "Movila Magura",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 13-Jul-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/478976881479853",
+    "link_fb": "",
+    "id": 0,
     "year": 2024,
     "month": 7,
     "day": 13
@@ -3259,6 +3332,24 @@
     "day": 3
   },
   {
+    "name": "Smida Trail Run",
+    "location": "Beliș",
+    "location_details": "Smida",
+    "display_date": "Sat 03-Aug-2024",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "32km",
+      "15km"
+    ],
+    "link": "https://atleticcluj.ro/",
+    "link_fb": "https://www.facebook.com/CSAtleticCluj",
+    "id": 490,
+    "year": 2024,
+    "month": 8,
+    "day": 3
+  },
+  {
     "name": "Maratonul Nordului - Teioasa Trail",
     "location": "Darabani",
     "location_details": "Pădurea Teioasa",
@@ -3498,6 +3589,43 @@
     "day": 24
   },
   {
+    "name": "Arad Fall Run",
+    "location": "Arad",
+    "location_details": "Parcul Eminescu",
+    "display_date": "Sat 24-Aug-2024",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7.5km",
+      "3km",
+      "1km"
+    ],
+    "link": "https://aradrun.ro/",
+    "link_fb": "https://www.facebook.com/aradrun/",
+    "id": 400,
+    "year": 2024,
+    "month": 8,
+    "day": 24
+  },
+  {
+    "name": "Codru Ultra Trail",
+    "location": "Donici, Orhei",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 24-Aug-2024",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://moldovatrail.run/",
+    "link_fb": "https://www.facebook.com/codruultratrail",
+    "id": 0,
+    "year": 2024,
+    "month": 8,
+    "day": 24
+  },
+  {
     "name": "Maratonul Olteniei",
     "location": "Râmnicu Vâlcea",
     "location_details": "",
@@ -3589,6 +3717,25 @@
     "link": "https://www.scoriloskyrace.ro/",
     "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
     "id": 157,
+    "year": 2024,
+    "month": 8,
+    "day": 31
+  },
+  {
+    "name": "Hargita Trail Race",
+    "location": "Harghita Madaras",
+    "location_details": "",
+    "display_date": "Sat 31-Aug-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "21km(950m↑)",
+      "11km(450m↑)",
+      "6km(250m↑)"
+    ],
+    "link": "https://hargitatrailrunning.ro/ro/",
+    "link_fb": "https://www.facebook.com/hargitarunning",
+    "id": 491,
     "year": 2024,
     "month": 8,
     "day": 31
@@ -3699,6 +3846,24 @@
     "link": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
     "link_fb": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
     "id": 304,
+    "year": 2024,
+    "month": 9,
+    "day": 7
+  },
+  {
+    "name": "Crosul Cetății Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 07-Sep-2024",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.crosulcetatii.ro/ro/",
+    "link_fb": "https://www.facebook.com/crosulcetatii",
+    "id": 357,
     "year": 2024,
     "month": 9,
     "day": 7
@@ -4259,6 +4424,25 @@
     "day": 28
   },
   {
+    "name": "Alerg pentru tine Trail Run - Sucevița",
+    "location": "Sucevița",
+    "location_details": "",
+    "display_date": "Sat 28-Sep-2024",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "20km(900m↑)",
+      "9km(400m↑)",
+      "2km"
+    ],
+    "link": "https://www.centrulsfluca.ro/alerg-pentru-tine.php",
+    "link_fb": "https://www.facebook.com/p/Alerg-pentru-tine-61561917959520/",
+    "id": 487,
+    "year": 2024,
+    "month": 9,
+    "day": 28
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -4614,24 +4798,6 @@
     "year": 2024,
     "month": 10,
     "day": 6
-  },
-  {
-    "name": "Crosul Cetății Oradea",
-    "location": "Oradea",
-    "location_details": "",
-    "display_date": "Mon 07-Oct-2024",
-    "county": "BH",
-    "type": "road",
-    "distances": [
-      "10km",
-      "5km"
-    ],
-    "link": "https://www.crosulcetatii.ro/ro/",
-    "link_fb": "https://www.facebook.com/crosulcetatii",
-    "id": 357,
-    "year": 2024,
-    "month": 10,
-    "day": 7
   },
   {
     "name": "Porolissum Trail",

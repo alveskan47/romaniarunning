@@ -1301,9 +1301,9 @@
     "county": "CJ",
     "type": "trail",
     "distances": [
-      "87.6km(4430m↑)",
-      "44.1km(2540m↑)",
-      "21.3km(1000m↑)",
+      "66.1km(3100m↑)",
+      "44.8km(2531m↑)",
+      "23.2km(1110m↑)",
       "12.2km(570m↑)",
       "2.4km(66m↑)"
     ],
@@ -1778,6 +1778,24 @@
     "link": "https://sites.google.com/view/crosignis",
     "link_fb": "https://www.facebook.com/p/Cros-Montan-Traversare-IGNI%C8%98-61575880438443/",
     "id": 257,
+    "year": 2023,
+    "month": 6,
+    "day": 17
+  },
+  {
+    "name": "Bucharest 10K Grand Prix",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 17-Jun-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://bucuresti10km.ro/",
+    "link_fb": "https://www.facebook.com/Bucharest10km",
+    "id": 488,
     "year": 2023,
     "month": 6,
     "day": 17
@@ -2650,6 +2668,43 @@
     "day": 26
   },
   {
+    "name": "Smida Trail Run",
+    "location": "Beliș",
+    "location_details": "Smida",
+    "display_date": "Sat 26-Aug-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "32km",
+      "15km"
+    ],
+    "link": "https://atleticcluj.ro/",
+    "link_fb": "https://www.facebook.com/CSAtleticCluj",
+    "id": 490,
+    "year": 2023,
+    "month": 8,
+    "day": 26
+  },
+  {
+    "name": "Hargita Trail Race",
+    "location": "Harghita Madaras",
+    "location_details": "",
+    "display_date": "Sat 26-Aug-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "21km(950m↑)",
+      "11km(450m↑)",
+      "6km(250m↑)"
+    ],
+    "link": "https://hargitatrailrunning.ro/ro/",
+    "link_fb": "https://www.facebook.com/hargitarunning",
+    "id": 491,
+    "year": 2023,
+    "month": 8,
+    "day": 26
+  },
+  {
     "name": "Maratonul Olteniei",
     "location": "Râmnicu Vâlcea",
     "location_details": "",
@@ -2800,24 +2855,6 @@
     "year": 2023,
     "month": 9,
     "day": 3
-  },
-  {
-    "name": "Crosul Cetății Oradea",
-    "location": "Oradea",
-    "location_details": "",
-    "display_date": "Thu 07-Sep-2023",
-    "county": "BH",
-    "type": "road",
-    "distances": [
-      "10km",
-      "5km"
-    ],
-    "link": "https://www.crosulcetatii.ro/ro/",
-    "link_fb": "https://www.facebook.com/crosulcetatii",
-    "id": 357,
-    "year": 2023,
-    "month": 9,
-    "day": 7
   },
   {
     "name": "Ciucaș X3",
@@ -3666,6 +3703,24 @@
     "day": 7
   },
   {
+    "name": "Crosul Cetății Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 07-Oct-2023",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.crosulcetatii.ro/ro/",
+    "link_fb": "https://www.facebook.com/crosulcetatii",
+    "id": 357,
+    "year": 2023,
+    "month": 10,
+    "day": 7
+  },
+  {
     "name": "Cupa Călimani la alergare montana",
     "location": "Toplița",
     "location_details": "Cabana Lomas",
@@ -3772,6 +3827,25 @@
     "link": "https://hercules-maraton.ro/",
     "link_fb": "https://www.facebook.com/HerculesMaraton",
     "id": 335,
+    "year": 2023,
+    "month": 10,
+    "day": 14
+  },
+  {
+    "name": "Scărița Everesting",
+    "location": "Poșaga de Sus",
+    "location_details": "Rezervația Scărița – Belioara",
+    "display_date": "Sat 14-Oct-2023",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "108km(8848m↑)",
+      "54km(44248m↑)",
+      "9km(750m↑)"
+    ],
+    "link": "https://www.scarita.run/",
+    "link_fb": "https://www.facebook.com/scaritaeveresting/",
+    "id": 489,
     "year": 2023,
     "month": 10,
     "day": 14

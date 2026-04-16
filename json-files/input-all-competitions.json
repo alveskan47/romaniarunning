@@ -565,6 +565,11 @@
       "link_fb": "https://www.facebook.com/ciucasX3",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 6
@@ -771,9 +776,9 @@
       "county": "CJ",
       "type": "trail",
       "distances": [
-        "87.6km(4430m↑)",
-        "44.1km(2540m↑)",
-        "21.3km(1000m↑)",
+        "66.1km(3100m↑)",
+        "44.8km(2531m↑)",
+        "23.2km(1110m↑)",
         "12.2km(570m↑)",
         "2.4km(66m↑)"
       ],
@@ -3384,8 +3389,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 9,
-          "day": 19
+          "month": 10,
+          "day": 3
         },
         {
           "year": 2025,
@@ -6861,6 +6866,11 @@
       "link_fb": "https://www.facebook.com/runtothehillscrasna",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 24
@@ -7614,6 +7624,11 @@
       "link_fb": "https://www.facebook.com/p/Romanati-Trail-RUN-61573807836624/",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 7
@@ -8203,6 +8218,11 @@
       "link": "https://transylvania6days.ro/en/home/",
       "link_fb": "https://www.facebook.com/p/Transylvania-6-days-100075920528532/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 29
+        },
         {
           "year": 2025,
           "month": 6,
@@ -9272,6 +9292,11 @@
       "link": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
       "link_fb": "https://www.facebook.com/Concursul.Castelul.din.Carpati",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
         {
           "year": 2025,
           "month": 9,
@@ -10720,12 +10745,12 @@
           "day": 4
         },
         {
-          "year": 2023,
+          "year": 2024,
           "month": 9,
           "day": 7
         },
         {
-          "year": 2024,
+          "year": 2023,
           "month": 10,
           "day": 7
         }
@@ -11824,6 +11849,11 @@
           "year": 2025,
           "month": 11,
           "day": 15
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 24
         },
         {
           "year": 2023,
@@ -13723,6 +13753,176 @@
           "day": 29
         }
       ]
+    },
+    {
+      "id": 485,
+      "name": "Calafat Trail Run",
+      "location": "Calafat",
+      "county": "DJ",
+      "type": "trail",
+      "distances": [
+        "21km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/1745992119715903"
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "1 Iunie Run",
+      "location": "Cocorăștii Colț",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/1700912634201798"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Alerg pentru tine Trail Run - Sucevița",
+      "location": "Sucevița",
+      "county": "SV",
+      "type": "trail",
+      "distances": [
+        "20km(900m↑)",
+        "9km(400m↑)",
+        "2km"
+      ],
+      "link": "https://www.centrulsfluca.ro/alerg-pentru-tine.php",
+      "link_fb": "https://www.facebook.com/p/Alerg-pentru-tine-61561917959520/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "name": "Bucharest 10K Grand Prix",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "https://bucuresti10km.ro/",
+      "link_fb": "https://www.facebook.com/Bucharest10km",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 29
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 17
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Scărița Everesting",
+      "location": "Poșaga de Sus",
+      "location_details": "Rezervația Scărița – Belioara",
+      "county": "AB",
+      "type": "trail",
+      "distances": [
+        "108km(8848m↑)",
+        "54km(44248m↑)",
+        "9km(750m↑)"
+      ],
+      "link": "https://www.scarita.run/",
+      "link_fb": "https://www.facebook.com/scaritaeveresting/",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 7,
+          "day": 6
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 14
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Smida Trail Run",
+      "location": "Beliș",
+      "location_details": "Smida",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "32km",
+        "15km"
+      ],
+      "link": "https://atleticcluj.ro/",
+      "link_fb": "https://www.facebook.com/CSAtleticCluj",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 3
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Hargita Trail Race",
+      "location": "Harghita Madaras",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "21km(950m↑)",
+        "11km(450m↑)",
+        "6km(250m↑)"
+      ],
+      "link": "https://hargitatrailrunning.ro/ro/",
+      "link_fb": "https://www.facebook.com/hargitarunning",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 31
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "day": 26
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -14194,9 +14394,14 @@
         "10km",
         "2.5km"
       ],
-      "link": "",
+      "link": "https://www.facebook.com/legalhalfmarathonchisinau",
       "link_fb": "https://www.facebook.com/legalhalfmarathonchisinau",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 31
+        },
         {
           "year": 2025,
           "month": 5,
@@ -14465,6 +14670,70 @@
           "month": 6,
           "day": 1,
           "event_link": "https://www.facebook.com/events/3814181978904316/"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ecomaraton La Fetești",
+      "location": "Fetești",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "42km",
+        "24km",
+        "12km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/1297537194239304/"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Everesting Movila Magura",
+      "location": "Movila Magura",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 7,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/478976881479853"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Codru Ultra Trail",
+      "location": "Donici, Orhei",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://moldovatrail.run/",
+      "link_fb": "https://www.facebook.com/codruultratrail",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 8,
+          "day": 24
         }
       ]
     }
