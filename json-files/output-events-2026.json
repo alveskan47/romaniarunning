@@ -1106,8 +1106,8 @@
       "23km(650m↑)",
       "16km(400m↑) - 19-Apr"
     ],
-    "link": "https://www.facebook.com/CheileTurziiRace",
-    "link_fb": "https://www.facebook.com/CheileTurziiRace",
+    "link": "https://maratonulargonautilor.ro/",
+    "link_fb": "https://www.facebook.com/maratonulargonautilor.ro",
     "id": 52,
     "year": 2026,
     "month": 4,
@@ -1817,6 +1817,24 @@
     "day": 16
   },
   {
+    "name": "Semimaraton Portile Deltei Tulcea",
+    "location": "Tulcea",
+    "location_details": "",
+    "display_date": "Sat 16-May-2026",
+    "county": "TL",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://www.atletismtulcea.ro/",
+    "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
+    "id": 205,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
     "name": "Run To The Hills",
     "location": "Crasna (SJ)",
     "location_details": "",
@@ -1902,6 +1920,23 @@
     "link": "https://proactivi.org/page6.html",
     "link_fb": "",
     "id": 466,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
+    "name": "Wake Run - Moldova",
+    "location": "Pănăseşti",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 16-May-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100063629587403",
+    "link_fb": "https://www.facebook.com/profile.php?id=100063629587403",
+    "id": 0,
     "year": 2026,
     "month": 5,
     "day": 16
@@ -2166,6 +2201,23 @@
     "day": 23
   },
   {
+    "name": "Race for the Cure Romania",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 23-May-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "4km"
+    ],
+    "link": "https://www.raceforthecure.eu/ro/",
+    "link_fb": "",
+    "id": 256,
+    "year": 2026,
+    "month": 5,
+    "day": 23
+  },
+  {
     "name": "Bârlad Hills Challenge",
     "location": "Bârlad",
     "location_details": "",
@@ -2408,6 +2460,42 @@
     "day": 30
   },
   {
+    "name": "Forest Run Făget (Zilele Pădurii Făget)",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Făget",
+    "display_date": "Sat 30-May-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "20km",
+      "10km",
+      "2km"
+    ],
+    "link": "https://www.active-hub.ro/forest-run",
+    "link_fb": "https://www.facebook.com/ActivHubRomania",
+    "id": 492,
+    "year": 2026,
+    "month": 5,
+    "day": 30
+  },
+  {
+    "name": "Crosul Copiilor - Venetia de Jos",
+    "location": "Venetia de Jos",
+    "location_details": "",
+    "display_date": "Sun 31-May-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/1246267614389353",
+    "link_fb": "",
+    "id": 229,
+    "year": 2026,
+    "month": 5,
+    "day": 31
+  },
+  {
     "name": "Legal Half-Marathon - Chișinău",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -2559,6 +2647,23 @@
     "day": 6
   },
   {
+    "name": "Cros Alergăm pentru Suflete Albastre",
+    "location": "Sulița (BT)",
+    "location_details": "Dracşani",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "BT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100069477422280",
+    "link_fb": "https://www.facebook.com/profile.php?id=100069477422280",
+    "id": 245,
+    "year": 2026,
+    "month": 6,
+    "day": 6
+  },
+  {
     "name": "Romanați Trail Run",
     "location": "Caracal",
     "location_details": "",
@@ -2628,6 +2733,23 @@
     "year": 2026,
     "month": 6,
     "day": 7
+  },
+  {
+    "name": "Everesting Movila Magura",
+    "location": "Movila Magura",
+    "location_details": "Republica Moldova",
+    "display_date": "Fri 12-Jun-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://itra.run/Races/RaceDetails/Movila.M%C4%83gura.Everesting.Challenge.Movila.M%C4%83gura.Everesting.4/2026/117329",
+    "link_fb": "",
+    "id": 0,
+    "year": 2026,
+    "month": 6,
+    "day": 12
   },
   {
     "name": "Maraton Tarcău",
@@ -2908,23 +3030,6 @@
     "day": 14
   },
   {
-    "name": "Race for the Cure Romania",
-    "location": "București",
-    "location_details": "",
-    "display_date": "Mon 15-Jun-2026",
-    "county": "B",
-    "type": "road",
-    "distances": [
-      "4km"
-    ],
-    "link": "https://www.raceforthecure.eu/ro/",
-    "link_fb": "",
-    "id": 256,
-    "year": 2026,
-    "month": 6,
-    "day": 15
-  },
-  {
     "name": "Atinge Omu",
     "location": "Telecabină Peștera",
     "location_details": "",
@@ -3047,6 +3152,25 @@
     "link": "https://crosagnita.ro/",
     "link_fb": "",
     "id": 259,
+    "year": 2026,
+    "month": 6,
+    "day": 20
+  },
+  {
+    "name": "Nocturne Night Run",
+    "location": "Purcari",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 20-Jun-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "20km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/4259348504278954",
+    "link_fb": "",
+    "id": 0,
     "year": 2026,
     "month": 6,
     "day": 20
@@ -3298,6 +3422,25 @@
     "day": 4
   },
   {
+    "name": "Ecomaraton La Fetești",
+    "location": "Fetești",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 05-Jul-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "42km",
+      "24km",
+      "12km"
+    ],
+    "link": "https://www.facebook.com/events/944748408419723",
+    "link_fb": "",
+    "id": 0,
+    "year": 2026,
+    "month": 7,
+    "day": 5
+  },
+  {
     "name": "Zalău Ultra Trail",
     "location": "Zalău",
     "location_details": "",
@@ -3466,6 +3609,25 @@
     "year": 2026,
     "month": 7,
     "day": 18
+  },
+  {
+    "name": "Szent Gellert Cross",
+    "location": "Ditrau",
+    "location_details": "",
+    "display_date": "Sun 19-Jul-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "45km(1600m↑)",
+      "23km(900m↑)",
+      "8km(280m↑)"
+    ],
+    "link": "https://szentgellertcross.ro/",
+    "link_fb": "https://www.facebook.com/szentgellertcross/",
+    "id": 279,
+    "year": 2026,
+    "month": 7,
+    "day": 19
   },
   {
     "name": "Bucovina Ultra Rocks",
@@ -3695,6 +3857,23 @@
     "year": 2026,
     "month": 8,
     "day": 9
+  },
+  {
+    "name": "The Color Run - Mamaia",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "display_date": "Sat 15-Aug-2026",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
+    "id": 114,
+    "year": 2026,
+    "month": 8,
+    "day": 15
   },
   {
     "name": "Oltenia Forest Run - Baile Govora",
@@ -4126,6 +4305,29 @@
     "day": 12
   },
   {
+    "name": "Running Festival Csikszereda",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km",
+      "2.5km",
+      "4x10km relay",
+      "7km night"
+    ],
+    "link": "https://www.runningfestival.ro/",
+    "link_fb": "https://www.facebook.com/running.csikszereda/",
+    "id": 317,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
     "name": "Aiud Green Run",
     "location": "Aiud",
     "location_details": "",
@@ -4177,6 +4379,25 @@
     "link": "https://www.oradearunfest.ro/",
     "link_fb": "https://www.facebook.com/oradearunfest",
     "id": 321,
+    "year": 2026,
+    "month": 9,
+    "day": 12
+  },
+  {
+    "name": "Sighet Run",
+    "location": "Sighetu Marmației",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=1334465525382914&set=pcb.1334466002049533",
+    "link_fb": "",
+    "id": 337,
     "year": 2026,
     "month": 9,
     "day": 12
@@ -4414,6 +4635,25 @@
     "link": "https://www.spartantrail.com/sovata/",
     "link_fb": "https://www.facebook.com/SpartanRaceRomania",
     "id": 393,
+    "year": 2026,
+    "month": 9,
+    "day": 19
+  },
+  {
+    "name": "Nord Run",
+    "location": "Sîngerei",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://nordrun.md/",
+    "link_fb": "https://www.facebook.com/nordrun.md",
+    "id": 0,
     "year": 2026,
     "month": 9,
     "day": 19
@@ -4787,6 +5027,23 @@
     "link": "https://harvestrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
     "id": 354,
+    "year": 2026,
+    "month": 10,
+    "day": 3
+  },
+  {
+    "name": "Vardomb Backyard Ultra",
+    "location": "Păuleni-Ciuc",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "(5km&120m↑/lap)"
+    ],
+    "link": "https://cupacalimani.ro/",
+    "link_fb": "https://www.facebook.com/cupacalimani/",
+    "id": 369,
     "year": 2026,
     "month": 10,
     "day": 3
@@ -5299,6 +5556,42 @@
     "link": "https://runnersclub.ro/crosuldenoapte/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 148,
+    "year": 2026,
+    "month": 11,
+    "day": 14
+  },
+  {
+    "name": "Sky Run",
+    "location": "București",
+    "location_details": "Sky Tower",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "B",
+    "type": "stairs",
+    "distances": [
+      "1km(122m↑)"
+    ],
+    "link": "https://skyrun.skytower.ro/",
+    "link_fb": "",
+    "id": 394,
+    "year": 2026,
+    "month": 11,
+    "day": 14
+  },
+  {
+    "name": "Semimaraton Dealul Bălănești",
+    "location": "Dealul Bălănești",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://moldovatrail.run/",
+    "link_fb": "https://www.facebook.com/moldovatrailrun",
+    "id": 0,
     "year": 2026,
     "month": 11,
     "day": 14

@@ -8,6 +8,8 @@ const MONTHS = [
 const MONTH_ABBR = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                     'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
+const DAY_ABBR = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
 const YEARS = [2023, 2024, 2025, 2026, 2027];
 
 let selectedYear = new Date().getFullYear();
@@ -211,7 +213,8 @@ async function renderRacesList() {
         if (!days || days.length === 0) continue;
         html += `<div class="races-week"><h5>Week ${wk}</h5>`;
         for (const { day, month: m, year: y, events } of days) {
-            html += `<p class="mb-1"><strong>${formatDate(day, m, y)}</strong></p>`;
+            const dow = DAY_ABBR[new Date(y, m, day).getDay()];
+            html += `<p class="mb-1"><strong>${dow} ${formatDate(day, m, y)}</strong></p>`;
             html += '<ul class="list-unstyled ms-3 mb-2">';
             for (const e of events) {
                 html += `<li><a href="${e.link}" target="_blank" rel="noopener">${e.name}</a></li>`;

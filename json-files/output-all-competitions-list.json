@@ -261,6 +261,17 @@
       "year_2023": ""
     },
     {
+      "id": 499,
+      "name": "Alergam pe Drumul Aurului",
+      "location": "Brad",
+      "county": "HD",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 21-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 221,
       "name": "Alergarea Carpilor",
       "location": "Techirghiol",
@@ -1003,7 +1014,7 @@
       "location": "Sulița (BT)",
       "county": "BT",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 1-Jun",
       "year_2023": ""
@@ -1185,6 +1196,17 @@
       "year_2023": ""
     },
     {
+      "id": 501,
+      "name": "Cros Energie Pentru Toti",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 29-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 401,
       "name": "Cros Memorialul Maria Cioncan",
       "location": "Anies",
@@ -1216,6 +1238,17 @@
       "year_2025": "Sat 21-Jun",
       "year_2024": "Sat 22-Jun",
       "year_2023": "Sat 17-Jun"
+    },
+    {
+      "id": 493,
+      "name": "Cros pentru Viata - Gherla",
+      "location": "Gherla",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 7-Sep",
+      "year_2023": ""
     },
     {
       "id": 303,
@@ -1325,6 +1358,17 @@
       "year_2026": "",
       "year_2025": "Sun 11-May",
       "year_2024": "Sun 12-May",
+      "year_2023": ""
+    },
+    {
+      "id": 494,
+      "name": "Crosul Alergam pentru zambete - Loamneș",
+      "location": "Loamneș",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 8-Sep",
       "year_2023": ""
     },
     {
@@ -1542,10 +1586,10 @@
       "location": "Venetia de Jos",
       "county": "BV",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 31-May",
       "year_2025": "Sat 31-May",
-      "year_2024": "",
-      "year_2023": ""
+      "year_2024": "Sat 1-Jun",
+      "year_2023": "Sat 3-Jun"
     },
     {
       "id": 362,
@@ -1622,6 +1666,17 @@
       "year_2026": "",
       "year_2025": "Fri 9-May",
       "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 498,
+      "name": "Crosul Familiei Sfântu Gheorghe",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 21-Sep",
       "year_2023": ""
     },
     {
@@ -1863,7 +1918,7 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sun 21-Sep",
-      "year_2024": "",
+      "year_2024": "Sun 22-Sep",
       "year_2023": ""
     },
     {
@@ -1997,6 +2052,17 @@
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
+    },
+    {
+      "id": 500,
+      "name": "Crosul Recuperarii Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 22-Sep",
+      "year_2023": "Sun 24-Sep"
     },
     {
       "id": 152,
@@ -2373,6 +2439,17 @@
       "year_2023": ""
     },
     {
+      "id": 495,
+      "name": "DHTT",
+      "location": "Baile Jigodin",
+      "county": "HR",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 8-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 132,
       "name": "Discover Valea Doftanei",
       "location": "Traisteni",
@@ -2567,6 +2644,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sat 17-May",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 492,
+      "name": "Forest Run Făget (Zilele Pădurii Făget)",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sat 30-May",
+      "year_2025": "Sat 31-May",
       "year_2024": "",
       "year_2023": ""
     },
@@ -2879,6 +2967,17 @@
       "year_2023": "Sat 13-May"
     },
     {
+      "id": 496,
+      "name": "Ladies Run",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 21-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 41,
       "name": "Legal Half-Marathon",
       "location": "București",
@@ -3070,7 +3169,7 @@
       "name": "Maratonul Argonautilor",
       "location": "Cheile Dobrogei",
       "county": "CT",
-      "year_2027": "",
+      "year_2027": "Sat 10-Apr",
       "year_2026": "Sat 18-Apr",
       "year_2025": "Sat 12-Apr",
       "year_2024": "Sat 13-Apr",
@@ -3396,6 +3495,17 @@
       "year_2023": ""
     },
     {
+      "id": 497,
+      "name": "Night Run Sfântu Gheorghe",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 21-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 117,
       "name": "Obciniada Night Run",
       "location": "Gura Humorului",
@@ -3676,7 +3786,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "Mon 15-Jun",
+      "year_2026": "Sat 23-May",
       "year_2025": "Sun 15-Jun",
       "year_2024": "Sat 8-Jun",
       "year_2023": ""
@@ -3913,6 +4023,17 @@
       "year_2023": "Sun 3-Sep"
     },
     {
+      "id": 502,
+      "name": "Run4Life",
+      "location": "Iași",
+      "county": "IS",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 29-Sep",
+      "year_2023": ""
+    },
+    {
       "id": 268,
       "name": "Runfest - Cernica-Pantelimon",
       "location": "Cernica",
@@ -3940,7 +4061,7 @@
       "location": "Miercurea Ciuc",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "Sat 14-Sep",
       "year_2023": "Sat 16-Sep"
@@ -4160,7 +4281,7 @@
       "location": "Tulcea",
       "county": "TL",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 16-May",
       "year_2025": "Sat 17-May",
       "year_2024": "",
       "year_2023": "Sun 9-Jul"
@@ -4270,7 +4391,7 @@
       "location": "Sighetu Marmației",
       "county": "MM",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 20-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -4325,7 +4446,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 14-Nov",
       "year_2025": "Sat 8-Nov",
       "year_2024": "Sat 9-Nov",
       "year_2023": "Sat 11-Nov"
@@ -4512,7 +4633,7 @@
       "location": "Ditrau",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 19-Jul",
       "year_2025": "Sun 20-Jul",
       "year_2024": "Sun 21-Jul",
       "year_2023": "Sun 23-Jul"
@@ -4622,7 +4743,7 @@
       "location": "Constanța",
       "county": "CT",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 15-Aug",
       "year_2025": "Sat 2-Aug",
       "year_2024": "Sat 27-Jul",
       "year_2023": "Sat 29-Jul"
@@ -5051,7 +5172,7 @@
       "location": "Păuleni-Ciuc",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 11-Oct",
       "year_2024": "",
       "year_2023": ""
@@ -5495,9 +5616,18 @@
       "name": "Ecomaraton La Fetești",
       "location": "Fetești",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 5-Jul",
       "year_2025": "",
       "year_2024": "Sat 22-Jun",
+      "year_2023": ""
+    },
+    {
+      "name": "EcoRun de Hram la Stăuceni",
+      "location": "Stăuceni",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sat 21-Sep",
       "year_2023": ""
     },
     {
@@ -5519,10 +5649,19 @@
       "year_2023": "Sun 14-May"
     },
     {
+      "name": "EURO Marathon - Chișinău",
+      "location": "Chișinău",
+      "year_2027": "",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "Sun 8-Sep",
+      "year_2023": ""
+    },
+    {
       "name": "Everesting Movila Magura",
       "location": "Movila Magura",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 12-Jun",
       "year_2025": "",
       "year_2024": "Sat 13-Jul",
       "year_2023": ""
@@ -5609,6 +5748,24 @@
       "year_2023": ""
     },
     {
+      "name": "Nocturne Night Run",
+      "location": "Purcari",
+      "year_2027": "",
+      "year_2026": "Sat 20-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "name": "Nord Run",
+      "location": "Sîngerei",
+      "year_2027": "",
+      "year_2026": "Sat 19-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "name": "Race for the Cure Moldova",
       "location": "Chișinău",
       "year_2027": "",
@@ -5625,6 +5782,15 @@
       "year_2025": "Fri 28-Feb",
       "year_2024": "Fri 22-Mar",
       "year_2023": "Fri 3-Feb"
+    },
+    {
+      "name": "Semimaraton Dealul Bălănești",
+      "location": "Dealul Bălănești",
+      "year_2027": "",
+      "year_2026": "Sat 14-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": "Sat 11-Nov"
     },
     {
       "name": "Soldanesti Run",
@@ -5659,6 +5825,15 @@
       "year_2027": "",
       "year_2026": "Sat 2-May",
       "year_2025": "Sat 31-May",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "name": "Wake Run - Moldova",
+      "location": "Pănăseşti",
+      "year_2027": "",
+      "year_2026": "Sat 16-May",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     }

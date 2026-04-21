@@ -1039,8 +1039,8 @@
       "23km(650m↑)",
       "16km(400m↑)"
     ],
-    "link": "https://www.facebook.com/CheileTurziiRace",
-    "link_fb": "https://www.facebook.com/CheileTurziiRace",
+    "link": "https://maratonulargonautilor.ro/",
+    "link_fb": "https://www.facebook.com/maratonulargonautilor.ro",
     "id": 52,
     "year": 2025,
     "month": 4,
@@ -2625,6 +2625,25 @@
     "day": 31
   },
   {
+    "name": "Forest Run Făget (Zilele Pădurii Făget)",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Făget",
+    "display_date": "Sat 31-May-2025",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "20km",
+      "10km",
+      "2km"
+    ],
+    "link": "https://www.active-hub.ro/forest-run",
+    "link_fb": "https://www.facebook.com/ActivHubRomania",
+    "id": 492,
+    "year": 2025,
+    "month": 5,
+    "day": 31
+  },
+  {
     "name": "Volvo Ultra Race",
     "location": "Ulmu",
     "location_details": "Republica Moldova",
@@ -2956,8 +2975,8 @@
     "distances": [
       "-"
     ],
-    "link": "https://www.facebook.com/events/604537069144000/",
-    "link_fb": "",
+    "link": "https://www.facebook.com/profile.php?id=100069477422280",
+    "link_fb": "https://www.facebook.com/profile.php?id=100069477422280",
     "id": 245,
     "year": 2025,
     "month": 6,

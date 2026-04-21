@@ -5,20 +5,20 @@
       "page_link": "index.html"
     },
     {
-      "page_name": "Statistics",
-      "page_link": "statistics.html"
+      "page_name": "Calendar",
+      "page_link": "calendar.html"
     },
     {
-      "page_name": "Park Run",
-      "page_link": "park.html"
+      "page_name": "Statistics",
+      "page_link": "statistics.html"
     },
     {
       "page_name": "Bad News",
       "page_link": "bad-news.html"
     },
     {
-      "page_name": "Calendar",
-      "page_link": "calendar.html"
+      "page_name": "Contact",
+      "page_link": "contact.html"
     },
     {
       "page_name": "Other",
@@ -27,12 +27,12 @@
         {
           "page_name": "Archive",
           "page_link": "archive.html"
+        },
+        {
+          "page_name": "Park Run",
+          "page_link": "park.html"
         }
       ]
-    },
-    {
-      "page_name": "Contact",
-      "page_link": "contact.html"
     }
   ]
 }

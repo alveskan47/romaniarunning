@@ -38,6 +38,25 @@
     "day": 13
   },
   {
+    "name": "Maratonul Argonautilor",
+    "location": "Cheile Dobrogei",
+    "location_details": "",
+    "display_date": "Sat 10-Apr-2027",
+    "county": "CT",
+    "type": "trail",
+    "distances": [
+      "42.5km(1600m↑)",
+      "23km(650m↑)",
+      "16km(400m↑) - 11-Apr"
+    ],
+    "link": "https://maratonulargonautilor.ro/",
+    "link_fb": "https://www.facebook.com/maratonulargonautilor.ro",
+    "id": 52,
+    "year": 2027,
+    "month": 4,
+    "day": 10
+  },
+  {
     "name": "Maraton 1 Decembrie București",
     "location": "București",
     "location_details": "",

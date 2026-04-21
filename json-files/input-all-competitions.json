@@ -1858,9 +1858,19 @@
         "23km(650m↑)",
         "16km(400m↑)"
       ],
-      "link": "https://www.facebook.com/CheileTurziiRace",
-      "link_fb": "https://www.facebook.com/CheileTurziiRace",
+      "link": "https://maratonulargonautilor.ro/",
+      "link_fb": "https://www.facebook.com/maratonulargonautilor.ro",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 10,
+          "event_distances": [
+            "42.5km(1600m↑)",
+            "23km(650m↑)",
+            "16km(400m↑) - 11-Apr"
+          ]
+        },
         {
           "year": 2026,
           "month": 4,
@@ -4010,6 +4020,11 @@
       "link": "https://www.thecolorrun.ro/evenimente/",
       "link_fb": "https://www.facebook.com/TheColorRunRO/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15
+        },
         {
           "year": 2025,
           "month": 8,
@@ -6597,6 +6612,11 @@
       "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 17
@@ -7203,10 +7223,27 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/1246267614389353"
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 31,
           "event_link": "https://www.facebook.com/events/2050707425419192"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/407510242082519/"
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "day": 3
         }
       ]
     },
@@ -7592,20 +7629,23 @@
       "distances": [
         "-"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://www.facebook.com/profile.php?id=100069477422280",
+      "link_fb": "https://www.facebook.com/profile.php?id=100069477422280",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        },
         {
           "year": 2025,
           "month": 6,
-          "day": 7,
-          "event_link": "https://www.facebook.com/events/604537069144000/"
+          "day": 7
         },
         {
           "year": 2024,
           "month": 6,
-          "day": 1,
-          "event_link": "https://www.facebook.com/events/2192587507748365"
+          "day": 1
         }
       ]
     },
@@ -7899,8 +7939,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 6,
-          "day": 15
+          "month": 5,
+          "day": 23
         },
         {
           "year": 2025,
@@ -8620,6 +8660,11 @@
       "link": "https://szentgellertcross.ro/",
       "link_fb": "https://www.facebook.com/szentgellertcross/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 19
+        },
         {
           "year": 2025,
           "month": 7,
@@ -9678,6 +9723,11 @@
       "link_fb": "https://www.facebook.com/running.csikszereda/",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 13
@@ -10224,6 +10274,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 12,
+          "event_link": "https://www.facebook.com/photo/?fbid=1334465525382914&set=pcb.1334466002049533"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 20,
@@ -10249,6 +10305,12 @@
           "month": 9,
           "day": 21,
           "event_link": "https://www.facebook.com/events/706004499070577"
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 22,
+          "event_link": "https://oncohelp.ro/evenimente/evenimente-caritabile/crosul-oncohelp-2024/"
         }
       ]
     },
@@ -11031,6 +11093,12 @@
       "link_fb": "https://www.facebook.com/cupacalimani/",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 3,
+          "event_link": "https://www.facebook.com/events/924987566608835"
+        },
+        {
           "year": 2025,
           "month": 10,
           "day": 11,
@@ -11683,6 +11751,11 @@
       "link": "https://skyrun.skytower.ro/",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14
+        },
         {
           "year": 2025,
           "month": 11,
@@ -13923,6 +13996,239 @@
           "day": 26
         }
       ]
+    },
+    {
+      "id": 492,
+      "name": "Forest Run Făget (Zilele Pădurii Făget)",
+      "location": "Cluj-Napoca",
+      "location_details": "Pădurea Făget",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "20km",
+        "10km",
+        "2km"
+      ],
+      "link": "https://www.active-hub.ro/forest-run",
+      "link_fb": "https://www.facebook.com/ActivHubRomania",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "name": "Cros pentru Viata - Gherla",
+      "location": "Gherla",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "2km"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61563854622551",
+      "link_fb": "https://www.facebook.com/profile.php?id=61563854622551",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "name": "Crosul Alergam pentru zambete - Loamneș",
+      "location": "Loamneș",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/388557963973202"
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "name": "DHTT",
+      "location": "Baile Jigodin",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "40km(1511m↑)",
+        "25km(963m↑)",
+        "15km(298m↑)"
+      ],
+      "link": "https://www.cseke.ro/dhtt",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "name": "Ladies Run",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "5km(⚠ only women)"
+      ],
+      "link": "https://ladiesrun.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "name": "Night Run Sfântu Gheorghe",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/s/night-run-by-fitness-tribe/1561273921262742/"
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "name": "Crosul Familiei Sfântu Gheorghe",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "type": "road",
+      "distances": [
+        "(⚠ only adult + children)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/1776859313092576"
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "name": "Alergam pe Drumul Aurului",
+      "location": "Brad",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "17km(512m↑)",
+        "8.5km(256m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/1162978798101391/"
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Crosul Recuperarii Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/adictii.cluj",
+      "link_fb": "https://www.facebook.com/adictii.cluj",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 22
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 24
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Cros Energie Pentru Toti",
+      "location": "București",
+      "location_details": "Arena Nationala",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "5km",
+        "3km"
+      ],
+      "link": "https://eosdart.ro/cros-energie/",
+      "link_fb": "https://www.facebook.com/EOSDART",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Run4Life",
+      "location": "Iași",
+      "location_details": "Stadionul Emil Alexandrescu",
+      "county": "IS",
+      "type": "track",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/827720695563694/"
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -14689,6 +14995,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 7,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/944748408419723"
+        },
+        {
           "year": 2024,
           "month": 6,
           "day": 22,
@@ -14709,6 +15021,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 12,
+          "event_link": "https://itra.run/Races/RaceDetails/Movila.M%C4%83gura.Everesting.Challenge.Movila.M%C4%83gura.Everesting.4/2026/117329"
+        },
         {
           "year": 2024,
           "month": 7,
@@ -14734,6 +15052,140 @@
           "year": 2024,
           "month": 8,
           "day": 24
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Wake Run - Moldova",
+      "location": "Pănăseşti",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=100063629587403",
+      "link_fb": "https://www.facebook.com/profile.php?id=100063629587403",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nocturne Night Run",
+      "location": "Purcari",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "20km",
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 20,
+          "event_link": "https://www.facebook.com/events/4259348504278954"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nord Run",
+      "location": "Sîngerei",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://nordrun.md/",
+      "link_fb": "https://www.facebook.com/nordrun.md",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Semimaraton Dealul Bălănești",
+      "location": "Dealul Bălănești",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://moldovatrail.run/",
+      "link_fb": "https://www.facebook.com/moldovatrailrun",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "EURO Marathon - Chișinău",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 8,
+          "event_link": "https://sporter.md/en/events/run/14861/euro-marathon"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "EcoRun de Hram la Stăuceni",
+      "location": "Stăuceni",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/1220208102466272/"
         }
       ]
     }

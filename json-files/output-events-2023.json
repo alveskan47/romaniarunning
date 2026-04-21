@@ -579,8 +579,8 @@
       "23km(650m↑)",
       "16km(400m↑)"
     ],
-    "link": "https://www.facebook.com/CheileTurziiRace",
-    "link_fb": "https://www.facebook.com/CheileTurziiRace",
+    "link": "https://maratonulargonautilor.ro/",
+    "link_fb": "https://www.facebook.com/maratonulargonautilor.ro",
     "id": 52,
     "year": 2023,
     "month": 4,
@@ -1445,6 +1445,23 @@
     "link": "https://www.dunanap.com/",
     "link_fb": "https://www.facebook.com/dunanapoktorocko",
     "id": 224,
+    "year": 2023,
+    "month": 6,
+    "day": 3
+  },
+  {
+    "name": "Crosul Copiilor - Venetia de Jos",
+    "location": "Venetia de Jos",
+    "location_details": "",
+    "display_date": "Sat 03-Jun-2023",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 229,
     "year": 2023,
     "month": 6,
     "day": 3
@@ -3399,6 +3416,23 @@
     "day": 24
   },
   {
+    "name": "Crosul Recuperarii Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 24-Sep-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/adictii.cluj",
+    "link_fb": "https://www.facebook.com/adictii.cluj",
+    "id": 500,
+    "year": 2023,
+    "month": 9,
+    "day": 24
+  },
+  {
     "name": "Chișinău Maraton",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -4285,6 +4319,25 @@
     "link": "https://www.invictusromania.ro/",
     "link_fb": "https://www.facebook.com/InvictusTeamRomania/",
     "id": 395,
+    "year": 2023,
+    "month": 11,
+    "day": 11
+  },
+  {
+    "name": "Semimaraton Dealul Bălănești",
+    "location": "Dealul Bălănești",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 11-Nov-2023",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://moldovatrail.run/",
+    "link_fb": "https://www.facebook.com/moldovatrailrun",
+    "id": 0,
     "year": 2023,
     "month": 11,
     "day": 11
