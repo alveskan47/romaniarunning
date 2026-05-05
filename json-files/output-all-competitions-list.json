@@ -178,7 +178,7 @@
       "location": "Sfântu Gheorghe",
       "county": "CV",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 16-May",
       "year_2025": "Sat 24-May",
       "year_2024": "",
       "year_2023": ""
@@ -602,6 +602,28 @@
       "year_2023": ""
     },
     {
+      "id": 508,
+      "name": "Boogie To The Van 8k fun run",
+      "location": "Brezoi",
+      "county": "VL",
+      "year_2027": "",
+      "year_2026": "Thu 23-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 509,
+      "name": "Brașov 21K",
+      "location": "Brașov",
+      "county": "BV",
+      "year_2027": "",
+      "year_2026": "Sun 25-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 255,
       "name": "Brașov Heroes",
       "location": "Brașov",
@@ -838,7 +860,7 @@
       "location": "Lazarea",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 16-Aug",
       "year_2025": "Sun 17-Aug",
       "year_2024": "Sun 18-Aug",
       "year_2023": "Sun 13-Aug"
@@ -1663,7 +1685,7 @@
       "location": "Timișoara",
       "county": "TM",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 9-May",
       "year_2025": "Fri 9-May",
       "year_2024": "",
       "year_2023": ""
@@ -2015,7 +2037,7 @@
       "location": "Roesti",
       "county": "VL",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 9-May",
       "year_2025": "Wed 30-Apr",
       "year_2024": "",
       "year_2023": ""
@@ -2073,6 +2095,17 @@
       "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 5-Oct",
+      "year_2023": ""
+    },
+    {
+      "id": 504,
+      "name": "Crosul Roșfed",
+      "location": "Gilău",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Fri 8-May",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -2312,7 +2345,7 @@
       "location": "Craiova",
       "county": "DJ",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 13-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 22-Jun",
       "year_2023": ""
@@ -2338,6 +2371,17 @@
       "year_2025": "Sat 11-Oct",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 7-Oct"
+    },
+    {
+      "id": 503,
+      "name": "Cupa Gigi Donciu",
+      "location": "Caracal",
+      "county": "OT",
+      "year_2027": "",
+      "year_2026": "Fri 24-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 299,
@@ -2912,6 +2956,17 @@
       "year_2023": "Sun 7-May"
     },
     {
+      "id": 507,
+      "name": "IceCream Run",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "year_2027": "",
+      "year_2026": "Sun 14-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 12,
       "name": "IstritaXscape",
       "location": "Sărăta Monteoru",
@@ -2960,7 +3015,7 @@
       "name": "La Petrovaselo in vie",
       "location": "Recas",
       "county": "TM",
-      "year_2027": "",
+      "year_2027": "Sat 17-Apr",
       "year_2026": "Sat 25-Apr",
       "year_2025": "Sun 27-Apr",
       "year_2024": "Sat 25-May",
@@ -3291,7 +3346,7 @@
       "location": "Târgu Ocna",
       "county": "BC",
       "year_2027": "",
-      "year_2026": "Sat 13-Jun",
+      "year_2026": "",
       "year_2025": "Sat 14-Jun",
       "year_2024": "",
       "year_2023": ""
@@ -3361,6 +3416,17 @@
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 30-Sep"
+    },
+    {
+      "id": 506,
+      "name": "Mediaș Coffee Run",
+      "location": "Mediaș",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "Mon 1-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 198,
@@ -4247,7 +4313,7 @@
       "name": "Semimaraton Gerar",
       "location": "București",
       "county": "B",
-      "year_2027": "",
+      "year_2027": "Sat 30-Jan",
       "year_2026": "Sat 31-Jan",
       "year_2025": "Sat 1-Feb",
       "year_2024": "Sat 27-Jan",
@@ -4358,7 +4424,7 @@
       "location": "Adjud",
       "county": "VN",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 17-May",
       "year_2025": "Sun 11-May",
       "year_2024": "",
       "year_2023": ""
@@ -4511,7 +4577,7 @@
       "name": "SportGuru Timișoara 21k",
       "location": "Timișoara",
       "county": "TM",
-      "year_2027": "",
+      "year_2027": "Sun 21-Mar",
       "year_2026": "Sun 8-Mar",
       "year_2025": "Sun 9-Mar",
       "year_2024": "Sun 17-Mar",
@@ -4966,6 +5032,17 @@
       "year_2026": "Sat 1-Aug",
       "year_2025": "Sat 2-Aug",
       "year_2024": "Sat 3-Aug",
+      "year_2023": ""
+    },
+    {
+      "id": 505,
+      "name": "Turda Coffee Run",
+      "location": "Turda",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sun 17-May",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -5732,7 +5809,7 @@
     {
       "name": "Mileștii Mici Winerun",
       "location": "Mileștii Mici",
-      "year_2027": "",
+      "year_2027": "Sat 13-Mar",
       "year_2026": "Sat 14-Mar",
       "year_2025": "Sat 15-Mar",
       "year_2024": "Sat 2-Mar",

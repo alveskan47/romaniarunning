@@ -3,6 +3,15 @@
     {
       "original_date": {
         "year": 2026,
+        "month": 6,
+        "day": 13
+      },
+      "competition": "Maratonul Sarii",
+      "status": "Cancelled"
+    },
+    {
+      "original_date": {
+        "year": 2026,
         "month": 9,
         "day": 19
       },

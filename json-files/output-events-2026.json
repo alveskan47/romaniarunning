@@ -1170,6 +1170,23 @@
     "day": 19
   },
   {
+    "name": "Cupa Gigi Donciu",
+    "location": "Caracal",
+    "location_details": "",
+    "display_date": "Fri 24-Apr-2026",
+    "county": "OT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/34650866297891315/",
+    "link_fb": "",
+    "id": 503,
+    "year": 2026,
+    "month": 4,
+    "day": 24
+  },
+  {
     "name": "La Petrovaselo in vie",
     "location": "Recas",
     "location_details": "Petrovaselo",
@@ -1542,6 +1559,23 @@
     "day": 8
   },
   {
+    "name": "Crosul Roșfed",
+    "location": "Gilău",
+    "location_details": "",
+    "display_date": "Fri 08-May-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/4222940667956635",
+    "link_fb": "",
+    "id": 504,
+    "year": 2026,
+    "month": 5,
+    "day": 8
+  },
+  {
     "name": "Subcarpați Trail Run",
     "location": "Cocorastii Mislii",
     "location_details": "",
@@ -1558,6 +1592,40 @@
     "link": "https://www.subcarpatitrailrun.ro/",
     "link_fb": "https://www.facebook.com/subcarpatitrailrun",
     "id": 58,
+    "year": 2026,
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Crosul Primaverii - Roesti",
+    "location": "Roesti",
+    "location_details": "",
+    "display_date": "Sat 09-May-2026",
+    "county": "VL",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1431199175474638",
+    "link_fb": "",
+    "id": 190,
+    "year": 2026,
+    "month": 5,
+    "day": 9
+  },
+  {
+    "name": "Crosul Europei - Timișoara",
+    "location": "Timișoara",
+    "location_details": "Piata Libertatii",
+    "display_date": "Sat 09-May-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1503997621112261",
+    "link_fb": "",
+    "id": 194,
     "year": 2026,
     "month": 5,
     "day": 9
@@ -1809,7 +1877,7 @@
       "21km",
       "5km"
     ],
-    "link": "",
+    "link": "https://www.facebook.com/events/860140720324402",
     "link_fb": "",
     "id": 195,
     "year": 2026,
@@ -1849,6 +1917,23 @@
     "link": "https://runtothehills.ro/",
     "link_fb": "https://www.facebook.com/runtothehillscrasna",
     "id": 215,
+    "year": 2026,
+    "month": 5,
+    "day": 16
+  },
+  {
+    "name": "Alearga bookuros",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 16-May-2026",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "7.4km"
+    ],
+    "link": "https://www.facebook.com/events/1633024077629955",
+    "link_fb": "",
+    "id": 216,
     "year": 2026,
     "month": 5,
     "day": 16
@@ -1997,6 +2082,23 @@
     "day": 17
   },
   {
+    "name": "Semimaratonul Siretului Ilie Roșu",
+    "location": "Adjud",
+    "location_details": "",
+    "display_date": "Sun 17-May-2026",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km"
+    ],
+    "link": "https://www.facebook.com/events/991008643388189",
+    "link_fb": "",
+    "id": 201,
+    "year": 2026,
+    "month": 5,
+    "day": 17
+  },
+  {
     "name": "Crosul Sport 4 all - Lugoj",
     "location": "Lugoj",
     "location_details": "",
@@ -2030,6 +2132,25 @@
     "link": "https://alphaprahova.ro/evenimente/",
     "link_fb": "https://www.facebook.com/alpharunningprahova",
     "id": 458,
+    "year": 2026,
+    "month": 5,
+    "day": 17
+  },
+  {
+    "name": "Turda Coffee Run",
+    "location": "Turda",
+    "location_details": "",
+    "display_date": "Sun 17-May-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "8km",
+      "5km",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/1964938664899045",
+    "link_fb": "",
+    "id": 505,
     "year": 2026,
     "month": 5,
     "day": 17
@@ -2532,6 +2653,25 @@
     "day": 1
   },
   {
+    "name": "Mediaș Coffee Run",
+    "location": "Mediaș",
+    "location_details": "",
+    "display_date": "Mon 01-Jun-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "6.3km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/events/954134170665768",
+    "link_fb": "",
+    "id": 506,
+    "year": 2026,
+    "month": 6,
+    "day": 1
+  },
+  {
     "name": "Marea provocare de mișcare",
     "location": "Sfântu Gheorghe",
     "location_details": "",
@@ -2822,8 +2962,8 @@
       "10km(250m↑)",
       "2km(100m↑)"
     ],
-    "link": "https://maratonscaunuldomnului.ro/",
-    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
+    "link": "https://maratonmaramures.ro/",
+    "link_fb": "https://www.facebook.com/maratonmaramures.ro/",
     "id": 74,
     "year": 2026,
     "month": 6,
@@ -2885,24 +3025,6 @@
     "day": 13
   },
   {
-    "name": "Maratonul Sarii",
-    "location": "Târgu Ocna",
-    "location_details": "",
-    "display_date": "Sat 13-Jun-2026",
-    "county": "BC",
-    "type": "trail",
-    "distances": [
-      "21km(740m↑)",
-      "10km(250m↑)"
-    ],
-    "link": "https://maratonulsarii.adrenallina.ro/",
-    "link_fb": "https://www.facebook.com/MaratonulSarii",
-    "id": 121,
-    "year": 2026,
-    "month": 6,
-    "day": 13
-  },
-  {
     "name": "Peniel Run",
     "location": "Bistrița",
     "location_details": "",
@@ -2916,6 +3038,24 @@
     "link": "https://www.run.peniel.ro/",
     "link_fb": "https://www.facebook.com/PenielRun",
     "id": 172,
+    "year": 2026,
+    "month": 6,
+    "day": 13
+  },
+  {
+    "name": "Crosul Ziua Olimpica - Craiova",
+    "location": "Craiova",
+    "location_details": "Parcul Nicolae Romanescu",
+    "display_date": "Sat 13-Jun-2026",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "7km",
+      "1.5km"
+    ],
+    "link": "https://www.facebook.com/events/2069802277300768",
+    "link_fb": "",
+    "id": 242,
     "year": 2026,
     "month": 6,
     "day": 13
@@ -3025,6 +3165,25 @@
     "link": "https://brasovheroes.fundatiacomunitarabrasov.ro/",
     "link_fb": "https://www.facebook.com/Brasov.Heroes/",
     "id": 255,
+    "year": 2026,
+    "month": 6,
+    "day": 14
+  },
+  {
+    "name": "IceCream Run",
+    "location": "Târgu Mureș",
+    "location_details": "Grădina Zoologică Târgu Mureș",
+    "display_date": "Sun 14-Jun-2026",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "6.3km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/events/1433522672148656",
+    "link_fb": "",
+    "id": 507,
     "year": 2026,
     "month": 6,
     "day": 14
@@ -3630,6 +3789,23 @@
     "day": 19
   },
   {
+    "name": "Boogie To The Van 8k fun run",
+    "location": "Brezoi",
+    "location_details": "",
+    "display_date": "Thu 23-Jul-2026",
+    "county": "VL",
+    "type": "road",
+    "distances": [
+      "8km"
+    ],
+    "link": "https://www.facebook.com/events/1528277651784819",
+    "link_fb": "",
+    "id": 508,
+    "year": 2026,
+    "month": 7,
+    "day": 23
+  },
+  {
     "name": "Bucovina Ultra Rocks",
     "location": "Câmpulung Moldovenesc",
     "location_details": "",
@@ -3889,6 +4065,23 @@
     "link": "https://www.facebook.com/olteniaalearga",
     "link_fb": "https://www.facebook.com/olteniaalearga",
     "id": 291,
+    "year": 2026,
+    "month": 8,
+    "day": 16
+  },
+  {
+    "name": "Castle Run",
+    "location": "Lazarea",
+    "location_details": "",
+    "display_date": "Sun 16-Aug-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "6.5km(200m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100072136397659",
+    "link_fb": "https://www.facebook.com/profile.php?id=100072136397659",
+    "id": 292,
     "year": 2026,
     "month": 8,
     "day": 16
@@ -5354,6 +5547,26 @@
     "link": "https://timisoaracitymarathon.ro/",
     "link_fb": "https://www.facebook.com/TimisoaraCityMarathon/",
     "id": 100,
+    "year": 2026,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Brașov 21K",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sun 25-Oct-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://21k.ro/portfolio/brasov-21k/",
+    "link_fb": "https://www.facebook.com/yoloeventsrom",
+    "id": 509,
     "year": 2026,
     "month": 10,
     "day": 25

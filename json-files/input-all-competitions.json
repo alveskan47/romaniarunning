@@ -275,6 +275,11 @@
       "link_fb": "https://www.facebook.com/Timisoara21k/",
       "editions": [
         {
+          "year": 2027,
+          "month": 3,
+          "day": 21
+        },
+        {
           "year": 2026,
           "month": 3,
           "day": 8
@@ -1099,6 +1104,11 @@
       "link_fb": "https://www.facebook.com/semimaratongerar/",
       "editions": [
         {
+          "year": 2027,
+          "month": 1,
+          "day": 30
+        },
+        {
           "year": 2026,
           "month": 1,
           "day": 31
@@ -1914,6 +1924,11 @@
       "link_fb": "https://www.facebook.com/trailrunpetrovaselo/",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
+        {
           "year": 2026,
           "month": 4,
           "day": 25
@@ -2669,8 +2684,8 @@
         "10km(250m↑)",
         "2km(100m↑)"
       ],
-      "link": "https://maratonscaunuldomnului.ro/",
-      "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
+      "link": "https://maratonmaramures.ro/",
+      "link_fb": "https://www.facebook.com/maratonmaramures.ro/",
       "editions": [
         {
           "year": 2026,
@@ -4207,11 +4222,6 @@
       "link": "https://maratonulsarii.adrenallina.ro/",
       "link_fb": "https://www.facebook.com/MaratonulSarii",
       "editions": [
-        {
-          "year": 2026,
-          "month": 6,
-          "day": 13
-        },
         {
           "year": 2025,
           "month": 6,
@@ -6225,6 +6235,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/1431199175474638"
+        },
+        {
           "year": 2025,
           "month": 4,
           "day": 30,
@@ -6307,7 +6323,7 @@
       "id": 194,
       "name": "Crosul Europei - Timișoara",
       "location": "Timișoara",
-      "location_details": "Stadionul Municipal",
+      "location_details": "Piata Libertatii",
       "county": "TM",
       "type": "road",
       "distances": [
@@ -6317,10 +6333,16 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/1503997621112261"
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 9,
-          "link_event": "https://www.casadeculturatm.ro/eveniment/crosul-europei-2025/"
+          "event_link": "https://www.casadeculturatm.ro/eveniment/crosul-europei-2025/"
         }
       ]
     },
@@ -6342,25 +6364,25 @@
           "year": 2026,
           "month": 5,
           "day": 16,
-          "link_event": "https://www.facebook.com/events/860140720324402"
+          "event_link": "https://www.facebook.com/events/860140720324402"
         },
         {
           "year": 2025,
           "month": 5,
           "day": 10,
-          "link_event": "https://www.facebook.com/events/526093003849432/"
+          "event_link": "https://www.facebook.com/events/526093003849432/"
         },
         {
           "year": 2024,
           "month": 5,
           "day": 4,
-          "link_event": "https://www.facebook.com/events/419710340452050/"
+          "event_link": "https://www.facebook.com/events/419710340452050/"
         },
         {
           "year": 2023,
           "month": 4,
           "day": 22,
-          "link_event": "https://www.facebook.com/events/498013519165774/"
+          "event_link": "https://www.facebook.com/events/498013519165774/"
         }
       ]
     },
@@ -6520,13 +6542,20 @@
       "distances": [
         "21km"
       ],
-      "link": "https://visitvrancea.ro/ro/events/semimaratonul-siretului-in-memoriam-ilie-rosu",
+      "link": "",
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/991008643388189"
+        },
+        {
           "year": 2025,
           "month": 5,
-          "day": 11
+          "day": 11,
+          "event_link": "https://visitvrancea.ro/ro/events/semimaratonul-siretului-in-memoriam-ilie-rosu"
         }
       ]
     },
@@ -6919,6 +6948,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16,
+          "event_link": "https://www.facebook.com/events/1633024077629955"
+        },
         {
           "year": 2025,
           "month": 5,
@@ -7543,6 +7578,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/2069802277300768"
+        },
         {
           "year": 2025,
           "month": 6,
@@ -9036,6 +9077,11 @@
       "link": "https://www.facebook.com/profile.php?id=100072136397659",
       "link_fb": "https://www.facebook.com/profile.php?id=100072136397659",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
         {
           "year": 2025,
           "month": 8,
@@ -14229,6 +14275,155 @@
           "event_link": "https://www.facebook.com/events/827720695563694/"
         }
       ]
+    },
+    {
+      "id": 503,
+      "name": "Cupa Gigi Donciu",
+      "location": "Caracal",
+      "county": "OT",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/34650866297891315/"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "name": "Crosul Roșfed",
+      "location": "Gilău",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/4222940667956635"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "name": "Turda Coffee Run",
+      "location": "Turda",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "8km",
+        "5km",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/1964938664899045"
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "name": "Mediaș Coffee Run",
+      "location": "Mediaș",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "6.3km",
+        "5km",
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/954134170665768"
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "name": "IceCream Run",
+      "location": "Târgu Mureș",
+      "location_details": "Grădina Zoologică Târgu Mureș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "6.3km",
+        "5km",
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1433522672148656"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Boogie To The Van 8k fun run",
+      "location": "Brezoi",
+      "county": "VL",
+      "type": "road",
+      "distances": [
+        "8km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1528277651784819"
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "name": "Brașov 21K",
+      "location": "Brașov",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "2.5km"
+      ],
+      "link": "https://21k.ro/portfolio/brasov-21k/",
+      "link_fb": "https://www.facebook.com/yoloeventsrom",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 25
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [
@@ -14303,6 +14498,12 @@
       "link": "",
       "link_fb": "https://www.facebook.com/sportermd",
       "editions": [
+        {
+          "year": 2027,
+          "month": 3,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/1497398071968734/"
+        },
         {
           "year": 2026,
           "month": 3,

@@ -1,5 +1,23 @@
 [
   {
+    "name": "Semimaraton Gerar",
+    "location": "București",
+    "location_details": "Politehnica",
+    "display_date": "Sat 30-Jan-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "21.6km(⚠ only teams)",
+      "10.8km"
+    ],
+    "link": "https://gerar.ro/",
+    "link_fb": "https://www.facebook.com/semimaratongerar/",
+    "id": 31,
+    "year": 2027,
+    "month": 1,
+    "day": 30
+  },
+  {
     "name": "Team Up & Run",
     "location": "Timișoara",
     "location_details": "",
@@ -38,6 +56,42 @@
     "day": 13
   },
   {
+    "name": "Mileștii Mici Winerun",
+    "location": "Mileștii Mici",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 13-Mar-2027",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/1497398071968734/",
+    "link_fb": "https://www.facebook.com/sportermd",
+    "id": 0,
+    "year": 2027,
+    "month": 3,
+    "day": 13
+  },
+  {
+    "name": "SportGuru Timișoara 21k",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sun 21-Mar-2027",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://timisoara.21k.ro/",
+    "link_fb": "https://www.facebook.com/Timisoara21k/",
+    "id": 8,
+    "year": 2027,
+    "month": 3,
+    "day": 21
+  },
+  {
     "name": "Maratonul Argonautilor",
     "location": "Cheile Dobrogei",
     "location_details": "",
@@ -55,6 +109,25 @@
     "year": 2027,
     "month": 4,
     "day": 10
+  },
+  {
+    "name": "La Petrovaselo in vie",
+    "location": "Recas",
+    "location_details": "Petrovaselo",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "28km",
+      "14km",
+      "5km"
+    ],
+    "link": "https://lapetrovaseloinvie.ro/",
+    "link_fb": "https://www.facebook.com/trailrunpetrovaselo/",
+    "id": 53,
+    "year": 2027,
+    "month": 4,
+    "day": 17
   },
   {
     "name": "Maraton 1 Decembrie București",

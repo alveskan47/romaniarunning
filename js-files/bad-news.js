@@ -35,8 +35,13 @@ function dateToNumber(dateObj) {
 function createBadNewsRow(news) {
     const originalDate = formatDate(news.original_date);
 
-    // Competition column - strikethrough if NOT Rescheduled
-    const competitionClass = news.status !== 'Rescheduled' ? ' class="text-decoration-line-through"' : '';
+    // Competition column - color and strikethrough based on status
+    let competitionStyle = '';
+    if (news.status === 'Cancelled' || news.status === 'Not Held') {
+        competitionStyle = ' class="text-decoration-line-through text-danger"';
+    } else if (news.status === 'Rescheduled') {
+        competitionStyle = ' style="color: #b38600;"';
+    }
 
     // Status column - show status and new date if Rescheduled
     let statusContent = news.status;
@@ -48,7 +53,7 @@ function createBadNewsRow(news) {
     return `
         <tr>
             <td class="text-decoration-line-through">${originalDate}</td>
-            <td${competitionClass}>${news.competition}</td>
+            <td${competitionStyle}>${news.competition}</td>
             <td>${statusContent}</td>
         </tr>
     `;
