@@ -699,7 +699,7 @@
     "day": 23
   },
   {
-    "name": "Wizz Air Bucharest International Half Marathon",
+    "name": "Bucharest International Half Marathon",
     "location": "București",
     "location_details": "",
     "display_date": "Sun 23-Apr-2023",
@@ -1102,6 +1102,7 @@
     "county": "CJ",
     "type": "road",
     "distances": [
+      "9km",
       "6km"
     ],
     "link": "https://etti.utcluj.ro/acasa.html",
@@ -2124,6 +2125,24 @@
     "day": 8
   },
   {
+    "name": "Zespezel Challenge",
+    "location": "Salard",
+    "location_details": "Lunca Bradului",
+    "display_date": "Sat 08-Jul-2023",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "31km(1606m↑)",
+      "19km(923m↑)"
+    ],
+    "link": "https://zespezel.run/",
+    "link_fb": "https://www.facebook.com/zespezelchallenge/",
+    "id": 519,
+    "year": 2023,
+    "month": 7,
+    "day": 8
+  },
+  {
     "name": "Semimaraton Portile Deltei Tulcea",
     "location": "Tulcea",
     "location_details": "",
@@ -2874,6 +2893,26 @@
     "day": 3
   },
   {
+    "name": "Semimaraton Miercurea Nirajului",
+    "location": "Miercurea Nirajului",
+    "location_details": "",
+    "display_date": "Sun 03-Sep-2023",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100063595085769",
+    "link_fb": "https://www.facebook.com/profile.php?id=100063595085769",
+    "id": 521,
+    "year": 2023,
+    "month": 9,
+    "day": 3
+  },
+  {
     "name": "Ciucaș X3",
     "location": "Cheia (PH)",
     "location_details": "",
@@ -3598,6 +3637,42 @@
     "day": 30
   },
   {
+    "name": "Red Mountain Bike & Run",
+    "location": "Cheia",
+    "location_details": "Muntele Rosu",
+    "display_date": "Sat 30-Sep-2023",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "2.5km(250m↑)"
+    ],
+    "link": "https://www.facebook.com/events/630514158935231/",
+    "link_fb": "",
+    "id": 512,
+    "year": 2023,
+    "month": 9,
+    "day": 30
+  },
+  {
+    "name": "Semimaraton Bacău",
+    "location": "Bacău",
+    "location_details": "",
+    "display_date": "Sat 30-Sep-2023",
+    "county": "BC",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://semimaratonbacau.ro/",
+    "link_fb": "https://www.facebook.com/p/Semimaraton-BACAU-100069902388550/",
+    "id": 514,
+    "year": 2023,
+    "month": 9,
+    "day": 30
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -3885,6 +3960,24 @@
     "day": 14
   },
   {
+    "name": "Semimaratonul Mocanitei",
+    "location": "Posmus",
+    "location_details": "Castelul Teleki",
+    "display_date": "Sat 14-Oct-2023",
+    "county": "BN",
+    "type": "road",
+    "distances": [
+      "24km",
+      "10km"
+    ],
+    "link": "https://www.mocanitatransilvaniei.ro/competitii/",
+    "link_fb": "https://www.facebook.com/mocanitatransilvaniei/",
+    "id": 518,
+    "year": 2023,
+    "month": 10,
+    "day": 14
+  },
+  {
     "name": "Bucharest Marathon",
     "location": "București",
     "location_details": "",
@@ -3919,6 +4012,24 @@
     "link": "https://www.turnurosuchallenge.ro/",
     "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
     "id": 247,
+    "year": 2023,
+    "month": 10,
+    "day": 15
+  },
+  {
+    "name": "Semimaraton Curtea Domneasca",
+    "location": "Piatra Neamț",
+    "location_details": "",
+    "display_date": "Sun 15-Oct-2023",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "20.6km(1160m↑)",
+      "11.3km(650m↑)"
+    ],
+    "link": "https://maratonpiatraneamt.ro/",
+    "link_fb": "https://www.facebook.com/semimaraton.curtea.domneasca.2016",
+    "id": 520,
     "year": 2023,
     "month": 10,
     "day": 15
@@ -4471,6 +4582,23 @@
     "day": 1
   },
   {
+    "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Mon 04-Dec-2023",
+    "county": "SM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/373701834998447/",
+    "link_fb": "",
+    "id": 527,
+    "year": 2023,
+    "month": 12,
+    "day": 4
+  },
+  {
     "name": "4 RUN 4 FUN - Alergare de Moș Nicolae",
     "location": "Târgu Mureș",
     "location_details": "Platoul Cornesti",
@@ -4592,6 +4720,23 @@
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",
     "id": 264,
+    "year": 2023,
+    "month": 12,
+    "day": 17
+  },
+  {
+    "name": "Santa Cross - Bacău",
+    "location": "Bacău",
+    "location_details": "",
+    "display_date": "Sun 17-Dec-2023",
+    "county": "BC",
+    "type": "road",
+    "distances": [
+      "16km"
+    ],
+    "link": "https://www.oleacadebiciclisti.ro/page23.html",
+    "link_fb": "",
+    "id": 416,
     "year": 2023,
     "month": 12,
     "day": 17

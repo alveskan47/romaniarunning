@@ -1372,7 +1372,7 @@
     "day": 26
   },
   {
-    "name": "Wizz Air Bucharest International Half Marathon",
+    "name": "Bucharest International Half Marathon",
     "location": "București",
     "location_details": "",
     "display_date": "Sun 26-Apr-2026",
@@ -1576,6 +1576,23 @@
     "day": 8
   },
   {
+    "name": "Crosul Copilariei",
+    "location": "Vaideeni",
+    "location_details": "",
+    "display_date": "Fri 08-May-2026",
+    "county": "VL",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/1655589059027151",
+    "link_fb": "",
+    "id": 529,
+    "year": 2026,
+    "month": 5,
+    "day": 8
+  },
+  {
     "name": "Subcarpați Trail Run",
     "location": "Cocorastii Mislii",
     "location_details": "",
@@ -1668,6 +1685,23 @@
     "day": 9
   },
   {
+    "name": "Baneasa Cross Country",
+    "location": "Bucuresti",
+    "location_details": "",
+    "display_date": "Sat 09-May-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "road"
+    ],
+    "link": "https://olgagudynn.ro/cross-country-event/",
+    "link_fb": "",
+    "id": 531,
+    "year": 2026,
+    "month": 5,
+    "day": 9
+  },
+  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -1736,6 +1770,24 @@
     "link": "https://www.budureasarunning.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=100093200435475",
     "id": 353,
+    "year": 2026,
+    "month": 5,
+    "day": 10
+  },
+  {
+    "name": "Crosul UT - Cluj-Napoca (primavara)",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 10-May-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "9km",
+      "6km"
+    ],
+    "link": "https://etti.utcluj.ro/acasa.html",
+    "link_fb": "https://www.facebook.com/ETTI.ClujNapoca/",
+    "id": 436,
     "year": 2026,
     "month": 5,
     "day": 10
@@ -2099,6 +2151,24 @@
     "day": 17
   },
   {
+    "name": "Alergam pana la Luna si inapoi",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 17-May-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "7km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/people/Asociatia-Luna/61570116252356/",
+    "link_fb": "https://www.facebook.com/people/Asociatia-Luna/61570116252356/",
+    "id": 203,
+    "year": 2026,
+    "month": 5,
+    "day": 17
+  },
+  {
     "name": "Crosul Sport 4 all - Lugoj",
     "location": "Lugoj",
     "location_details": "",
@@ -2410,6 +2480,23 @@
     "day": 24
   },
   {
+    "name": "Memorialul Genel Velica",
+    "location": "Corabia",
+    "location_details": "",
+    "display_date": "Thu 28-May-2026",
+    "county": "OT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/35611878565123068",
+    "link_fb": "",
+    "id": 530,
+    "year": 2026,
+    "month": 5,
+    "day": 28
+  },
+  {
     "name": "Ultrabug",
     "location": "Fundu Moldovei",
     "location_details": "",
@@ -2634,6 +2721,23 @@
     "year": 2026,
     "month": 5,
     "day": 31
+  },
+  {
+    "name": "Crosul Copiilor - Limanu",
+    "location": "Limanu",
+    "location_details": "",
+    "display_date": "Mon 01-Jun-2026",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1594452958292949",
+    "link_fb": "",
+    "id": 237,
+    "year": 2026,
+    "month": 6,
+    "day": 1
   },
   {
     "name": "1 Iunie Run",
@@ -2870,6 +2974,24 @@
     "link": "https://amicusjunior.ro/drag-de-viata-2026/",
     "link_fb": "",
     "id": 449,
+    "year": 2026,
+    "month": 6,
+    "day": 7
+  },
+  {
+    "name": "Colinele Mircești",
+    "location": "Mircești (Ungheni)",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 07-Jun-2026",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "14km",
+      "6km"
+    ],
+    "link": "https://www.runmoldova.com/colinele-mircesti-2026/",
+    "link_fb": "",
+    "id": 0,
     "year": 2026,
     "month": 6,
     "day": 7

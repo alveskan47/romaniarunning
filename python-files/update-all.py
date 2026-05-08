@@ -66,7 +66,12 @@ def run_script(script_name, description):
 
     except subprocess.CalledProcessError as e:
         print(f"\n✗ Error running {script_name}:")
-        print(e.stderr if e.stderr else str(e))
+        if e.stdout:
+            print(e.stdout)
+        if e.stderr:
+            print(e.stderr)
+        if not e.stdout and not e.stderr:
+            print(str(e))
         return False
 
     except Exception as e:

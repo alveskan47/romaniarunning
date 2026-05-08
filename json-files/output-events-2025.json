@@ -1342,7 +1342,7 @@
     "day": 27
   },
   {
-    "name": "Wizz Air Bucharest International Half Marathon",
+    "name": "Bucharest International Half Marathon",
     "location": "București",
     "location_details": "",
     "display_date": "Sun 27-Apr-2025",
@@ -1878,8 +1878,8 @@
       "7km",
       "3km"
     ],
-    "link": "https://www.facebook.com/events/s/alergam-pana-la-luna-si-inapoi/1027665099242552/",
-    "link_fb": "",
+    "link": "https://www.facebook.com/people/Asociatia-Luna/61570116252356/",
+    "link_fb": "https://www.facebook.com/people/Asociatia-Luna/61570116252356/",
     "id": 203,
     "year": 2025,
     "month": 5,
@@ -4940,6 +4940,26 @@
     "day": 7
   },
   {
+    "name": "Semimaraton Miercurea Nirajului",
+    "location": "Miercurea Nirajului",
+    "location_details": "",
+    "display_date": "Sun 07-Sep-2025",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100063595085769",
+    "link_fb": "https://www.facebook.com/profile.php?id=100063595085769",
+    "id": 521,
+    "year": 2025,
+    "month": 9,
+    "day": 7
+  },
+  {
     "name": "Rombat Trail Run",
     "location": "Bistrița",
     "location_details": "",
@@ -5474,6 +5494,25 @@
     "link": "https://www.salutsighet.ro/sighet-run-2025/",
     "link_fb": "",
     "id": 337,
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  {
+    "name": "Bimbo Global Race Brașov",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 20-Sep-2025",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2km",
+      "1km"
+    ],
+    "link": "https://bimboglobalrace.ro/",
+    "link_fb": "https://www.facebook.com/BimboGlobalRace/",
+    "id": 510,
     "year": 2025,
     "month": 9,
     "day": 20
@@ -7521,6 +7560,23 @@
     "year": 2025,
     "month": 12,
     "day": 1
+  },
+  {
+    "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Thu 04-Dec-2025",
+    "county": "SM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1290374929773293/",
+    "link_fb": "",
+    "id": 527,
+    "year": 2025,
+    "month": 12,
+    "day": 4
   },
   {
     "name": "AniRUN - Maratonul Moșilor",

@@ -130,6 +130,25 @@
     "day": 17
   },
   {
+    "name": "Bucharest International Half Marathon",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 25-Apr-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "3.5km"
+    ],
+    "link": "https://bucharest.run/en/",
+    "link_fb": "https://www.facebook.com/bucharest.run",
+    "id": 56,
+    "year": 2027,
+    "month": 4,
+    "day": 25
+  },
+  {
     "name": "Maraton 1 Decembrie București",
     "location": "București",
     "location_details": "",
