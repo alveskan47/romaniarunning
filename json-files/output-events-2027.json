@@ -111,6 +111,26 @@
     "day": 10
   },
   {
+    "name": "Băneasa Forest Run - Spring",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 11-Apr-2027",
+    "county": "B",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "6km",
+      "3km"
+    ],
+    "link": "https://baneasaforestrun.ro/",
+    "link_fb": "https://www.facebook.com/BaneasaForestRun/",
+    "id": 49,
+    "year": 2027,
+    "month": 4,
+    "day": 11
+  },
+  {
     "name": "La Petrovaselo in vie",
     "location": "Recas",
     "location_details": "Petrovaselo",

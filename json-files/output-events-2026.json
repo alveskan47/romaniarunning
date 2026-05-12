@@ -1593,6 +1593,23 @@
     "day": 8
   },
   {
+    "name": "Crosul Primaverii - Izvoarele",
+    "location": "Izvoarele (OT)",
+    "location_details": "",
+    "display_date": "Fri 08-May-2026",
+    "county": "OT",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1278739291128845",
+    "link_fb": "",
+    "id": 532,
+    "year": 2026,
+    "month": 5,
+    "day": 8
+  },
+  {
     "name": "Subcarpați Trail Run",
     "location": "Cocorastii Mislii",
     "location_details": "",
@@ -1685,8 +1702,8 @@
     "day": 9
   },
   {
-    "name": "Baneasa Cross Country",
-    "location": "Bucuresti",
+    "name": "Băneasa Cross Country",
+    "location": "București",
     "location_details": "",
     "display_date": "Sat 09-May-2026",
     "county": "B",
@@ -1843,6 +1860,25 @@
     "year": 2026,
     "month": 5,
     "day": 13
+  },
+  {
+    "name": "Crosul ULBS",
+    "location": "Sibiu",
+    "location_details": "Stadionul Municipal",
+    "display_date": "Fri 15-May-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2.5km",
+      "1.5km"
+    ],
+    "link": "https://events.ulbsibiu.ro/cros/",
+    "link_fb": "https://www.facebook.com/cross.ulbs/",
+    "id": 193,
+    "year": 2026,
+    "month": 5,
+    "day": 15
   },
   {
     "name": "Jidvei Weinland Trails",
@@ -2891,6 +2927,42 @@
     "day": 6
   },
   {
+    "name": "Andurant Sprint Rafael",
+    "location": "Codlea",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "12H race",
+      "10km(400m↑) night",
+      "5km(650m↑)"
+    ],
+    "link": "https://www.fundatiarafael.org/andurant-rafael/",
+    "link_fb": "https://www.facebook.com/FundatiaRafael",
+    "id": 212,
+    "year": 2026,
+    "month": 6,
+    "day": 6
+  },
+  {
+    "name": "Crosul Albertina Rusu",
+    "location": "Ilișești",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1998140291588821",
+    "link_fb": "",
+    "id": 228,
+    "year": 2026,
+    "month": 6,
+    "day": 6
+  },
+  {
     "name": "Cros Alergăm pentru Suflete Albastre",
     "location": "Sulița (BT)",
     "location_details": "Dracşani",
@@ -3605,6 +3677,23 @@
     "day": 28
   },
   {
+    "name": "Beer Mile - Sibiu",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sun 28-Jun-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "1.6km"
+    ],
+    "link": "https://www.facebook.com/events/1466925051129781/",
+    "link_fb": "",
+    "id": 534,
+    "year": 2026,
+    "month": 6,
+    "day": 28
+  },
+  {
     "name": "Transylvania 6 Days",
     "location": "Reghin",
     "location_details": "",
@@ -3887,6 +3976,23 @@
     "link": "https://experiences.mytransylvania.ro/burduf-challenge/",
     "link_fb": "https://www.facebook.com/tara.colibelor",
     "id": 276,
+    "year": 2026,
+    "month": 7,
+    "day": 18
+  },
+  {
+    "name": "Zarnesti Challenge",
+    "location": "Zarnesti",
+    "location_details": "",
+    "display_date": "Sat 18-Jul-2026",
+    "county": "BV",
+    "type": "obstacles",
+    "distances": [
+      "-"
+    ],
+    "link": "https://zarnestichallenge.ro/",
+    "link_fb": "https://www.facebook.com/zarnestichallenge",
+    "id": 533,
     "year": 2026,
     "month": 7,
     "day": 18
@@ -4519,6 +4625,24 @@
     "link": "https://sighisoara10k.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61576868926816",
     "id": 324,
+    "year": 2026,
+    "month": 9,
+    "day": 6
+  },
+  {
+    "name": "Cheile Nerei Bike & Trail Run Race",
+    "location": "Sasca Montana",
+    "location_details": "",
+    "display_date": "Sun 06-Sep-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "24km",
+      "12km"
+    ],
+    "link": "https://www.sascabike.ro/",
+    "link_fb": "https://www.facebook.com/CheileNereiMTB/",
+    "id": 476,
     "year": 2026,
     "month": 9,
     "day": 6
@@ -5327,6 +5451,25 @@
     "day": 3
   },
   {
+    "name": "Vâlcea Forest Run",
+    "location": "Bujoreni",
+    "location_details": "Muzeul Satului Vâlcean",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://fcvl.ro/vfr/",
+    "link_fb": "https://www.facebook.com/valceaforestrun/",
+    "id": 260,
+    "year": 2026,
+    "month": 10,
+    "day": 3
+  },
+  {
     "name": "Harvest Run",
     "location": "Vladimirescu (AR)",
     "location_details": "",
@@ -5577,26 +5720,6 @@
     "day": 17
   },
   {
-    "name": "Zaga Zaga Escape Run",
-    "location": "Garoafa (VN)",
-    "location_details": "Resort Zaga Zaga",
-    "display_date": "Sun 18-Oct-2026",
-    "county": "VN",
-    "type": "trail",
-    "distances": [
-      "21km",
-      "10km",
-      "5km",
-      "2km"
-    ],
-    "link": "https://www.facebook.com/photo.php?fbid=122120458701151596",
-    "link_fb": "",
-    "id": 433,
-    "year": 2026,
-    "month": 10,
-    "day": 18
-  },
-  {
     "name": "AlerGând la pădure",
     "location": "Reșița",
     "location_details": "",
@@ -5669,6 +5792,26 @@
     "link": "https://timisoaracitymarathon.ro/",
     "link_fb": "https://www.facebook.com/TimisoaraCityMarathon/",
     "id": 100,
+    "year": 2026,
+    "month": 10,
+    "day": 25
+  },
+  {
+    "name": "Zaga Zaga Escape Run",
+    "location": "Garoafa (VN)",
+    "location_details": "Resort Zaga Zaga",
+    "display_date": "Sun 25-Oct-2026",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/events/1286122036398612",
+    "link_fb": "",
+    "id": 433,
     "year": 2026,
     "month": 10,
     "day": 25

@@ -2063,6 +2063,23 @@
     "day": 1
   },
   {
+    "name": "Crosul Zilei Olimpice - Miercurea Ciuc",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 01-Jun-2024",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "1.6km"
+    ],
+    "link": "https://www.facebook.com/events/7932067090158640/",
+    "link_fb": "",
+    "id": 251,
+    "year": 2024,
+    "month": 6,
+    "day": 1
+  },
+  {
     "name": "Moonlight Rush",
     "location": "Comuna Dolna, Straseni",
     "location_details": "Republica Moldova",
@@ -4950,6 +4967,24 @@
     "link": "https://marzestirun.ro/",
     "link_fb": "https://www.facebook.com/FacebookMTR/",
     "id": 306,
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  {
+    "name": "CrosISU",
+    "location": "Piatra Neamț",
+    "location_details": "Cozla",
+    "display_date": "Sat 05-Oct-2024",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "5.3km(340m↑)",
+      "1.7m(110m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 310,
     "year": 2024,
     "month": 10,
     "day": 5

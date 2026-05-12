@@ -72,6 +72,26 @@
     "day": 28
   },
   {
+    "name": "Winter Wolf Race",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 28-Jan-2023",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "42km(1350m↑)",
+      "21km(700m↑)",
+      "10km(350m↑)",
+      "5km(150m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 535,
+    "year": 2023,
+    "month": 1,
+    "day": 28
+  },
+  {
     "name": "Rubicon",
     "location": "Chisinau - București",
     "location_details": "Republica Moldova",
@@ -179,6 +199,23 @@
     "day": 18
   },
   {
+    "name": "Parangul Night Challenge",
+    "location": "Petroșani",
+    "location_details": "Statiunea Parang",
+    "display_date": "Sat 18-Feb-2023",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "14.5km(1000m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 536,
+    "year": 2023,
+    "month": 2,
+    "day": 18
+  },
+  {
     "name": "Vladeasa Winter Trail",
     "location": "Săcuieu",
     "location_details": "Rogojel",
@@ -232,6 +269,41 @@
     "day": 25
   },
   {
+    "name": "Hășmaș Winter Trail",
+    "location": "Bălan",
+    "location_details": "",
+    "display_date": "Sat 04-Mar-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "18km(1170m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 537,
+    "year": 2023,
+    "month": 3,
+    "day": 4
+  },
+  {
+    "name": "Scorilo Winter Trail",
+    "location": "Zavoi (CS)",
+    "location_details": "Poiana Marului",
+    "display_date": "Sun 05-Mar-2023",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "8km(320m↑)",
+      "5km(1000m↑)"
+    ],
+    "link": "https://www.scoriloskyrace.ro/",
+    "link_fb": "https://www.facebook.com/PoianaMaruluiCaras",
+    "id": 158,
+    "year": 2023,
+    "month": 3,
+    "day": 5
+  },
+  {
     "name": "Crosul Divelor",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -245,6 +317,23 @@
     "link": "https://runnersclub.ro/crosul-divelor/",
     "link_fb": "https://www.facebook.com/RunnersClubRomania/",
     "id": 102,
+    "year": 2023,
+    "month": 3,
+    "day": 11
+  },
+  {
+    "name": "Transalpina Winter Bike & Run",
+    "location": "Voineasa",
+    "location_details": "Zona statiei teleschi T2",
+    "display_date": "Sat 11-Mar-2023",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "6.5km(275m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 538,
     "year": 2023,
     "month": 3,
     "day": 11
@@ -679,6 +768,24 @@
     "day": 22
   },
   {
+    "name": "Maraton Măcin",
+    "location": "Greci",
+    "location_details": "",
+    "display_date": "Sat 22-Apr-2023",
+    "county": "TL",
+    "type": "trail",
+    "distances": [
+      "42km(1900m↑)",
+      "24km(1000m↑)"
+    ],
+    "link": "https://www.facebook.com/maratonmacin/",
+    "link_fb": "https://www.facebook.com/maratonmacin/",
+    "id": 539,
+    "year": 2023,
+    "month": 4,
+    "day": 22
+  },
+  {
     "name": "Semimaraton Iași",
     "location": "Iași",
     "location_details": "",
@@ -831,6 +938,23 @@
     "day": 29
   },
   {
+    "name": "Rarău Everesting",
+    "location": "Câmpulung Moldovenesc",
+    "location_details": "Rarau Ski Resort",
+    "display_date": "Sat 29-Apr-2023",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "30H (10.6km&890m↑/lap)"
+    ],
+    "link": "https://bucovinaultra.rocks/rarau-everesting/",
+    "link_fb": "",
+    "id": 540,
+    "year": 2023,
+    "month": 4,
+    "day": 29
+  },
+  {
     "name": "Maraton Tarcău",
     "location": "Tarcău",
     "location_details": "Schitu Tarcău",
@@ -977,6 +1101,23 @@
     "link": "https://phm.pitestitriathlon.ro/",
     "link_fb": "https://www.facebook.com/PitestiHalfMarathon/",
     "id": 138,
+    "year": 2023,
+    "month": 5,
+    "day": 7
+  },
+  {
+    "name": "Crosul Alearga Pentru Viata - București",
+    "location": "București",
+    "location_details": "Politehnica",
+    "display_date": "Sun 07-May-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://apv.lsebucuresti.org/",
+    "link_fb": "https://www.facebook.com/AleargaPentruViata",
+    "id": 200,
     "year": 2023,
     "month": 5,
     "day": 7
@@ -1276,6 +1417,24 @@
     "day": 20
   },
   {
+    "name": "Trivale 3 Challenges",
+    "location": "Pitești",
+    "location_details": "Pădurea Trivale",
+    "display_date": "Sat 20-May-2023",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 541,
+    "year": 2023,
+    "month": 5,
+    "day": 20
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",
@@ -1395,6 +1554,23 @@
     "day": 27
   },
   {
+    "name": "Camp Run 6",
+    "location": "București",
+    "location_details": "Parc Drumul Taberei",
+    "display_date": "Sat 27-May-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "8.64km"
+    ],
+    "link": "https://sportincomunitate.ro/camp-run-6-2023/",
+    "link_fb": "",
+    "id": 542,
+    "year": 2023,
+    "month": 5,
+    "day": 27
+  },
+  {
     "name": "Semimaraton Timotion",
     "location": "Timișoara",
     "location_details": "",
@@ -1408,6 +1584,23 @@
     "link": "https://timotion.ro/",
     "link_fb": "https://www.facebook.com/timotiontm",
     "id": 61,
+    "year": 2023,
+    "month": 5,
+    "day": 28
+  },
+  {
+    "name": "Hope Run",
+    "location": "București",
+    "location_details": "Parc Herastrau",
+    "display_date": "Sun 28-May-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.hoperun.ro/",
+    "link_fb": "",
+    "id": 543,
     "year": 2023,
     "month": 5,
     "day": 28
@@ -1481,6 +1674,24 @@
     "link": "https://www.geoparkmehedintiadventure.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
     "id": 244,
+    "year": 2023,
+    "month": 6,
+    "day": 3
+  },
+  {
+    "name": "Aiud Maraton",
+    "location": "Aiud",
+    "location_details": "",
+    "display_date": "Sat 03-Jun-2023",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "45km",
+      "22km"
+    ],
+    "link": "https://www.facebook.com/AiudMaraton/",
+    "link_fb": "https://www.facebook.com/AiudMaraton/",
+    "id": 544,
     "year": 2023,
     "month": 6,
     "day": 3
@@ -1876,6 +2087,23 @@
     "day": 24
   },
   {
+    "name": "Crosul Zilei Olimpice - Miercurea Ciuc",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 24-Jun-2023",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "1.6km"
+    ],
+    "link": "https://www.facebook.com/events/268049025820382/",
+    "link_fb": "",
+    "id": 251,
+    "year": 2023,
+    "month": 6,
+    "day": 24
+  },
+  {
     "name": "Crosul Agnitei",
     "location": "Agnita",
     "location_details": "",
@@ -1889,6 +2117,42 @@
     "link": "https://crosagnita.ro/",
     "link_fb": "",
     "id": 259,
+    "year": 2023,
+    "month": 6,
+    "day": 24
+  },
+  {
+    "name": "Cros Sarmizegetusa - 100",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 24-Jun-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 545,
+    "year": 2023,
+    "month": 6,
+    "day": 24
+  },
+  {
+    "name": "Runsilvania Wild Race",
+    "location": "Rachitele",
+    "location_details": "Dealul Rasinarilor",
+    "display_date": "Sat 24-Jun-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "45km(2500m↑)",
+      "28km(1800m↑)",
+      "11km(500m↑)"
+    ],
+    "link": "https://www.facebook.com/people/Runsilvania-WILD-RACE/100063698587212/",
+    "link_fb": "https://www.facebook.com/people/Runsilvania-WILD-RACE/100063698587212/",
+    "id": 546,
     "year": 2023,
     "month": 6,
     "day": 24
@@ -2516,6 +2780,26 @@
     "day": 6
   },
   {
+    "name": "Retezat Mountain Run",
+    "location": "Râu de Mori",
+    "location_details": "",
+    "display_date": "Sat 12-Aug-2023",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "39.7km(3340m↑)",
+      "24.9km(1960m↑)",
+      "12.8km(1260m↑)",
+      "8.6km(540m↑)"
+    ],
+    "link": "https://retezat-maraton-rausor.ro/",
+    "link_fb": "https://www.facebook.com/retezatmountainrunRausor",
+    "id": 87,
+    "year": 2023,
+    "month": 8,
+    "day": 12
+  },
+  {
     "name": "Alerg in Dumbrava",
     "location": "Glogoveanu",
     "location_details": "",
@@ -2605,6 +2889,40 @@
     "year": 2023,
     "month": 8,
     "day": 19
+  },
+  {
+    "name": "Hercinic XC",
+    "location": "Niculitel",
+    "location_details": "",
+    "display_date": "Sat 19-Aug-2023",
+    "county": "TL",
+    "type": "trail",
+    "distances": [
+      "14km(600m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 547,
+    "year": 2023,
+    "month": 8,
+    "day": 19
+  },
+  {
+    "name": "Haita Sky Trail",
+    "location": "Șaru Dornei",
+    "location_details": "Gura Haitii",
+    "display_date": "Sun 20-Aug-2023",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://haitachallenge.ro/",
+    "link_fb": "https://www.facebook.com/HaitaChallenge",
+    "id": 548,
+    "year": 2023,
+    "month": 8,
+    "day": 20
   },
   {
     "name": "Semimaratonul Craiovei",
@@ -2855,6 +3173,23 @@
     "day": 2
   },
   {
+    "name": "Crosul Impreuna Pentru Comunitate - Botoșani",
+    "location": "Botoșani",
+    "location_details": "",
+    "display_date": "Sat 02-Sep-2023",
+    "county": "BT",
+    "type": "road",
+    "distances": [
+      "2.1km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 549,
+    "year": 2023,
+    "month": 9,
+    "day": 2
+  },
+  {
     "name": "Run To The Hills",
     "location": "Crasna (SJ)",
     "location_details": "",
@@ -3080,6 +3415,23 @@
     "day": 10
   },
   {
+    "name": "Crosul Pompierilor - Târgu Mureș",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "display_date": "Sun 10-Sep-2023",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 550,
+    "year": 2023,
+    "month": 9,
+    "day": 10
+  },
+  {
     "name": "Omu Marathon",
     "location": "Bran",
     "location_details": "Castelul Bran",
@@ -3209,6 +3561,42 @@
     "link": "https://www.facebook.com/events/633159668661087/",
     "link_fb": "",
     "id": 405,
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "Maratonul Cetatii Suceava",
+    "location": "Suceava",
+    "location_details": "",
+    "display_date": "Sat 16-Sep-2023",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "44km(1069m↑)",
+      "22km(400m↑)",
+      "14km(250m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 551,
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  {
+    "name": "Crosul Loteriei Romane - Timișoara",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 16-Sep-2023",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "4.5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 552,
     "year": 2023,
     "month": 9,
     "day": 16
@@ -3348,6 +3736,24 @@
     "day": 23
   },
   {
+    "name": "CrosISU",
+    "location": "Piatra Neamț",
+    "location_details": "Cozla",
+    "display_date": "Sat 23-Sep-2023",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "5.3km(340m↑)",
+      "1.7m(110m↑)"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 310,
+    "year": 2023,
+    "month": 9,
+    "day": 23
+  },
+  {
     "name": "Crosul #BeActive",
     "location": "București",
     "location_details": "",
@@ -3377,6 +3783,42 @@
     "link": "https://www.brasovmarathon.ro/",
     "link_fb": "https://www.facebook.com/brasovmarathon/",
     "id": 379,
+    "year": 2023,
+    "month": 9,
+    "day": 23
+  },
+  {
+    "name": "Apuseni Ultra Race",
+    "location": "Mărișel",
+    "location_details": "Mărișel Ski Resort",
+    "display_date": "Sat 23-Sep-2023",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "180km(6590m↑)",
+      "100km(3080m↑)",
+      "50km(1800m↑)"
+    ],
+    "link": "https://www.facebook.com/ApuseniUltraRace/",
+    "link_fb": "https://www.facebook.com/ApuseniUltraRace/",
+    "id": 553,
+    "year": 2023,
+    "month": 9,
+    "day": 23
+  },
+  {
+    "name": "History Run",
+    "location": "Deva",
+    "location_details": "",
+    "display_date": "Sat 23-Sep-2023",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "28km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 554,
     "year": 2023,
     "month": 9,
     "day": 23
@@ -3490,6 +3932,23 @@
     "year": 2023,
     "month": 9,
     "day": 24
+  },
+  {
+    "name": "Crosul Ilfovului",
+    "location": "Snagov",
+    "location_details": "",
+    "display_date": "Tue 26-Sep-2023",
+    "county": "IF",
+    "type": "road",
+    "distances": [
+      "5.5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 339,
+    "year": 2023,
+    "month": 9,
+    "day": 26
   },
   {
     "name": "Rombat Trail Run",
@@ -3668,6 +4127,44 @@
     "link": "https://semimaratonbacau.ro/",
     "link_fb": "https://www.facebook.com/p/Semimaraton-BACAU-100069902388550/",
     "id": 514,
+    "year": 2023,
+    "month": 9,
+    "day": 30
+  },
+  {
+    "name": "Ultra Trail Sibiu",
+    "location": "Cisnadioara",
+    "location_details": "",
+    "display_date": "Sat 30-Sep-2023",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "120km(6000m↑)",
+      "40km(2200m↑)"
+    ],
+    "link": "https://www.facebook.com/p/ULTRA-TRAIL-SIBIU-100092491883793/",
+    "link_fb": "https://www.facebook.com/p/ULTRA-TRAIL-SIBIU-100092491883793/",
+    "id": 555,
+    "year": 2023,
+    "month": 9,
+    "day": 30
+  },
+  {
+    "name": "Iezer Papusa Trail Race",
+    "location": "Leresti",
+    "location_details": "Cabana Voina",
+    "display_date": "Sat 30-Sep-2023",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "44km(3000m↑)",
+      "24km(1600m↑)",
+      "10km(850m↑)",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/Tourmount.ro/",
+    "link_fb": "https://www.facebook.com/Tourmount.ro/",
+    "id": 556,
     "year": 2023,
     "month": 9,
     "day": 30
