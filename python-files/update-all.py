@@ -96,7 +96,31 @@ def main():
     print("COMPETITION DATA UPDATE PROCESS")
     print("=" * 70)
 
-    # Step 1: Test and validate JSON input
+    # Step 1: Fix Romanian diacritics
+    success = run_script(
+        "fix_romanian_diacritics.py",
+        "Fixing Romanian diacritics in input and coordinates files"
+    )
+
+    if not success:
+        print("\n" + "=" * 70)
+        print("✗ UPDATE FAILED: Could not fix diacritics")
+        print("=" * 70)
+        sys.exit(1)
+
+    # Step 2: Sync coordinates
+    success = run_script(
+        "update-coordinates.py",
+        "Syncing locations and back-filling coordinates"
+    )
+
+    if not success:
+        print("\n" + "=" * 70)
+        print("✗ UPDATE FAILED: Could not sync coordinates")
+        print("=" * 70)
+        sys.exit(1)
+
+    # Step 3: Test and validate JSON input
     success = run_script(
         "test_json_input_file.py",
         "Testing and validating JSON input data"
@@ -108,7 +132,7 @@ def main():
         print("=" * 70)
         sys.exit(1)
 
-    # Step 2: Create competition tables
+    # Step 4: Create competition tables
     success = run_script(
         "create-competitions-tables.py",
         "Creating competition tables by year"
@@ -120,7 +144,7 @@ def main():
         print("=" * 70)
         sys.exit(1)
 
-    # Step 3: Create all competitions list
+    # Step 5: Create all competitions list
     success = run_script(
         "create-all-competitions-list.py",
         "Creating alphabetically sorted list of all competitions"
@@ -132,7 +156,7 @@ def main():
         print("=" * 70)
         sys.exit(1)
 
-    # Step 4: Update statistics
+    # Step 6: Update statistics
     success = run_script(
         "update-statistics.py",
         "Updating competition statistics"

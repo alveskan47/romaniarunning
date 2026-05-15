@@ -9,6 +9,10 @@
       "page_link": "calendar.html"
     },
     {
+      "page_name": "Map",
+      "page_link": "map.html"
+    },
+    {
       "page_name": "Statistics",
       "page_link": "statistics.html"
     },

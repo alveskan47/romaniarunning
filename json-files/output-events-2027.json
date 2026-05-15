@@ -15,7 +15,9 @@
     "id": 31,
     "year": 2027,
     "month": 1,
-    "day": 30
+    "day": 30,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Team Up & Run",
@@ -32,7 +34,9 @@
     "id": 101,
     "year": 2027,
     "month": 2,
-    "day": 27
+    "day": 27,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Uphill Running Championship (URC) - Bencec Rolling Hills",
@@ -89,7 +93,9 @@
     "id": 8,
     "year": 2027,
     "month": 3,
-    "day": 21
+    "day": 21,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Maratonul Argonautilor",
@@ -128,11 +134,13 @@
     "id": 49,
     "year": 2027,
     "month": 4,
-    "day": 11
+    "day": 11,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "La Petrovaselo in vie",
-    "location": "Recas",
+    "location": "Recaș",
     "location_details": "Petrovaselo",
     "display_date": "Sat 17-Apr-2027",
     "county": "TM",
@@ -166,7 +174,9 @@
     "id": 56,
     "year": 2027,
     "month": 4,
-    "day": 25
+    "day": 25,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Maraton 1 Decembrie București",
@@ -185,7 +195,9 @@
     "id": 9,
     "year": 2027,
     "month": 12,
-    "day": 1
+    "day": 1,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Cluj EcoTrail Ultramarathon",
@@ -205,6 +217,8 @@
     "id": 10,
     "year": 2027,
     "month": 12,
-    "day": 1
+    "day": 1,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
   }
 ]

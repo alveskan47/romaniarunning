@@ -50,7 +50,9 @@
     "id": 31,
     "year": 2024,
     "month": 1,
-    "day": 27
+    "day": 27,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Făget Winter Trail",
@@ -68,7 +70,9 @@
     "id": 29,
     "year": 2024,
     "month": 2,
-    "day": 3
+    "day": 3,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "SKV Night Run",
@@ -142,7 +146,9 @@
     "id": 30,
     "year": 2024,
     "month": 2,
-    "day": 10
+    "day": 10,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
   },
   {
     "name": "SKV Vertical Race - Winter",
@@ -266,7 +272,9 @@
     "id": 101,
     "year": 2024,
     "month": 3,
-    "day": 2
+    "day": 2,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "GRR Martisor",
@@ -305,7 +313,7 @@
   },
   {
     "name": "Scorilo Winter Trail",
-    "location": "Zavoi (CS)",
+    "location": "Zăvoi (CS)",
     "location_details": "Poiana Marului",
     "display_date": "Sun 03-Mar-2024",
     "county": "CS",
@@ -371,7 +379,9 @@
     "id": 102,
     "year": 2024,
     "month": 3,
-    "day": 16
+    "day": 16,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Crosul Pentru Viață - București",
@@ -389,7 +399,9 @@
     "id": 173,
     "year": 2024,
     "month": 3,
-    "day": 16
+    "day": 16,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "SportGuru Timișoara 21k",
@@ -408,11 +420,13 @@
     "id": 8,
     "year": 2024,
     "month": 3,
-    "day": 17
+    "day": 17,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Rubicon",
-    "location": "Chisinau - București",
+    "location": "Chișinău - București",
     "location_details": "Republica Moldova",
     "display_date": "Fri 22-Mar-2024",
     "county": "MDA*",
@@ -498,7 +512,9 @@
     "id": 3,
     "year": 2024,
     "month": 4,
-    "day": 6
+    "day": 6,
+    "lat": 45.63603756572883,
+    "lon": 25.580358932803648
   },
   {
     "name": "Crosul USAMV",
@@ -517,7 +533,9 @@
     "id": 26,
     "year": 2024,
     "month": 4,
-    "day": 6
+    "day": 6,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Crosul Studentesc Corneliu Andrei Stroe",
@@ -570,7 +588,9 @@
     "id": 436,
     "year": 2024,
     "month": 4,
-    "day": 6
+    "day": 6,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Crosul Primaverii - Baia Mare",
@@ -607,7 +627,9 @@
     "id": 438,
     "year": 2024,
     "month": 4,
-    "day": 7
+    "day": 7,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Runway Run",
@@ -661,7 +683,9 @@
     "id": 41,
     "year": 2024,
     "month": 4,
-    "day": 13
+    "day": 13,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Maratonul Argonautilor",
@@ -683,8 +707,8 @@
     "day": 13
   },
   {
-    "name": "Cross - Noi iubim Sacalaz",
-    "location": "Sacalaz",
+    "name": "Cross - Noi iubim Săcălaz",
+    "location": "Săcălaz",
     "location_details": "",
     "display_date": "Sat 13-Apr-2024",
     "county": "TM",
@@ -718,7 +742,9 @@
     "id": 2,
     "year": 2024,
     "month": 4,
-    "day": 14
+    "day": 14,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Băneasa Forest Run - Spring",
@@ -738,7 +764,9 @@
     "id": 49,
     "year": 2024,
     "month": 4,
-    "day": 14
+    "day": 14,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Crosul Cleja tine pasul",
@@ -759,8 +787,8 @@
     "day": 14
   },
   {
-    "name": "Eco Run Harman",
-    "location": "Harman",
+    "name": "Eco Run Hărman",
+    "location": "Hărman",
     "location_details": "",
     "display_date": "Tue 16-Apr-2024",
     "county": "BV",
@@ -810,7 +838,9 @@
     "id": 109,
     "year": 2024,
     "month": 4,
-    "day": 20
+    "day": 20,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Ultramaraton Galați 24",
@@ -886,7 +916,9 @@
     "id": 4,
     "year": 2024,
     "month": 4,
-    "day": 21
+    "day": 21,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "Bucharest International Half Marathon",
@@ -905,7 +937,9 @@
     "id": 56,
     "year": 2024,
     "month": 4,
-    "day": 21
+    "day": 21,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Lunca Timișului Trophy",
@@ -1020,7 +1054,9 @@
     "id": 189,
     "year": 2024,
     "month": 4,
-    "day": 27
+    "day": 27,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Feleacu Running Hills",
@@ -1118,7 +1154,7 @@
     "location": "Tulcea",
     "location_details": "",
     "display_date": "Sun 28-Apr-2024",
-    "county": "AG",
+    "county": "TL",
     "type": "road",
     "distances": [
       "10km",
@@ -1182,7 +1218,9 @@
     "id": 147,
     "year": 2024,
     "month": 5,
-    "day": 10
+    "day": 10,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Maraton Tarcău",
@@ -1204,7 +1242,7 @@
   },
   {
     "name": "Subcarpați Trail Run",
-    "location": "Cocorastii Mislii",
+    "location": "Cocorăștii Mislii",
     "location_details": "",
     "display_date": "Sat 11-May-2024",
     "county": "PH",
@@ -1225,7 +1263,7 @@
   },
   {
     "name": "Thermal Trail Race",
-    "location": "Baile 1 Mai",
+    "location": "Băile 1 Mai",
     "location_details": "",
     "display_date": "Sat 11-May-2024",
     "county": "BH",
@@ -1242,8 +1280,8 @@
     "day": 11
   },
   {
-    "name": "Tusnad Marathon",
-    "location": "Baile Tusnad",
+    "name": "Tușnad Marathon",
+    "location": "Băile Tușnad",
     "location_details": "",
     "display_date": "Sat 11-May-2024",
     "county": "HR",
@@ -1311,7 +1349,9 @@
     "id": 1,
     "year": 2024,
     "month": 5,
-    "day": 12
+    "day": 12,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
   },
   {
     "name": "Mureș Half Marathon",
@@ -1347,7 +1387,9 @@
     "id": 61,
     "year": 2024,
     "month": 5,
-    "day": 12
+    "day": 12,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Crosul Alearga Pentru Viata - București",
@@ -1364,7 +1406,9 @@
     "id": 200,
     "year": 2024,
     "month": 5,
-    "day": 12
+    "day": 12,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Crosul O zi cu tata - Arad",
@@ -1404,7 +1448,7 @@
   },
   {
     "name": "Tour de Tur",
-    "location": "Orasu Nou",
+    "location": "Orașu Nou",
     "location_details": "",
     "display_date": "Sat 18-May-2024",
     "county": "SM",
@@ -1435,7 +1479,9 @@
     "id": 110,
     "year": 2024,
     "month": 5,
-    "day": 18
+    "day": 18,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "EcoRun Moieciu",
@@ -1580,7 +1626,9 @@
     "id": 449,
     "year": 2024,
     "month": 5,
-    "day": 19
+    "day": 19,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "Slatina City Run",
@@ -1617,11 +1665,13 @@
     "id": 467,
     "year": 2024,
     "month": 5,
-    "day": 19
+    "day": 19,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "La Petrovaselo in vie",
-    "location": "Recas",
+    "location": "Recaș",
     "location_details": "Petrovaselo",
     "display_date": "Sat 25-May-2024",
     "county": "TM",
@@ -1714,7 +1764,9 @@
     "id": 111,
     "year": 2024,
     "month": 5,
-    "day": 25
+    "day": 25,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Semimaraton Fetești",
@@ -1809,7 +1861,7 @@
   },
   {
     "name": "King's Cross",
-    "location": "Petris",
+    "location": "Petriș",
     "location_details": "",
     "display_date": "Sun 26-May-2024",
     "county": "AR",
@@ -1884,7 +1936,9 @@
     "id": 46,
     "year": 2024,
     "month": 6,
-    "day": 1
+    "day": 1,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "Brașov Marathon",
@@ -2012,8 +2066,8 @@
     "day": 1
   },
   {
-    "name": "Crosul Copiilor - Venetia de Jos",
-    "location": "Venetia de Jos",
+    "name": "Crosul Copiilor - Veneția de Jos",
+    "location": "Veneția de Jos",
     "location_details": "",
     "display_date": "Sat 01-Jun-2024",
     "county": "BV",
@@ -2191,7 +2245,9 @@
     "id": 22,
     "year": 2024,
     "month": 6,
-    "day": 8
+    "day": 8,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "X-RUN Oradea",
@@ -2209,7 +2265,9 @@
     "id": 70,
     "year": 2024,
     "month": 6,
-    "day": 8
+    "day": 8,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
   },
   {
     "name": "Atinge Omu",
@@ -2243,11 +2301,13 @@
     "id": 256,
     "year": 2024,
     "month": 6,
-    "day": 8
+    "day": 8,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Xrace - Siriu",
-    "location": "Baile Siriu",
+    "location": "Băile Siriu",
     "location_details": "",
     "display_date": "Sat 08-Jun-2024",
     "county": "BZ",
@@ -2265,8 +2325,8 @@
     "day": 8
   },
   {
-    "name": "Baile Harghita - Harghita Madaras",
-    "location": "Baile Harghita",
+    "name": "Băile Harghita - Harghita Mădăraș",
+    "location": "Băile Harghita",
     "location_details": "",
     "display_date": "Sat 08-Jun-2024",
     "county": "HR",
@@ -2302,7 +2362,7 @@
   },
   {
     "name": "Cheile Nerei Bike & Trail Run Race",
-    "location": "Sasca Montana",
+    "location": "Sasca Montană",
     "location_details": "",
     "display_date": "Sun 09-Jun-2024",
     "county": "CS",
@@ -2411,7 +2471,9 @@
     "id": 112,
     "year": 2024,
     "month": 6,
-    "day": 15
+    "day": 15,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "Retezat SkyRace",
@@ -2465,7 +2527,9 @@
     "id": 477,
     "year": 2024,
     "month": 6,
-    "day": 15
+    "day": 15,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Boboc Air Base Run",
@@ -2500,7 +2564,9 @@
     "id": 79,
     "year": 2024,
     "month": 6,
-    "day": 16
+    "day": 16,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Maratonul Târnavei",
@@ -2597,7 +2663,7 @@
   },
   {
     "name": "Geopark Mehedinți Adventure",
-    "location": "Moisesti",
+    "location": "Moisești",
     "location_details": "",
     "display_date": "Sat 22-Jun-2024",
     "county": "MM",
@@ -2648,7 +2714,9 @@
     "id": 258,
     "year": 2024,
     "month": 6,
-    "day": 22
+    "day": 22,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Crosul Agnitei",
@@ -2685,7 +2753,9 @@
     "id": 481,
     "year": 2024,
     "month": 6,
-    "day": 22
+    "day": 22,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Traian Trail",
@@ -2777,7 +2847,9 @@
     "id": 150,
     "year": 2024,
     "month": 6,
-    "day": 29
+    "day": 29,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Teleki Trail",
@@ -2819,8 +2891,8 @@
     "day": 29
   },
   {
-    "name": "Ultra Zarand History - Soimos",
-    "location": "Soimos",
+    "name": "Ultra Zarand History - Șoimoș",
+    "location": "Șoimoș",
     "location_details": "",
     "display_date": "Sat 29-Jun-2024",
     "county": "AR",
@@ -2851,7 +2923,9 @@
     "id": 488,
     "year": 2024,
     "month": 6,
-    "day": 29
+    "day": 29,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Crosul Orasului Mioveni 1485",
@@ -2908,7 +2982,9 @@
     "id": 7,
     "year": 2024,
     "month": 7,
-    "day": 6
+    "day": 6,
+    "lat": 45.28107793735533,
+    "lon": 24.31261712868622
   },
   {
     "name": "Maraton Legendele Nemirei",
@@ -3064,7 +3140,7 @@
   },
   {
     "name": "Semimaraton Țara de Piatră",
-    "location": "Campeni",
+    "location": "Câmpeni",
     "location_details": "",
     "display_date": "Sun 14-Jul-2024",
     "county": "AB",
@@ -3102,7 +3178,7 @@
   },
   {
     "name": "Buila Trail Race",
-    "location": "Barbatesti",
+    "location": "Bărbătești",
     "location_details": "",
     "display_date": "Sat 20-Jul-2024",
     "county": "VL",
@@ -3121,7 +3197,7 @@
   },
   {
     "name": "Burduf Challenge",
-    "location": "Rau Sadului",
+    "location": "Râu Sadului",
     "location_details": "",
     "display_date": "Sat 20-Jul-2024",
     "county": "SB",
@@ -3139,7 +3215,7 @@
   },
   {
     "name": "Szent Gellert Cross",
-    "location": "Ditrau",
+    "location": "Ditrău",
     "location_details": "",
     "display_date": "Sun 21-Jul-2024",
     "county": "HR",
@@ -3255,7 +3331,7 @@
   },
   {
     "name": "Cindrel In Alergare",
-    "location": "Paltinis",
+    "location": "Păltiniș",
     "location_details": "",
     "display_date": "Sat 27-Jul-2024",
     "county": "SB",
@@ -3274,8 +3350,8 @@
     "day": 27
   },
   {
-    "name": "Casoaia Bike, Run & Fun",
-    "location": "Casoaia",
+    "name": "Căsoaia Bike, Run & Fun",
+    "location": "Căsoaia",
     "location_details": "",
     "display_date": "Sun 28-Jul-2024",
     "county": "AR",
@@ -3364,7 +3440,9 @@
     "id": 126,
     "year": 2024,
     "month": 8,
-    "day": 3
+    "day": 3,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Smida Trail Run",
@@ -3425,7 +3503,7 @@
   },
   {
     "name": "Crosul Siretului",
-    "location": "Rachiteni",
+    "location": "Răchiteni",
     "location_details": "",
     "display_date": "Sat 10-Aug-2024",
     "county": "IS",
@@ -3496,7 +3574,7 @@
   },
   {
     "name": "Castle Run",
-    "location": "Lazarea",
+    "location": "Lăzarea",
     "location_details": "",
     "display_date": "Sun 18-Aug-2024",
     "county": "HR",
@@ -3699,7 +3777,7 @@
   },
   {
     "name": "Jidvei Weinland Trails",
-    "location": "Cetatea de Balta",
+    "location": "Cetatea de Baltă",
     "location_details": "",
     "display_date": "Sat 31-Aug-2024",
     "county": "AB",
@@ -3738,7 +3816,7 @@
   },
   {
     "name": "Scorilo Sky Race",
-    "location": "Zavoi (CS)",
+    "location": "Zăvoi (CS)",
     "location_details": "Poiana Marului",
     "display_date": "Sat 31-Aug-2024",
     "county": "CS",
@@ -3758,7 +3836,7 @@
   },
   {
     "name": "Hargita Trail Race",
-    "location": "Harghita Madaras",
+    "location": "Harghita Mădăraș",
     "location_details": "",
     "display_date": "Sat 31-Aug-2024",
     "county": "HR",
@@ -3795,8 +3873,8 @@
     "day": 1
   },
   {
-    "name": "Vrancea Montana Run",
-    "location": "Paulesti",
+    "name": "Vrancea Montană Run",
+    "location": "Păulești",
     "location_details": "",
     "display_date": "Sun 01-Sep-2024",
     "county": "VN",
@@ -3901,7 +3979,9 @@
     "id": 357,
     "year": 2024,
     "month": 9,
-    "day": 7
+    "day": 7,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
   },
   {
     "name": "Cros pentru Viata - Gherla",
@@ -3976,7 +4056,7 @@
   },
   {
     "name": "DHTT",
-    "location": "Baile Jigodin",
+    "location": "Băile Jigodin",
     "location_details": "",
     "display_date": "Sun 08-Sep-2024",
     "county": "HR",
@@ -4064,11 +4144,13 @@
     "id": 113,
     "year": 2024,
     "month": 9,
-    "day": 14
+    "day": 14,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Pe-un picior de Plai",
-    "location": "Dumbravita",
+    "location": "Dumbrăvița",
     "location_details": "",
     "display_date": "Sat 14-Sep-2024",
     "county": "TM",
@@ -4177,7 +4259,9 @@
     "id": 45,
     "year": 2024,
     "month": 9,
-    "day": 15
+    "day": 15,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Baia Mare Half Marathon",
@@ -4344,7 +4428,9 @@
     "id": 405,
     "year": 2024,
     "month": 9,
-    "day": 21
+    "day": 21,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Ladies Run",
@@ -4361,7 +4447,9 @@
     "id": 496,
     "year": 2024,
     "month": 9,
-    "day": 21
+    "day": 21,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Night Run Sfântu Gheorghe",
@@ -4433,8 +4521,8 @@
     "day": 21
   },
   {
-    "name": "Alergam Ajutam - Chisinau",
-    "location": "Chisinau",
+    "name": "Alergam Ajutam - Chișinău",
+    "location": "Chișinău",
     "location_details": "Republica Moldova",
     "display_date": "Sat 21-Sep-2024",
     "county": "MDA*",
@@ -4470,7 +4558,9 @@
     "id": 6,
     "year": 2024,
     "month": 9,
-    "day": 22
+    "day": 22,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
   },
   {
     "name": "Semimaraton Brăila",
@@ -4508,7 +4598,9 @@
     "id": 95,
     "year": 2024,
     "month": 9,
-    "day": 22
+    "day": 22,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Brașov Running Festival",
@@ -4543,7 +4635,9 @@
     "id": 151,
     "year": 2024,
     "month": 9,
-    "day": 22
+    "day": 22,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Crosul OncoHelp",
@@ -4561,7 +4655,9 @@
     "id": 338,
     "year": 2024,
     "month": 9,
-    "day": 22
+    "day": 22,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Crosul Recuperarii Cluj",
@@ -4578,7 +4674,9 @@
     "id": 500,
     "year": 2024,
     "month": 9,
-    "day": 22
+    "day": 22,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Maraton Piatra Craiului",
@@ -4667,7 +4765,9 @@
     "id": 347,
     "year": 2024,
     "month": 9,
-    "day": 28
+    "day": 28,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Alerg pentru tine Trail Run - Sucevița",
@@ -4709,7 +4809,9 @@
     "id": 98,
     "year": 2024,
     "month": 9,
-    "day": 29
+    "day": 29,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Cros Energie Pentru Toti",
@@ -4727,7 +4829,9 @@
     "id": 501,
     "year": 2024,
     "month": 9,
-    "day": 29
+    "day": 29,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Run4Life",
@@ -4744,7 +4848,9 @@
     "id": 502,
     "year": 2024,
     "month": 9,
-    "day": 29
+    "day": 29,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "Bimbo Global Race Brașov",
@@ -4782,12 +4888,14 @@
     "id": 511,
     "year": 2024,
     "month": 9,
-    "day": 29
+    "day": 29,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Red Mountain Bike & Run",
     "location": "Cheia",
-    "location_details": "Muntele Rosu",
+    "location_details": "Muntele Roșu",
     "display_date": "Sun 29-Sep-2024",
     "county": "PH",
     "type": "trail",
@@ -4913,7 +5021,9 @@
     "id": 152,
     "year": 2024,
     "month": 10,
-    "day": 5
+    "day": 5,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "140 BPM",
@@ -4931,7 +5041,9 @@
     "id": 182,
     "year": 2024,
     "month": 10,
-    "day": 5
+    "day": 5,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Vâlcea Forest Run",
@@ -5026,7 +5138,9 @@
     "id": 342,
     "year": 2024,
     "month": 10,
-    "day": 5
+    "day": 5,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "15k Free Spirit Run Ruse - Giurgiu",
@@ -5121,7 +5235,7 @@
   },
   {
     "name": "Kahana Sprint Endurance",
-    "location": "Izvoru Crisului",
+    "location": "Izvoru Crișului",
     "location_details": "",
     "display_date": "Sat 05-Oct-2024",
     "county": "CJ",
@@ -5207,7 +5321,9 @@
     "id": 366,
     "year": 2024,
     "month": 10,
-    "day": 6
+    "day": 6,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Spirit of Wipro Run - București",
@@ -5224,7 +5340,9 @@
     "id": 516,
     "year": 2024,
     "month": 10,
-    "day": 6
+    "day": 6,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Crosul Inimilor Generoase",
@@ -5282,8 +5400,8 @@
     "day": 12
   },
   {
-    "name": "Turnu Rosu Challenge",
-    "location": "Turnu Rosu",
+    "name": "Turnu Roșu Challenge",
+    "location": "Turnu Roșu",
     "location_details": "",
     "display_date": "Sat 12-Oct-2024",
     "county": "SB",
@@ -5302,7 +5420,7 @@
   },
   {
     "name": "Hercules Maraton",
-    "location": "Baile Herculane",
+    "location": "Băile Herculane",
     "location_details": "",
     "display_date": "Sat 12-Oct-2024",
     "county": "CS",
@@ -5321,7 +5439,7 @@
   },
   {
     "name": "Semimaratonul Mocanitei",
-    "location": "Posmus",
+    "location": "Posmuș",
     "location_details": "Castelul Teleki",
     "display_date": "Sat 12-Oct-2024",
     "county": "BN",
@@ -5339,7 +5457,7 @@
   },
   {
     "name": "Zespezel Challenge",
-    "location": "Salard",
+    "location": "Șălard",
     "location_details": "Lunca Bradului",
     "display_date": "Sat 12-Oct-2024",
     "county": "MS",
@@ -5357,7 +5475,7 @@
   },
   {
     "name": "TulbuRun la Asconi Winery",
-    "location": "Chisinau",
+    "location": "Chișinău",
     "location_details": "Republica Moldova",
     "display_date": "Sat 12-Oct-2024",
     "county": "MDA*",
@@ -5391,7 +5509,9 @@
     "id": 5,
     "year": 2024,
     "month": 10,
-    "day": 13
+    "day": 13,
+    "lat": 44.42758355968682,
+    "lon": 26.09315428669368
   },
   {
     "name": "Semimaraton Curtea Domneasca",
@@ -5466,11 +5586,13 @@
     "id": 153,
     "year": 2024,
     "month": 10,
-    "day": 19
+    "day": 19,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Velocrosul Castanilor",
-    "location": "Floresti Prahova",
+    "location": "Florești Prahova",
     "location_details": "Domeniul Cantacuzino",
     "display_date": "Sat 19-Oct-2024",
     "county": "PH",
@@ -5595,7 +5717,9 @@
     "id": 380,
     "year": 2024,
     "month": 10,
-    "day": 19
+    "day": 19,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
   },
   {
     "name": "1K Run Fast & Fun - Iași",
@@ -5612,7 +5736,9 @@
     "id": 378,
     "year": 2024,
     "month": 10,
-    "day": 20
+    "day": 20,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "Maratonul Montan Rafael",
@@ -5706,7 +5832,9 @@
     "id": 100,
     "year": 2024,
     "month": 10,
-    "day": 27
+    "day": 27,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Halloween on Track",
@@ -5723,7 +5851,9 @@
     "id": 522,
     "year": 2024,
     "month": 10,
-    "day": 31
+    "day": 31,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
   },
   {
     "name": "IstritaXscape",
@@ -5818,11 +5948,13 @@
     "id": 50,
     "year": 2024,
     "month": 11,
-    "day": 3
+    "day": 3,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
-    "name": "Crosul Cetatilor - Savarsin",
-    "location": "Savarsin",
+    "name": "Crosul Cetatilor - Săvârșin",
+    "location": "Săvârșin",
     "location_details": "",
     "display_date": "Sat 09-Nov-2024",
     "county": "AR",
@@ -5887,7 +6019,9 @@
     "id": 394,
     "year": 2024,
     "month": 11,
-    "day": 9
+    "day": 9,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Duatlonul Regal Invictus - Curtea de Argeș",
@@ -5993,7 +6127,9 @@
     "id": 148,
     "year": 2024,
     "month": 11,
-    "day": 15
+    "day": 15,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Ultra-trail de la Cluj-Napoca la Dej",
@@ -6010,7 +6146,9 @@
     "id": 399,
     "year": 2024,
     "month": 11,
-    "day": 15
+    "day": 15,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "24 de ore pentru un zambet",
@@ -6027,7 +6165,9 @@
     "id": 404,
     "year": 2024,
     "month": 11,
-    "day": 15
+    "day": 15,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
   },
   {
     "name": "Crosul 15 Noiembrie 1987",
@@ -6131,7 +6271,9 @@
     "id": 9,
     "year": 2024,
     "month": 12,
-    "day": 1
+    "day": 1,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Cluj EcoTrail Ultramarathon",
@@ -6151,7 +6293,9 @@
     "id": 10,
     "year": 2024,
     "month": 12,
-    "day": 1
+    "day": 1,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
   },
   {
     "name": "Aradul Alearga",
@@ -6310,7 +6454,9 @@
     "id": 528,
     "year": 2024,
     "month": 12,
-    "day": 15
+    "day": 15,
+    "lat": 44.422353127259306,
+    "lon": 26.15484810309138
   },
   {
     "name": "Marea Moșmondeala",
