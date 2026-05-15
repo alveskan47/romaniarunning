@@ -1,0 +1,2970 @@
+[
+  {
+    "county": "-",
+    "location": "-",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "-",
+    "location": "anywhere",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "AB",
+    "location": "Aiud",
+    "location_details": "",
+    "lat": 46.3163,
+    "lon": 23.7217
+  },
+  {
+    "county": "AB",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "lat": 46.069,
+    "lon": 23.5763
+  },
+  {
+    "county": "AB",
+    "location": "Baia de Arieș",
+    "location_details": "",
+    "lat": 46.35,
+    "lon": 23.1167
+  },
+  {
+    "county": "AB",
+    "location": "Blaj",
+    "location_details": "",
+    "lat": 46.175,
+    "lon": 23.9167
+  },
+  {
+    "county": "AB",
+    "location": "Cetatea de Baltă",
+    "location_details": "",
+    "lat": 46.2167,
+    "lon": 24.0833
+  },
+  {
+    "county": "AB",
+    "location": "Cugir",
+    "location_details": "",
+    "lat": 45.8333,
+    "lon": 23.3667
+  },
+  {
+    "county": "AB",
+    "location": "Câmpeni",
+    "location_details": "",
+    "lat": 46.3667,
+    "lon": 23.05
+  },
+  {
+    "county": "AB",
+    "location": "Poșaga de Sus",
+    "location_details": "",
+    "lat": 46.3833,
+    "lon": 23.3833
+  },
+  {
+    "county": "AB",
+    "location": "Poșaga de Sus",
+    "location_details": "Rezervația Scărița – Belioara",
+    "lat": 46.4,
+    "lon": 23.3833
+  },
+  {
+    "county": "AB",
+    "location": "Rimetea",
+    "location_details": "",
+    "lat": 46.4333,
+    "lon": 23.6167
+  },
+  {
+    "county": "AB",
+    "location": "Roșia Montană",
+    "location_details": "",
+    "lat": 46.3167,
+    "lon": 23.1167
+  },
+  {
+    "county": "AB",
+    "location": "Sebeș",
+    "location_details": "",
+    "lat": 45.9582,
+    "lon": 23.5681
+  },
+  {
+    "county": "AB",
+    "location": "Teiuș",
+    "location_details": "",
+    "lat": 46.2,
+    "lon": 23.6833
+  },
+  {
+    "county": "AB",
+    "location": "Zlatna",
+    "location_details": "",
+    "lat": 46.1167,
+    "lon": 23.2167
+  },
+  {
+    "county": "AB",
+    "location": "Șugag",
+    "location_details": "",
+    "lat": 45.75,
+    "lon": 23.55
+  },
+  {
+    "county": "AG",
+    "location": "Arefu",
+    "location_details": "",
+    "lat": 45.3667,
+    "lon": 24.6333
+  },
+  {
+    "county": "AG",
+    "location": "Arefu",
+    "location_details": "Cabana Capra",
+    "lat": 45.3667,
+    "lon": 24.6167
+  },
+  {
+    "county": "AG",
+    "location": "Arefu",
+    "location_details": "Cetatea Poenari",
+    "lat": 45.3833,
+    "lon": 24.6167
+  },
+  {
+    "county": "AG",
+    "location": "Budeasa",
+    "location_details": "",
+    "lat": 44.9833,
+    "lon": 24.8333
+  },
+  {
+    "county": "AG",
+    "location": "Budeasa",
+    "location_details": "Budeasa Baraj",
+    "lat": 44.9833,
+    "lon": 24.8333
+  },
+  {
+    "county": "AG",
+    "location": "Curtea de Argeș",
+    "location_details": "",
+    "lat": 45.1394,
+    "lon": 24.6781
+  },
+  {
+    "county": "AG",
+    "location": "Lerești",
+    "location_details": "",
+    "lat": 45.2833,
+    "lon": 25.1833
+  },
+  {
+    "county": "AG",
+    "location": "Lerești",
+    "location_details": "Cabana Voina",
+    "lat": 45.35,
+    "lon": 25.15
+  },
+  {
+    "county": "AG",
+    "location": "Mioveni",
+    "location_details": "",
+    "lat": 44.9667,
+    "lon": 24.95
+  },
+  {
+    "county": "AG",
+    "location": "Pitești",
+    "location_details": "",
+    "lat": 44.8604,
+    "lon": 24.8703
+  },
+  {
+    "county": "AG",
+    "location": "Pitești",
+    "location_details": "Lunca Argeșului",
+    "lat": 44.8583,
+    "lon": 24.8633
+  },
+  {
+    "county": "AG",
+    "location": "Pitești",
+    "location_details": "Parcul Lunca Argeșului",
+    "lat": 44.8583,
+    "lon": 24.8633
+  },
+  {
+    "county": "AG",
+    "location": "Pitești",
+    "location_details": "Parcul Trivale",
+    "lat": 44.88,
+    "lon": 24.86
+  },
+  {
+    "county": "AG",
+    "location": "Pitești",
+    "location_details": "Pădurea Trivale",
+    "lat": 44.88,
+    "lon": 24.86
+  },
+  {
+    "county": "AG",
+    "location": "Poienarii de Argeș",
+    "location_details": "",
+    "lat": 45.4,
+    "lon": 24.5833
+  },
+  {
+    "county": "AR",
+    "location": "Arad",
+    "location_details": "",
+    "lat": 46.1866,
+    "lon": 21.3123
+  },
+  {
+    "county": "AR",
+    "location": "Arad",
+    "location_details": "Parcul Eminescu",
+    "lat": 46.1833,
+    "lon": 21.3167
+  },
+  {
+    "county": "AR",
+    "location": "Arad",
+    "location_details": "Pădurea Ceala",
+    "lat": 46.1667,
+    "lon": 21.25
+  },
+  {
+    "county": "AR",
+    "location": "Arad",
+    "location_details": "Stadionul Gloria",
+    "lat": 46.1833,
+    "lon": 21.3167
+  },
+  {
+    "county": "AR",
+    "location": "Căsoaia",
+    "location_details": "",
+    "lat": 46.2833,
+    "lon": 21.75
+  },
+  {
+    "county": "AR",
+    "location": "Ghioroc",
+    "location_details": "",
+    "lat": 46.1667,
+    "lon": 21.5
+  },
+  {
+    "county": "AR",
+    "location": "Ineu",
+    "location_details": "",
+    "lat": 46.4333,
+    "lon": 21.85
+  },
+  {
+    "county": "AR",
+    "location": "Moneasa",
+    "location_details": "",
+    "lat": 46.5167,
+    "lon": 22.2
+  },
+  {
+    "county": "AR",
+    "location": "Petriș",
+    "location_details": "",
+    "lat": 46.1833,
+    "lon": 22.0167
+  },
+  {
+    "county": "AR",
+    "location": "Păuliș",
+    "location_details": "",
+    "lat": 46.15,
+    "lon": 21.5667
+  },
+  {
+    "county": "AR",
+    "location": "Săvârșin",
+    "location_details": "",
+    "lat": 46.05,
+    "lon": 21.9833
+  },
+  {
+    "county": "AR",
+    "location": "Vladimirescu (AR)",
+    "location_details": "",
+    "lat": 46.1833,
+    "lon": 21.4
+  },
+  {
+    "county": "AR",
+    "location": "Șiria",
+    "location_details": "",
+    "lat": 46.2667,
+    "lon": 21.6333
+  },
+  {
+    "county": "AR",
+    "location": "Șoimoș",
+    "location_details": "",
+    "lat": 46.1333,
+    "lon": 21.55
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "",
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": " Parcul Titan",
+    "lat": 44.413,
+    "lon": 26.155
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Arena Nationala",
+    "lat": 44.4389,
+    "lon": 26.1228
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Biblioteca Națională a României",
+    "lat": 44.4284,
+    "lon": 26.0965
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parc Drumul Taberei",
+    "lat": 44.4333,
+    "lon": 26.0333
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parc Herastrau",
+    "lat": 44.4694,
+    "lon": 26.0842
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parcul Alexandru Ioan Cuza (IOR)",
+    "lat": 44.4138,
+    "lon": 26.1569
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parcul IOR",
+    "lat": 44.4138,
+    "lon": 26.1569
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parcul Lumea Copiilor",
+    "lat": 44.4244,
+    "lon": 26.175
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parcul Vacarești",
+    "lat": 44.3972,
+    "lon": 26.1347
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Politehnica",
+    "lat": 44.4369,
+    "lon": 26.0475
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "lat": 44.5083,
+    "lon": 26.0833
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Sky Tower",
+    "lat": 44.4636,
+    "lon": 26.0814
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Stadionul Arcul de Triumf",
+    "lat": 44.4614,
+    "lon": 26.0725
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Stadionul Iolanda Balas",
+    "lat": 44.4436,
+    "lon": 26.1256
+  },
+  {
+    "county": "BC",
+    "location": "Bacău",
+    "location_details": "",
+    "lat": 46.567,
+    "lon": 26.9146
+  },
+  {
+    "county": "BC",
+    "location": "Cleja",
+    "location_details": "",
+    "lat": 46.5667,
+    "lon": 26.8333
+  },
+  {
+    "county": "BC",
+    "location": "Luizi Călugara",
+    "location_details": "",
+    "lat": 46.55,
+    "lon": 26.8
+  },
+  {
+    "county": "BC",
+    "location": "Slănic Moldova",
+    "location_details": "",
+    "lat": 46.2333,
+    "lon": 26.4167
+  },
+  {
+    "county": "BC",
+    "location": "Traian (BC)",
+    "location_details": "",
+    "lat": 46.6167,
+    "lon": 27.05
+  },
+  {
+    "county": "BC",
+    "location": "Târgu Ocna",
+    "location_details": "",
+    "lat": 46.2833,
+    "lon": 26.6167
+  },
+  {
+    "county": "BH",
+    "location": "Beiuș",
+    "location_details": "",
+    "lat": 46.6667,
+    "lon": 22.35
+  },
+  {
+    "county": "BH",
+    "location": "Budureasa",
+    "location_details": "",
+    "lat": 46.75,
+    "lon": 22.3833
+  },
+  {
+    "county": "BH",
+    "location": "Băile 1 Mai",
+    "location_details": "",
+    "lat": 47.0167,
+    "lon": 21.8833
+  },
+  {
+    "county": "BH",
+    "location": "Băile Felix",
+    "location_details": "",
+    "lat": 47.0333,
+    "lon": 21.9
+  },
+  {
+    "county": "BH",
+    "location": "Marghita",
+    "location_details": "",
+    "lat": 47.3333,
+    "lon": 22.3333
+  },
+  {
+    "county": "BH",
+    "location": "Oradea",
+    "location_details": "",
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
+  },
+  {
+    "county": "BH",
+    "location": "Oradea",
+    "location_details": "Parcul Cetatii Oradea",
+    "lat": 47.0622,
+    "lon": 21.9339
+  },
+  {
+    "county": "BH",
+    "location": "Oradea",
+    "location_details": "Parcul Salca",
+    "lat": 47.05,
+    "lon": 21.9333
+  },
+  {
+    "county": "BH",
+    "location": "Stâna de Vale",
+    "location_details": "",
+    "lat": 46.7833,
+    "lon": 22.6167
+  },
+  {
+    "county": "BH",
+    "location": "Săldăbagiu de Munte",
+    "location_details": "",
+    "lat": 46.8167,
+    "lon": 22.3667
+  },
+  {
+    "county": "BH",
+    "location": "Tinca",
+    "location_details": "",
+    "lat": 46.7667,
+    "lon": 22.0
+  },
+  {
+    "county": "BH",
+    "location": "Șuncuiuș",
+    "location_details": "",
+    "lat": 46.8833,
+    "lon": 22.55
+  },
+  {
+    "county": "BN",
+    "location": "Anieș",
+    "location_details": "",
+    "lat": 47.3667,
+    "lon": 24.65
+  },
+  {
+    "county": "BN",
+    "location": "Bistrița",
+    "location_details": "",
+    "lat": 47.1333,
+    "lon": 24.5
+  },
+  {
+    "county": "BN",
+    "location": "Bistrița",
+    "location_details": "Pădurea Schullerwald",
+    "lat": 47.1333,
+    "lon": 24.5
+  },
+  {
+    "county": "BN",
+    "location": "Monor",
+    "location_details": "",
+    "lat": 47.0333,
+    "lon": 24.5167
+  },
+  {
+    "county": "BN",
+    "location": "Năsăud",
+    "location_details": "",
+    "lat": 47.2833,
+    "lon": 24.4
+  },
+  {
+    "county": "BN",
+    "location": "Piatra Fântânele",
+    "location_details": "",
+    "lat": 47.0,
+    "lon": 24.7833
+  },
+  {
+    "county": "BN",
+    "location": "Piatra Fântânele",
+    "location_details": "Campusul Tasuleasa Social",
+    "lat": 47.0,
+    "lon": 24.7833
+  },
+  {
+    "county": "BN",
+    "location": "Posmuș",
+    "location_details": "",
+    "lat": 47.05,
+    "lon": 24.3333
+  },
+  {
+    "county": "BN",
+    "location": "Posmuș",
+    "location_details": "Castelul Teleki",
+    "lat": 47.05,
+    "lon": 24.3333
+  },
+  {
+    "county": "BR",
+    "location": "Brăila",
+    "location_details": "",
+    "lat": 45.2692,
+    "lon": 27.9575
+  },
+  {
+    "county": "BR",
+    "location": "Brăila",
+    "location_details": "Faleza Dunării Brăila",
+    "lat": 45.2692,
+    "lon": 27.9575
+  },
+  {
+    "county": "BT",
+    "location": "Botoșani",
+    "location_details": "",
+    "lat": 47.7489,
+    "lon": 26.6681
+  },
+  {
+    "county": "BT",
+    "location": "Botoșani",
+    "location_details": "Pădurea Rediu",
+    "lat": 47.7833,
+    "lon": 26.6333
+  },
+  {
+    "county": "BT",
+    "location": "Darabani",
+    "location_details": "",
+    "lat": 48.1833,
+    "lon": 26.5833
+  },
+  {
+    "county": "BT",
+    "location": "Darabani",
+    "location_details": "Pădurea Teioasa",
+    "lat": 48.1833,
+    "lon": 26.5833
+  },
+  {
+    "county": "BT",
+    "location": "Sulița (BT)",
+    "location_details": "",
+    "lat": 48.2167,
+    "lon": 26.7167
+  },
+  {
+    "county": "BT",
+    "location": "Sulița (BT)",
+    "location_details": "Dracşani",
+    "lat": 48.2167,
+    "lon": 26.7167
+  },
+  {
+    "county": "BV",
+    "location": "Bran",
+    "location_details": "",
+    "lat": 45.5167,
+    "lon": 25.3667
+  },
+  {
+    "county": "BV",
+    "location": "Bran",
+    "location_details": "Castelul Bran",
+    "lat": 45.5167,
+    "lon": 25.3667
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
+    "location_details": "",
+    "lat": 45.6427,
+    "lon": 25.5887
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
+    "location_details": "Lacul Noua",
+    "lat": 45.6167,
+    "lon": 25.5667
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
+    "location_details": "Parcul Nicolae Titulescu",
+    "lat": 45.648,
+    "lon": 25.593
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
+    "location_details": "Piața Unirii",
+    "lat": 45.63603756572883,
+    "lon": 25.580358932803648
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
+    "location_details": "Tampa",
+    "lat": 45.6333,
+    "lon": 25.5833
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
+    "location_details": "Telecabina Kanzel",
+    "lat": 45.6333,
+    "lon": 25.5833
+  },
+  {
+    "county": "BV",
+    "location": "Breaza (BV)",
+    "location_details": "",
+    "lat": 45.6,
+    "lon": 25.6667
+  },
+  {
+    "county": "BV",
+    "location": "Cheile Grădiștei",
+    "location_details": "",
+    "lat": 45.5667,
+    "lon": 25.3167
+  },
+  {
+    "county": "BV",
+    "location": "Codlea",
+    "location_details": "",
+    "lat": 45.7,
+    "lon": 25.45
+  },
+  {
+    "county": "BV",
+    "location": "Dejani",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 25.15
+  },
+  {
+    "county": "BV",
+    "location": "Făgăraș",
+    "location_details": "",
+    "lat": 45.8417,
+    "lon": 24.975
+  },
+  {
+    "county": "BV",
+    "location": "Hărman",
+    "location_details": "",
+    "lat": 45.6833,
+    "lon": 25.6667
+  },
+  {
+    "county": "BV",
+    "location": "Moieciu de Sus",
+    "location_details": "",
+    "lat": 45.4833,
+    "lon": 25.3167
+  },
+  {
+    "county": "BV",
+    "location": "Predeal",
+    "location_details": "",
+    "lat": 45.5,
+    "lon": 25.5833
+  },
+  {
+    "county": "BV",
+    "location": "Recea (BV)",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 25.45
+  },
+  {
+    "county": "BV",
+    "location": "Râșnov",
+    "location_details": "",
+    "lat": 45.5917,
+    "lon": 25.4583
+  },
+  {
+    "county": "BV",
+    "location": "Râșnov",
+    "location_details": "Piata Unirii",
+    "lat": 45.5917,
+    "lon": 25.4583
+  },
+  {
+    "county": "BV",
+    "location": "Sânpetru",
+    "location_details": "",
+    "lat": 45.7,
+    "lon": 25.65
+  },
+  {
+    "county": "BV",
+    "location": "Veneția de Jos",
+    "location_details": "",
+    "lat": 45.8333,
+    "lon": 24.8833
+  },
+  {
+    "county": "BV",
+    "location": "Zărnești",
+    "location_details": "",
+    "lat": 45.5667,
+    "lon": 25.35
+  },
+  {
+    "county": "BZ",
+    "location": "Boboc",
+    "location_details": "",
+    "lat": 45.2833,
+    "lon": 27.0667
+  },
+  {
+    "county": "BZ",
+    "location": "Boboc",
+    "location_details": "Baza Aeriana Boboc",
+    "lat": 45.2833,
+    "lon": 27.0667
+  },
+  {
+    "county": "BZ",
+    "location": "Buzău",
+    "location_details": "",
+    "lat": 45.15,
+    "lon": 26.82
+  },
+  {
+    "county": "BZ",
+    "location": "Buzău",
+    "location_details": "Parcul Crang",
+    "lat": 45.15,
+    "lon": 26.8167
+  },
+  {
+    "county": "BZ",
+    "location": "Băile Siriu",
+    "location_details": "",
+    "lat": 45.5167,
+    "lon": 26.4167
+  },
+  {
+    "county": "BZ",
+    "location": "Lunca Jariștei",
+    "location_details": "",
+    "lat": 45.0167,
+    "lon": 27.0833
+  },
+  {
+    "county": "BZ",
+    "location": "Sărăta Monteoru",
+    "location_details": "",
+    "lat": 45.2167,
+    "lon": 26.6167
+  },
+  {
+    "county": "CJ",
+    "location": "Beliș",
+    "location_details": "",
+    "lat": 46.65,
+    "lon": 22.9333
+  },
+  {
+    "county": "CJ",
+    "location": "Beliș",
+    "location_details": "Smida",
+    "lat": 46.65,
+    "lon": 22.9333
+  },
+  {
+    "county": "CJ",
+    "location": "Bobâlna",
+    "location_details": "",
+    "lat": 47.1833,
+    "lon": 23.9833
+  },
+  {
+    "county": "CJ",
+    "location": "Borșa (CJ)",
+    "location_details": "",
+    "lat": 47.1167,
+    "lon": 24.0167
+  },
+  {
+    "county": "CJ",
+    "location": "Borșa (CJ)",
+    "location_details": "Ferma Delicium",
+    "lat": 47.1167,
+    "lon": 24.0167
+  },
+  {
+    "county": "CJ",
+    "location": "Băișoara",
+    "location_details": "",
+    "lat": 46.5167,
+    "lon": 23.5667
+  },
+  {
+    "county": "CJ",
+    "location": "Băișoara",
+    "location_details": "Muntele Băișorii",
+    "lat": 46.5167,
+    "lon": 23.5667
+  },
+  {
+    "county": "CJ",
+    "location": "Cheile Turzii",
+    "location_details": "",
+    "lat": 46.5333,
+    "lon": 23.7667
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Cluj Arena",
+    "lat": 46.7583,
+    "lon": 23.5862
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Central",
+    "lat": 46.7697,
+    "lon": 23.5883
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Central Simion Bărnuțiu",
+    "lat": 46.7697,
+    "lon": 23.5883
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Etnografic Romulus Vuia",
+    "lat": 46.7528,
+    "lon": 23.5347
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Sportiv Universitar Iuliu Hatieganu",
+    "lat": 46.7583,
+    "lon": 23.5833
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Platou Sala Sporturilor Horia Demian",
+    "lat": 46.75,
+    "lon": 23.5833
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Promenada Someșului",
+    "lat": 46.7667,
+    "lon": 23.6
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Faget",
+    "lat": 46.75,
+    "lon": 23.5333
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Făget",
+    "lat": 46.75,
+    "lon": 23.5333
+  },
+  {
+    "county": "CJ",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Hoia",
+    "lat": 46.75,
+    "lon": 23.55
+  },
+  {
+    "county": "CJ",
+    "location": "Câmpia Turzii",
+    "location_details": "",
+    "lat": 46.55,
+    "lon": 23.8833
+  },
+  {
+    "county": "CJ",
+    "location": "Feleacu",
+    "location_details": "",
+    "lat": 46.7333,
+    "lon": 23.5833
+  },
+  {
+    "county": "CJ",
+    "location": "Gherla",
+    "location_details": "",
+    "lat": 47.0333,
+    "lon": 23.9
+  },
+  {
+    "county": "CJ",
+    "location": "Gilău",
+    "location_details": "",
+    "lat": 46.75,
+    "lon": 23.3833
+  },
+  {
+    "county": "CJ",
+    "location": "Izvoru Crișului",
+    "location_details": "",
+    "lat": 46.75,
+    "lon": 22.8167
+  },
+  {
+    "county": "CJ",
+    "location": "Mărișel",
+    "location_details": "",
+    "lat": 46.6667,
+    "lon": 23.1167
+  },
+  {
+    "county": "CJ",
+    "location": "Mărișel",
+    "location_details": "Mărișel Ski Resort",
+    "lat": 46.6667,
+    "lon": 23.1167
+  },
+  {
+    "county": "CJ",
+    "location": "Răchițele",
+    "location_details": "",
+    "lat": 46.7333,
+    "lon": 23.0667
+  },
+  {
+    "county": "CJ",
+    "location": "Răchițele",
+    "location_details": "Dealul Rasinarilor",
+    "lat": 46.7333,
+    "lon": 23.0667
+  },
+  {
+    "county": "CJ",
+    "location": "Săcuieu",
+    "location_details": "",
+    "lat": 46.75,
+    "lon": 22.9167
+  },
+  {
+    "county": "CJ",
+    "location": "Săcuieu",
+    "location_details": "Rogojel",
+    "lat": 46.75,
+    "lon": 22.9167
+  },
+  {
+    "county": "CJ",
+    "location": "Sălciua",
+    "location_details": "",
+    "lat": 46.4833,
+    "lon": 23.2833
+  },
+  {
+    "county": "CJ",
+    "location": "Turda",
+    "location_details": "",
+    "lat": 46.5667,
+    "lon": 23.7833
+  },
+  {
+    "county": "CL",
+    "location": "Borcea",
+    "location_details": "",
+    "lat": 44.3667,
+    "lon": 27.2167
+  },
+  {
+    "county": "CL",
+    "location": "Borcea",
+    "location_details": "Baza 86 Aeriana Borcea",
+    "lat": 44.3667,
+    "lon": 27.2167
+  },
+  {
+    "county": "CL",
+    "location": "Călărași",
+    "location_details": "",
+    "lat": 44.2014,
+    "lon": 27.3317
+  },
+  {
+    "county": "CS",
+    "location": "Băile Herculane",
+    "location_details": "",
+    "lat": 44.8833,
+    "lon": 22.4167
+  },
+  {
+    "county": "CS",
+    "location": "Caransebeș",
+    "location_details": "",
+    "lat": 45.4167,
+    "lon": 22.2167
+  },
+  {
+    "county": "CS",
+    "location": "Ciudanovița",
+    "location_details": "",
+    "lat": 45.0167,
+    "lon": 21.9167
+  },
+  {
+    "county": "CS",
+    "location": "Oravița",
+    "location_details": "",
+    "lat": 45.0333,
+    "lon": 21.7
+  },
+  {
+    "county": "CS",
+    "location": "Reșița",
+    "location_details": "",
+    "lat": 45.3,
+    "lon": 21.8833
+  },
+  {
+    "county": "CS",
+    "location": "Sasca Montană",
+    "location_details": "",
+    "lat": 44.8333,
+    "lon": 21.7167
+  },
+  {
+    "county": "CS",
+    "location": "Zăvoi (CS)",
+    "location_details": "",
+    "lat": 45.2167,
+    "lon": 22.5167
+  },
+  {
+    "county": "CS",
+    "location": "Zăvoi (CS)",
+    "location_details": "Poiana Marului",
+    "lat": 45.2167,
+    "lon": 22.5167
+  },
+  {
+    "county": "CT",
+    "location": "Cheile Dobrogei",
+    "location_details": "",
+    "lat": 44.4167,
+    "lon": 28.5167
+  },
+  {
+    "county": "CT",
+    "location": "Constanța",
+    "location_details": "",
+    "lat": 44.1598,
+    "lon": 28.6348
+  },
+  {
+    "county": "CT",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "lat": 44.2667,
+    "lon": 28.6333
+  },
+  {
+    "county": "CT",
+    "location": "Limanu",
+    "location_details": "",
+    "lat": 43.8167,
+    "lon": 28.55
+  },
+  {
+    "county": "CT",
+    "location": "Limanu",
+    "location_details": "2 Mai - Krapets",
+    "lat": 43.7833,
+    "lon": 28.55
+  },
+  {
+    "county": "CT",
+    "location": "Mangalia",
+    "location_details": "",
+    "lat": 43.8167,
+    "lon": 28.5833
+  },
+  {
+    "county": "CT",
+    "location": "Neptun",
+    "location_details": "",
+    "lat": 43.9167,
+    "lon": 28.5833
+  },
+  {
+    "county": "CT",
+    "location": "Techirghiol",
+    "location_details": "",
+    "lat": 44.0833,
+    "lon": 28.5833
+  },
+  {
+    "county": "CV",
+    "location": "Reci",
+    "location_details": "",
+    "lat": 45.8667,
+    "lon": 25.95
+  },
+  {
+    "county": "CV",
+    "location": "Reci",
+    "location_details": "Mestecanisul de la Reci",
+    "lat": 45.8667,
+    "lon": 25.95
+  },
+  {
+    "county": "CV",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "lat": 45.8667,
+    "lon": 25.7833
+  },
+  {
+    "county": "DB",
+    "location": "Glogoveanu",
+    "location_details": "",
+    "lat": 45.05,
+    "lon": 25.1833
+  },
+  {
+    "county": "DB",
+    "location": "Moroeni",
+    "location_details": "",
+    "lat": 45.2833,
+    "lon": 25.4833
+  },
+  {
+    "county": "DB",
+    "location": "Moroeni",
+    "location_details": "Hotel Peștera",
+    "lat": 45.3667,
+    "lon": 25.5167
+  },
+  {
+    "county": "DB",
+    "location": "Telecabină Peștera",
+    "location_details": "",
+    "lat": 45.3667,
+    "lon": 25.4833
+  },
+  {
+    "county": "DB",
+    "location": "Târgoviște",
+    "location_details": "",
+    "lat": 44.925,
+    "lon": 25.4569
+  },
+  {
+    "county": "DB",
+    "location": "Târgoviște",
+    "location_details": "Complexul Turistic de Natatie Târgoviște",
+    "lat": 44.925,
+    "lon": 25.4569
+  },
+  {
+    "county": "DJ",
+    "location": "Calafat",
+    "location_details": "",
+    "lat": 43.9944,
+    "lon": 22.9333
+  },
+  {
+    "county": "DJ",
+    "location": "Craiova",
+    "location_details": "",
+    "lat": 44.3167,
+    "lon": 23.8
+  },
+  {
+    "county": "DJ",
+    "location": "Craiova",
+    "location_details": "Parcul Nicolae Romanescu",
+    "lat": 44.3167,
+    "lon": 23.7833
+  },
+  {
+    "county": "DJ",
+    "location": "Craiova",
+    "location_details": "Parcul Tineretului",
+    "lat": 44.3167,
+    "lon": 23.8
+  },
+  {
+    "county": "DJ",
+    "location": "Podari",
+    "location_details": "",
+    "lat": 44.25,
+    "lon": 23.7667
+  },
+  {
+    "county": "GL",
+    "location": "Galați",
+    "location_details": "",
+    "lat": 45.4353,
+    "lon": 28.05
+  },
+  {
+    "county": "GL",
+    "location": "Galați",
+    "location_details": "Crosul Umanitar Inima De Leu",
+    "lat": 45.4353,
+    "lon": 28.05
+  },
+  {
+    "county": "GL",
+    "location": "Galați",
+    "location_details": "Faleza Dunării Galaţi",
+    "lat": 45.4353,
+    "lon": 28.05
+  },
+  {
+    "county": "GL",
+    "location": "Suceveni (GL)",
+    "location_details": "",
+    "lat": 45.6167,
+    "lon": 27.8333
+  },
+  {
+    "county": "GL",
+    "location": "Suceveni (GL)",
+    "location_details": "Rogojeni",
+    "lat": 45.6167,
+    "lon": 27.8333
+  },
+  {
+    "county": "GL",
+    "location": "Tulucești",
+    "location_details": "",
+    "lat": 45.55,
+    "lon": 28.0333
+  },
+  {
+    "county": "GL",
+    "location": "Tulucești",
+    "location_details": "Pădurea Gârboavele",
+    "lat": 45.55,
+    "lon": 28.0333
+  },
+  {
+    "county": "GR",
+    "location": "Comana",
+    "location_details": "",
+    "lat": 44.1667,
+    "lon": 26.15
+  },
+  {
+    "county": "GR",
+    "location": "Giurgiu",
+    "location_details": "",
+    "lat": 43.9017,
+    "lon": 25.9697
+  },
+  {
+    "county": "HD",
+    "location": "Brad",
+    "location_details": "",
+    "lat": 46.1333,
+    "lon": 22.7833
+  },
+  {
+    "county": "HD",
+    "location": "Cerbăl",
+    "location_details": "",
+    "lat": 45.4333,
+    "lon": 22.8667
+  },
+  {
+    "county": "HD",
+    "location": "Deva",
+    "location_details": "",
+    "lat": 45.8833,
+    "lon": 22.9167
+  },
+  {
+    "county": "HD",
+    "location": "Hațeg",
+    "location_details": "",
+    "lat": 45.6,
+    "lon": 22.9167
+  },
+  {
+    "county": "HD",
+    "location": "Petrila",
+    "location_details": "",
+    "lat": 45.45,
+    "lon": 23.4167
+  },
+  {
+    "county": "HD",
+    "location": "Petrila",
+    "location_details": "Cheile Taii",
+    "lat": 45.4333,
+    "lon": 23.45
+  },
+  {
+    "county": "HD",
+    "location": "Petroșani",
+    "location_details": "",
+    "lat": 45.4117,
+    "lon": 23.3706
+  },
+  {
+    "county": "HD",
+    "location": "Petroșani",
+    "location_details": "Statiunea Parang",
+    "lat": 45.3333,
+    "lon": 23.5833
+  },
+  {
+    "county": "HD",
+    "location": "Râu de Mori",
+    "location_details": "",
+    "lat": 45.3833,
+    "lon": 22.8833
+  },
+  {
+    "county": "HD",
+    "location": "Straja",
+    "location_details": "",
+    "lat": 45.35,
+    "lon": 23.5667
+  },
+  {
+    "county": "HD",
+    "location": "Uricani",
+    "location_details": "",
+    "lat": 45.35,
+    "lon": 23.4
+  },
+  {
+    "county": "HD",
+    "location": "Uricani",
+    "location_details": "Cabana Vanatoreasca - Campusel",
+    "lat": 45.3333,
+    "lon": 23.4167
+  },
+  {
+    "county": "HD",
+    "location": "Uricani",
+    "location_details": "Cheile Butii",
+    "lat": 45.3167,
+    "lon": 23.3833
+  },
+  {
+    "county": "HD",
+    "location": "Vulcan",
+    "location_details": "",
+    "lat": 45.3833,
+    "lon": 23.2833
+  },
+  {
+    "county": "HR",
+    "location": "Borsec",
+    "location_details": "",
+    "lat": 46.9667,
+    "lon": 25.5333
+  },
+  {
+    "county": "HR",
+    "location": "Băile Harghita",
+    "location_details": "",
+    "lat": 46.5833,
+    "lon": 25.6167
+  },
+  {
+    "county": "HR",
+    "location": "Băile Jigodin",
+    "location_details": "",
+    "lat": 46.3667,
+    "lon": 25.8333
+  },
+  {
+    "county": "HR",
+    "location": "Băile Tușnad",
+    "location_details": "",
+    "lat": 46.1333,
+    "lon": 25.8833
+  },
+  {
+    "county": "HR",
+    "location": "Bălan",
+    "location_details": "",
+    "lat": 46.65,
+    "lon": 25.75
+  },
+  {
+    "county": "HR",
+    "location": "Ditrău",
+    "location_details": "",
+    "lat": 46.85,
+    "lon": 25.5333
+  },
+  {
+    "county": "HR",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "lat": 46.7167,
+    "lon": 25.5833
+  },
+  {
+    "county": "HR",
+    "location": "Harghita Mădăraș",
+    "location_details": "",
+    "lat": 46.5167,
+    "lon": 25.7667
+  },
+  {
+    "county": "HR",
+    "location": "Lupeni (HR)",
+    "location_details": "",
+    "lat": 46.8,
+    "lon": 25.1
+  },
+  {
+    "county": "HR",
+    "location": "Lăzarea",
+    "location_details": "",
+    "lat": 46.8167,
+    "lon": 25.4833
+  },
+  {
+    "county": "HR",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "lat": 46.3667,
+    "lon": 25.8
+  },
+  {
+    "county": "HR",
+    "location": "Odorheiu Secuiesc",
+    "location_details": "",
+    "lat": 46.3,
+    "lon": 25.3
+  },
+  {
+    "county": "HR",
+    "location": "Păuleni-Ciuc",
+    "location_details": "",
+    "lat": 46.3667,
+    "lon": 25.8
+  },
+  {
+    "county": "HR",
+    "location": "Toplița",
+    "location_details": "",
+    "lat": 46.9167,
+    "lon": 25.35
+  },
+  {
+    "county": "HR",
+    "location": "Toplița",
+    "location_details": "Cabana Lomas",
+    "lat": 46.9167,
+    "lon": 25.35
+  },
+  {
+    "county": "IF",
+    "location": "Cernica",
+    "location_details": "",
+    "lat": 44.3833,
+    "lon": 26.2167
+  },
+  {
+    "county": "IF",
+    "location": "Cernica",
+    "location_details": "Pădurea Cernica",
+    "lat": 44.3833,
+    "lon": 26.2167
+  },
+  {
+    "county": "IF",
+    "location": "Chiajna",
+    "location_details": "",
+    "lat": 44.4667,
+    "lon": 25.9667
+  },
+  {
+    "county": "IF",
+    "location": "Chiajna",
+    "location_details": "Roșu",
+    "lat": 44.4667,
+    "lon": 25.9667
+  },
+  {
+    "county": "IF",
+    "location": "Corbeanca",
+    "location_details": "",
+    "lat": 44.5667,
+    "lon": 25.9833
+  },
+  {
+    "county": "IF",
+    "location": "Moara Vlăsiei",
+    "location_details": "",
+    "lat": 44.65,
+    "lon": 26.1167
+  },
+  {
+    "county": "IF",
+    "location": "Moara Vlăsiei",
+    "location_details": "Pădurea Surlari",
+    "lat": 44.65,
+    "lon": 26.1167
+  },
+  {
+    "county": "IF",
+    "location": "Măgurele",
+    "location_details": "",
+    "lat": 44.35,
+    "lon": 26.0333
+  },
+  {
+    "county": "IF",
+    "location": "Pantelimon",
+    "location_details": "",
+    "lat": 44.45,
+    "lon": 26.2333
+  },
+  {
+    "county": "IF",
+    "location": "Popești-Leordeni",
+    "location_details": "",
+    "lat": 44.3833,
+    "lon": 26.1833
+  },
+  {
+    "county": "IF",
+    "location": "Snagov",
+    "location_details": "",
+    "lat": 44.6833,
+    "lon": 26.15
+  },
+  {
+    "county": "IF",
+    "location": "Snagov",
+    "location_details": "Pădurea Vladiceasa",
+    "lat": 44.6833,
+    "lon": 26.15
+  },
+  {
+    "county": "IL",
+    "location": "Fetești",
+    "location_details": "",
+    "lat": 44.3667,
+    "lon": 27.8333
+  },
+  {
+    "county": "IS",
+    "location": "Ciurea",
+    "location_details": "",
+    "lat": 47.1,
+    "lon": 27.5333
+  },
+  {
+    "county": "IS",
+    "location": "Iași",
+    "location_details": "",
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
+  },
+  {
+    "county": "IS",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "lat": 47.1574,
+    "lon": 27.587
+  },
+  {
+    "county": "IS",
+    "location": "Rediu",
+    "location_details": "",
+    "lat": 47.1167,
+    "lon": 27.5333
+  },
+  {
+    "county": "IS",
+    "location": "Rediu",
+    "location_details": "Pădurea Mârzeşti, Breazu",
+    "lat": 47.1167,
+    "lon": 27.5333
+  },
+  {
+    "county": "IS",
+    "location": "Răchiteni",
+    "location_details": "",
+    "lat": 47.2833,
+    "lon": 26.9833
+  },
+  {
+    "county": "MDA*",
+    "location": "Cahul",
+    "location_details": "",
+    "lat": 45.9,
+    "lon": 28.1833
+  },
+  {
+    "county": "MDA*",
+    "location": "Cahul",
+    "location_details": "Republica Moldova",
+    "lat": 45.9,
+    "lon": 28.1833
+  },
+  {
+    "county": "MDA*",
+    "location": "Chișinău",
+    "location_details": "",
+    "lat": 47.0106,
+    "lon": 28.8638
+  },
+  {
+    "county": "MDA*",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "lat": 47.0106,
+    "lon": 28.8638
+  },
+  {
+    "county": "MDA*",
+    "location": "Chișinău - București",
+    "location_details": "",
+    "lat": 47.0106,
+    "lon": 28.8638
+  },
+  {
+    "county": "MDA*",
+    "location": "Chișinău - București",
+    "location_details": "Republica Moldova",
+    "lat": 47.0106,
+    "lon": 28.8638
+  },
+  {
+    "county": "MDA*",
+    "location": "Comuna Dolna, Straseni",
+    "location_details": "",
+    "lat": 47.1667,
+    "lon": 28.5167
+  },
+  {
+    "county": "MDA*",
+    "location": "Comuna Dolna, Straseni",
+    "location_details": "Republica Moldova",
+    "lat": 47.1667,
+    "lon": 28.5167
+  },
+  {
+    "county": "MDA*",
+    "location": "Coșnița",
+    "location_details": "",
+    "lat": 47.2167,
+    "lon": 29.35
+  },
+  {
+    "county": "MDA*",
+    "location": "Coșnița",
+    "location_details": "Republica Moldova",
+    "lat": 47.2167,
+    "lon": 29.35
+  },
+  {
+    "county": "MDA*",
+    "location": "Cricova",
+    "location_details": "",
+    "lat": 47.1333,
+    "lon": 28.8667
+  },
+  {
+    "county": "MDA*",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "lat": 47.1333,
+    "lon": 28.8667
+  },
+  {
+    "county": "MDA*",
+    "location": "Căpriana–Scoreni",
+    "location_details": "",
+    "lat": 47.1167,
+    "lon": 28.65
+  },
+  {
+    "county": "MDA*",
+    "location": "Căpriana–Scoreni",
+    "location_details": "Republica Moldova",
+    "lat": 47.1167,
+    "lon": 28.65
+  },
+  {
+    "county": "MDA*",
+    "location": "Dealul Bălănești",
+    "location_details": "",
+    "lat": 47.3167,
+    "lon": 28.25
+  },
+  {
+    "county": "MDA*",
+    "location": "Dealul Bălănești",
+    "location_details": "Republica Moldova",
+    "lat": 47.3167,
+    "lon": 28.25
+  },
+  {
+    "county": "MDA*",
+    "location": "Donici, Orhei",
+    "location_details": "",
+    "lat": 47.3167,
+    "lon": 28.7333
+  },
+  {
+    "county": "MDA*",
+    "location": "Donici, Orhei",
+    "location_details": "Republica Moldova",
+    "lat": 47.3167,
+    "lon": 28.7333
+  },
+  {
+    "county": "MDA*",
+    "location": "Fetești",
+    "location_details": "",
+    "lat": 47.5833,
+    "lon": 28.5833
+  },
+  {
+    "county": "MDA*",
+    "location": "Fetești",
+    "location_details": "Republica Moldova",
+    "lat": 47.5833,
+    "lon": 28.5833
+  },
+  {
+    "county": "MDA*",
+    "location": "Mileștii Mici",
+    "location_details": "",
+    "lat": 46.8833,
+    "lon": 28.9167
+  },
+  {
+    "county": "MDA*",
+    "location": "Mileștii Mici",
+    "location_details": "Republica Moldova",
+    "lat": 46.8833,
+    "lon": 28.9167
+  },
+  {
+    "county": "MDA*",
+    "location": "Mircești (Ungheni)",
+    "location_details": "",
+    "lat": 47.3667,
+    "lon": 28.0167
+  },
+  {
+    "county": "MDA*",
+    "location": "Mircești (Ungheni)",
+    "location_details": "Republica Moldova",
+    "lat": 47.3667,
+    "lon": 28.0167
+  },
+  {
+    "county": "MDA*",
+    "location": "Movila Magura",
+    "location_details": "",
+    "lat": 46.8,
+    "lon": 28.6
+  },
+  {
+    "county": "MDA*",
+    "location": "Movila Magura",
+    "location_details": "Republica Moldova",
+    "lat": 46.8,
+    "lon": 28.6
+  },
+  {
+    "county": "MDA*",
+    "location": "Purcari",
+    "location_details": "",
+    "lat": 46.8333,
+    "lon": 29.8167
+  },
+  {
+    "county": "MDA*",
+    "location": "Purcari",
+    "location_details": "Republica Moldova",
+    "lat": 46.8333,
+    "lon": 29.8167
+  },
+  {
+    "county": "MDA*",
+    "location": "Pănăseşti",
+    "location_details": "",
+    "lat": 47.1667,
+    "lon": 28.5833
+  },
+  {
+    "county": "MDA*",
+    "location": "Pănăseşti",
+    "location_details": "Republica Moldova",
+    "lat": 47.1667,
+    "lon": 28.5833
+  },
+  {
+    "county": "MDA*",
+    "location": "Soldanesti",
+    "location_details": "",
+    "lat": 47.8167,
+    "lon": 28.7833
+  },
+  {
+    "county": "MDA*",
+    "location": "Soldanesti",
+    "location_details": "Republica Moldova",
+    "lat": 47.8167,
+    "lon": 28.7833
+  },
+  {
+    "county": "MDA*",
+    "location": "Stăuceni",
+    "location_details": "",
+    "lat": 47.1,
+    "lon": 28.8167
+  },
+  {
+    "county": "MDA*",
+    "location": "Stăuceni",
+    "location_details": "Republica Moldova",
+    "lat": 47.1,
+    "lon": 28.8167
+  },
+  {
+    "county": "MDA*",
+    "location": "Suruceni",
+    "location_details": "",
+    "lat": 47.0167,
+    "lon": 28.6
+  },
+  {
+    "county": "MDA*",
+    "location": "Suruceni",
+    "location_details": "Republica Moldova",
+    "lat": 47.0167,
+    "lon": 28.6
+  },
+  {
+    "county": "MDA*",
+    "location": "Sîngerei",
+    "location_details": "",
+    "lat": 47.6333,
+    "lon": 28.15
+  },
+  {
+    "county": "MDA*",
+    "location": "Sîngerei",
+    "location_details": "Republica Moldova",
+    "lat": 47.6333,
+    "lon": 28.15
+  },
+  {
+    "county": "MDA*",
+    "location": "Trebujeni",
+    "location_details": "",
+    "lat": 47.35,
+    "lon": 28.8833
+  },
+  {
+    "county": "MDA*",
+    "location": "Trebujeni",
+    "location_details": "Republica Moldova",
+    "lat": 47.35,
+    "lon": 28.8833
+  },
+  {
+    "county": "MDA*",
+    "location": "Ulmu",
+    "location_details": "",
+    "lat": 46.9333,
+    "lon": 28.7167
+  },
+  {
+    "county": "MDA*",
+    "location": "Ulmu",
+    "location_details": "Republica Moldova",
+    "lat": 46.9333,
+    "lon": 28.7167
+  },
+  {
+    "county": "MDA*",
+    "location": "Ungheni",
+    "location_details": "",
+    "lat": 47.2,
+    "lon": 27.7833
+  },
+  {
+    "county": "MDA*",
+    "location": "Ungheni",
+    "location_details": "Republica Moldova",
+    "lat": 47.2,
+    "lon": 27.7833
+  },
+  {
+    "county": "MH",
+    "location": "Corcova",
+    "location_details": "",
+    "lat": 44.85,
+    "lon": 22.8167
+  },
+  {
+    "county": "MH",
+    "location": "Drobeta Turnu-Severin",
+    "location_details": "",
+    "lat": 44.6333,
+    "lon": 22.65
+  },
+  {
+    "county": "MM",
+    "location": "Baia Mare",
+    "location_details": "",
+    "lat": 47.6667,
+    "lon": 23.5833
+  },
+  {
+    "county": "MM",
+    "location": "Baia Mare",
+    "location_details": "Câmpia Tineretului",
+    "lat": 47.6667,
+    "lon": 23.5833
+  },
+  {
+    "county": "MM",
+    "location": "Baia Sprie",
+    "location_details": "",
+    "lat": 47.6667,
+    "lon": 23.6833
+  },
+  {
+    "county": "MM",
+    "location": "Baia Sprie",
+    "location_details": "Domeniul Mogosa",
+    "lat": 47.7333,
+    "lon": 23.7333
+  },
+  {
+    "county": "MM",
+    "location": "Borșa",
+    "location_details": "",
+    "lat": 47.65,
+    "lon": 24.6667
+  },
+  {
+    "county": "MM",
+    "location": "Moisești",
+    "location_details": "",
+    "lat": 47.6833,
+    "lon": 23.7
+  },
+  {
+    "county": "MM",
+    "location": "Seini",
+    "location_details": "",
+    "lat": 47.75,
+    "lon": 23.2833
+  },
+  {
+    "county": "MM",
+    "location": "Sighetu Marmației",
+    "location_details": "",
+    "lat": 47.9167,
+    "lon": 23.8833
+  },
+  {
+    "county": "MM",
+    "location": "Vișeu de Sus",
+    "location_details": "",
+    "lat": 47.7167,
+    "lon": 24.4333
+  },
+  {
+    "county": "MS",
+    "location": "Bistra Mureșului",
+    "location_details": "",
+    "lat": 46.85,
+    "lon": 24.6167
+  },
+  {
+    "county": "MS",
+    "location": "Bistra Mureșului",
+    "location_details": "Cabana Ritual Chalet",
+    "lat": 46.85,
+    "lon": 24.6167
+  },
+  {
+    "county": "MS",
+    "location": "Miercurea Nirajului",
+    "location_details": "",
+    "lat": 46.5167,
+    "lon": 24.8167
+  },
+  {
+    "county": "MS",
+    "location": "Reghin",
+    "location_details": "",
+    "lat": 46.7667,
+    "lon": 24.7
+  },
+  {
+    "county": "MS",
+    "location": "Sighișoara",
+    "location_details": "",
+    "lat": 46.2167,
+    "lon": 24.7833
+  },
+  {
+    "county": "MS",
+    "location": "Sovata",
+    "location_details": "",
+    "lat": 46.5833,
+    "lon": 25.0667
+  },
+  {
+    "county": "MS",
+    "location": "Sângeorgiu de Mureș",
+    "location_details": "",
+    "lat": 46.5167,
+    "lon": 24.5833
+  },
+  {
+    "county": "MS",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "lat": 46.5417,
+    "lon": 24.5583
+  },
+  {
+    "county": "MS",
+    "location": "Târgu Mureș",
+    "location_details": "Grădina Zoologică Târgu Mureș",
+    "lat": 46.5417,
+    "lon": 24.5583
+  },
+  {
+    "county": "MS",
+    "location": "Târgu Mureș",
+    "location_details": "Piața Teatrului",
+    "lat": 46.5417,
+    "lon": 24.5583
+  },
+  {
+    "county": "MS",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "lat": 46.5583,
+    "lon": 24.575
+  },
+  {
+    "county": "MS",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornești",
+    "lat": 46.5583,
+    "lon": 24.575
+  },
+  {
+    "county": "MS",
+    "location": "Târnăveni",
+    "location_details": "",
+    "lat": 46.3333,
+    "lon": 24.2833
+  },
+  {
+    "county": "MS",
+    "location": "Șălard",
+    "location_details": "",
+    "lat": 46.8167,
+    "lon": 24.6833
+  },
+  {
+    "county": "MS",
+    "location": "Șălard",
+    "location_details": "Lunca Bradului",
+    "lat": 46.8167,
+    "lon": 24.6833
+  },
+  {
+    "county": "NT",
+    "location": "Durău",
+    "location_details": "",
+    "lat": 46.8833,
+    "lon": 25.9667
+  },
+  {
+    "county": "NT",
+    "location": "Piatra Neamț",
+    "location_details": "",
+    "lat": 46.925,
+    "lon": 26.3667
+  },
+  {
+    "county": "NT",
+    "location": "Piatra Neamț",
+    "location_details": "Cozla",
+    "lat": 46.925,
+    "lon": 26.3667
+  },
+  {
+    "county": "NT",
+    "location": "Tarcău",
+    "location_details": "",
+    "lat": 46.7,
+    "lon": 26.1833
+  },
+  {
+    "county": "NT",
+    "location": "Tarcău",
+    "location_details": "Schitu Tarcău",
+    "lat": 46.7,
+    "lon": 26.1833
+  },
+  {
+    "county": "OT",
+    "location": "Caracal",
+    "location_details": "",
+    "lat": 44.1167,
+    "lon": 24.35
+  },
+  {
+    "county": "OT",
+    "location": "Corabia",
+    "location_details": "",
+    "lat": 43.7667,
+    "lon": 24.5167
+  },
+  {
+    "county": "OT",
+    "location": "Izvoarele (OT)",
+    "location_details": "",
+    "lat": 44.1167,
+    "lon": 24.8167
+  },
+  {
+    "county": "OT",
+    "location": "Slatina",
+    "location_details": "",
+    "lat": 44.4333,
+    "lon": 24.3667
+  },
+  {
+    "county": "PH",
+    "location": "Azuga",
+    "location_details": "",
+    "lat": 45.4333,
+    "lon": 25.55
+  },
+  {
+    "county": "PH",
+    "location": "Brebu",
+    "location_details": "",
+    "lat": 45.1167,
+    "lon": 25.85
+  },
+  {
+    "county": "PH",
+    "location": "Bușteni",
+    "location_details": "",
+    "lat": 45.4,
+    "lon": 25.5333
+  },
+  {
+    "county": "PH",
+    "location": "Cheia",
+    "location_details": "",
+    "lat": 45.3833,
+    "lon": 26.0167
+  },
+  {
+    "county": "PH",
+    "location": "Cheia",
+    "location_details": "Muntele Roșu",
+    "lat": 45.45,
+    "lon": 26.05
+  },
+  {
+    "county": "PH",
+    "location": "Cheia (PH)",
+    "location_details": "",
+    "lat": 45.3833,
+    "lon": 26.0167
+  },
+  {
+    "county": "PH",
+    "location": "Cocorăștii Colț",
+    "location_details": "",
+    "lat": 44.9833,
+    "lon": 25.7333
+  },
+  {
+    "county": "PH",
+    "location": "Cocorăștii Mislii",
+    "location_details": "",
+    "lat": 44.9833,
+    "lon": 25.7833
+  },
+  {
+    "county": "PH",
+    "location": "Florești Prahova",
+    "location_details": "",
+    "lat": 44.9167,
+    "lon": 26.0333
+  },
+  {
+    "county": "PH",
+    "location": "Florești Prahova",
+    "location_details": "Domeniul Cantacuzino",
+    "lat": 44.9167,
+    "lon": 26.0333
+  },
+  {
+    "county": "PH",
+    "location": "Fulga de Sus",
+    "location_details": "",
+    "lat": 44.8,
+    "lon": 26.3167
+  },
+  {
+    "county": "PH",
+    "location": "Gura Vadului",
+    "location_details": "",
+    "lat": 45.0833,
+    "lon": 26.1333
+  },
+  {
+    "county": "PH",
+    "location": "Gura Vadului",
+    "location_details": "Tohani",
+    "lat": 45.0833,
+    "lon": 26.1333
+  },
+  {
+    "county": "PH",
+    "location": "Ploiești",
+    "location_details": "",
+    "lat": 44.95,
+    "lon": 26.0167
+  },
+  {
+    "county": "PH",
+    "location": "Ploiești",
+    "location_details": "Sala Sporturilor Olimpia",
+    "lat": 44.95,
+    "lon": 26.0167
+  },
+  {
+    "county": "PH",
+    "location": "Sinaia",
+    "location_details": "",
+    "lat": 45.35,
+    "lon": 25.55
+  },
+  {
+    "county": "PH",
+    "location": "Trăisteni",
+    "location_details": "",
+    "lat": 45.2333,
+    "lon": 25.8
+  },
+  {
+    "county": "SB",
+    "location": "Agnita",
+    "location_details": "",
+    "lat": 45.9667,
+    "lon": 24.65
+  },
+  {
+    "county": "SB",
+    "location": "Biertan",
+    "location_details": "",
+    "lat": 46.1167,
+    "lon": 24.5167
+  },
+  {
+    "county": "SB",
+    "location": "Blăjel",
+    "location_details": "",
+    "lat": 46.0333,
+    "lon": 24.2833
+  },
+  {
+    "county": "SB",
+    "location": "Bâlea Lac",
+    "location_details": "",
+    "lat": 45.59,
+    "lon": 24.6267
+  },
+  {
+    "county": "SB",
+    "location": "Cisnădioara",
+    "location_details": "",
+    "lat": 45.6333,
+    "lon": 24.15
+  },
+  {
+    "county": "SB",
+    "location": "Hoghilag",
+    "location_details": "",
+    "lat": 46.0833,
+    "lon": 24.4333
+  },
+  {
+    "county": "SB",
+    "location": "Loamneș",
+    "location_details": "",
+    "lat": 45.9167,
+    "lon": 24.0333
+  },
+  {
+    "county": "SB",
+    "location": "Mediaș",
+    "location_details": "",
+    "lat": 46.1583,
+    "lon": 24.3583
+  },
+  {
+    "county": "SB",
+    "location": "Păltiniș",
+    "location_details": "",
+    "lat": 45.55,
+    "lon": 23.9667
+  },
+  {
+    "county": "SB",
+    "location": "Râu Sadului",
+    "location_details": "",
+    "lat": 45.5833,
+    "lon": 24.1167
+  },
+  {
+    "county": "SB",
+    "location": "Rășinari",
+    "location_details": "",
+    "lat": 45.6333,
+    "lon": 24.1167
+  },
+  {
+    "county": "SB",
+    "location": "Sibiu",
+    "location_details": "",
+    "lat": 45.7975,
+    "lon": 24.1508
+  },
+  {
+    "county": "SB",
+    "location": "Sibiu",
+    "location_details": "Muzeul Astra",
+    "lat": 45.7833,
+    "lon": 24.15
+  },
+  {
+    "county": "SB",
+    "location": "Sibiu",
+    "location_details": "Pădurea Gusterita",
+    "lat": 45.8167,
+    "lon": 24.1833
+  },
+  {
+    "county": "SB",
+    "location": "Sibiu",
+    "location_details": "Pădurea Șopa",
+    "lat": 45.7833,
+    "lon": 24.15
+  },
+  {
+    "county": "SB",
+    "location": "Sibiu",
+    "location_details": "Stadionul Municipal",
+    "lat": 45.7975,
+    "lon": 24.1508
+  },
+  {
+    "county": "SB",
+    "location": "Turnu Roșu",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 24.2833
+  },
+  {
+    "county": "SB",
+    "location": "Șelimbăr",
+    "location_details": "",
+    "lat": 45.7667,
+    "lon": 24.1833
+  },
+  {
+    "county": "SB",
+    "location": "Șelimbăr",
+    "location_details": "Pădurea Sopa",
+    "lat": 45.7667,
+    "lon": 24.1833
+  },
+  {
+    "county": "SJ",
+    "location": "Crasna (SJ)",
+    "location_details": "",
+    "lat": 47.1667,
+    "lon": 22.9
+  },
+  {
+    "county": "SJ",
+    "location": "Moigrad",
+    "location_details": "",
+    "lat": 47.2,
+    "lon": 23.0833
+  },
+  {
+    "county": "SJ",
+    "location": "Zalău",
+    "location_details": "",
+    "lat": 47.1833,
+    "lon": 23.0583
+  },
+  {
+    "county": "SM",
+    "location": "Homoroade",
+    "location_details": "",
+    "lat": 47.55,
+    "lon": 22.6833
+  },
+  {
+    "county": "SM",
+    "location": "Homoroade",
+    "location_details": "Popasul Codrenilor Oteloaia",
+    "lat": 47.55,
+    "lon": 22.6833
+  },
+  {
+    "county": "SM",
+    "location": "Orașu Nou",
+    "location_details": "",
+    "lat": 47.8,
+    "lon": 23.1833
+  },
+  {
+    "county": "SM",
+    "location": "Satu Mare",
+    "location_details": "",
+    "lat": 47.7917,
+    "lon": 22.8833
+  },
+  {
+    "county": "SV",
+    "location": "Câmpulung Moldovenesc",
+    "location_details": "",
+    "lat": 47.5167,
+    "lon": 25.5667
+  },
+  {
+    "county": "SV",
+    "location": "Câmpulung Moldovenesc",
+    "location_details": "Rarau Ski Resort",
+    "lat": 47.4167,
+    "lon": 25.5167
+  },
+  {
+    "county": "SV",
+    "location": "Fundu Moldovei",
+    "location_details": "",
+    "lat": 47.55,
+    "lon": 25.4167
+  },
+  {
+    "county": "SV",
+    "location": "Gura Humorului",
+    "location_details": "",
+    "lat": 47.55,
+    "lon": 25.8833
+  },
+  {
+    "county": "SV",
+    "location": "Ilișești",
+    "location_details": "",
+    "lat": 47.6167,
+    "lon": 25.95
+  },
+  {
+    "county": "SV",
+    "location": "Mitocu Dragomirnei",
+    "location_details": "",
+    "lat": 47.6833,
+    "lon": 26.1167
+  },
+  {
+    "county": "SV",
+    "location": "Poiana Stampei",
+    "location_details": "",
+    "lat": 47.3,
+    "lon": 25.15
+  },
+  {
+    "county": "SV",
+    "location": "Suceava",
+    "location_details": "",
+    "lat": 47.65,
+    "lon": 26.25
+  },
+  {
+    "county": "SV",
+    "location": "Suceava",
+    "location_details": "Zona de agrement a râului Suceava",
+    "lat": 47.65,
+    "lon": 26.25
+  },
+  {
+    "county": "SV",
+    "location": "Sucevița",
+    "location_details": "",
+    "lat": 47.7,
+    "lon": 25.7167
+  },
+  {
+    "county": "SV",
+    "location": "Vatra Dornei",
+    "location_details": "",
+    "lat": 47.35,
+    "lon": 25.3667
+  },
+  {
+    "county": "SV",
+    "location": "Șaru Dornei",
+    "location_details": "",
+    "lat": 47.2833,
+    "lon": 25.25
+  },
+  {
+    "county": "SV",
+    "location": "Șaru Dornei",
+    "location_details": "Gura Haitii",
+    "lat": 47.2833,
+    "lon": 25.25
+  },
+  {
+    "county": "TL",
+    "location": "Greci",
+    "location_details": "",
+    "lat": 45.15,
+    "lon": 28.1667
+  },
+  {
+    "county": "TL",
+    "location": "Niculițel",
+    "location_details": "",
+    "lat": 45.1833,
+    "lon": 28.7333
+  },
+  {
+    "county": "TL",
+    "location": "Somova",
+    "location_details": "",
+    "lat": 45.2,
+    "lon": 28.8833
+  },
+  {
+    "county": "TL",
+    "location": "Sulina",
+    "location_details": "",
+    "lat": 45.15,
+    "lon": 29.6667
+  },
+  {
+    "county": "TL",
+    "location": "Tulcea",
+    "location_details": "",
+    "lat": 45.1767,
+    "lon": 28.8022
+  },
+  {
+    "county": "TM",
+    "location": "Bencecu de Jos",
+    "location_details": "",
+    "lat": 45.5,
+    "lon": 21.3667
+  },
+  {
+    "county": "TM",
+    "location": "Buziaș",
+    "location_details": "",
+    "lat": 45.65,
+    "lon": 21.6
+  },
+  {
+    "county": "TM",
+    "location": "Dumbrăvița",
+    "location_details": "",
+    "lat": 45.8,
+    "lon": 21.3
+  },
+  {
+    "county": "TM",
+    "location": "Giarmata",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 21.2667
+  },
+  {
+    "county": "TM",
+    "location": "Giroc",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 21.2667
+  },
+  {
+    "county": "TM",
+    "location": "Lugoj",
+    "location_details": "",
+    "lat": 45.6833,
+    "lon": 21.9
+  },
+  {
+    "county": "TM",
+    "location": "Moșnița Nouă",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 21.3333
+  },
+  {
+    "county": "TM",
+    "location": "Moșnița Nouă",
+    "location_details": "Lunca Timișului",
+    "lat": 45.7167,
+    "lon": 21.3333
+  },
+  {
+    "county": "TM",
+    "location": "Recaș",
+    "location_details": "",
+    "lat": 45.7667,
+    "lon": 21.5
+  },
+  {
+    "county": "TM",
+    "location": "Recaș",
+    "location_details": "Petrovaselo",
+    "lat": 45.7667,
+    "lon": 21.5
+  },
+  {
+    "county": "TM",
+    "location": "Săcălaz",
+    "location_details": "",
+    "lat": 45.7833,
+    "lon": 21.1833
+  },
+  {
+    "county": "TM",
+    "location": "Timișoara",
+    "location_details": "",
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
+  },
+  {
+    "county": "TM",
+    "location": "Timișoara",
+    "location_details": "Parcul Copiilor",
+    "lat": 45.7538,
+    "lon": 21.226
+  },
+  {
+    "county": "TM",
+    "location": "Timișoara",
+    "location_details": "Piata Libertatii",
+    "lat": 45.7538,
+    "lon": 21.226
+  },
+  {
+    "county": "VL",
+    "location": "Brezoi",
+    "location_details": "",
+    "lat": 45.35,
+    "lon": 24.25
+  },
+  {
+    "county": "VL",
+    "location": "Bujoreni",
+    "location_details": "",
+    "lat": 45.1167,
+    "lon": 24.3167
+  },
+  {
+    "county": "VL",
+    "location": "Bujoreni",
+    "location_details": "Muzeul Satului Vâlcean",
+    "lat": 45.1167,
+    "lon": 24.3167
+  },
+  {
+    "county": "VL",
+    "location": "Băile Govora",
+    "location_details": "",
+    "lat": 45.0833,
+    "lon": 24.1833
+  },
+  {
+    "county": "VL",
+    "location": "Bărbătești",
+    "location_details": "",
+    "lat": 44.9833,
+    "lon": 23.9667
+  },
+  {
+    "county": "VL",
+    "location": "Călimănești",
+    "location_details": "",
+    "lat": 45.28107793735533,
+    "lon": 24.31261712868622
+  },
+  {
+    "county": "VL",
+    "location": "Ocnele Mari",
+    "location_details": "",
+    "lat": 45.0667,
+    "lon": 24.25
+  },
+  {
+    "county": "VL",
+    "location": "Roești",
+    "location_details": "",
+    "lat": 44.8833,
+    "lon": 24.2167
+  },
+  {
+    "county": "VL",
+    "location": "Râmnicu Vâlcea",
+    "location_details": "",
+    "lat": 45.1003,
+    "lon": 24.3694
+  },
+  {
+    "county": "VL",
+    "location": "Vaideeni",
+    "location_details": "",
+    "lat": 45.1333,
+    "lon": 23.8
+  },
+  {
+    "county": "VL",
+    "location": "Voineasa",
+    "location_details": "",
+    "lat": 45.3667,
+    "lon": 23.7833
+  },
+  {
+    "county": "VL",
+    "location": "Voineasa",
+    "location_details": "Zona statiei teleschi T2",
+    "lat": 45.3667,
+    "lon": 23.7833
+  },
+  {
+    "county": "VN",
+    "location": "Adjud",
+    "location_details": "",
+    "lat": 46.1,
+    "lon": 27.1667
+  },
+  {
+    "county": "VN",
+    "location": "Dălhăuți",
+    "location_details": "",
+    "lat": 45.9833,
+    "lon": 27.1833
+  },
+  {
+    "county": "VN",
+    "location": "Dălhăuți",
+    "location_details": "Roșu",
+    "lat": 45.9833,
+    "lon": 27.1833
+  },
+  {
+    "county": "VN",
+    "location": "Focșani",
+    "location_details": "",
+    "lat": 45.6958,
+    "lon": 27.1875
+  },
+  {
+    "county": "VN",
+    "location": "Garoafa (VN)",
+    "location_details": "",
+    "lat": 45.7667,
+    "lon": 27.2167
+  },
+  {
+    "county": "VN",
+    "location": "Garoafa (VN)",
+    "location_details": "Resort Zaga Zaga",
+    "lat": 45.7667,
+    "lon": 27.2167
+  },
+  {
+    "county": "VN",
+    "location": "Odobești",
+    "location_details": "",
+    "lat": 45.7667,
+    "lon": 27.0667
+  },
+  {
+    "county": "VN",
+    "location": "Păulești",
+    "location_details": "",
+    "lat": 45.7167,
+    "lon": 27.1167
+  },
+  {
+    "county": "VS",
+    "location": "Bârlad",
+    "location_details": "",
+    "lat": 46.2333,
+    "lon": 27.6667
+  },
+  {
+    "county": "VS",
+    "location": "Vaslui",
+    "location_details": "",
+    "lat": 46.6406,
+    "lon": 27.7306
+  },
+  {
+    "county": "VS",
+    "location": "Vaslui",
+    "location_details": "Cabana Bahnari",
+    "lat": 46.6406,
+    "lon": 27.7306
+  }
+]

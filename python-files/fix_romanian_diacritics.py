@@ -225,6 +225,53 @@ DIACRITIC_CORRECTIONS = {
     "Ialomitei": "Ialomiței",
 
     # Additional locations and words
+    "Campeni": "Câmpeni",
+    "Balta": "Baltă",
+    "Leresti": "Lerești",
+    "Petris": "Petriș",
+    "Savarsin": "Săvârșin",
+    "Soimos": "Șoimoș",
+    "Calugara": "Călugăra",
+    "Baile": "Băile",
+    "Stana": "Stâna",
+    "Anies": "Anieș",
+    "Posmus": "Posmuș",
+    "Harman": "Hărman",
+    "Venetia": "Veneția",
+    "Borsa": "Borșa",
+    "Crisului": "Crișului",
+    "Rachitele": "Răchițele",
+    "Oravita": "Oravița",
+    "Montana": "Montană",
+    "Zavoi": "Zăvoi",
+    "Targoviste": "Târgoviște",
+    "Tusnad": "Tușnad",
+    "Ditrau": "Ditrău",
+    "Madaras": "Mădăraș",
+    "Lazarea": "Lăzarea",
+    "Vlasiei": "Vlăsiei",
+    "Rachiteni": "Răchiteni",
+    "Chisinau": "Chișinău",
+    "Moisesti": "Moisești",
+    "Viseu": "Vișeu",
+    "Salard": "Șălard",
+    "Cocorastii": "Cocorăștii",
+    "Floresti": "Florești",
+    "Traisteni": "Trăisteni",
+    "Cisnadioara": "Cisnădioara",
+    "Paltinis": "Păltiniș",
+    "Rau": "Râu",
+    "Selimbar": "Șelimbăr",
+    "Rosu": "Roșu",
+    "Orasu": "Orașu",
+    "Niculitel": "Niculițel",
+    "Dumbravita": "Dumbrăvița",
+    "Recas": "Recaș",
+    "Sacalaz": "Săcălaz",
+    "Barbatesti": "Bărbătești",
+    "Roesti": "Roești",
+    "Odobesti": "Odobești",
+    "Paulesti": "Păulești",
     "Baneasa": "Băneasa",
     "Baicoi": "Băicoi",
     "Branesti": "Brănești",
@@ -363,9 +410,61 @@ def fix_json_diacritics():
 
     return total_changes
 
+def fix_coordinates_diacritics():
+    """Fix Romanian diacritics in coordinates.json"""
+    base_path = Path(__file__).parent.parent / 'json-files'
+    json_file = base_path / 'coordinates.json'
+
+    print("\nLoading coordinates.json...")
+    with open(json_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    total_changes = 0
+    change_log = []
+
+    for idx, entry in enumerate(data):
+        entry_changes = []
+
+        for field in ('location', 'location_details'):
+            if entry.get(field):
+                fixed, changes = fix_text_with_diacritics(entry[field])
+                if changes:
+                    entry[field] = fixed
+                    entry_changes.extend([f"{field}: {c}" for c in changes])
+
+        if entry_changes:
+            log_entry = f"coordinates[{idx}] {entry.get('county', '?')} / {entry.get('location', '?')}:"
+            for change in entry_changes:
+                log_entry += f"\n  - {change}"
+            change_log.append(log_entry)
+            total_changes += len(entry_changes)
+
+    print(f"\n{'='*80}")
+    print(f"TOTAL CHANGES IN COORDINATES: {total_changes}")
+    print(f"{'='*80}\n")
+
+    if change_log:
+        print("Changes made:\n")
+        for log_entry in change_log:
+            print(log_entry)
+            print()
+    else:
+        print("No changes needed - all diacritics are correct!")
+
+    if total_changes > 0:
+        print(f"\n{'='*80}")
+        print("Saving fixed coordinates.json...")
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print("Done! File saved successfully.")
+
+    return total_changes
+
+
 if __name__ == "__main__":
     changes = fix_json_diacritics()
+    changes += fix_coordinates_diacritics()
     if changes > 0:
-        print(f"\n✓ Fixed {changes} diacritic issue(s)")
+        print(f"\n✓ Fixed {changes} diacritic issue(s) in total")
     else:
         print("\n✓ No issues found")

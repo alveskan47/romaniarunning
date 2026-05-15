@@ -83,6 +83,8 @@ class Edition:
     year: int = 0
     month: int = 0
     day: int = 0
+    lat: float = None
+    lon: float = None
 
     def __post_init__(self):
         """Initialize mutable default values."""
@@ -153,7 +155,11 @@ def convert_object_into_json(input_object: Any, input_indent: int = 2) -> str:
     Returns:
         JSON-formatted string representation of the object
     """
-    return json.dumps(input_object, default=lambda o: o.__dict__, indent=input_indent, ensure_ascii=False)
+    def serialize(o):
+        if hasattr(o, '__dict__'):
+            return {k: v for k, v in o.__dict__.items() if v is not None}
+        return o
+    return json.dumps(input_object, default=serialize, indent=input_indent, ensure_ascii=False)
 
 
 def write_file(output_file_name: str, output_content: str) -> None:
@@ -252,6 +258,11 @@ def main() -> None:
                 current_event.link_fb = competition["link_fb"]
             else:
                 current_event.link_fb = ""
+
+            if "lat" in competition:
+                current_event.lat = competition["lat"]
+            if "lon" in competition:
+                current_event.lon = competition["lon"]
 
             current_event.id = competition["id"]
             current_event.year = event_date["year"]

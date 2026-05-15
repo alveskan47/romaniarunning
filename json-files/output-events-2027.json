@@ -15,7 +15,9 @@
     "id": 31,
     "year": 2027,
     "month": 1,
-    "day": 30
+    "day": 30,
+    "lat": 44.4223231273,
+    "lon": 26.1548381031
   },
   {
     "name": "Team Up & Run",
@@ -32,7 +34,9 @@
     "id": 101,
     "year": 2027,
     "month": 2,
-    "day": 27
+    "day": 27,
+    "lat": 45.7538014831,
+    "lon": 21.2259904857
   },
   {
     "name": "Uphill Running Championship (URC) - Bencec Rolling Hills",
@@ -53,7 +57,9 @@
     "id": 103,
     "year": 2027,
     "month": 3,
-    "day": 13
+    "day": 13,
+    "lat": 45.499995,
+    "lon": 21.366695
   },
   {
     "name": "Mileștii Mici Winerun",
@@ -70,7 +76,9 @@
     "id": 0,
     "year": 2027,
     "month": 3,
-    "day": 13
+    "day": 13,
+    "lat": 46.8833,
+    "lon": 28.9167
   },
   {
     "name": "SportGuru Timișoara 21k",
@@ -89,7 +97,9 @@
     "id": 8,
     "year": 2027,
     "month": 3,
-    "day": 21
+    "day": 21,
+    "lat": 45.7537914831,
+    "lon": 21.2259904857
   },
   {
     "name": "Maratonul Argonautilor",
@@ -108,7 +118,9 @@
     "id": 52,
     "year": 2027,
     "month": 4,
-    "day": 10
+    "day": 10,
+    "lat": 44.4167,
+    "lon": 28.5167
   },
   {
     "name": "Băneasa Forest Run - Spring",
@@ -128,11 +140,13 @@
     "id": 49,
     "year": 2027,
     "month": 4,
-    "day": 11
+    "day": 11,
+    "lat": 44.4223231273,
+    "lon": 26.1548781031
   },
   {
     "name": "La Petrovaselo in vie",
-    "location": "Recas",
+    "location": "Recaș",
     "location_details": "Petrovaselo",
     "display_date": "Sat 17-Apr-2027",
     "county": "TM",
@@ -147,7 +161,9 @@
     "id": 53,
     "year": 2027,
     "month": 4,
-    "day": 17
+    "day": 17,
+    "lat": 45.7667,
+    "lon": 21.5
   },
   {
     "name": "Bucharest International Half Marathon",
@@ -166,7 +182,9 @@
     "id": 56,
     "year": 2027,
     "month": 4,
-    "day": 25
+    "day": 25,
+    "lat": 44.4223331273,
+    "lon": 26.1548281031
   },
   {
     "name": "Maraton 1 Decembrie București",
@@ -185,7 +203,9 @@
     "id": 9,
     "year": 2027,
     "month": 12,
-    "day": 1
+    "day": 1,
+    "lat": 44.4223231273,
+    "lon": 26.1548181031
   },
   {
     "name": "Cluj EcoTrail Ultramarathon",
@@ -205,6 +225,8 @@
     "id": 10,
     "year": 2027,
     "month": 12,
-    "day": 1
+    "day": 1,
+    "lat": 44.4273690467,
+    "lon": 26.0924082546
   }
 ]
