@@ -62,10 +62,16 @@
 
     <!-- Map chart -->
     <figure class="highcharts-figure">
-        <div class="mb-2">
-            <button class="btn btn-sm btn-outline-secondary" onclick="resetMapZoom()" title="Reset zoom">
-                <i class="bi bi-fullscreen"></i> Reset zoom
-            </button>
+        <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap gap-2">
+            <div class="d-flex align-items-center gap-3">
+                <button class="btn btn-sm btn-outline-secondary" onclick="resetMapZoom()" title="Reset zoom">
+                    <i class="bi bi-fullscreen"></i> Reset zoom
+                </button>
+                <span><i class="bi bi-geo-alt-fill" style="color:#dc3545;"></i> Past</span>
+                <span><i class="bi bi-geo-alt-fill" style="color:#0dcaf0;"></i> This week</span>
+                <span><i class="bi bi-geo-alt-fill" style="color:#28a745;"></i> Upcoming</span>
+            </div>
+            <span class="text-muted" id="map-current-date"></span>
         </div>
         <div id="map-container" style="height: 600px;"></div>
     </figure>

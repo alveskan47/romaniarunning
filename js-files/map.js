@@ -39,17 +39,48 @@ function change_month(month) {
     applyMonthFilter();
 }
 
+function getPointColor(e) {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const nextWeek = new Date(today);
+    nextWeek.setDate(nextWeek.getDate() + 7);
+    const eventDate = new Date(e.year, e.month - 1, e.day);
+    if (eventDate < today) return '#dc3545';
+    if (eventDate <= nextWeek) return '#0dcaf0';
+    return '#28a745';
+}
+
+function jitterDuplicateCoords(points) {
+    const groups = {};
+    points.forEach(p => {
+        const key = `${p.lat},${p.lon}`;
+        if (!groups[key]) groups[key] = [];
+        groups[key].push(p);
+    });
+    Object.values(groups).forEach(group => {
+        if (group.length < 2) return;
+        const radius = 0.002;
+        group.forEach((p, i) => {
+            const angle = (2 * Math.PI / group.length) * i;
+            p.lat = p.lat + radius * Math.cos(angle);
+            p.lon = p.lon + radius * Math.sin(angle);
+        });
+    });
+    return points;
+}
+
 function applyMonthFilter() {
     const filtered = currentMapMonth === null
         ? currentRawGeoEvents
         : currentRawGeoEvents.filter(e => e.month === currentMapMonth);
 
-    currentMapData = filtered.map(e => ({
+    currentMapData = jitterDuplicateCoords(filtered.map(e => ({
         name: e.name,
         lat: e.lat,
         lon: e.lon,
+        color: getPointColor(e),
         events: [e]
-    }));
+    })));
     drawMap(currentMapData, filtered.length);
 }
 
@@ -183,11 +214,14 @@ async function drawMap(points, totalCount) {
             showInLegend: false,
             nullColor: colors.nullColor,
             borderColor: colors.gridColor,
-            borderWidth: 0.5
+            borderWidth: 0.5,
+            states: {
+                hover: { enabled: false },
+                inactive: { enabled: false }
+            }
         }, {
             type: 'mappoint',
             name: 'Competitions',
-            color: '#2caffe',
             marker: {
                 symbol: 'mapmarker',
                 radius: 8
@@ -233,6 +267,11 @@ document.addEventListener('themeChanged', () => {
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('text_year').textContent = currentMapYear;
     document.getElementById('text_month').textContent = 'All months';
+
+    const today = new Date();
+    document.getElementById('map-current-date').textContent =
+        'Today: ' + today.toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' });
+
     loadAvailableYears();
     buildMonthDropdown();
     loadMapForYear(currentMapYear);
