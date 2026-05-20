@@ -57,6 +57,11 @@
       "lon": 23.5716852975,
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 11
+        },
+        {
           "year": 2026,
           "month": 3,
           "day": 29
@@ -1492,6 +1497,11 @@
       "link_fb": "https://www.facebook.com/WoodLandSeriesTrail",
       "editions": [
         {
+          "year": 2027,
+          "month": 3,
+          "day": 21
+        },
+        {
           "year": 2026,
           "month": 3,
           "day": 21
@@ -2195,6 +2205,11 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 24
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 2
@@ -2234,6 +2249,11 @@
       "link": "https://www.subcarpatitrailrun.ro/",
       "link_fb": "https://www.facebook.com/subcarpatitrailrun",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 8
+        },
         {
           "year": 2026,
           "month": 5,
@@ -11169,8 +11189,7 @@
     {
       "id": 341,
       "name": "Run for Life - Dumbrava Vlăsiei",
-      "location": "Snagov",
-      "location_details": "Pădurea Vladiceasa",
+      "location": "Balotești",
       "county": "IF",
       "type": "trail",
       "distances": [
@@ -11183,13 +11202,18 @@
       "link_fb": "https://www.facebook.com/runforlife.ro/",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 27
         }
       ],
-      "lat": 44.6833,
-      "lon": 26.150005
+      "lat": 44.6222,
+      "lon": 26.0863
     },
     {
       "id": 342,
@@ -11483,6 +11507,12 @@
           "month": 9,
           "day": 29,
           "event_link": "https://www.facebook.com/events/1263342372193058"
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/355086520241855/"
         }
       ],
       "lat": 45.797495,
@@ -11606,12 +11636,17 @@
       "type": "trail",
       "distances": [
         "21km",
-        "8km",
+        "10km",
         "3km"
       ],
       "link": "https://www.facebook.com/RunningAndCyclingClubBlaj",
       "link_fb": "https://www.facebook.com/RunningAndCyclingClubBlaj",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
         {
           "year": 2025,
           "month": 10,
@@ -12517,7 +12552,7 @@
     },
     {
       "id": 389,
-      "name": "Subcarpati Trail Run Night",
+      "name": "Subcarpați Trail Run by Night",
       "location": "Cocorăștii Mislii",
       "county": "PH",
       "type": "trail",
@@ -12528,9 +12563,24 @@
       "link_fb": "https://www.facebook.com/subcarpatitrailrun",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 31
+        },
+        {
           "year": 2025,
           "month": 11,
           "day": 1
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "day": 2
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 11
         }
       ],
       "lat": 44.9833,
@@ -12799,6 +12849,12 @@
           "month": 11,
           "day": 22,
           "event_link": "https://www.facebook.com/events/1103831624564795"
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 3,
+          "event_link": "https://www.facebook.com/events/1280978362618520"
         }
       ],
       "lat": 44.9833,
@@ -12907,6 +12963,18 @@
           "month": 11,
           "day": 15,
           "event_link": "https://www.facebook.com/photo/?fbid=1310097400916788"
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/536210882454367/"
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 11,
+          "event_link": "https://www.facebook.com/events/260545246527381/"
         }
       ],
       "lat": 45.435305,
@@ -15930,6 +15998,11 @@
           "year": 2024,
           "month": 11,
           "day": 10
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 28
         }
       ],
       "lat": 47.3,
@@ -16655,6 +16728,479 @@
       ],
       "lat": 45.35,
       "lon": 25.15
+    },
+    {
+      "id": 557,
+      "name": "Crosul Copiilor – Mișcare și Educație în Satul Meu",
+      "location": "Ojasca",
+      "county": "BZ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1871819583504568"
+        }
+      ],
+      "lat": 45.3,
+      "lon": 26.65
+    },
+    {
+      "id": 558,
+      "name": "Aradul in miscare",
+      "location": "Arad",
+      "location_details": "Pădurea Ceala",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "22.4km",
+        "5.6km"
+      ],
+      "link": "https://euromediu.ro/evenimente/aradul-in-miscare/",
+      "link_fb": "https://www.facebook.com/profile.php?id=100057529934395",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 24
+        }
+      ],
+      "lat": 46.1667,
+      "lon": 21.25
+    },
+    {
+      "id": 559,
+      "name": "Alerg pentru mai bine - Pașcani",
+      "location": "Pașcani",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/1701018914406644/"
+        }
+      ],
+      "lat": 47.2469,
+      "lon": 26.7229
+    },
+    {
+      "id": 560,
+      "name": "Crosul Universitatilor Clujene",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/1483910073461951"
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 561,
+      "name": "Trail Run - Viața în Mișcare",
+      "location": "Târsa",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "8km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/2655717861494459"
+        }
+      ],
+      "lat": 45.6303,
+      "lon": 23.1667
+    },
+    {
+      "id": 562,
+      "name": "Danube Trail",
+      "location": "Oltenița",
+      "county": "CL",
+      "type": "trail",
+      "distances": [
+        "23km"
+      ],
+      "link": "https://danubetrail23k.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61566651125520",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        }
+      ],
+      "lat": 44.2051,
+      "lon": 26.6432
+    },
+    {
+      "id": 563,
+      "name": "Marcea Winery Run",
+      "location": "Ștefănești",
+      "county": "AG",
+      "type": "trail",
+      "distances": [
+        "12km",
+        "6km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 1
+        }
+      ],
+      "lat": 44.8651,
+      "lon": 24.9496
+    },
+    {
+      "id": 564,
+      "name": "Visit Covasna Marathon",
+      "location": "Covasna",
+      "county": "CV",
+      "type": "road",
+      "distances": [
+        "42km",
+        "21km",
+        "10km"
+      ],
+      "link": "https://www.facebook.com/visitcovasnamarathon",
+      "link_fb": "https://www.facebook.com/visitcovasnamarathon",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 1
+        }
+      ],
+      "lat": 45.8473,
+      "lon": 26.1783
+    },
+    {
+      "id": 565,
+      "name": "Cluj Semimaraton",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km",
+        "5km",
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 8
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 566,
+      "name": "Run the Lift",
+      "location": "Petroșani",
+      "location_details": "Statiunea Parang",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "2.5km(615m↑)"
+      ],
+      "link": "https://www.facebook.com/runthelift/",
+      "link_fb": "https://www.facebook.com/runthelift/",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 14
+        }
+      ],
+      "lat": 45.3333,
+      "lon": 23.5833
+    },
+    {
+      "id": 567,
+      "name": "Wine Racers",
+      "location": "Cogealac",
+      "county": "CT",
+      "type": "trail",
+      "distances": [
+        "21km(300m↑)",
+        "7km(33m↑)"
+      ],
+      "link": "https://maratonulargonautilor.ro/regulament-wine-racers-semimaraton/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 21
+        }
+      ],
+      "lat": 44.6028,
+      "lon": 28.4108
+    },
+    {
+      "id": 568,
+      "name": "Bunloc Vertical Race",
+      "location": "Săcele",
+      "county": "BV",
+      "type": "trail",
+      "distances": [
+        "3km(500m↑)"
+      ],
+      "link": "https://sportmontan.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 28
+        }
+      ],
+      "lat": 45.6167,
+      "lon": 25.691
+    },
+    {
+      "id": 569,
+      "name": "Crosul Mai Departe",
+      "location": "Timișoara",
+      "location_details": "Parcul Central Timișoara",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "1.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 4,
+          "event_link": "https://www.facebook.com/events/1098269997823136"
+        }
+      ],
+      "lat": 45.75380648314605,
+      "lon": 21.22600548573397
+    },
+    {
+      "id": 570,
+      "name": "Track Challenge",
+      "location": "Iași",
+      "location_details": "Stadionul Emil Alexandrescu",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/341235308362967"
+        }
+      ],
+      "lat": 47.1574,
+      "lon": 27.587
+    },
+    {
+      "id": 571,
+      "name": "Crosul Studentesc Unifest",
+      "location": "București",
+      "location_details": "Parcul Tineretului",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/875596634196675/"
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
+    },
+    {
+      "id": 572,
+      "name": "Kifutok a Hargitara",
+      "location": "Odorheiu Secuiesc",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "42km(1500m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 11,
+          "event_link": "https://www.facebook.com/events/1882698778791568/"
+        }
+      ],
+      "lat": 46.3,
+      "lon": 25.3
+    },
+    {
+      "id": 573,
+      "name": "Crosul Dealul Viilor Lugoj",
+      "location": "Lugoj",
+      "county": "TM",
+      "type": "trail",
+      "distances": [
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/881115226751971"
+        }
+      ],
+      "lat": 45.6833,
+      "lon": 21.9
+    },
+    {
+      "id": 574,
+      "name": "Sanatate prin educatie: The Race",
+      "location": "Recaș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 18
+        }
+      ],
+      "lat": 45.8046,
+      "lon": 21.5069
+    },
+    {
+      "id": 575,
+      "name": "Oradea 1k Run",
+      "location": "Oradea",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "1km"
+      ],
+      "link": "https://www.facebook.com/oradea1k",
+      "link_fb": "https://www.facebook.com/oradea1k",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 12,
+          "day": 2
+        }
+      ],
+      "lat": 47.05596091490953,
+      "lon": 21.93951167742133
+    },
+    {
+      "id": 576,
+      "name": "Crosul Moș Nicolae - Băile Felix",
+      "location": "Băile Felix",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "2km",
+        "1km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 12,
+          "day": 9,
+          "event_link": "https://www.facebook.com/events/379656374727498/"
+        }
+      ],
+      "lat": 47.0333,
+      "lon": 21.9
+    },
+    {
+      "id": 577,
+      "name": "Alearga-l pe Moș Craciun",
+      "location": "Cluj-Napoca",
+      "location_details": "Parcul Central",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "10km",
+        "5km",
+        "0.6km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 12,
+          "day": 9
+        }
+      ],
+      "lat": 46.7697,
+      "lon": 23.5883
     }
   ],
   "competitions_no_statistics": [

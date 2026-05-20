@@ -6321,8 +6321,8 @@
   },
   {
     "name": "Run for Life - Dumbrava Vlăsiei",
-    "location": "Snagov",
-    "location_details": "Pădurea Vladiceasa",
+    "location": "Balotești",
+    "location_details": "",
     "display_date": "Sat 27-Sep-2025",
     "county": "IF",
     "type": "trail",
@@ -6338,8 +6338,8 @@
     "year": 2025,
     "month": 9,
     "day": 27,
-    "lat": 44.6833,
-    "lon": 26.150005
+    "lat": 44.6222,
+    "lon": 26.0863
   },
   {
     "name": "Crosul Odorheiului",
@@ -6773,7 +6773,7 @@
     "type": "trail",
     "distances": [
       "21km",
-      "8km",
+      "10km",
       "3km"
     ],
     "link": "https://www.facebook.com/RunningAndCyclingClubBlaj",
@@ -7771,7 +7771,7 @@
     "lon": 25.550005
   },
   {
-    "name": "Subcarpati Trail Run Night",
+    "name": "Subcarpați Trail Run by Night",
     "location": "Cocorăștii Mislii",
     "location_details": "",
     "display_date": "Sat 01-Nov-2025",

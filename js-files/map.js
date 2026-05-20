@@ -172,11 +172,13 @@ async function drawMap(points, totalCount) {
                 }
 
                 const events = p.events || [];
+                const currentYear = new Date().getFullYear();
 
                 if (events.length > 1) {
                     let html = `<b>${p.name}</b>`;
                     events.forEach(e => {
-                        const nameHtml = e.link
+                        const showLink = e.link && e.year >= (currentYear - 1);
+                        const nameHtml = showLink
                             ? `<a href="${e.link}" target="_blank" rel="noopener">${e.name}</a>`
                             : e.name;
                         const dists = (e.distances || []).join(', ');
@@ -191,7 +193,8 @@ async function drawMap(points, totalCount) {
 
                 const e = events[0] || p;
                 const dists = (e.distances || []).join(', ');
-                const nameHtml = e.link
+                const showLink = e.link && e.year >= (currentYear - 1);
+                const nameHtml = showLink
                     ? `<b><a href="${e.link}" target="_blank" rel="noopener">${e.name}</a></b>`
                     : `<b>${e.name}</b>`;
                 return `${nameHtml}<br>` +

@@ -4685,6 +4685,47 @@
     "lon": 24.2833
   },
   {
+    "name": "Marcea Winery Run",
+    "location": "Ștefănești",
+    "location_details": "",
+    "display_date": "Sun 01-Oct-2023",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "12km",
+      "6km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 563,
+    "year": 2023,
+    "month": 10,
+    "day": 1,
+    "lat": 44.8651,
+    "lon": 24.9496
+  },
+  {
+    "name": "Visit Covasna Marathon",
+    "location": "Covasna",
+    "location_details": "",
+    "display_date": "Sun 01-Oct-2023",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.facebook.com/visitcovasnamarathon",
+    "link_fb": "https://www.facebook.com/visitcovasnamarathon",
+    "id": 564,
+    "year": 2023,
+    "month": 10,
+    "day": 1,
+    "lat": 45.8473,
+    "lon": 26.1783
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -4758,7 +4799,7 @@
     "type": "trail",
     "distances": [
       "21km",
-      "8km",
+      "10km",
       "3km"
     ],
     "link": "https://www.facebook.com/RunningAndCyclingClubBlaj",
@@ -4872,6 +4913,28 @@
     "lon": 27.5869556538
   },
   {
+    "name": "Cluj Semimaraton",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 08-Oct-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 565,
+    "year": 2023,
+    "month": 10,
+    "day": 8,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
+  },
+  {
     "name": "Porolissum Trail",
     "location": "Moigrad",
     "location_details": "",
@@ -4953,6 +5016,25 @@
     "day": 14,
     "lat": 47.05,
     "lon": 24.3333
+  },
+  {
+    "name": "Run the Lift",
+    "location": "Petroșani",
+    "location_details": "Statiunea Parang",
+    "display_date": "Sat 14-Oct-2023",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "2.5km(615m↑)"
+    ],
+    "link": "https://www.facebook.com/runthelift/",
+    "link_fb": "https://www.facebook.com/runthelift/",
+    "id": 566,
+    "year": 2023,
+    "month": 10,
+    "day": 14,
+    "lat": 45.3333,
+    "lon": 23.5833
   },
   {
     "name": "Bucharest Marathon",
@@ -5121,6 +5203,26 @@
     "lon": 28.634805
   },
   {
+    "name": "Wine Racers",
+    "location": "Cogealac",
+    "location_details": "",
+    "display_date": "Sat 21-Oct-2023",
+    "county": "CT",
+    "type": "trail",
+    "distances": [
+      "21km(300m↑)",
+      "7km(33m↑)"
+    ],
+    "link": "https://maratonulargonautilor.ro/regulament-wine-racers-semimaraton/",
+    "link_fb": "",
+    "id": 567,
+    "year": 2023,
+    "month": 10,
+    "day": 21,
+    "lat": 44.6028,
+    "lon": 28.4108
+  },
+  {
     "name": "Timișoara City Marathon",
     "location": "Timișoara",
     "location_details": "",
@@ -5222,6 +5324,44 @@
     "lon": 25.066695
   },
   {
+    "name": "Bucovina Cross Country",
+    "location": "Poiana Stampei",
+    "location_details": "",
+    "display_date": "Sat 28-Oct-2023",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://athrun.ro/bucovina-cross-country/",
+    "link_fb": "https://www.facebook.com/people/Athletics-Run-Club/61554488710766/",
+    "id": 524,
+    "year": 2023,
+    "month": 10,
+    "day": 28,
+    "lat": 47.3,
+    "lon": 25.15
+  },
+  {
+    "name": "Bunloc Vertical Race",
+    "location": "Săcele",
+    "location_details": "",
+    "display_date": "Sat 28-Oct-2023",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "3km(500m↑)"
+    ],
+    "link": "https://sportmontan.ro/",
+    "link_fb": "",
+    "id": 568,
+    "year": 2023,
+    "month": 10,
+    "day": 28,
+    "lat": 45.6167,
+    "lon": 25.691
+  },
+  {
     "name": "Băneasa Forest Run - Autumn",
     "location": "București",
     "location_details": "Pădurea Băneasa",
@@ -5261,6 +5401,25 @@
     "day": 29,
     "lat": 44.858305,
     "lon": 24.86329
+  },
+  {
+    "name": "Frontaliada",
+    "location": "Budeasa",
+    "location_details": "Budeasa Baraj",
+    "display_date": "Fri 03-Nov-2023",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/1280978362618520",
+    "link_fb": "",
+    "id": 398,
+    "year": 2023,
+    "month": 11,
+    "day": 3,
+    "lat": 44.9833,
+    "lon": 24.833305
   },
   {
     "name": "IstritaXscape",
@@ -5365,6 +5524,63 @@
     "lon": 23.5717352975
   },
   {
+    "name": "Crosul Mai Departe",
+    "location": "Timișoara",
+    "location_details": "Parcul Central Timișoara",
+    "display_date": "Sat 04-Nov-2023",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "1.5km"
+    ],
+    "link": "https://www.facebook.com/events/1098269997823136",
+    "link_fb": "",
+    "id": 569,
+    "year": 2023,
+    "month": 11,
+    "day": 4,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
+  },
+  {
+    "name": "Track Challenge",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sun 05-Nov-2023",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/341235308362967",
+    "link_fb": "",
+    "id": 570,
+    "year": 2023,
+    "month": 11,
+    "day": 5,
+    "lat": 47.1574,
+    "lon": 27.587
+  },
+  {
+    "name": "Crosul Studentesc Unifest",
+    "location": "București",
+    "location_details": "Parcul Tineretului",
+    "display_date": "Sun 05-Nov-2023",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/875596634196675/",
+    "link_fb": "",
+    "id": 571,
+    "year": 2023,
+    "month": 11,
+    "day": 5,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
+  },
+  {
     "name": "Crosul de Noapte Cluj (toamna)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -5424,6 +5640,25 @@
     "lon": 24.57501
   },
   {
+    "name": "Subcarpați Trail Run by Night",
+    "location": "Cocorăștii Mislii",
+    "location_details": "",
+    "display_date": "Sat 11-Nov-2023",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "9km(250m↑)"
+    ],
+    "link": "https://www.subcarpatitrailrun.ro/strbynight/",
+    "link_fb": "https://www.facebook.com/subcarpatitrailrun",
+    "id": 389,
+    "year": 2023,
+    "month": 11,
+    "day": 11,
+    "lat": 44.9833,
+    "lon": 25.783305
+  },
+  {
     "name": "Sky Run",
     "location": "București",
     "location_details": "Sky Tower",
@@ -5460,6 +5695,44 @@
     "day": 11,
     "lat": 45.1394,
     "lon": 24.6781
+  },
+  {
+    "name": "Crosul Andreian Galați",
+    "location": "Galați",
+    "location_details": "",
+    "display_date": "Sat 11-Nov-2023",
+    "county": "GL",
+    "type": "road",
+    "distances": [
+      "1.7km"
+    ],
+    "link": "https://www.facebook.com/events/260545246527381/",
+    "link_fb": "",
+    "id": 402,
+    "year": 2023,
+    "month": 11,
+    "day": 11,
+    "lat": 45.435305,
+    "lon": 28.050005
+  },
+  {
+    "name": "Kifutok a Hargitara",
+    "location": "Odorheiu Secuiesc",
+    "location_details": "",
+    "display_date": "Sat 11-Nov-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "42km(1500m↑)"
+    ],
+    "link": "https://www.facebook.com/events/1882698778791568/",
+    "link_fb": "",
+    "id": 572,
+    "year": 2023,
+    "month": 11,
+    "day": 11,
+    "lat": 46.3,
+    "lon": 25.3
   },
   {
     "name": "Semimaraton Dealul Bălănești",
@@ -5522,6 +5795,25 @@
     "lon": 21.333295
   },
   {
+    "name": "Crosul inimii – Sibiul are inima",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Tue 14-Nov-2023",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.facebook.com/events/355086520241855/",
+    "link_fb": "",
+    "id": 352,
+    "year": 2023,
+    "month": 11,
+    "day": 14,
+    "lat": 45.797495,
+    "lon": 24.15081
+  },
+  {
     "name": "Arad Fall Run",
     "location": "Arad",
     "location_details": "Parcul Eminescu",
@@ -5542,6 +5834,45 @@
     "day": 18,
     "lat": 46.1833,
     "lon": 21.316705
+  },
+  {
+    "name": "Crosul Dealul Viilor Lugoj",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sat 18-Nov-2023",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/881115226751971",
+    "link_fb": "",
+    "id": 573,
+    "year": 2023,
+    "month": 11,
+    "day": 18,
+    "lat": 45.6833,
+    "lon": 21.9
+  },
+  {
+    "name": "Sanatate prin educatie: The Race",
+    "location": "Recaș",
+    "location_details": "",
+    "display_date": "Sat 18-Nov-2023",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 574,
+    "year": 2023,
+    "month": 11,
+    "day": 18,
+    "lat": 45.8046,
+    "lon": 21.5069
   },
   {
     "name": "4 RUN 4 FUN - Memorial Klosz Peter – Night Run",
@@ -5625,6 +5956,25 @@
     "lon": 26.0924082546
   },
   {
+    "name": "Oradea 1k Run",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 02-Dec-2023",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "1km"
+    ],
+    "link": "https://www.facebook.com/oradea1k",
+    "link_fb": "https://www.facebook.com/oradea1k",
+    "id": 575,
+    "year": 2023,
+    "month": 12,
+    "day": 2,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133
+  },
+  {
     "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
     "location": "Satu Mare",
     "location_details": "",
@@ -5661,6 +6011,47 @@
     "day": 9,
     "lat": 46.558305,
     "lon": 24.575
+  },
+  {
+    "name": "Crosul Moș Nicolae - Băile Felix",
+    "location": "Băile Felix",
+    "location_details": "",
+    "display_date": "Sat 09-Dec-2023",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "2km",
+      "1km"
+    ],
+    "link": "https://www.facebook.com/events/379656374727498/",
+    "link_fb": "",
+    "id": 576,
+    "year": 2023,
+    "month": 12,
+    "day": 9,
+    "lat": 47.0333,
+    "lon": 21.9
+  },
+  {
+    "name": "Alearga-l pe Moș Craciun",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Central",
+    "display_date": "Sat 09-Dec-2023",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "0.6km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 577,
+    "year": 2023,
+    "month": 12,
+    "day": 9,
+    "lat": 46.7697,
+    "lon": 23.5883
   },
   {
     "name": "Semimaraton Pe Argeș in Jos",

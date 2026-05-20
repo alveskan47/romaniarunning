@@ -224,6 +224,13 @@
     "lon": 24.5833
   },
   {
+    "county": "AG",
+    "location": "Ștefănești",
+    "location_details": "",
+    "lat": 44.8651,
+    "lon": 24.9496
+  },
+  {
     "county": "AR",
     "location": "Arad",
     "location_details": "",
@@ -383,6 +390,13 @@
     "location_details": "Parcul Lumea Copiilor",
     "lat": 44.4244,
     "lon": 26.175
+  },
+  {
+    "county": "B",
+    "location": "București",
+    "location_details": "Parcul Tineretului",
+    "lat": 44.4045,
+    "lon": 26.1034
   },
   {
     "county": "B",
@@ -813,6 +827,13 @@
   },
   {
     "county": "BV",
+    "location": "Săcele",
+    "location_details": "",
+    "lat": 45.6167,
+    "lon": 25.691
+  },
+  {
+    "county": "BV",
     "location": "Veneția de Jos",
     "location_details": "",
     "lat": 45.8333,
@@ -866,6 +887,13 @@
     "location_details": "",
     "lat": 45.0167,
     "lon": 27.0833
+  },
+  {
+    "county": "BZ",
+    "location": "Ojasca",
+    "location_details": "",
+    "lat": 45.3,
+    "lon": 26.65
   },
   {
     "county": "BZ",
@@ -1120,6 +1148,13 @@
     "lon": 27.3317
   },
   {
+    "county": "CL",
+    "location": "Oltenița",
+    "location_details": "",
+    "lat": 44.2051,
+    "lon": 26.6432
+  },
+  {
     "county": "CS",
     "location": "Băile Herculane",
     "location_details": "",
@@ -1184,6 +1219,13 @@
   },
   {
     "county": "CT",
+    "location": "Cogealac",
+    "location_details": "",
+    "lat": 44.6028,
+    "lon": 28.4108
+  },
+  {
+    "county": "CT",
     "location": "Constanța",
     "location_details": "",
     "lat": 44.1598,
@@ -1230,6 +1272,13 @@
     "location_details": "",
     "lat": 44.0833,
     "lon": 28.5833
+  },
+  {
+    "county": "CV",
+    "location": "Covasna",
+    "location_details": "",
+    "lat": 45.8473,
+    "lon": 26.1783
   },
   {
     "county": "CV",
@@ -1464,9 +1513,16 @@
   },
   {
     "county": "HD",
+    "location": "Târsa",
+    "location_details": "",
+    "lat": 45.6303,
+    "lon": 23.1667
+  },
+  {
+    "county": "HD",
     "location": "Uricani",
     "location_details": "",
-    "lat": 45.35,/cos
+    "lat": 45.35,
     "lon": 23.4
   },
   {
@@ -1597,6 +1653,13 @@
   },
   {
     "county": "IF",
+    "location": "Balotești",
+    "location_details": "",
+    "lat": 44.6222,
+    "lon": 26.0863
+  },
+  {
+    "county": "IF",
     "location": "Cernica",
     "location_details": "",
     "lat": 44.3833,
@@ -1706,6 +1769,13 @@
     "location_details": "Stadionul Emil Alexandrescu",
     "lat": 47.1574,
     "lon": 27.587
+  },
+  {
+    "county": "IS",
+    "location": "Pașcani",
+    "location_details": "",
+    "lat": 47.2469,
+    "lon": 26.7229
   },
   {
     "county": "IS",
@@ -2133,6 +2203,13 @@
     "location_details": "",
     "lat": 46.5167,
     "lon": 24.8167
+  },
+  {
+    "county": "MS",
+    "location": "Recaș",
+    "location_details": "",
+    "lat": 45.8046,
+    "lon": 21.5069
   },
   {
     "county": "MS",
@@ -2791,6 +2868,13 @@
     "location_details": "",
     "lat": 45.75380648314605,
     "lon": 21.22600548573397
+  },
+  {
+    "county": "TM",
+    "location": "Timișoara",
+    "location_details": "Parcul Central Timișoara",
+    "lat": 45.7511,
+    "lon": 21.2234
   },
   {
     "county": "TM",

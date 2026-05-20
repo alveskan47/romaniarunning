@@ -102,6 +102,26 @@
     "lon": 21.2259904857
   },
   {
+    "name": "Woodland Series - Trail run",
+    "location": "Săldăbagiu de Munte",
+    "location_details": "",
+    "display_date": "Sun 21-Mar-2027",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "10km(300m↑)",
+      "5km(140m↑)"
+    ],
+    "link": "https://www.club3sport.ro/",
+    "link_fb": "https://www.facebook.com/WoodLandSeriesTrail",
+    "id": 40,
+    "year": 2027,
+    "month": 3,
+    "day": 21,
+    "lat": 46.8167,
+    "lon": 22.3667
+  },
+  {
     "name": "Maratonul Argonautilor",
     "location": "Cheile Dobrogei",
     "location_details": "",
@@ -121,6 +141,29 @@
     "day": 10,
     "lat": 44.4167,
     "lon": 28.5167
+  },
+  {
+    "name": "Wizz Air Cluj-Napoca Marathon",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 11-Apr-2027",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "4x10.5km relay",
+      "4km"
+    ],
+    "link": "https://maraton-cluj.ro/",
+    "link_fb": "https://www.facebook.com/ClujNapocaInternationalMarathon",
+    "id": 2,
+    "year": 2027,
+    "month": 4,
+    "day": 11,
+    "lat": 46.7686678405,
+    "lon": 23.5716852975
   },
   {
     "name": "Băneasa Forest Run - Spring",
@@ -166,6 +209,29 @@
     "lon": 21.5
   },
   {
+    "name": "Alergăraș în Făgăraș",
+    "location": "Făgăraș",
+    "location_details": "",
+    "display_date": "Sat 24-Apr-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "45.8km(1390m↑)",
+      "21km(680m↑)",
+      "14km(351m↑)",
+      "3km",
+      "1.3km"
+    ],
+    "link": "https://alergaras.ro/",
+    "link_fb": "",
+    "id": 57,
+    "year": 2027,
+    "month": 4,
+    "day": 24,
+    "lat": 45.8417,
+    "lon": 24.975
+  },
+  {
     "name": "Bucharest International Half Marathon",
     "location": "București",
     "location_details": "",
@@ -185,6 +251,29 @@
     "day": 25,
     "lat": 44.4223331273,
     "lon": 26.1548281031
+  },
+  {
+    "name": "Subcarpați Trail Run",
+    "location": "Cocorăștii Mislii",
+    "location_details": "",
+    "display_date": "Sat 08-May-2027",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "75km(2800m↑)",
+      "42km(1800m↑)",
+      "24km(1100m↑)",
+      "12km(500m↑)",
+      "4km(50m↑)"
+    ],
+    "link": "https://www.subcarpatitrailrun.ro/",
+    "link_fb": "https://www.facebook.com/subcarpatitrailrun",
+    "id": 58,
+    "year": 2027,
+    "month": 5,
+    "day": 8,
+    "lat": 44.9833,
+    "lon": 25.783295
   },
   {
     "name": "Maraton 1 Decembrie București",

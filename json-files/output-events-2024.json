@@ -6387,6 +6387,25 @@
     "lon": 22.35
   },
   {
+    "name": "Subcarpați Trail Run by Night",
+    "location": "Cocorăștii Mislii",
+    "location_details": "",
+    "display_date": "Sat 02-Nov-2024",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "9km(250m↑)"
+    ],
+    "link": "https://www.subcarpatitrailrun.ro/strbynight/",
+    "link_fb": "https://www.facebook.com/subcarpatitrailrun",
+    "id": 389,
+    "year": 2024,
+    "month": 11,
+    "day": 2,
+    "lat": 44.9833,
+    "lon": 25.783305
+  },
+  {
     "name": "Zărnești Challenge Semimaraton",
     "location": "Zărnești",
     "location_details": "",
@@ -6545,6 +6564,25 @@
     "day": 9,
     "lat": 45.1394,
     "lon": 24.6781
+  },
+  {
+    "name": "Crosul Andreian Galați",
+    "location": "Galați",
+    "location_details": "",
+    "display_date": "Sat 09-Nov-2024",
+    "county": "GL",
+    "type": "road",
+    "distances": [
+      "1.7km"
+    ],
+    "link": "https://www.facebook.com/events/536210882454367/",
+    "link_fb": "",
+    "id": 402,
+    "year": 2024,
+    "month": 11,
+    "day": 9,
+    "lat": 45.435305,
+    "lon": 28.050005
   },
   {
     "name": "Lunca Timișului CX",

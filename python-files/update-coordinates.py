@@ -173,6 +173,7 @@ def main():
     print("\nStep 1: Syncing locations into coordinates.json...")
     added, index = sync_locations(all_competitions, coords_list, index)
     coords_list.sort(key=lambda e: (e['county'], e['location'], e.get('location_details', '') or ''))
+    index = build_coords_index(coords_list)
     write_json(coords_path, coords_list)
 
     if added:
