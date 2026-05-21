@@ -7463,6 +7463,11 @@
       "link_fb": "https://www.facebook.com/DEFS.UB",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 24
@@ -11116,6 +11121,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 20,
+          "event_link": "https://oncohelp.ro/evenimente/evenimente-caritabile/crosul-oncohelp-2026/"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 21,
@@ -11416,6 +11427,11 @@
       "link": "https://run.ruse-giurgiu.eu/",
       "link_fb": "https://www.facebook.com/RunRuseGiurgiu/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 27
+        },
         {
           "year": 2025,
           "month": 9,
@@ -17201,6 +17217,72 @@
       ],
       "lat": 46.7697,
       "lon": 23.5883
+    },
+    {
+      "id": 578,
+      "name": "Crosul Universității Transilvania - Brașov",
+      "location": "Brașov",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 7,
+          "event_link": "https://unitbv.ro/studenti/evenimente-anuale/7566-crosul-universitatii-transilvania.html"
+        }
+      ],
+      "lat": 45.6427,
+      "lon": 25.5887
+    },
+    {
+      "id": 579,
+      "name": "Crosul umanitar MAI aproape de Matei și Mabel!",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/2006650183302476"
+        }
+      ],
+      "lat": 46.069,
+      "lon": 23.5763
+    },
+    {
+      "id": 580,
+      "name": "Crosul National Ziua Olimpica - București",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "2km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6,
+          "event_link": "https://www.cosr.ro/news/in-premiera-inscrieri-online-la-crosul-national-ziua-olimpica-de-la-bucuresti"
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
     }
   ],
   "competitions_no_statistics": [

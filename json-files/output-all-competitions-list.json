@@ -35,7 +35,7 @@
       "location": "Giurgiu",
       "county": "GR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 27-Sep",
       "year_2025": "Sun 28-Sep",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 30-Sep"
@@ -2175,6 +2175,17 @@
       "year_2023": "Sat 9-Dec"
     },
     {
+      "id": 580,
+      "name": "Crosul National Ziua Olimpica - București",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "Sat 6-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 252,
       "name": "Crosul National Ziua Olimpica - Pitești",
       "location": "Pitești",
@@ -2213,7 +2224,7 @@
       "location": "Timișoara",
       "county": "TM",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 20-Sep",
       "year_2025": "Sun 21-Sep",
       "year_2024": "Sun 22-Sep",
       "year_2023": ""
@@ -2527,6 +2538,17 @@
       "year_2023": ""
     },
     {
+      "id": 579,
+      "name": "Crosul umanitar MAI aproape de Matei și Mabel!",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "year_2027": "",
+      "year_2026": "Mon 1-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 406,
       "name": "Crosul Unirii - Alba Iulia",
       "location": "Alba Iulia",
@@ -2543,7 +2565,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 23-May",
       "year_2025": "Sat 24-May",
       "year_2024": "",
       "year_2023": ""
@@ -2555,6 +2577,17 @@
       "county": "CJ",
       "year_2027": "",
       "year_2026": "Sun 24-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 578,
+      "name": "Crosul Universității Transilvania - Brașov",
+      "location": "Brașov",
+      "county": "BV",
+      "year_2027": "",
+      "year_2026": "Thu 7-May",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""

@@ -4,6 +4,7 @@ let currentRawGeoEvents = [];
 let currentMapData = null;
 let mapChartInstance = null;
 let roTopology = null;
+let mdTopology = null;
 
 const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December'];
@@ -16,6 +17,7 @@ function getThemeColors() {
         textColor: isDark ? '#dee2e6' : '#333333',
         gridColor: isDark ? '#495057' : '#e6e6e6',
         nullColor: isDark ? '#343a40' : '#E0E0E0',
+        moldovaColor: isDark ? '#5a6472' : '#C0C0C0',
         tooltipBackground: isDark ? '#343a40' : '#ffffff',
         tooltipBorder: isDark ? '#6c757d' : '#cccccc'
     };
@@ -126,6 +128,13 @@ async function getTopology() {
     return roTopology;
 }
 
+async function getMoldovaTopology() {
+    if (!mdTopology) {
+        mdTopology = await fetch('json-files/md-all.topo.json').then(r => r.json());
+    }
+    return mdTopology;
+}
+
 async function loadMapForYear(year) {
     try {
         const events = await fetch_json_file(`json-files/output-events-${year}.json`);
@@ -138,7 +147,7 @@ async function loadMapForYear(year) {
 
 async function drawMap(points, totalCount) {
     const colors = getThemeColors();
-    const topology = await getTopology();
+    const [topology, moldovaTopology] = await Promise.all([getTopology(), getMoldovaTopology()]);
 
     if (mapChartInstance) {
         mapChartInstance.destroy();
@@ -216,6 +225,18 @@ async function drawMap(points, totalCount) {
             enableMouseTracking: false,
             showInLegend: false,
             nullColor: colors.nullColor,
+            borderColor: colors.gridColor,
+            borderWidth: 0.5,
+            states: {
+                hover: { enabled: false },
+                inactive: { enabled: false }
+            }
+        }, {
+            name: 'Moldova',
+            mapData: moldovaTopology,
+            enableMouseTracking: false,
+            showInLegend: false,
+            nullColor: colors.moldovaColor,
             borderColor: colors.gridColor,
             borderWidth: 0.5,
             states: {

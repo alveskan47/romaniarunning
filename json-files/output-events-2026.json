@@ -1709,6 +1709,25 @@
     "lon": 28.7167
   },
   {
+    "name": "Crosul Universității Transilvania - Brașov",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Thu 07-May-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://unitbv.ro/studenti/evenimente-anuale/7566-crosul-universitatii-transilvania.html",
+    "link_fb": "",
+    "id": 578,
+    "year": 2026,
+    "month": 5,
+    "day": 7,
+    "lat": 45.6427,
+    "lon": 25.5887
+  },
+  {
     "name": "Crosul de Noapte Cluj (primavara)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -2671,6 +2690,25 @@
     "lon": 23.5717352975
   },
   {
+    "name": "Crosul Universitatii București",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 23-May-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/DEFS.UB",
+    "link_fb": "https://www.facebook.com/DEFS.UB",
+    "id": 217,
+    "year": 2026,
+    "month": 5,
+    "day": 23,
+    "lat": 44.4223431273,
+    "lon": 26.1548781031
+  },
+  {
     "name": "Alergarea Carpilor",
     "location": "Techirghiol",
     "location_details": "",
@@ -3197,6 +3235,25 @@
     "lon": 24.358305
   },
   {
+    "name": "Crosul umanitar MAI aproape de Matei și Mabel!",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "display_date": "Mon 01-Jun-2026",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/2006650183302476",
+    "link_fb": "",
+    "id": 579,
+    "year": 2026,
+    "month": 6,
+    "day": 1,
+    "lat": 46.069,
+    "lon": 23.5763
+  },
+  {
     "name": "Marea provocare de mișcare",
     "location": "Sfântu Gheorghe",
     "location_details": "",
@@ -3421,6 +3478,25 @@
     "day": 6,
     "lat": 46.1866,
     "lon": 21.31231
+  },
+  {
+    "name": "Crosul National Ziua Olimpica - București",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "2km"
+    ],
+    "link": "https://www.cosr.ro/news/in-premiera-inscrieri-online-la-crosul-national-ziua-olimpica-de-la-bucuresti",
+    "link_fb": "",
+    "id": 580,
+    "year": 2026,
+    "month": 6,
+    "day": 6,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
   },
   {
     "name": "Tinca Cross",
@@ -5854,6 +5930,26 @@
     "lon": 27.5333
   },
   {
+    "name": "Crosul OncoHelp",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sun 20-Sep-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "10km",
+      "4.2km"
+    ],
+    "link": "https://oncohelp.ro/evenimente/evenimente-caritabile/crosul-oncohelp-2026/",
+    "link_fb": "",
+    "id": 338,
+    "year": 2026,
+    "month": 9,
+    "day": 20,
+    "lat": 45.7538214831,
+    "lon": 21.2259904857
+  },
+  {
     "name": "Trăscău Trail Run",
     "location": "Rimetea",
     "location_details": "",
@@ -6078,6 +6174,25 @@
     "day": 27,
     "lat": 45.15,
     "lon": 26.82
+  },
+  {
+    "name": "15k Free Spirit Run Ruse - Giurgiu",
+    "location": "Giurgiu",
+    "location_details": "",
+    "display_date": "Sun 27-Sep-2026",
+    "county": "GR",
+    "type": "road",
+    "distances": [
+      "15km"
+    ],
+    "link": "https://run.ruse-giurgiu.eu/",
+    "link_fb": "https://www.facebook.com/RunRuseGiurgiu/",
+    "id": 349,
+    "year": 2026,
+    "month": 9,
+    "day": 27,
+    "lat": 43.9017,
+    "lon": 25.9697
   },
   {
     "name": "Chișinău Maraton",
