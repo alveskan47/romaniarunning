@@ -3055,25 +3055,6 @@
     "lon": 21.883305
   },
   {
-    "name": "Duna Nap",
-    "location": "Rimetea",
-    "location_details": "",
-    "display_date": "Sat 30-May-2026",
-    "county": "AB",
-    "type": "trail",
-    "distances": [
-      "11km"
-    ],
-    "link": "https://www.dunanap.com/",
-    "link_fb": "https://www.facebook.com/dunanapoktorocko",
-    "id": 224,
-    "year": 2026,
-    "month": 5,
-    "day": 30,
-    "lat": 46.4333,
-    "lon": 23.616705
-  },
-  {
     "name": "Giarmata in Miscare",
     "location": "Giarmata",
     "location_details": "",
@@ -3134,6 +3115,25 @@
     "day": 30,
     "lat": 46.7687178405,
     "lon": 23.5716852975
+  },
+  {
+    "name": "Perform Cluj Athletic Games",
+    "location": "Cluj-Napoca",
+    "location_details": "Cluj Arena",
+    "display_date": "Sat 30-May-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "0.8km"
+    ],
+    "link": "https://www.facebook.com/events/928808056812502",
+    "link_fb": "",
+    "id": 581,
+    "year": 2026,
+    "month": 5,
+    "day": 30,
+    "lat": 46.7583,
+    "lon": 23.5862
   },
   {
     "name": "Crosul Copiilor - Veneția de Jos",
@@ -3617,28 +3617,6 @@
     "day": 13,
     "lat": 45.86669,
     "lon": 25.78329
-  },
-  {
-    "name": "Maraton Scaunul Domnului",
-    "location": "Bistra Mureșului",
-    "location_details": "Cabana Ritual Chalet",
-    "display_date": "Sat 13-Jun-2026",
-    "county": "MS",
-    "type": "trail",
-    "distances": [
-      "42km(2130m↑)",
-      "21km(1150m↑)",
-      "10km(250m↑)",
-      "2km(100m↑)"
-    ],
-    "link": "https://maratonscaunuldomnului.ro/",
-    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
-    "id": 73,
-    "year": 2026,
-    "month": 6,
-    "day": 13,
-    "lat": 46.85,
-    "lon": 24.6167
   },
   {
     "name": "Maraton Maramureș",

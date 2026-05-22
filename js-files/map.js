@@ -15,9 +15,9 @@ function getThemeColors() {
     return {
         backgroundColor: isDark ? '#212529' : '#ffffff',
         textColor: isDark ? '#dee2e6' : '#333333',
-        gridColor: isDark ? '#495057' : '#e6e6e6',
+        gridColor: isDark ? '#495057' : '#adb5bd',
         nullColor: isDark ? '#343a40' : '#E0E0E0',
-        moldovaColor: isDark ? '#5a6472' : '#C0C0C0',
+        moldovaColor: isDark ? '#5a6472' : '#D0D0D0',
         tooltipBackground: isDark ? '#343a40' : '#ffffff',
         tooltipBorder: isDark ? '#6c757d' : '#cccccc'
     };
@@ -272,9 +272,9 @@ async function drawMap(points, totalCount) {
                     y: 0
                 },
                 zones: [
-                    { from: 1, to: 4, marker: { radius: 13 } },
-                    { from: 5, to: 9, marker: { radius: 15 } },
-                    { from: 10, to: Infinity, marker: { radius: 18 } }
+                    { from: 1, to: 4, marker: { radius: 13, fillColor: '#ffc107' } },
+                    { from: 5, to: 9, marker: { radius: 15, fillColor: '#ffc107' } },
+                    { from: 10, to: Infinity, marker: { radius: 18, fillColor: '#ffc107' } }
                 ]
             },
             data: points

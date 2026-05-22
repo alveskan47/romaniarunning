@@ -3,6 +3,15 @@
     {
       "original_date": {
         "year": 2026,
+        "month": 6,
+        "day": 13
+      },
+      "competition": "Maraton Scaunul Domnului",
+      "status": "Cancelled"
+    },
+    {
+      "original_date": {
+        "year": 2026,
         "month": 10,
         "day": 18
       },

@@ -2822,11 +2822,6 @@
       "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
       "editions": [
         {
-          "year": 2026,
-          "month": 6,
-          "day": 13
-        },
-        {
           "year": 2025,
           "month": 6,
           "day": 14
@@ -7635,11 +7630,6 @@
       "link": "https://www.dunanap.com/",
       "link_fb": "https://www.facebook.com/dunanapoktorocko",
       "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 30
-        },
         {
           "year": 2025,
           "month": 5,
@@ -17283,6 +17273,29 @@
       ],
       "lat": 44.42736904671278,
       "lon": 26.09240325460678
+    },
+    {
+      "id": 581,
+      "name": "Perform Cluj Athletic Games",
+      "location": "Cluj-Napoca",
+      "location_details": "Cluj Arena",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "0.8km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30,
+          "event_link": "https://www.facebook.com/events/928808056812502"
+        }
+      ],
+      "lat": 46.7583,
+      "lon": 23.5862
     }
   ],
   "competitions_no_statistics": [

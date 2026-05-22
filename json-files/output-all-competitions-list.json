@@ -2884,7 +2884,7 @@
       "location": "Rimetea",
       "county": "AB",
       "year_2027": "",
-      "year_2026": "Sat 30-May",
+      "year_2026": "",
       "year_2025": "Sat 31-May",
       "year_2024": "Sat 1-Jun",
       "year_2023": "Sat 3-Jun"
@@ -3665,7 +3665,7 @@
       "location": "Bistra Mureșului",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "Sat 13-Jun",
+      "year_2026": "",
       "year_2025": "Sat 14-Jun",
       "year_2024": "Sat 15-Jun",
       "year_2023": "Sat 10-Jun"
@@ -4283,6 +4283,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sat 4-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 581,
+      "name": "Perform Cluj Athletic Games",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sat 30-May",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
