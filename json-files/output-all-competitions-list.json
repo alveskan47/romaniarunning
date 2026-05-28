@@ -1614,6 +1614,17 @@
       "year_2023": ""
     },
     {
+      "id": 582,
+      "name": "Crosul Binelui - București",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "Sat 30-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 346,
       "name": "Crosul Brâncuși",
       "location": "București",
@@ -1916,7 +1927,7 @@
       "location": "Brăila",
       "county": "BR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 29-May",
       "year_2025": "Fri 30-May",
       "year_2024": "",
       "year_2023": ""
@@ -3819,7 +3830,7 @@
       "location": "Botoșani",
       "county": "BT",
       "year_2027": "",
-      "year_2026": "Sat 13-Jun",
+      "year_2026": "Sun 14-Jun",
       "year_2025": "Sun 15-Jun",
       "year_2024": "",
       "year_2023": ""
@@ -3929,7 +3940,7 @@
       "location": "Rediu",
       "county": "IS",
       "year_2027": "",
-      "year_2026": "Sun 4-Oct",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 30-Sep"
@@ -5039,7 +5050,7 @@
       "name": "Semimaraton Timotion",
       "location": "Timișoara",
       "county": "TM",
-      "year_2027": "",
+      "year_2027": "Sun 16-May",
       "year_2026": "Sun 10-May",
       "year_2025": "Sun 11-May",
       "year_2024": "Sun 12-May",
@@ -5711,7 +5722,7 @@
       "location": "Rimetea",
       "county": "AB",
       "year_2027": "",
-      "year_2026": "Sat 26-Sep",
+      "year_2026": "Sat 10-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": "Sat 23-Sep"

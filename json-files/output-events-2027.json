@@ -276,6 +276,26 @@
     "lon": 25.783295
   },
   {
+    "name": "Semimaraton Timotion",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sun 16-May-2027",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10.5km"
+    ],
+    "link": "https://timotion.ro/",
+    "link_fb": "https://www.facebook.com/timotiontm",
+    "id": 61,
+    "year": 2027,
+    "month": 5,
+    "day": 16,
+    "lat": 45.7537914831,
+    "lon": 21.2260004857
+  },
+  {
     "name": "Maraton 1 Decembrie București",
     "location": "București",
     "location_details": "",

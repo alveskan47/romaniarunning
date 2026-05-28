@@ -2294,8 +2294,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 9,
-          "day": 26
+          "month": 10,
+          "day": 10
         },
         {
           "year": 2023,
@@ -2356,6 +2356,11 @@
       "link": "https://timotion.ro/",
       "link_fb": "https://www.facebook.com/timotiontm",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 16
+        },
         {
           "year": 2026,
           "month": 5,
@@ -2934,7 +2939,7 @@
         {
           "year": 2026,
           "month": 6,
-          "day": 13
+          "day": 14
         },
         {
           "year": 2025,
@@ -7528,6 +7533,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 5,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/1525847552363800"
+        },
+        {
           "year": 2025,
           "month": 5,
           "day": 30,
@@ -10143,8 +10154,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 10,
-          "day": 4
+          "month": 9,
+          "day": 26
         },
         {
           "year": 2025,
@@ -17296,6 +17307,29 @@
       ],
       "lat": 46.7583,
       "lon": 23.5862
+    },
+    {
+      "id": 582,
+      "name": "Crosul Binelui - București",
+      "location": "București",
+      "location_details": "Parcul Tineretului",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30,
+          "event_link": "https://www.facebook.com/events/1348615117116210"
+        }
+      ],
+      "lat": 44.4045,
+      "lon": 26.1034
     }
   ],
   "competitions_no_statistics": [

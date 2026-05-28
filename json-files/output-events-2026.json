@@ -2949,6 +2949,25 @@
     "lon": 25.4167
   },
   {
+    "name": "Crosul Fugi de Fumat",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Fri 29-May-2026",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1525847552363800",
+    "link_fb": "",
+    "id": 220,
+    "year": 2026,
+    "month": 5,
+    "day": 29,
+    "lat": 45.269205,
+    "lon": 27.957495
+  },
+  {
     "name": "Brașov Marathon",
     "location": "Brașov",
     "location_details": "",
@@ -3134,6 +3153,25 @@
     "day": 30,
     "lat": 46.7583,
     "lon": 23.5862
+  },
+  {
+    "name": "Crosul Binelui - București",
+    "location": "București",
+    "location_details": "Parcul Tineretului",
+    "display_date": "Sat 30-May-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/1348615117116210",
+    "link_fb": "",
+    "id": 582,
+    "year": 2026,
+    "month": 5,
+    "day": 30,
+    "lat": 44.4045,
+    "lon": 26.1034
   },
   {
     "name": "Crosul Copiilor - Veneția de Jos",
@@ -3641,26 +3679,6 @@
     "lon": 23.58329
   },
   {
-    "name": "Maratonul Nordului - Botoșani",
-    "location": "Botoșani",
-    "location_details": "",
-    "display_date": "Sat 13-Jun-2026",
-    "county": "BT",
-    "type": "road",
-    "distances": [
-      "21km",
-      "10km"
-    ],
-    "link": "https://www.maratonulnordului.ro/MN-Botosani.html",
-    "link_fb": "https://www.facebook.com/maratonulnordului",
-    "id": 76,
-    "year": 2026,
-    "month": 6,
-    "day": 13,
-    "lat": 47.748895,
-    "lon": 26.668095
-  },
-  {
     "name": "Bloodfluencer Marathon",
     "location": "Dejani",
     "location_details": "",
@@ -3781,6 +3799,26 @@
     "day": 13,
     "lat": 44.5667,
     "lon": 25.9833
+  },
+  {
+    "name": "Maratonul Nordului - Botoșani",
+    "location": "Botoșani",
+    "location_details": "",
+    "display_date": "Sun 14-Jun-2026",
+    "county": "BT",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.maratonulnordului.ro/MN-Botosani.html",
+    "link_fb": "https://www.facebook.com/maratonulnordului",
+    "id": 76,
+    "year": 2026,
+    "month": 6,
+    "day": 14,
+    "lat": 47.748895,
+    "lon": 26.668095
   },
   {
     "name": "Sports Festival Cluj",
@@ -5928,27 +5966,6 @@
     "lon": 21.2259904857
   },
   {
-    "name": "Trăscău Trail Run",
-    "location": "Rimetea",
-    "location_details": "",
-    "display_date": "Sat 26-Sep-2026",
-    "county": "AB",
-    "type": "trail",
-    "distances": [
-      "45km(3000m↑)",
-      "23.5km(1475m↑)",
-      "8.4km(500m↑)"
-    ],
-    "link": "https://trascautrailrun.ro/",
-    "link_fb": "https://www.facebook.com/TrascauTrailRun/",
-    "id": 59,
-    "year": 2026,
-    "month": 9,
-    "day": 26,
-    "lat": 46.4333,
-    "lon": 23.616695
-  },
-  {
     "name": "Maraton Piatra Craiului",
     "location": "Zărnești",
     "location_details": "",
@@ -6050,6 +6067,27 @@
     "day": 26,
     "lat": 46.54169,
     "lon": 24.55831
+  },
+  {
+    "name": "Mârzeşti Trail Run",
+    "location": "Rediu",
+    "location_details": "Pădurea Mârzeşti, Breazu",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "IS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10.5km",
+      "4km"
+    ],
+    "link": "https://marzestirun.ro/",
+    "link_fb": "https://www.facebook.com/FacebookMTR/",
+    "id": 306,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 47.1167,
+    "lon": 27.5333
   },
   {
     "name": "Run for Life - Dumbrava Vlăsiei",
@@ -6424,25 +6462,25 @@
     "lon": 25.588685
   },
   {
-    "name": "Mârzeşti Trail Run",
-    "location": "Rediu",
-    "location_details": "Pădurea Mârzeşti, Breazu",
-    "display_date": "Sun 04-Oct-2026",
-    "county": "IS",
+    "name": "Trăscău Trail Run",
+    "location": "Rimetea",
+    "location_details": "",
+    "display_date": "Sat 10-Oct-2026",
+    "county": "AB",
     "type": "trail",
     "distances": [
-      "21km",
-      "10.5km",
-      "4km"
+      "45km(3000m↑)",
+      "23.5km(1475m↑)",
+      "8.4km(500m↑)"
     ],
-    "link": "https://marzestirun.ro/",
-    "link_fb": "https://www.facebook.com/FacebookMTR/",
-    "id": 306,
+    "link": "https://trascautrailrun.ro/",
+    "link_fb": "https://www.facebook.com/TrascauTrailRun/",
+    "id": 59,
     "year": 2026,
     "month": 10,
-    "day": 4,
-    "lat": 47.1167,
-    "lon": 27.5333
+    "day": 10,
+    "lat": 46.4333,
+    "lon": 23.616695
   },
   {
     "name": "Hercules Maraton",
