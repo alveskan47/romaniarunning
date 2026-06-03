@@ -276,6 +276,27 @@
     "lon": 25.783295
   },
   {
+    "name": "Bucharest Half Marathon",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 09-May-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "3x7km relay"
+    ],
+    "link": "https://www.bucuresti21km.ro/",
+    "link_fb": "https://www.facebook.com/Bucharest21km/",
+    "id": 1,
+    "year": 2027,
+    "month": 5,
+    "day": 9,
+    "lat": 44.4273690467,
+    "lon": 26.0923982546
+  },
+  {
     "name": "Semimaraton Timotion",
     "location": "Timișoara",
     "location_details": "",

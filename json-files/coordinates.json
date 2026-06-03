@@ -162,6 +162,13 @@
   },
   {
     "county": "AG",
+    "location": "Câmpulung Muscel",
+    "location_details": "",
+    "lat": 45.27100962396718,
+    "lon": 25.052809678402593
+  },
+  {
+    "county": "AG",
     "location": "Lerești",
     "location_details": "",
     "lat": 45.2833,
@@ -1237,6 +1244,13 @@
     "location_details": "Mamaia",
     "lat": 44.2667,
     "lon": 28.6333
+  },
+  {
+    "county": "CT",
+    "location": "Constanța",
+    "location_details": "Parcul Gara Constanța",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "CT",

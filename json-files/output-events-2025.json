@@ -3090,7 +3090,7 @@
   {
     "name": "Global Running Day - București",
     "location": "București",
-    "location_details": "Stadionul Iolanda Balas",
+    "location_details": "Parc Herastrau",
     "display_date": "Wed 04-Jun-2025",
     "county": "B",
     "type": "track",
@@ -3103,8 +3103,8 @@
     "year": 2025,
     "month": 6,
     "day": 4,
-    "lat": 44.4223531273,
-    "lon": 26.1548281031
+    "lat": 44.4694,
+    "lon": 26.0842
   },
   {
     "name": "Crosul Memorial Nicolae Guțoiu",
@@ -3967,7 +3967,9 @@
     "county": "AR",
     "type": "trail",
     "distances": [
-      "-"
+      "62km(2200m↑)",
+      "23.5km(700m↑)",
+      "9km(350m↑)"
     ],
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",

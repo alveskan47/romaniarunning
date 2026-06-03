@@ -815,7 +815,7 @@
       "name": "Bucharest Half Marathon",
       "location": "București",
       "county": "B",
-      "year_2027": "",
+      "year_2027": "Sun 9-May",
       "year_2026": "Sun 10-May",
       "year_2025": "Sun 11-May",
       "year_2024": "Sun 12-May",
@@ -2461,6 +2461,17 @@
       "year_2023": "Sat 7-Oct"
     },
     {
+      "id": 585,
+      "name": "Crosul Sperantei Suceava",
+      "location": "Suceava",
+      "county": "SV",
+      "year_2027": "",
+      "year_2026": "Sun 7-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 431,
       "name": "Crosul Sport 4 all - Lugoj",
       "location": "Lugoj",
@@ -2664,7 +2675,7 @@
       "location": "Miercurea Ciuc",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 14-Jun",
       "year_2024": "Sat 1-Jun",
       "year_2023": "Sat 24-Jun"
@@ -3181,7 +3192,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Wed 3-Jun",
       "year_2025": "Wed 4-Jun",
       "year_2024": "",
       "year_2023": ""
@@ -3239,6 +3250,17 @@
       "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 5-Oct",
+      "year_2023": ""
+    },
+    {
+      "id": 583,
+      "name": "Hai hui prin taramul micilor campioni",
+      "location": "Constanța",
+      "county": "CT",
+      "year_2027": "",
+      "year_2026": "Mon 1-Jun",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -3577,7 +3599,7 @@
       "location": "Durău",
       "county": "NT",
       "year_2027": "",
-      "year_2026": "Sat 18-Jul",
+      "year_2026": "",
       "year_2025": "Sat 12-Jul",
       "year_2024": "",
       "year_2023": "Sat 15-Jul"
@@ -4252,6 +4274,17 @@
       "year_2025": "",
       "year_2024": "",
       "year_2023": "Sat 18-Feb"
+    },
+    {
+      "id": 584,
+      "name": "Pas cu pas pentru sanatate",
+      "location": "Câmpulung Muscel",
+      "county": "AG",
+      "year_2027": "",
+      "year_2026": "Fri 5-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 122,

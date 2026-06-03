@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Statistici generale despre competitiile de alergare din Romania.">
+    <meta name="keywords" content="statistici generale alergare Romania, date competitii running Romania">
+    <meta name="author" content="Romania Running">
+    <meta name="robots" content="index, follow">
+
+    <link rel="icon" href="svg-files/logo-red.svg">
+    <title>Statistici Generale Competitii Alergare Romania | Romania Running</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <script src="js-local-external-files/highmaps.js"></script>
+    <script src="js-local-external-files/highcharts-more.js"></script>
+    <script src="js-local-external-files/exporting.js"></script>
+    <script src="js-local-external-files/export-data.js"></script>
+    <script src="js-local-external-files/offline-exporting.js"></script>
+    <script src="js-local-external-files/accessibility.js"></script>
+
+    <link rel="stylesheet" href="css-files/main.css">
+</head>
+<body onload="general_statistics_main()">
+
+<nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav" id="dynamic-nav-links"></ul>
+            <ul class="navbar-nav ms-auto" id="dynamic-theme-switcher"></ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container mt-5 mb-5 text-center">
+    <h1>General Statistics</h1>
+</div>
+
+<div class="container mt-5 mb-5 text-center">
+    <h2>1. Number of running competitions in Romania by year</h2>
+    <figure class="highcharts-figure">
+        <div id="container-by-year"></div>
+    </figure>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="js-files/main.js"></script>
+<script src="js-files/general-statistics.js"></script>
+</body>
+</html>

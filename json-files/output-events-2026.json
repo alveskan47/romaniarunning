@@ -3292,6 +3292,44 @@
     "lon": 23.5763
   },
   {
+    "name": "Hai hui prin taramul micilor campioni",
+    "location": "Constanța",
+    "location_details": "Parcul Gara Constanța",
+    "display_date": "Mon 01-Jun-2026",
+    "county": "CT",
+    "type": "road",
+    "distances": [
+      "⚠ only kids"
+    ],
+    "link": "https://www.facebook.com/events/1378866807492985",
+    "link_fb": "",
+    "id": 583,
+    "year": 2026,
+    "month": 6,
+    "day": 1,
+    "lat": 44.1598,
+    "lon": 28.6348
+  },
+  {
+    "name": "Global Running Day - București",
+    "location": "București",
+    "location_details": "Parc Herastrau",
+    "display_date": "Wed 03-Jun-2026",
+    "county": "B",
+    "type": "track",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1001211239529279",
+    "link_fb": "",
+    "id": 239,
+    "year": 2026,
+    "month": 6,
+    "day": 3,
+    "lat": 44.4694,
+    "lon": 26.0842
+  },
+  {
     "name": "Marea provocare de mișcare",
     "location": "Sfântu Gheorghe",
     "location_details": "",
@@ -3309,6 +3347,25 @@
     "day": 5,
     "lat": 45.86669,
     "lon": 25.7833
+  },
+  {
+    "name": "Pas cu pas pentru sanatate",
+    "location": "Câmpulung Muscel",
+    "location_details": "",
+    "display_date": "Fri 05-Jun-2026",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1946775999313317",
+    "link_fb": "",
+    "id": 584,
+    "year": 2026,
+    "month": 6,
+    "day": 5,
+    "lat": 45.27100962396718,
+    "lon": 25.052809678402593
   },
   {
     "name": "Maraton Apuseni",
@@ -3499,6 +3556,25 @@
     "lon": 24.349995
   },
   {
+    "name": "Crosul Zilei Olimpice - Miercurea Ciuc",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "1.6km"
+    ],
+    "link": "https://www.facebook.com/events/1342585177793981",
+    "link_fb": "",
+    "id": 251,
+    "year": 2026,
+    "month": 6,
+    "day": 6,
+    "lat": 46.366695,
+    "lon": 25.799995
+  },
+  {
     "name": "AniRUN - Kids Run",
     "location": "Arad",
     "location_details": "",
@@ -3574,6 +3650,25 @@
     "day": 7,
     "lat": 47.1574505088,
     "lon": 27.5869456538
+  },
+  {
+    "name": "Crosul Sperantei Suceava",
+    "location": "Suceava",
+    "location_details": "",
+    "display_date": "Sun 07-Jun-2026",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/events/1458393242726265",
+    "link_fb": "",
+    "id": 585,
+    "year": 2026,
+    "month": 6,
+    "day": 7,
+    "lat": 47.65,
+    "lon": 26.25
   },
   {
     "name": "Colinele Mircești",
@@ -4196,7 +4291,9 @@
     "county": "AR",
     "type": "trail",
     "distances": [
-      "-"
+      "62km(2200m↑)",
+      "23.5km(700m↑)",
+      "9km(350m↑)"
     ],
     "link": "https://www.facebook.com/ultrazarand/",
     "link_fb": "https://www.facebook.com/ultrazarand/",
@@ -4502,26 +4599,6 @@
     "day": 11,
     "lat": 45.6333,
     "lon": 25.583295
-  },
-  {
-    "name": "Maraton Bate Toaca",
-    "location": "Durău",
-    "location_details": "",
-    "display_date": "Sat 18-Jul-2026",
-    "county": "NT",
-    "type": "trail",
-    "distances": [
-      "30km(2500m↑)",
-      "18km(1350m↑)"
-    ],
-    "link": "https://www.batetoaca.ro/",
-    "link_fb": "https://www.facebook.com/www.batetoaca.ro/",
-    "id": 84,
-    "year": 2026,
-    "month": 7,
-    "day": 18,
-    "lat": 46.8833,
-    "lon": 25.966695
   },
   {
     "name": "Trofeul Dragoneilor",

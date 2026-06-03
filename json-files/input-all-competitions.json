@@ -17,6 +17,11 @@
       "lon": 26.0923982546,
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 9
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 10
@@ -3229,11 +3234,6 @@
       "link": "https://www.batetoaca.ro/",
       "link_fb": "https://www.facebook.com/www.batetoaca.ro/",
       "editions": [
-        {
-          "year": 2026,
-          "month": 7,
-          "day": 18
-        },
         {
           "year": 2025,
           "month": 7,
@@ -8055,7 +8055,7 @@
       "id": 239,
       "name": "Global Running Day - București",
       "location": "București",
-      "location_details": "Stadionul Iolanda Balas",
+      "location_details": "Parc Herastrau",
       "county": "B",
       "type": "track",
       "distances": [
@@ -8065,14 +8065,20 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 3,
+          "event_link": "https://www.facebook.com/events/1001211239529279"
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 4,
           "event_link": "https://www.facebook.com/events/1915796912543363/"
         }
       ],
-      "lat": 44.4223531273,
-      "lon": 26.1548281031
+      "lat": 44.4694,
+      "lon": 26.0842
     },
     {
       "id": 240,
@@ -8431,6 +8437,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/1342585177793981"
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 14,
@@ -8770,7 +8782,9 @@
       "county": "AR",
       "type": "trail",
       "distances": [
-        "-"
+        "62km(2200m↑)",
+        "23.5km(700m↑)",
+        "9km(350m↑)"
       ],
       "link": "https://www.facebook.com/ultrazarand/",
       "link_fb": "https://www.facebook.com/ultrazarand/",
@@ -17330,6 +17344,73 @@
       ],
       "lat": 44.4045,
       "lon": 26.1034
+    },
+    {
+      "id": 583,
+      "name": "Hai hui prin taramul micilor campioni",
+      "location": "Constanța",
+      "location_details": "Parcul Gara Constanța",
+      "county": "CT",
+      "type": "road",
+      "distances": [
+        "⚠ only kids"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/1378866807492985"
+        }
+      ],
+      "lat": 44.1598,
+      "lon": 28.6348
+    },
+    {
+      "id": 584,
+      "name": "Pas cu pas pentru sanatate",
+      "location": "Câmpulung Muscel",
+      "county": "AG",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/1946775999313317"
+        }
+      ],
+      "lat": 45.27100962396718,
+      "lon": 25.052809678402593
+    },
+    {
+      "id": 585,
+      "name": "Crosul Sperantei Suceava",
+      "location": "Suceava",
+      "county": "SV",
+      "type": "road",
+      "distances": [
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/1458393242726265"
+        }
+      ],
+      "lat": 47.65,
+      "lon": 26.25
     }
   ],
   "competitions_no_statistics": [

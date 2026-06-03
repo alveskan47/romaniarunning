@@ -14,7 +14,17 @@
     },
     {
       "page_name": "Statistics",
-      "page_link": "statistics.html"
+      "dropdown": true,
+      "sub_pages": [
+        {
+          "page_name": "Statistics per year",
+          "page_link": "statistics.html"
+        },
+        {
+          "page_name": "General Statistics",
+          "page_link": "general-statistics.html"
+        }
+      ]
     },
     {
       "page_name": "Bad News",
