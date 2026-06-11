@@ -316,6 +316,17 @@
       "year_2023": ""
     },
     {
+      "id": 589,
+      "name": "Alergarea Solstițiului",
+      "location": "Boșorod",
+      "county": "HD",
+      "year_2027": "",
+      "year_2026": "Sat 20-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 57,
       "name": "Alergăraș în Făgăraș",
       "location": "Făgăraș",
@@ -750,7 +761,7 @@
       "location": "Brașov",
       "county": "BV",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 24-Oct",
       "year_2025": "Sat 25-Oct",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 23-Sep"
@@ -925,7 +936,7 @@
       "name": "Bușteni Ultra Race",
       "location": "Bușteni",
       "county": "PH",
-      "year_2027": "",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 6-Jun",
       "year_2025": "",
       "year_2024": "",
@@ -1410,7 +1421,7 @@
       "location": "Borsec",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 25-Jul",
       "year_2025": "Sun 20-Jul",
       "year_2024": "Sun 21-Jul",
       "year_2023": "Sun 16-Jul"
@@ -1581,6 +1592,17 @@
       "year_2023": "Sat 11-Nov"
     },
     {
+      "id": 586,
+      "name": "Crosul Anul Nadia Comăneci",
+      "location": "Dorohoi",
+      "county": "BT",
+      "year_2027": "",
+      "year_2026": "Sun 7-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 241,
       "name": "Crosul ARC",
       "location": "București",
@@ -1674,7 +1696,7 @@
       "location": "Ineu",
       "county": "AR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 29-Aug",
       "year_2025": "Sat 27-Sep",
       "year_2024": "Sat 12-Oct",
       "year_2023": "Sat 2-Sep"
@@ -2312,7 +2334,7 @@
       "location": "Călărași",
       "county": "CL",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 12-Jun",
       "year_2025": "Sat 14-Jun",
       "year_2024": "",
       "year_2023": ""
@@ -2423,6 +2445,17 @@
       "county": "CJ",
       "year_2027": "",
       "year_2026": "Fri 8-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 590,
+      "name": "Crosul Sânzienelor",
+      "location": "Tăuții-Măgherăuș",
+      "county": "MM",
+      "year_2027": "",
+      "year_2026": "Sat 20-Jun",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -2648,6 +2681,17 @@
       "year_2023": "Sat 4-Nov"
     },
     {
+      "id": 587,
+      "name": "Crosul Vacanței",
+      "location": "Baia Mare",
+      "county": "MM",
+      "year_2027": "",
+      "year_2026": "Fri 12-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 474,
       "name": "Crosul Vaserul - Trenul Campionilor",
       "location": "Vișeu de Sus",
@@ -2828,7 +2872,7 @@
       "name": "Dac Warrior",
       "location": "Gura Vadului",
       "county": "PH",
-      "year_2027": "",
+      "year_2027": "Sat 22-May",
       "year_2026": "Sat 23-May",
       "year_2025": "Sat 10-May",
       "year_2024": "Sat 31-Aug",
@@ -2884,7 +2928,7 @@
       "location": "Trăisteni",
       "county": "PH",
       "year_2027": "",
-      "year_2026": "Sat 26-Sep",
+      "year_2026": "Sat 11-Jul",
       "year_2025": "Sun 28-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -2974,6 +3018,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sun 1-Jun",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 592,
+      "name": "Fast & Fun Run",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "Sun 28-Jun",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
@@ -3543,7 +3598,7 @@
       "name": "Legal Half-Marathon",
       "location": "București",
       "county": "B",
-      "year_2027": "",
+      "year_2027": "Sun 4-Apr",
       "year_2026": "Sun 22-Mar",
       "year_2025": "Sat 22-Mar",
       "year_2024": "Sat 13-Apr",
@@ -3621,7 +3676,7 @@
       "location": "Sulina",
       "county": "TL",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "Sat 20-Sep",
       "year_2024": "Sat 21-Sep",
       "year_2023": "Sat 16-Sep"
@@ -4727,6 +4782,17 @@
       "year_2023": "Sat 14-Oct"
     },
     {
+      "id": 588,
+      "name": "Run the Night",
+      "location": "Oradea",
+      "county": "BH",
+      "year_2027": "",
+      "year_2026": "Fri 19-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 215,
       "name": "Run To The Hills",
       "location": "Crasna (SJ)",
@@ -5028,7 +5094,7 @@
       "name": "Semimaraton Iași",
       "location": "Iași",
       "county": "IS",
-      "year_2027": "",
+      "year_2027": "Sun 25-Apr",
       "year_2026": "Sun 26-Apr",
       "year_2025": "Sun 27-Apr",
       "year_2024": "Sun 21-Apr",
@@ -5794,6 +5860,17 @@
       "year_2023": ""
     },
     {
+      "id": 591,
+      "name": "Trofeul Ursul Carpatin",
+      "location": "Buşteni",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Sun 28-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 107,
       "name": "TTR Backyard Ultra",
       "location": "Chiajna",
@@ -6457,7 +6534,7 @@
       "name": "Alergarea Acasa la Taraboste",
       "location": "Chișinău",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 4-Oct",
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 5-Oct",
       "year_2023": ""
@@ -6483,7 +6560,7 @@
     {
       "name": "Chișinău Half Maraton",
       "location": "Chișinău",
-      "year_2027": "",
+      "year_2027": "Sun 25-Apr",
       "year_2026": "Sun 26-Apr",
       "year_2025": "Sun 13-Apr",
       "year_2024": "",
@@ -6493,7 +6570,7 @@
       "name": "Chișinău Maraton",
       "location": "Chișinău",
       "year_2027": "",
-      "year_2026": "Sun 27-Sep",
+      "year_2026": "Sun 13-Sep",
       "year_2025": "Sun 14-Sep",
       "year_2024": "Sun 29-Sep",
       "year_2023": "Sun 24-Sep"
@@ -6511,7 +6588,7 @@
       "name": "Colinele Mircești",
       "location": "Mircești (Ungheni)",
       "year_2027": "",
-      "year_2026": "Sun 7-Jun",
+      "year_2026": "Sat 1-Aug",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""

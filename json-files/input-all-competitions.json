@@ -144,6 +144,11 @@
       "lon": 27.5869456538,
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 25
+        },
+        {
           "year": 2026,
           "month": 4,
           "day": 26
@@ -1545,6 +1550,11 @@
       "link_fb": "https://www.facebook.com/legalrun.ro/",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 4
+        },
+        {
           "year": 2026,
           "month": 3,
           "day": 22
@@ -2485,6 +2495,11 @@
       "link": "https://dacwarrior.com/",
       "link_fb": "https://www.facebook.com/dacwarrior/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        },
         {
           "year": 2026,
           "month": 5,
@@ -4473,13 +4488,18 @@
       "link_fb": "https://www.facebook.com/busteniultrarace/",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
           "year": 2026,
           "month": 6,
           "day": 6
         }
       ],
-      "lat": 45.4,
-      "lon": 25.5333
+      "lat": 45.41015334460211,
+      "lon": 25.53281764789364
     },
     {
       "id": 121,
@@ -4824,8 +4844,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 9,
-          "day": 26
+          "month": 7,
+          "day": 11
         },
         {
           "year": 2025,
@@ -7133,6 +7153,11 @@
       "link_fb": "https://www.facebook.com/asociatiadeatletismtulcea/",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 20
@@ -7214,6 +7239,11 @@
       "link": "https://proactivi.org/",
       "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29
+        },
         {
           "year": 2025,
           "month": 9,
@@ -8499,6 +8529,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 6,
+          "day": 12,
+          "event_link": "https://www.facebook.com/events/2076017809961827"
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 14,
@@ -9398,6 +9434,11 @@
       "link": "https://www.facebook.com/Cea1BorsecFestival",
       "link_fb": "https://www.facebook.com/Cea1BorsecFestival",
       "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25
+        },
         {
           "year": 2025,
           "month": 7,
@@ -12294,9 +12335,14 @@
       "distances": [
         "7.5km(360m↑)"
       ],
-      "link": "https://www.brasovmarathon.ro/",
+      "link": "https://www.brasovmarathon.ro/night-challenge/",
       "link_fb": "https://www.facebook.com/brasovmarathon/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        },
         {
           "year": 2025,
           "month": 10,
@@ -17411,6 +17457,164 @@
       ],
       "lat": 47.65,
       "lon": 26.25
+    },
+    {
+      "id": 586,
+      "name": "Crosul Anul Nadia Comăneci",
+      "location": "Dorohoi",
+      "county": "BT",
+      "type": "road",
+      "distances": [
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/2524972781283594"
+        }
+      ],
+      "lat": 47.95465159159736,
+      "lon": 26.39945938259805
+    },
+    {
+      "id": 587,
+      "name": "Crosul Vacanței",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "⚠ only kids"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 12,
+          "event_link": "https://www.facebook.com/events/1008229194955370"
+        }
+      ],
+      "lat": 47.6667,
+      "lon": 23.5833
+    },
+    {
+      "id": 588,
+      "name": "Run the Night",
+      "location": "Oradea",
+      "location_details": "Parcul Brătianu",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 19,
+          "event_link": "https://www.facebook.com/photo/?fbid=1736710164170563"
+        }
+      ],
+      "lat": 47.05596091490953,
+      "lon": 21.93951167742133
+    },
+    {
+      "id": 589,
+      "name": "Alergarea Solstițiului",
+      "location": "Boșorod",
+      "location_details": "Târsa",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "40km(1600m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 20,
+          "event_link": "https://www.facebook.com/events/1961100821144930"
+        }
+      ],
+      "lat": 45.63017743120156,
+      "lon": 23.168147418916007
+    },
+    {
+      "id": 590,
+      "name": "Crosul Sânzienelor",
+      "location": "Tăuții-Măgherăuș",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "40km(1600m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 20,
+          "event_link": "https://www.facebook.com/events/1961100821144930"
+        }
+      ],
+      "lat": 47.66573235073595,
+      "lon": 23.461023694846133
+    },
+    {
+      "id": 591,
+      "name": "Trofeul Ursul Carpatin",
+      "location": "Buşteni",
+      "location_details": "Poiana Ţapului",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/2185608145611926"
+        }
+      ],
+      "lat": 45.38200035739342,
+      "lon": 25.540874405477204
+    },
+    {
+      "id": 592,
+      "name": "Fast & Fun Run",
+      "location": "București",
+      "location_details": "Lacul Morii",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "1mile"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/794993929565158"
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
     }
   ],
   "competitions_no_statistics": [
@@ -17536,7 +17740,7 @@
         {
           "year": 2026,
           "month": 9,
-          "day": 27
+          "day": 13
         },
         {
           "year": 2025,
@@ -17571,6 +17775,12 @@
       "link": "",
       "link_fb": "https://www.facebook.com/sportermd",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 25,
+          "event_link": "https://sporter.md/ro/events/run/100085/om-half-marathon-2027"
+        },
         {
           "year": 2026,
           "month": 4,
@@ -18003,6 +18213,11 @@
       "link": "https://www.runmoldova.com/",
       "link_fb": "https://www.facebook.com/runmoldova",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
         {
           "year": 2025,
           "month": 10,
@@ -18487,8 +18702,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 6,
-          "day": 7,
+          "month": 8,
+          "day": 1,
           "event_link": "https://www.runmoldova.com/colinele-mircesti-2026/"
         }
       ],

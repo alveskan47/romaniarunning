@@ -366,6 +366,13 @@
   {
     "county": "B",
     "location": "București",
+    "location_details": "Lacul Morii",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "B",
+    "location": "București",
     "location_details": "Parc Drumul Taberei",
     "lat": 44.4333,
     "lon": 26.0333
@@ -534,6 +541,13 @@
   {
     "county": "BH",
     "location": "Oradea",
+    "location_details": "Parcul Brătianu",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "BH",
+    "location": "Oradea",
     "location_details": "Parcul Cetatii Oradea",
     "lat": 47.0622,
     "lon": 21.9339
@@ -677,6 +691,13 @@
     "location_details": "Pădurea Teioasa",
     "lat": 48.1833,
     "lon": 26.5833
+  },
+  {
+    "county": "BT",
+    "location": "Dorohoi",
+    "location_details": "",
+    "lat": 47.95465159159736,
+    "lon": 26.39945938259805
   },
   {
     "county": "BT",
@@ -1457,6 +1478,20 @@
   },
   {
     "county": "HD",
+    "location": "Boșorod",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "HD",
+    "location": "Boșorod",
+    "location_details": "Târsa",
+    "lat": 45.63017743120156,
+    "lon": 23.168147418916007
+  },
+  {
+    "county": "HD",
     "location": "Brad",
     "location_details": "",
     "lat": 46.1333,
@@ -2192,6 +2227,13 @@
   },
   {
     "county": "MM",
+    "location": "Tăuții-Măgherăuș",
+    "location_details": "",
+    "lat": 47.66573235073595,
+    "lon": 23.461023694846133
+  },
+  {
+    "county": "MM",
     "location": "Vișeu de Sus",
     "location_details": "",
     "lat": 47.7167,
@@ -2388,10 +2430,31 @@
   },
   {
     "county": "PH",
+    "location": "Buşteni",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "PH",
+    "location": "Buşteni",
+    "location_details": "Poiana Ţapului",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "PH",
     "location": "Bușteni",
     "location_details": "",
-    "lat": 45.4,
-    "lon": 25.5333
+    "lat": 45.41015334460211,
+    "lon": 25.53281764789364
+  },
+  {
+    "county": "PH",
+    "location": "Bușteni",
+    "location_details": "Poiana Ţapului",
+    "lat": 45.38200035739342,
+    "lon": 25.540874405477204
   },
   {
     "county": "PH",

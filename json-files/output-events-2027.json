@@ -122,6 +122,27 @@
     "lon": 22.3667
   },
   {
+    "name": "Legal Half-Marathon",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 04-Apr-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://legalrun.ro/",
+    "link_fb": "https://www.facebook.com/legalrun.ro/",
+    "id": 41,
+    "year": 2027,
+    "month": 4,
+    "day": 4,
+    "lat": 44.4223231273,
+    "lon": 26.1548481031
+  },
+  {
     "name": "Maratonul Argonautilor",
     "location": "Cheile Dobrogei",
     "location_details": "",
@@ -232,6 +253,28 @@
     "lon": 24.975
   },
   {
+    "name": "Semimaraton Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sun 25-Apr-2027",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://semimaratoniasi.ro/",
+    "link_fb": "https://www.facebook.com/semimaratoniasi/",
+    "id": 4,
+    "year": 2027,
+    "month": 4,
+    "day": 25,
+    "lat": 47.1574305088,
+    "lon": 27.5869456538
+  },
+  {
     "name": "Bucharest International Half Marathon",
     "location": "București",
     "location_details": "",
@@ -251,6 +294,26 @@
     "day": 25,
     "lat": 44.4223331273,
     "lon": 26.1548281031
+  },
+  {
+    "name": "Chișinău Half Maraton",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 25-Apr-2027",
+    "county": "MDA*",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://sporter.md/ro/events/run/100085/om-half-marathon-2027",
+    "link_fb": "https://www.facebook.com/sportermd",
+    "id": 0,
+    "year": 2027,
+    "month": 4,
+    "day": 25,
+    "lat": 47.0106,
+    "lon": 28.8638
   },
   {
     "name": "Subcarpați Trail Run",
@@ -315,6 +378,48 @@
     "day": 16,
     "lat": 45.7537914831,
     "lon": 21.2260004857
+  },
+  {
+    "name": "Dac Warrior",
+    "location": "Gura Vadului",
+    "location_details": "Tohani",
+    "display_date": "Sat 22-May-2027",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "19.5km(710m↑)",
+      "10.5km(420m↑)"
+    ],
+    "link": "https://dacwarrior.com/",
+    "link_fb": "https://www.facebook.com/dacwarrior/",
+    "id": 64,
+    "year": 2027,
+    "month": 5,
+    "day": 22,
+    "lat": 45.083295,
+    "lon": 26.133295
+  },
+  {
+    "name": "Bușteni Ultra Race",
+    "location": "Bușteni",
+    "location_details": "",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "59.3km(3446m↑)",
+      "34.3km(2136m↑)",
+      "26.2km(1377m↑)",
+      "10.3km(568m↑)"
+    ],
+    "link": "https://busteniultrarace.ro/",
+    "link_fb": "https://www.facebook.com/busteniultrarace/",
+    "id": 120,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 45.41015334460211,
+    "lon": 25.53281764789364
   },
   {
     "name": "Maraton 1 Decembrie București",

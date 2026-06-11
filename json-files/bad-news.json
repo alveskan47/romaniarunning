@@ -3,6 +3,48 @@
     {
       "original_date": {
         "year": 2026,
+        "month": 9,
+        "day": 26
+      },
+      "competition": "Chișinău Maraton",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 7,
+        "day": 11
+      }
+    },
+    {
+      "original_date": {
+        "year": 2026,
+        "month": 9,
+        "day": 27
+      },
+      "competition": "Chișinău Maraton",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 9,
+        "day": 13
+      }
+    },
+    {
+      "original_date": {
+        "year": 2026,
+        "month": 6,
+        "day": 7
+      },
+      "competition": "Colinele Mircești",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2026,
+        "month": 8,
+        "day": 1
+      }
+    },
+    {
+      "original_date": {
+        "year": 2026,
         "month": 7,
         "day": 18
       },
@@ -203,7 +245,7 @@
         "month": 9,
         "day": 27
       },
-      "competition": "Marzesti Trail Run",
+      "competition": "Mârzeşti Trail Run",
       "status": "Rescheduled",
       "new_date": {
         "year": 2025,
