@@ -651,7 +651,7 @@
       "location": "Brașov",
       "county": "BV",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 5-Sep",
       "year_2025": "Sat 20-Sep",
       "year_2024": "Sun 29-Sep",
       "year_2023": ""
@@ -1046,7 +1046,7 @@
       "name": "Cheile Turzii Race",
       "location": "Cheile Turzii",
       "county": "CJ",
-      "year_2027": "",
+      "year_2027": "Sat 17-Apr",
       "year_2026": "Sat 18-Apr",
       "year_2025": "Sun 27-Apr",
       "year_2024": "",
@@ -1366,7 +1366,7 @@
       "location": "Cluj-Napoca",
       "county": "CJ",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 22-Aug",
       "year_2025": "Sat 23-Aug",
       "year_2024": "",
       "year_2023": ""
@@ -2802,6 +2802,17 @@
       "year_2023": ""
     },
     {
+      "id": 595,
+      "name": "Cupa IPA",
+      "location": "Cheile Grădiștei",
+      "county": "BV",
+      "year_2027": "",
+      "year_2026": "Sat 26-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 299,
       "name": "Cupa Pădurea Verde - Dumbrăvița",
       "location": "Dumbrăvița",
@@ -3218,6 +3229,17 @@
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 22-Jun",
       "year_2023": "Sat 3-Jun"
+    },
+    {
+      "id": 594,
+      "name": "Get Muddy - Race for Hope",
+      "location": "Sibiu",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "Sat 25-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 278,
@@ -3660,6 +3682,17 @@
       "year_2023": "Sat 15-Jul"
     },
     {
+      "id": 596,
+      "name": "Maraton Bârzava - Csíkborzsova maraton",
+      "location": "Bârzava",
+      "county": "HR",
+      "year_2027": "Sat 8-May",
+      "year_2026": "Sat 2-May",
+      "year_2025": "Sat 3-May",
+      "year_2024": "Sat 27-Apr",
+      "year_2023": ""
+    },
+    {
       "id": 326,
       "name": "Maraton de Sebeș",
       "location": "Sebeș",
@@ -3763,7 +3796,7 @@
       "name": "Maraton Sibiu",
       "location": "Sibiu",
       "county": "SB",
-      "year_2027": "",
+      "year_2027": "Sat 29-May",
       "year_2026": "Sat 30-May",
       "year_2025": "Sat 24-May",
       "year_2024": "Sat 25-May",
@@ -3906,7 +3939,7 @@
       "name": "Maratonul Nordului - Botoșani",
       "location": "Botoșani",
       "county": "BT",
-      "year_2027": "",
+      "year_2027": "Sun 13-Jun",
       "year_2026": "Sun 14-Jun",
       "year_2025": "Sun 15-Jun",
       "year_2024": "",
@@ -4985,7 +5018,7 @@
       "location": "Piatra Fântânele",
       "county": "BN",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 4-Oct",
       "year_2024": "",
       "year_2023": ""
@@ -5183,7 +5216,7 @@
       "location": "Craiova",
       "county": "DJ",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 17-Oct",
       "year_2025": "Sat 18-Oct",
       "year_2024": "Sat 19-Oct",
       "year_2023": "Tue 22-Aug"
@@ -5348,7 +5381,7 @@
       "location": "Șelimbăr",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 5-Sep",
       "year_2025": "Sun 7-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -5491,7 +5524,7 @@
       "location": "Lupeni (HR)",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 29-Aug",
       "year_2025": "Sat 30-Aug",
       "year_2024": "",
       "year_2023": ""
@@ -5655,7 +5688,7 @@
       "name": "Thermal Trail Race",
       "location": "Băile 1 Mai",
       "county": "BH",
-      "year_2027": "",
+      "year_2027": "Sat 8-May",
       "year_2026": "Sat 30-May",
       "year_2025": "Sat 10-May",
       "year_2024": "Sat 11-May",
@@ -5996,7 +6029,7 @@
       "name": "Ultrabug",
       "location": "Fundu Moldovei",
       "county": "SV",
-      "year_2027": "",
+      "year_2027": "Fri 28-May",
       "year_2026": "Fri 29-May",
       "year_2025": "Fri 30-May",
       "year_2024": "Fri 31-May",
@@ -6377,6 +6410,17 @@
       "year_2023": "Sat 17-Jun"
     },
     {
+      "id": 593,
+      "name": "Yeti Ultra 24 Hour Challenge",
+      "location": "Arad",
+      "county": "AR",
+      "year_2027": "",
+      "year_2026": "Sat 30-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 433,
       "name": "Zaga Zaga Escape Run",
       "location": "Garoafa (VN)",
@@ -6666,15 +6710,6 @@
       "year_2023": ""
     },
     {
-      "name": "Everesting Movila Magura",
-      "location": "Movila Magura",
-      "year_2027": "",
-      "year_2026": "Fri 12-Jun",
-      "year_2025": "",
-      "year_2024": "Sat 13-Jul",
-      "year_2023": ""
-    },
-    {
       "name": "HalloWeRun Cricova",
       "location": "Cricova",
       "year_2027": "",
@@ -6753,6 +6788,15 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 1-Jun",
+      "year_2023": ""
+    },
+    {
+      "name": "Movila Măgura Everesting Challenge",
+      "location": "Movila Magura",
+      "year_2027": "",
+      "year_2026": "Fri 23-Oct",
+      "year_2025": "",
+      "year_2024": "Sat 13-Jul",
       "year_2023": ""
     },
     {

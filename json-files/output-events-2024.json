@@ -1192,6 +1192,25 @@
     "lon": 23.58329
   },
   {
+    "name": "Maraton Bârzava - Csíkborzsova maraton",
+    "location": "Bârzava",
+    "location_details": "",
+    "display_date": "Sat 27-Apr-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61557617351187",
+    "link_fb": "https://www.facebook.com/profile.php?id=61557617351187",
+    "id": 596,
+    "year": 2024,
+    "month": 4,
+    "day": 27,
+    "lat": 46.11062246919407,
+    "lon": 21.99258891012099
+  },
+  {
     "name": "Urme pe Play",
     "location": "Rășinari",
     "location_details": "",
@@ -3378,7 +3397,7 @@
     "lon": 24.833295
   },
   {
-    "name": "Everesting Movila Magura",
+    "name": "Movila Măgura Everesting Challenge",
     "location": "Movila Magura",
     "location_details": "Republica Moldova",
     "display_date": "Sat 13-Jul-2024",

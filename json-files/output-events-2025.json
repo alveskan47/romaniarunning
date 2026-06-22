@@ -1653,6 +1653,25 @@
     "lon": 26.1548481031
   },
   {
+    "name": "Maraton Bârzava - Csíkborzsova maraton",
+    "location": "Bârzava",
+    "location_details": "",
+    "display_date": "Sat 03-May-2025",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61557617351187",
+    "link_fb": "https://www.facebook.com/profile.php?id=61557617351187",
+    "id": 596,
+    "year": 2025,
+    "month": 5,
+    "day": 3,
+    "lat": 46.11062246919407,
+    "lon": 21.99258891012099
+  },
+  {
     "name": "Crosul de Noapte Cluj (primavara)",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -5148,11 +5167,12 @@
     "county": "HR",
     "type": "trail",
     "distances": [
-      "21km",
-      "4km"
+      "21km(550m↑)",
+      "10km(130m↑)",
+      "3.5km(50m↑)"
     ],
-    "link": "https://www.facebook.com/events/1916513145835359",
-    "link_fb": "",
+    "link": "https://szenesrun.ro/",
+    "link_fb": "https://www.facebook.com/szenesrun.ro",
     "id": 301,
     "year": 2025,
     "month": 8,
@@ -6877,8 +6897,8 @@
     "distances": [
       "16.3km(697m↑)"
     ],
-    "link": "https://www.facebook.com/events/785249060658043/",
-    "link_fb": "",
+    "link": "https://www.facebook.com/profile.php?id=100057408641179",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057408641179",
     "id": 361,
     "year": 2025,
     "month": 10,

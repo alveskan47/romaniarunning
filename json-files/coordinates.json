@@ -1604,6 +1604,13 @@
   },
   {
     "county": "HR",
+    "location": "Bârzava",
+    "location_details": "",
+    "lat": 46.11062246919407,
+    "lon": 21.99258891012099
+  },
+  {
+    "county": "HR",
     "location": "Băile Harghita",
     "location_details": "",
     "lat": 46.5833,

@@ -1688,6 +1688,25 @@
     "lon": 25.78331
   },
   {
+    "name": "Maraton Bârzava - Csíkborzsova maraton",
+    "location": "Bârzava",
+    "location_details": "",
+    "display_date": "Sat 02-May-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61557617351187",
+    "link_fb": "https://www.facebook.com/profile.php?id=61557617351187",
+    "id": 596,
+    "year": 2026,
+    "month": 5,
+    "day": 2,
+    "lat": 46.11062246919407,
+    "lon": 21.99258891012099
+  },
+  {
     "name": "Volvo Ultra Race",
     "location": "Ulmu",
     "location_details": "Republica Moldova",
@@ -3174,6 +3193,25 @@
     "lon": 26.1034
   },
   {
+    "name": "Yeti Ultra 24 Hour Challenge",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 30-May-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "50km"
+    ],
+    "link": "https://www.facebook.com/events/1447762413828027/",
+    "link_fb": "",
+    "id": 593,
+    "year": 2026,
+    "month": 5,
+    "day": 30,
+    "lat": 46.1866,
+    "lon": 21.3123
+  },
+  {
     "name": "Crosul Copiilor - Veneția de Jos",
     "location": "Veneția de Jos",
     "location_details": "",
@@ -3726,25 +3764,6 @@
     "day": 12,
     "lat": 47.6667,
     "lon": 23.5833
-  },
-  {
-    "name": "Everesting Movila Magura",
-    "location": "Movila Magura",
-    "location_details": "Republica Moldova",
-    "display_date": "Fri 12-Jun-2026",
-    "county": "MDA*",
-    "type": "trail",
-    "distances": [
-      "-"
-    ],
-    "link": "https://itra.run/Races/RaceDetails/Movila.M%C4%83gura.Everesting.Challenge.Movila.M%C4%83gura.Everesting.4/2026/117329",
-    "link_fb": "",
-    "id": 0,
-    "year": 2026,
-    "month": 6,
-    "day": 12,
-    "lat": 46.8,
-    "lon": 28.6
   },
   {
     "name": "Maraton Tarcău",
@@ -4916,6 +4935,25 @@
     "lon": 25.5333
   },
   {
+    "name": "Get Muddy - Race for Hope",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sat 25-Jul-2026",
+    "county": "SB",
+    "type": "obstacles",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1330923895650290",
+    "link_fb": "",
+    "id": 594,
+    "year": 2026,
+    "month": 7,
+    "day": 25,
+    "lat": 45.7975,
+    "lon": 24.1508
+  },
+  {
     "name": "Semimaraton Țara de Piatră",
     "location": "Câmpeni",
     "location_details": "",
@@ -5284,6 +5322,28 @@
     "lon": 24.783295
   },
   {
+    "name": "Cros Donaton",
+    "location": "Cluj-Napoca",
+    "location_details": "Parcul Etnografic Romulus Vuia",
+    "display_date": "Sat 22-Aug-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "1km"
+    ],
+    "link": "https://donaton.ro/ro/",
+    "link_fb": "https://www.facebook.com/kmndonaton/",
+    "id": 294,
+    "year": 2026,
+    "month": 8,
+    "day": 22,
+    "lat": 46.7686978405,
+    "lon": 23.5717152975
+  },
+  {
     "name": "Underdogs - The Backyard Ultra",
     "location": "Brebu",
     "location_details": "",
@@ -5365,6 +5425,27 @@
     "day": 29,
     "lat": 45.3333,
     "lon": 23.4167
+  },
+  {
+    "name": "Szenes Trail",
+    "location": "Lupeni (HR)",
+    "location_details": "",
+    "display_date": "Sat 29-Aug-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "21km(550m↑)",
+      "10km(130m↑)",
+      "3.5km(50m↑)"
+    ],
+    "link": "https://szenesrun.ro/",
+    "link_fb": "https://www.facebook.com/szenesrun.ro",
+    "id": 301,
+    "year": 2026,
+    "month": 8,
+    "day": 29,
+    "lat": 46.8,
+    "lon": 25.1
   },
   {
     "name": "Maratonul Dragonul de Aur",
@@ -5530,6 +5611,26 @@
     "lon": 23.2833
   },
   {
+    "name": "Sopa Forest Race",
+    "location": "Șelimbăr",
+    "location_details": "Pădurea Sopa",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 315,
+    "year": 2026,
+    "month": 9,
+    "day": 5,
+    "lat": 45.7667,
+    "lon": 24.1833
+  },
+  {
     "name": "StruguRUN",
     "location": "Odobești",
     "location_details": "",
@@ -5549,6 +5650,27 @@
     "day": 5,
     "lat": 45.7667,
     "lon": 27.0667
+  },
+  {
+    "name": "Bimbo Global Race Brașov",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2km",
+      "1km"
+    ],
+    "link": "https://bimboglobalrace.ro/",
+    "link_fb": "https://www.facebook.com/BimboGlobalRace/",
+    "id": 510,
+    "year": 2026,
+    "month": 9,
+    "day": 5,
+    "lat": 45.64271,
+    "lon": 25.588695
   },
   {
     "name": "Trail Run - Viața în Mișcare",
@@ -6482,6 +6604,25 @@
     "lon": 26.6432
   },
   {
+    "name": "Cupa IPA",
+    "location": "Cheile Grădiștei",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://iparomania.ro/event/cupa-ipa-2026-imbina-sportul-natura-si-spiritul-ipa-la-cheile-gradistei-resort-fundata/",
+    "link_fb": "",
+    "id": 595,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 45.5667,
+    "lon": 25.3167
+  },
+  {
     "name": "Buzău 21k",
     "location": "Buzău",
     "location_details": "",
@@ -6664,6 +6805,25 @@
     "day": 3,
     "lat": 46.175,
     "lon": 23.916705
+  },
+  {
+    "name": "Secret Paradise Running",
+    "location": "Piatra Fântânele",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "16.3km(697m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100057408641179",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057408641179",
+    "id": 361,
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "lat": 47,
+    "lon": 24.783305
   },
   {
     "name": "Vardomb Backyard Ultra",
@@ -6854,6 +7014,27 @@
     "lon": 26.09315428669368
   },
   {
+    "name": "Semimaratonul Craiovei",
+    "location": "Craiova",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "DJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "14km",
+      "7km"
+    ],
+    "link": "https://www.semimaratonulcraiovei.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
+    "id": 13,
+    "year": 2026,
+    "month": 10,
+    "day": 17,
+    "lat": 44.316695,
+    "lon": 23.799995
+  },
+  {
     "name": "Semimaraton Călărași",
     "location": "Călărași",
     "location_details": "",
@@ -6937,6 +7118,25 @@
     "day": 17,
     "lat": 45.4333,
     "lon": 25.55
+  },
+  {
+    "name": "Movila Măgura Everesting Challenge",
+    "location": "Movila Magura",
+    "location_details": "Republica Moldova",
+    "display_date": "Fri 23-Oct-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1234994072120731/",
+    "link_fb": "",
+    "id": 0,
+    "year": 2026,
+    "month": 10,
+    "day": 23,
+    "lat": 46.8,
+    "lon": 28.6
   },
   {
     "name": "AlerGând la pădure",

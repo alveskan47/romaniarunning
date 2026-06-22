@@ -505,6 +505,11 @@
       "link_fb": "https://www.facebook.com/SemimaratonulCraiovei/",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 17
+        },
+        {
           "year": 2025,
           "month": 10,
           "day": 18
@@ -1973,6 +1978,11 @@
       "link_fb": "https://www.facebook.com/CheileTurziiRace",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
+        {
           "year": 2026,
           "month": 4,
           "day": 18
@@ -2335,6 +2345,11 @@
       "link_fb": "https://www.facebook.com/ThermalTrailRace/",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 8
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 30
@@ -2652,6 +2667,11 @@
       "link_fb": "https://www.facebook.com/ultrabug",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 28
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 29
@@ -2692,6 +2712,11 @@
       "link": "https://maratonsibiu.ro/",
       "link_fb": "https://www.facebook.com/MaratonSibiu/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 29
+        },
         {
           "year": 2026,
           "month": 5,
@@ -2956,6 +2981,11 @@
       "link": "https://www.maratonulnordului.ro/MN-Botosani.html",
       "link_fb": "https://www.facebook.com/maratonulnordului",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 13
+        },
         {
           "year": 2026,
           "month": 6,
@@ -9868,6 +9898,11 @@
       "link_fb": "https://www.facebook.com/kmndonaton/",
       "editions": [
         {
+          "year": 2026,
+          "month": 8,
+          "day": 22
+        },
+        {
           "year": 2025,
           "month": 8,
           "day": 23
@@ -10055,17 +10090,22 @@
       "county": "HR",
       "type": "trail",
       "distances": [
-        "21km",
-        "4km"
+        "21km(550m↑)",
+        "10km(130m↑)",
+        "3.5km(50m↑)"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://szenesrun.ro/",
+      "link_fb": "https://www.facebook.com/szenesrun.ro",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29
+        },
         {
           "year": 2025,
           "month": 8,
-          "day": 30,
-          "event_link": "https://www.facebook.com/events/1916513145835359"
+          "day": 30
         }
       ],
       "lat": 46.8,
@@ -10491,6 +10531,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5,
+          "event_details": "https://www.facebook.com/events/2164126500987647"
+        },
         {
           "year": 2025,
           "month": 9,
@@ -11850,14 +11896,18 @@
       "distances": [
         "16.3km(697m↑)"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://www.facebook.com/profile.php?id=100057408641179",
+      "link_fb": "https://www.facebook.com/profile.php?id=100057408641179",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
         {
           "year": 2025,
           "month": 10,
-          "day": 4,
-          "event_link": "https://www.facebook.com/events/785249060658043/"
+          "day": 4
         }
       ],
       "lat": 47,
@@ -15712,6 +15762,11 @@
       "link_fb": "https://www.facebook.com/BimboGlobalRace/",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 20
@@ -17615,6 +17670,108 @@
       ],
       "lat": 44.42736904671278,
       "lon": 26.09240325460678
+    },
+    {
+      "id": 593,
+      "name": "Yeti Ultra 24 Hour Challenge",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "50km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30,
+          "event_link": "https://www.facebook.com/events/1447762413828027/"
+        }
+      ],
+      "lat": 46.1866,
+      "lon": 21.3123
+    },
+    {
+      "id": 594,
+      "name": "Get Muddy - Race for Hope",
+      "location": "Sibiu",
+      "county": "SB",
+      "type": "obstacles",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/1330923895650290"
+        }
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
+    },
+    {
+      "id": 595,
+      "name": "Cupa IPA",
+      "location": "Cheile Grădiștei",
+      "county": "BV",
+      "type": "trail",
+      "distances": [
+        "7km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://iparomania.ro/event/cupa-ipa-2026-imbina-sportul-natura-si-spiritul-ipa-la-cheile-gradistei-resort-fundata/"
+        }
+      ],
+      "lat": 45.5667,
+      "lon": 25.3167
+    },
+    {
+      "id": 596,
+      "name": "Maraton Bârzava - Csíkborzsova maraton",
+      "location": "Bârzava",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "7km"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61557617351187",
+      "link_fb": "https://www.facebook.com/profile.php?id=61557617351187",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 8
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 2
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "day": 3
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "day": 27
+        }
+      ],
+      "lat": 46.11062246919407,
+      "lon": 21.99258891012099
     }
   ],
   "competitions_no_statistics": [
@@ -18465,7 +18622,7 @@
     },
     {
       "id": 0,
-      "name": "Everesting Movila Magura",
+      "name": "Movila Măgura Everesting Challenge",
       "location": "Movila Magura",
       "location_details": "Republica Moldova",
       "county": "MDA*",
@@ -18478,9 +18635,9 @@
       "editions": [
         {
           "year": 2026,
-          "month": 6,
-          "day": 12,
-          "event_link": "https://itra.run/Races/RaceDetails/Movila.M%C4%83gura.Everesting.Challenge.Movila.M%C4%83gura.Everesting.4/2026/117329"
+          "month": 10,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1234994072120731/"
         },
         {
           "year": 2024,

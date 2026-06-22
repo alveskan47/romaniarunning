@@ -209,6 +209,26 @@
     "lon": 26.1548781031
   },
   {
+    "name": "Cheile Turzii Race",
+    "location": "Cheile Turzii",
+    "location_details": "",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "23km(1300m↑)",
+      "9km(680m↑)"
+    ],
+    "link": "https://www.facebook.com/CheileTurziiRace",
+    "link_fb": "https://www.facebook.com/CheileTurziiRace",
+    "id": 51,
+    "year": 2027,
+    "month": 4,
+    "day": 17,
+    "lat": 46.5333,
+    "lon": 23.7667
+  },
+  {
     "name": "La Petrovaselo in vie",
     "location": "Recaș",
     "location_details": "Petrovaselo",
@@ -339,6 +359,45 @@
     "lon": 25.783295
   },
   {
+    "name": "Thermal Trail Race",
+    "location": "Băile 1 Mai",
+    "location_details": "",
+    "display_date": "Sat 08-May-2027",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "14km(308m↑)",
+      "7km(178m↑)"
+    ],
+    "link": "https://www.thermaltrailrace.com/",
+    "link_fb": "https://www.facebook.com/ThermalTrailRace/",
+    "id": 60,
+    "year": 2027,
+    "month": 5,
+    "day": 8,
+    "lat": 47.0167,
+    "lon": 21.8833
+  },
+  {
+    "name": "Maraton Bârzava - Csíkborzsova maraton",
+    "location": "Bârzava",
+    "location_details": "",
+    "display_date": "Sat 08-May-2027",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61557617351187",
+    "link_fb": "https://www.facebook.com/profile.php?id=61557617351187",
+    "id": 596,
+    "year": 2027,
+    "month": 5,
+    "day": 8,
+    "lat": 46.11062246919407,
+    "lon": 21.99258891012099
+  },
+  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -400,6 +459,53 @@
     "lon": 26.133295
   },
   {
+    "name": "Ultrabug",
+    "location": "Fundu Moldovei",
+    "location_details": "",
+    "display_date": "Fri 28-May-2027",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "100km",
+      "50km+8km",
+      "42km+8km",
+      "35km",
+      "8km"
+    ],
+    "link": "https://www.ultrabug.ro/",
+    "link_fb": "https://www.facebook.com/ultrabug",
+    "id": 68,
+    "year": 2027,
+    "month": 5,
+    "day": 28,
+    "lat": 47.55,
+    "lon": 25.4167
+  },
+  {
+    "name": "Maraton Sibiu",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sat 29-May-2027",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km",
+      "3km",
+      "4x5.3km relay"
+    ],
+    "link": "https://maratonsibiu.ro/",
+    "link_fb": "https://www.facebook.com/MaratonSibiu/",
+    "id": 69,
+    "year": 2027,
+    "month": 5,
+    "day": 29,
+    "lat": 45.797495,
+    "lon": 24.15079
+  },
+  {
     "name": "Bușteni Ultra Race",
     "location": "Bușteni",
     "location_details": "",
@@ -420,6 +526,26 @@
     "day": 5,
     "lat": 45.41015334460211,
     "lon": 25.53281764789364
+  },
+  {
+    "name": "Maratonul Nordului - Botoșani",
+    "location": "Botoșani",
+    "location_details": "",
+    "display_date": "Sun 13-Jun-2027",
+    "county": "BT",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.maratonulnordului.ro/MN-Botosani.html",
+    "link_fb": "https://www.facebook.com/maratonulnordului",
+    "id": 76,
+    "year": 2027,
+    "month": 6,
+    "day": 13,
+    "lat": 47.748895,
+    "lon": 26.668095
   },
   {
     "name": "Maraton 1 Decembrie București",
