@@ -1,0 +1,137 @@
+{
+  "swimming_competitions": [
+    {
+      "id": 1,
+      "name": "Aqua Challenge",
+      "location": "Constanța",
+      "county": "CT",
+      "link": "https://www.atenasportclub.ro/aqua-challenge",
+      "link_fb": "https://www.facebook.com/AtenaSportClub.ro",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1,
+          "event_distances": [
+            "5km - 02-Aug",
+            "1.5km",
+            "0.5km",
+            "0.2km",
+            "3x0.5km relay"
+          ]
+        }
+      ],
+      "distances": [
+        "5km",
+        "1.5km",
+        "0.5km",
+        "0.2km",
+        "3x0.5km relay"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Swim4Dreams",
+      "location": "Călărași",
+      "county": "CL",
+      "link": "https://www.72ore-swim4dreams.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61559150305800",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25
+        }
+      ],
+      "distances": [
+        "15km",
+        "3km",
+        "1.5km",
+        "0.5km"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "AtlantisMan",
+      "location": "Mangalia",
+      "county": "CT",
+      "link": "https://atlantisman.com/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61562089989829",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29
+        }
+      ],
+      "distances": [
+        "10km",
+        "2km",
+        "3x0.5km relay"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Siriu Open Water Joy",
+      "location": "Siriu",
+      "county": "BZ",
+      "link": "https://marathonswimming.ro/",
+      "link_fb": "https://www.facebook.com/marathonswimmingromania",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 4
+        }
+      ],
+      "distances": [
+        "4km",
+        "2km",
+        "1km",
+        "0.5km",
+        "0.25km"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Traversarea Tarniței",
+      "location": "Mărișel",
+      "county": "CJ",
+      "link": "https://club-orca.ro/traversarea-tarnitei",
+      "link_fb": "https://www.facebook.com/traversareatarnitei/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26,
+          "event_distances": [
+            "6.5km",
+            "1.5km - 25-Jul"
+          ]
+        }
+      ],
+      "distances": [
+        "6.5km",
+        "1.5km"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Budeasa Swim & Run",
+      "location": "Budeasa",
+      "county": "AG",
+      "link": "https://triatlet.ro/",
+      "link_fb": "https://www.facebook.com/p/Budeasa-SWIM-RUN-61555396305833/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 11
+        }
+      ],
+      "distances": [
+        "1km"
+      ]
+    }
+  ]
+}

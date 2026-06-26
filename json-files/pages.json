@@ -31,8 +31,8 @@
       "page_link": "bad-news.html"
     },
     {
-      "page_name": "Contact",
-      "page_link": "contact.html"
+      "page_name": "Swimming",
+      "page_link": "swimming.html"
     },
     {
       "page_name": "Other",
@@ -45,6 +45,10 @@
         {
           "page_name": "Park Run",
           "page_link": "park.html"
+        },
+        {
+          "page_name": "Contact",
+          "page_link": "contact.html"
         }
       ]
     }
