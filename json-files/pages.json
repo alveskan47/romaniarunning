@@ -37,6 +37,10 @@
         {
           "page_name": "Swimming",
           "page_link": "swimming.html"
+        },
+        {
+          "page_name": "Triathlon",
+          "page_link": "triathlon.html"
         }
       ]
     },

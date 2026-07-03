@@ -1,0 +1,170 @@
+{
+  "triathlon_competitions": [
+    {
+      "id": 1,
+      "name": "Roua Indoor Duathlon & Triathlon",
+      "location": "Iași",
+      "county": "IS",
+      "link": "https://rouatriclub.ro/indoor-triathlon/",
+      "link_fb": "https://www.facebook.com/rouatriclub/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 29
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "H3RO Mamaia",
+      "location": "Constanța",
+      "county": "CT",
+      "link": "https://h3ro.org/",
+      "link_fb": "https://www.facebook.com/h3romamaia/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fara Asfalt la mare",
+      "location": "2 Mai",
+      "county": "CT",
+      "link": "https://www.faraasfalt.ro/",
+      "link_fb": "https://www.facebook.com/faraasfalt/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": " X-Man Romania",
+      "location": "Oradea",
+      "county": "BH",
+      "link": "https://xmanromania.ro/",
+      "link_fb": "https://www.facebook.com/XmanRomania",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Transylvania Triathlon Festival",
+      "location": "Sângeorgiu de Pădure",
+      "county": "MS",
+      "link": "https://transylvaniatriathlonfestival.ro/",
+      "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Timișoara Triathlon",
+      "location": "Timișoara",
+      "county": "TM",
+      "link": "https://timisoaratriathlon.ro/",
+      "link_fb": "https://www.facebook.com/triathlontimisoara.ro",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Triatlon Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "link": "https://club-orca.ro/",
+      "link_fb": "https://www.facebook.com/enduraceseries",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sibiu Triatlon Challenge",
+      "location": "Sibiu",
+      "county": "SB",
+      "link": "https://acceptaprovocarea.com/",
+      "link_fb": "https://www.facebook.com/SibiuChallenge.ro/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Triathlon Festival",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "link": "https://ftrm.md/",
+      "link_fb": "https://www.facebook.com/ftrm.md/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Transfier",
+      "location": "Arefu",
+      "county": "AG",
+      "link": "https://transfier.ro/",
+      "link_fb": "https://www.facebook.com/transfier.triatlon/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Triatlon Pantelimon",
+      "location": "Pantelimon",
+      "county": "IF",
+      "link": "https://triathlon.unstoppable.ro/",
+      "link_fb": "https://www.facebook.com/triathlon.pantelimon",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 20
+        }
+      ]
+    }
+  ]
+}
