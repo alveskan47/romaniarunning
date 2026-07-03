@@ -305,6 +305,17 @@
       "year_2023": ""
     },
     {
+      "id": 598,
+      "name": "Alergare Montană Rășinari – Fraga",
+      "location": "Sibiu",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "Wed 1-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 221,
       "name": "Alergarea Carpilor",
       "location": "Techirghiol",
@@ -1069,7 +1080,7 @@
       "location": "Păltiniș",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 25-Jul",
       "year_2025": "Sat 26-Jul",
       "year_2024": "Sat 27-Jul",
       "year_2023": "Sat 29-Jul"
@@ -1421,7 +1432,7 @@
       "location": "Borsec",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "Sat 25-Jul",
+      "year_2026": "Sun 26-Jul",
       "year_2025": "Sun 20-Jul",
       "year_2024": "Sun 21-Jul",
       "year_2023": "Sun 16-Jul"
@@ -1478,6 +1489,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Thu 30-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 599,
+      "name": "Cros Zilele Maghiarilor din Sighetu Marmației",
+      "location": "Sighetu Marmației",
+      "county": "MM",
+      "year_2027": "",
+      "year_2026": "Sat 11-Jul",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
@@ -1751,7 +1773,7 @@
       "location": "Oradea",
       "county": "BH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 5-Sep",
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 7-Sep",
       "year_2023": "Sat 7-Oct"
@@ -2048,7 +2070,7 @@
       "location": "Alba Iulia",
       "county": "AB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "Sat 27-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -2785,7 +2807,7 @@
       "location": "Toplița",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 10-Oct",
       "year_2025": "Sat 11-Oct",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 7-Oct"
@@ -2901,6 +2923,17 @@
       "year_2023": ""
     },
     {
+      "id": 144,
+      "name": "Dascălu Forest Run",
+      "location": "Dascălu",
+      "county": "IF",
+      "year_2027": "",
+      "year_2026": "Sat 18-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 108,
       "name": "Dălhăuți Trail Challenge",
       "location": "Dălhăuți",
@@ -2941,6 +2974,17 @@
       "year_2027": "",
       "year_2026": "Sat 11-Jul",
       "year_2025": "Sun 28-Sep",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 601,
+      "name": "Dream Run - Buziaș",
+      "location": "Buziaș",
+      "county": "TM",
+      "year_2027": "",
+      "year_2026": "Sat 5-Sep",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
@@ -3174,6 +3218,17 @@
       "year_2025": "Fri 14-Nov",
       "year_2024": "Fri 22-Nov",
       "year_2023": "Fri 3-Nov"
+    },
+    {
+      "id": 602,
+      "name": "Fuss NEKI! Gyergyó",
+      "location": "Gheorgheni",
+      "county": "HR",
+      "year_2027": "",
+      "year_2026": "Sat 26-Sep",
+      "year_2025": "Sat 27-Sep",
+      "year_2024": "Sat 28-Sep",
+      "year_2023": "Sun 24-Sep"
     },
     {
       "id": 214,
@@ -4221,6 +4276,17 @@
       "year_2023": ""
     },
     {
+      "id": 600,
+      "name": "Nyárádmente Trail Challenge",
+      "location": "Miercurea Nirajului",
+      "county": "MS",
+      "year_2027": "",
+      "year_2026": "Sun 2-Aug",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 117,
       "name": "Obciniada Night Run",
       "location": "Gura Humorului",
@@ -4758,6 +4824,17 @@
       "year_2025": "",
       "year_2024": "Sat 5-Oct",
       "year_2023": "Sat 7-Oct"
+    },
+    {
+      "id": 604,
+      "name": "Run for Life - Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sat 7-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 341,
@@ -5563,6 +5640,17 @@
       "year_2023": "Sat 25-Feb"
     },
     {
+      "id": 597,
+      "name": "Șumuleu Ciuc - Running Festival közösségi futás",
+      "location": "Șumuleu Ciuc",
+      "county": "HR",
+      "year_2027": "",
+      "year_2026": "Wed 1-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 460,
       "name": "Șureanu Race 4x2000",
       "location": "Șugag",
@@ -5882,12 +5970,12 @@
       "year_2023": "Sat 20-May"
     },
     {
-      "id": 144,
-      "name": "Trofeul Dragoneilor",
-      "location": "Moroeni",
-      "county": "DB",
+      "id": 603,
+      "name": "Trivale Trail",
+      "location": "Pitești",
+      "county": "AG",
       "year_2027": "",
-      "year_2026": "Sat 18-Jul",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -6074,7 +6162,7 @@
       "location": "Brașov",
       "county": "BV",
       "year_2027": "",
-      "year_2026": "Sun 26-Jul",
+      "year_2026": "",
       "year_2025": "Sun 20-Jul",
       "year_2024": "",
       "year_2023": "Sat 22-Jul"

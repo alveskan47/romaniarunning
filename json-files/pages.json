@@ -23,19 +23,25 @@
         {
           "page_name": "General Statistics",
           "page_link": "general-statistics.html"
+        },
+        {
+          "page_name": "Bad News",
+          "page_link": "bad-news.html"
         }
       ]
     },
     {
-      "page_name": "Bad News",
-      "page_link": "bad-news.html"
+      "page_name": "Other Sports",
+      "dropdown": true,
+      "sub_pages": [
+        {
+          "page_name": "Swimming",
+          "page_link": "swimming.html"
+        }
+      ]
     },
     {
-      "page_name": "Swimming",
-      "page_link": "swimming.html"
-    },
-    {
-      "page_name": "Other",
+      "page_name": "Extra",
       "dropdown": true,
       "sub_pages": [
         {

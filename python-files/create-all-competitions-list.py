@@ -5,7 +5,7 @@ This script reads the input JSON file containing all competitions and creates
 alphabetically sorted lists of competition data including edition dates.
 
 Input:
-  - json-files/input-all-competitions.json (contains both competitions and competitions_no_statistics arrays)
+  - json-files/input-running-competitions.json (contains both competitions and competitions_no_statistics arrays)
 Output:
   - json-files/output-all-competitions-list.json (alphabetically sorted lists using Romanian alphabet with edition dates)
 """
@@ -308,7 +308,7 @@ def main():
     # Define paths relative to the script location
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
-    input_path = project_root / 'json-files' / 'input-all-competitions.json'
+    input_path = project_root / 'json-files' / 'input-running-competitions.json'
     output_path = project_root / 'json-files' / 'output-all-competitions-list.json'
 
     print("Loading competitions data...")

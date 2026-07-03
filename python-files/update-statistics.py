@@ -4,7 +4,7 @@ update-statistics.py
 Purpose:
 --------
 This script updates the statistics file (output-all-statistics.json) with calculated
-data from the competitions database (input-all-competitions.json). It processes competition
+data from the competitions database (input-running-competitions.json). It processes competition
 data to generate various statistics including:
 - Total competitions per year
 - Competitions by month
@@ -75,7 +75,7 @@ def update_total_competitions(competitions_data):
     Parameters:
     -----------
     competitions_data : dict
-        The competitions data loaded from input-all-competitions.json
+        The competitions data loaded from input-running-competitions.json
         Expected structure: {"competitions": [{"editions": [{"year": 2024, ...}]}]}
 
     Returns:
@@ -117,7 +117,7 @@ def update_competitions_by_month(competitions_data):
     Parameters:
     -----------
     competitions_data : dict
-        The competitions data loaded from input-all-competitions.json
+        The competitions data loaded from input-running-competitions.json
         Expected structure: {"competitions": [{"editions": [{"year": 2024, "month": 5, ...}]}]}
 
     Returns:
@@ -166,7 +166,7 @@ def update_competitions_by_type(competitions_data):
     Parameters:
     -----------
     competitions_data : dict
-        The competitions data loaded from input-all-competitions.json
+        The competitions data loaded from input-running-competitions.json
         Expected structure: {"competitions": [{"type": "road", "editions": [{"year": 2024, ...}]}]}
 
     Returns:
@@ -224,7 +224,7 @@ def update_competitions_by_county(competitions_data):
     Parameters:
     -----------
     competitions_data : dict
-        The competitions data loaded from input-all-competitions.json
+        The competitions data loaded from input-running-competitions.json
         Expected structure: {"competitions": [{"county": "B", "editions": [{"year": 2024, ...}]}]}
 
     Returns:
@@ -280,7 +280,7 @@ def update_competitions_by_towns(competitions_data):
     Parameters:
     -----------
     competitions_data : dict
-        The competitions data loaded from input-all-competitions.json
+        The competitions data loaded from input-running-competitions.json
         Expected structure: {"competitions": [{"location": "București", "editions": [{"year": 2024, ...}]}]}
 
     Returns:
@@ -360,7 +360,7 @@ def main():
     """
     # Define file paths
     base_path = Path(__file__).parent.parent / 'json-files'
-    input_file = base_path / 'input-all-competitions.json'
+    input_file = base_path / 'input-running-competitions.json'
     output_file = base_path / 'output-all-statistics.json'
 
     # Load data files

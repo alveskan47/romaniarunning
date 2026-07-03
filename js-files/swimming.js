@@ -31,12 +31,22 @@ function renderSwimmingTable(year) {
     swimmingData.swimming_competitions.forEach(comp => {
         comp.editions.forEach(edition => {
             if (edition.year !== year) return;
+            // Link priority: 1) main link, 2) event_link from edition, 3) link_fb, 4) empty
+            let link = '';
+            if (comp.link) {
+                link = comp.link;
+            } else if (edition.event_link) {
+                link = edition.event_link;
+            } else if (comp.link_fb) {
+                link = comp.link_fb;
+            }
+
             rows.push({
                 day: edition.day,
                 month: edition.month,
                 display_date: formatSwimmingDate(edition.day, edition.month, edition.year),
                 name: comp.name,
-                link: comp.link,
+                link: link,
                 link_fb: comp.link_fb || null,
                 location: comp.location,
                 county: comp.county,

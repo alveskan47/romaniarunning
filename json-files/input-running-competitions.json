@@ -5246,9 +5246,9 @@
     },
     {
       "id": 144,
-      "name": "Trofeul Dragoneilor",
-      "location": "Moroeni",
-      "county": "DB",
+      "name": "Dascălu Forest Run",
+      "location": "Dascălu",
+      "county": "IF",
       "type": "trail",
       "distances": [
         "-"
@@ -5260,11 +5260,11 @@
           "year": 2026,
           "month": 7,
           "day": 18,
-          "event_link": "https://www.facebook.com/events/1524922412160489/"
+          "event_link": "https://www.facebook.com/events/1892754165017645"
         }
       ],
-      "lat": 45.2833,
-      "lon": 25.4833
+      "lat": 44.60133469013012,
+      "lon": 26.227187415434443
     },
     {
       "id": 145,
@@ -9299,11 +9299,6 @@
       "link_fb": "https://www.facebook.com/profile.php?id=100084000551368",
       "editions": [
         {
-          "year": 2026,
-          "month": 7,
-          "day": 26
-        },
-        {
           "year": 2025,
           "month": 7,
           "day": 20
@@ -9467,7 +9462,7 @@
         {
           "year": 2026,
           "month": 7,
-          "day": 25
+          "day": 26
         },
         {
           "year": 2025,
@@ -9568,6 +9563,11 @@
       "link": "https://www.inalergare.ro/",
       "link_fb": "https://www.facebook.com/Inalergare/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25
+        },
         {
           "year": 2025,
           "month": 7,
@@ -11508,6 +11508,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/1029318416249918"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 27,
@@ -11792,6 +11798,11 @@
       "link": "https://www.crosulcetatii.ro/ro/",
       "link_fb": "https://www.facebook.com/crosulcetatii",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
         {
           "year": 2025,
           "month": 10,
@@ -12080,6 +12091,11 @@
       "link": "https://cupacalimani.ro/",
       "link_fb": "https://www.facebook.com/cupacalimani/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        },
         {
           "year": 2025,
           "month": 10,
@@ -17772,6 +17788,201 @@
       ],
       "lat": 46.43163039441392,
       "lon": 25.82130424456892
+    },
+    {
+      "id": 597,
+      "name": "Șumuleu Ciuc - Running Festival közösségi futás",
+      "location": "Șumuleu Ciuc",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/1027496046382715"
+        }
+      ],
+      "lat": 46.37478776150108,
+      "lon": 25.816475172448236
+    },
+    {
+      "id": 598,
+      "name": "Alergare Montană Rășinari – Fraga",
+      "location": "Sibiu",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "8km(500m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/1548115420041798"
+        }
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
+    },
+    {
+      "id": 599,
+      "name": "Cros Zilele Maghiarilor din Sighetu Marmației",
+      "location": "Sighetu Marmației",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "7km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 11,
+          "event_link": "https://www.facebook.com/events/2038207670416785"
+        }
+      ],
+      "lat": 47.9167,
+      "lon": 23.8833
+    },
+    {
+      "id": 600,
+      "name": "Nyárádmente Trail Challenge",
+      "location": "Miercurea Nirajului",
+      "county": "MS",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 2,
+          "event_link": "https://www.facebook.com/events/1548318180248578"
+        }
+      ],
+      "lat": 46.5167,
+      "lon": 24.8167
+    },
+    {
+      "id": 601,
+      "name": "Dream Run - Buziaș",
+      "location": "Buziaș",
+      "county": "TM",
+      "type": "trail",
+      "distances": [
+        "21km (⚠ only teams)",
+        "10km",
+        "5km"
+      ],
+      "link": "https://dreamrun.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        }
+      ],
+      "lat": 45.65,
+      "lon": 21.6
+    },
+    {
+      "id": 602,
+      "name": "Fuss NEKI! Gyergyó",
+      "location": "Gheorgheni",
+      "county": "HR",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://gyergyo.fussneki.ro/",
+      "link_fb": "https://www.facebook.com/gyergyoert.ro/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "day": 27
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "day": 28
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "day": 24
+        }
+      ],
+      "lat": 46.7167,
+      "lon": 25.5833
+    },
+    {
+      "id": 603,
+      "name": "Trivale Trail",
+      "location": "Pitești",
+      "county": "AG",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://www.trivaletrail.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        }
+      ],
+      "lat": 44.8604,
+      "lon": 24.8703
+    },
+    {
+      "id": 604,
+      "name": "Run for Life - Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://runforlife.ro/wonderland/",
+      "link_fb": "https://www.facebook.com/asociatialifecall",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
     }
   ],
   "competitions_no_statistics": [

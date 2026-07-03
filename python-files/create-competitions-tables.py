@@ -5,7 +5,7 @@ This script reads JSON files containing competitions with their different editio
 It processes each event, groups them by year, and outputs a separate JSON file for each year.
 
 Input:
-  - json-files/input-all-competitions.json (contains both competitions and competitions_no_statistics arrays)
+  - json-files/input-running-competitions.json (contains both competitions and competitions_no_statistics arrays)
 Output: json-files/output-events-{year}.json (one file per year containing all events for that year)
 """
 
@@ -195,7 +195,7 @@ def main() -> None:
     json_files_dir = os.path.join(parent_dir, 'json-files')
 
     # Read input JSON file from json-files folder
-    input_file_path = os.path.join(json_files_dir, 'input-all-competitions.json')
+    input_file_path = os.path.join(json_files_dir, 'input-running-competitions.json')
     input_data = read_json_file(input_file_path)
 
     # Merge competitions from both arrays (competitions and competitions_no_statistics)

@@ -4336,6 +4336,25 @@
     "lon": 23.5716952975
   },
   {
+    "name": "Fuss NEKI! Gyergyó",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sun 24-Sep-2023",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://gyergyo.fussneki.ro/",
+    "link_fb": "https://www.facebook.com/gyergyoert.ro/",
+    "id": 602,
+    "year": 2023,
+    "month": 9,
+    "day": 24,
+    "lat": 46.7167,
+    "lon": 25.5833
+  },
+  {
     "name": "Chișinău Maraton",
     "location": "Chișinău",
     "location_details": "Republica Moldova",

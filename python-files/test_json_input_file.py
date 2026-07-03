@@ -441,7 +441,7 @@ def test_json_structure():
 
     # Use relative path to json-files directory
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-all-competitions.json'
+    json_file = base_path / 'input-running-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -467,7 +467,7 @@ def test_dates():
 
     # Use relative path to json-files directory
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-all-competitions.json'
+    json_file = base_path / 'input-running-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -493,7 +493,7 @@ def test_unique_years():
 
     # Use relative path to json-files directory
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-all-competitions.json'
+    json_file = base_path / 'input-running-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -519,7 +519,7 @@ def test_competition_ids():
 
     # Use relative path to json-files directory
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-all-competitions.json'
+    json_file = base_path / 'input-running-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -545,7 +545,7 @@ def test_unique_competition_names():
 
     # Use relative path to json-files directory
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-all-competitions.json'
+    json_file = base_path / 'input-running-competitions.json'
 
     success, data = load_json_file(json_file)
     if not success:
@@ -566,7 +566,7 @@ def test_unique_competition_names():
 
 def run_all_tests():
     """Run all tests and return overall result"""
-    print("Running all tests for input-all-competitions.json")
+    print("Running all tests for input-running-competitions.json")
     print("=" * 80)
 
     test_results = []

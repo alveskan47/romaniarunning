@@ -52,7 +52,7 @@
     },
     {
       "id": 3,
-      "name": "AtlantisMan",
+      "name": "Atlantis Man",
       "location": "Mangalia",
       "county": "CT",
       "link": "https://atlantisman.com/",
@@ -131,6 +131,48 @@
       ],
       "distances": [
         "1km"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Traversarea Lacului Văliug",
+      "location": "Văliug",
+      "county": "CS",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/1533084168342790/"
+        }
+      ],
+      "distances": [
+        "2km",
+        "0.4km"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chișinău - Sea Mile",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 16,
+          "event_link": "https://sporter.md/ro/events/swim/100156/seamile-2026"
+        }
+      ],
+      "distances": [
+        "3km",
+        "1.5km",
+        "0.75km"
       ]
     }
   ]

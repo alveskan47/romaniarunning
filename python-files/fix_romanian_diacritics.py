@@ -335,7 +335,7 @@ def fix_json_diacritics():
     """Fix Romanian diacritics in the JSON file"""
     # Use relative path to json-files directory
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-all-competitions.json'
+    json_file = base_path / 'input-running-competitions.json'
 
     print("Loading JSON file...")
     with open(json_file, 'r', encoding='utf-8') as f:

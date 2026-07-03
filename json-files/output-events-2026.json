@@ -4538,6 +4538,44 @@
     "lon": 24.7
   },
   {
+    "name": "Șumuleu Ciuc - Running Festival közösségi futás",
+    "location": "Șumuleu Ciuc",
+    "location_details": "",
+    "display_date": "Wed 01-Jul-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/1027496046382715",
+    "link_fb": "",
+    "id": 597,
+    "year": 2026,
+    "month": 7,
+    "day": 1,
+    "lat": 46.37478776150108,
+    "lon": 25.816475172448236
+  },
+  {
+    "name": "Alergare Montană Rășinari – Fraga",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Wed 01-Jul-2026",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "8km(500m↑)"
+    ],
+    "link": "https://www.facebook.com/events/1548115420041798",
+    "link_fb": "",
+    "id": 598,
+    "year": 2026,
+    "month": 7,
+    "day": 1,
+    "lat": 45.7975,
+    "lon": 24.1508
+  },
+  {
     "name": "Cozia Mountain Run",
     "location": "Călimănești",
     "location_details": "",
@@ -4772,23 +4810,42 @@
     "lon": 25.583295
   },
   {
-    "name": "Trofeul Dragoneilor",
-    "location": "Moroeni",
+    "name": "Cros Zilele Maghiarilor din Sighetu Marmației",
+    "location": "Sighetu Marmației",
+    "location_details": "",
+    "display_date": "Sat 11-Jul-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "7km"
+    ],
+    "link": "https://www.facebook.com/events/2038207670416785",
+    "link_fb": "",
+    "id": 599,
+    "year": 2026,
+    "month": 7,
+    "day": 11,
+    "lat": 47.9167,
+    "lon": 23.8833
+  },
+  {
+    "name": "Dascălu Forest Run",
+    "location": "Dascălu",
     "location_details": "",
     "display_date": "Sat 18-Jul-2026",
-    "county": "DB",
+    "county": "IF",
     "type": "trail",
     "distances": [
       "-"
     ],
-    "link": "https://www.facebook.com/events/1524922412160489/",
+    "link": "https://www.facebook.com/events/1892754165017645",
     "link_fb": "",
     "id": 144,
     "year": 2026,
     "month": 7,
     "day": 18,
-    "lat": 45.2833,
-    "lon": 25.4833
+    "lat": 44.60133469013012,
+    "lon": 26.227187415434443
   },
   {
     "name": "Buila Trail Race",
@@ -4916,23 +4973,26 @@
     "lon": 25.566695
   },
   {
-    "name": "Cros Montan Borsec",
-    "location": "Borsec",
+    "name": "Cindrel In Alergare",
+    "location": "Păltiniș",
     "location_details": "",
     "display_date": "Sat 25-Jul-2026",
-    "county": "HR",
+    "county": "SB",
     "type": "trail",
     "distances": [
-      "14.1km"
+      "91km(5500m↑)",
+      "42km(1900m↑)",
+      "21km(1000m↑)",
+      "12km(500m↑)"
     ],
-    "link": "https://www.facebook.com/Cea1BorsecFestival",
-    "link_fb": "https://www.facebook.com/Cea1BorsecFestival",
-    "id": 280,
+    "link": "https://www.inalergare.ro/",
+    "link_fb": "https://www.facebook.com/Inalergare/",
+    "id": 283,
     "year": 2026,
     "month": 7,
     "day": 25,
-    "lat": 46.9667,
-    "lon": 25.5333
+    "lat": 45.55,
+    "lon": 23.9667
   },
   {
     "name": "Get Muddy - Race for Hope",
@@ -4975,25 +5035,23 @@
     "lon": 23.05
   },
   {
-    "name": "Up to Postavaru",
-    "location": "Brașov",
-    "location_details": "Telecabina Kanzel",
+    "name": "Cros Montan Borsec",
+    "location": "Borsec",
+    "location_details": "",
     "display_date": "Sun 26-Jul-2026",
-    "county": "BV",
+    "county": "HR",
     "type": "trail",
     "distances": [
-      "21km(1184m↑)",
-      "11km(614m↑)",
-      "4.5km(641m↑)"
+      "14.1km"
     ],
-    "link": "https://www.uptopostavaru.ro/",
-    "link_fb": "https://www.facebook.com/profile.php?id=100084000551368",
-    "id": 275,
+    "link": "https://www.facebook.com/Cea1BorsecFestival",
+    "link_fb": "https://www.facebook.com/Cea1BorsecFestival",
+    "id": 280,
     "year": 2026,
     "month": 7,
     "day": 26,
-    "lat": 45.6333,
-    "lon": 25.583305
+    "lat": 46.9667,
+    "lon": 25.5333
   },
   {
     "name": "Căsoaia Bike, Run & Fun",
@@ -5096,6 +5154,27 @@
     "day": 1,
     "lat": 47.3667,
     "lon": 28.0167
+  },
+  {
+    "name": "Nyárádmente Trail Challenge",
+    "location": "Miercurea Nirajului",
+    "location_details": "",
+    "display_date": "Sun 02-Aug-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/1548318180248578",
+    "link_fb": "",
+    "id": 600,
+    "year": 2026,
+    "month": 8,
+    "day": 2,
+    "lat": 46.5167,
+    "lon": 24.8167
   },
   {
     "name": "Ultra Race Romania",
@@ -5652,6 +5731,26 @@
     "lon": 27.0667
   },
   {
+    "name": "Crosul Cetății Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.crosulcetatii.ro/ro/",
+    "link_fb": "https://www.facebook.com/crosulcetatii",
+    "id": 357,
+    "year": 2026,
+    "month": 9,
+    "day": 5,
+    "lat": 47.0559609149,
+    "lon": 21.9395166774
+  },
+  {
     "name": "Bimbo Global Race Brașov",
     "location": "Brașov",
     "location_details": "",
@@ -5692,6 +5791,27 @@
     "day": 5,
     "lat": 45.6303,
     "lon": 23.1667
+  },
+  {
+    "name": "Dream Run - Buziaș",
+    "location": "Buziaș",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "21km (⚠ only teams)",
+      "10km",
+      "5km"
+    ],
+    "link": "https://dreamrun.ro/",
+    "link_fb": "",
+    "id": 601,
+    "year": 2026,
+    "month": 9,
+    "day": 5,
+    "lat": 45.65,
+    "lon": 21.6
   },
   {
     "name": "Via Pontica",
@@ -6564,6 +6684,25 @@
     "lon": 25.3
   },
   {
+    "name": "Crosul Inimilor - Alba Iulia",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "5.4km"
+    ],
+    "link": "https://www.facebook.com/events/1029318416249918",
+    "link_fb": "",
+    "id": 348,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 46.068995,
+    "lon": 23.576305
+  },
+  {
     "name": "Alerg pentru tine Trail Run - Sucevița",
     "location": "Sucevița",
     "location_details": "",
@@ -6621,6 +6760,46 @@
     "day": 26,
     "lat": 45.5667,
     "lon": 25.3167
+  },
+  {
+    "name": "Fuss NEKI! Gyergyó",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://gyergyo.fussneki.ro/",
+    "link_fb": "https://www.facebook.com/gyergyoert.ro/",
+    "id": 602,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 46.7167,
+    "lon": 25.5833
+  },
+  {
+    "name": "Trivale Trail",
+    "location": "Pitești",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.trivaletrail.ro/",
+    "link_fb": "",
+    "id": 603,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 44.8604,
+    "lon": 24.8703
   },
   {
     "name": "Buzău 21k",
@@ -6970,6 +7149,26 @@
     "day": 10,
     "lat": 44.8833,
     "lon": 22.4167
+  },
+  {
+    "name": "Cupa Călimani la alergare montana",
+    "location": "Toplița",
+    "location_details": "Cabana Lomas",
+    "display_date": "Sat 10-Oct-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "25km(1500m↑)",
+      "10km(500m↑)"
+    ],
+    "link": "https://cupacalimani.ro/",
+    "link_fb": "https://www.facebook.com/cupacalimani/",
+    "id": 368,
+    "year": 2026,
+    "month": 10,
+    "day": 10,
+    "lat": 46.9167,
+    "lon": 25.35
   },
   {
     "name": "TulbuRun la Asconi Winery",
@@ -7445,6 +7644,27 @@
     "day": 7,
     "lat": 45.2167,
     "lon": 26.6167
+  },
+  {
+    "name": "Run for Life - Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://runforlife.ro/wonderland/",
+    "link_fb": "https://www.facebook.com/asociatialifecall",
+    "id": 604,
+    "year": 2026,
+    "month": 11,
+    "day": 7,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Bucharest 21k",

@@ -1708,6 +1708,13 @@
     "lon": 25.35
   },
   {
+    "county": "HR",
+    "location": "Șumuleu Ciuc",
+    "location_details": "",
+    "lat": 46.37478776150108,
+    "lon": 25.816475172448236
+  },
+  {
     "county": "IF",
     "location": "Balotești",
     "location_details": "",
@@ -1748,6 +1755,13 @@
     "location_details": "",
     "lat": 44.5667,
     "lon": 25.9833
+  },
+  {
+    "county": "IF",
+    "location": "Dascălu",
+    "location_details": "",
+    "lat": 44.60133469013012,
+    "lon": 26.227187415434443
   },
   {
     "county": "IF",

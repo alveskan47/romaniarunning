@@ -5218,6 +5218,25 @@
     "lon": 25.7167
   },
   {
+    "name": "Fuss NEKI! Gyergyó",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sat 28-Sep-2024",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://gyergyo.fussneki.ro/",
+    "link_fb": "https://www.facebook.com/gyergyoert.ro/",
+    "id": 602,
+    "year": 2024,
+    "month": 9,
+    "day": 28,
+    "lat": 46.7167,
+    "lon": 25.5833
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",

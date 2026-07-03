@@ -1,7 +1,7 @@
 """
 update-coordinates.py
 
-Step 1 — Sync locations from input-all-competitions into coordinates.json:
+Step 1 — Sync locations from input-running-competitions into coordinates.json:
   - For every competition, derive its location key (county, location, location_details).
   - If the key is not yet in coordinates.json, add it with null lat/lon so it can be
     filled in manually later.
@@ -9,14 +9,14 @@ Step 1 — Sync locations from input-all-competitions into coordinates.json:
       • (county, location, "")               — the default/fallback for that place
       • (county, location, location_details) — the specific venue
 
-Step 2 — Back-fill coordinates into input-all-competitions.json:
+Step 2 — Back-fill coordinates into input-running-competitions.json:
   - For every competition that has no lat/lon yet, look it up in coordinates.json:
       1. Specific match: (county, location, location_details)
       2. Fallback match: (county, location, "")
   - If a match with valid (non-null) coordinates is found, write them onto the competition.
 
 Input/Output:
-  - json-files/input-all-competitions.json (read + possibly updated in Step 2)
+  - json-files/input-running-competitions.json (read + possibly updated in Step 2)
   - json-files/coordinates.json            (read + possibly updated in Step 1)
 """
 
@@ -33,7 +33,7 @@ def get_paths():
     parent_dir = os.path.dirname(script_dir)
     json_dir = os.path.join(parent_dir, 'json-files')
     return (
-        os.path.join(json_dir, 'input-all-competitions.json'),
+        os.path.join(json_dir, 'input-running-competitions.json'),
         os.path.join(json_dir, 'coordinates.json'),
     )
 
@@ -184,7 +184,7 @@ def main():
         print("  → No new locations found.")
 
     # Step 2
-    print("\nStep 2: Back-filling coordinates into input-all-competitions.json...")
+    print("\nStep 2: Back-filling coordinates into input-running-competitions.json...")
     updated = backfill_coordinates(all_competitions, coords_list, index)
     if updated:
         write_json(input_path, input_data)
