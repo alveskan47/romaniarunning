@@ -1200,7 +1200,7 @@
       "name": "Cozia Mountain Run",
       "location": "Călimănești",
       "county": "VL",
-      "year_2027": "",
+      "year_2027": "Sat 3-Jul",
       "year_2026": "Sat 4-Jul",
       "year_2025": "Sat 5-Jul",
       "year_2024": "Sat 6-Jul",
@@ -1641,7 +1641,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "Sun 20-Sep",
+      "year_2026": "Sun 27-Sep",
       "year_2025": "Sun 21-Sep",
       "year_2024": "Sun 22-Sep",
       "year_2023": "Sun 24-Sep"
@@ -2204,6 +2204,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Wed 4-Jun",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 608,
+      "name": "Crosul Memoriei",
+      "location": "Mărgău",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sat 19-Sep",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
@@ -3077,6 +3088,17 @@
       "year_2023": ""
     },
     {
+      "id": 605,
+      "name": "Farmotion",
+      "location": "Armeniș",
+      "county": "CS",
+      "year_2027": "",
+      "year_2026": "Sat 1-Aug",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 592,
       "name": "Fast & Fun Run",
       "location": "București",
@@ -3205,6 +3227,17 @@
       "year_2027": "",
       "year_2026": "Sat 30-May",
       "year_2025": "Sat 31-May",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 609,
+      "name": "Friday Night Lights",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "Wed 23-Sep",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },
@@ -4320,6 +4353,17 @@
       "year_2023": ""
     },
     {
+      "id": 607,
+      "name": "Oltenia Ultra Trail",
+      "location": "Craiova",
+      "county": "DJ",
+      "year_2027": "",
+      "year_2026": "Sat 19-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 94,
       "name": "Omu Marathon",
       "location": "Bran",
@@ -4329,6 +4373,17 @@
       "year_2025": "Sat 20-Sep",
       "year_2024": "Sat 21-Sep",
       "year_2023": "Sat 16-Sep"
+    },
+    {
+      "id": 606,
+      "name": "Opinca Trail - Holod Experience",
+      "location": "Holod",
+      "county": "CS",
+      "year_2027": "",
+      "year_2026": "Sat 5-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 575,
@@ -5249,7 +5304,7 @@
       "location": "Sfântu Gheorghe",
       "county": "CV",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 24-Oct",
       "year_2025": "Sat 18-Oct",
       "year_2024": "Sat 19-Oct",
       "year_2023": "Sat 7-Oct"
@@ -6294,7 +6349,7 @@
       "location": "Luizi Călugara",
       "county": "BC",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Thu 24-Sep",
       "year_2025": "Sat 20-Sep",
       "year_2024": "",
       "year_2023": ""

@@ -5136,6 +5136,25 @@
     "lon": 21.2259904857
   },
   {
+    "name": "Farmotion",
+    "location": "Armeniș",
+    "location_details": "",
+    "display_date": "Sat 01-Aug-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "23km"
+    ],
+    "link": "https://farmotion.ro/",
+    "link_fb": "",
+    "id": 605,
+    "year": 2026,
+    "month": 8,
+    "day": 1,
+    "lat": 45.20952324468092,
+    "lon": 22.309499934107706
+  },
+  {
     "name": "Colinele Mircești",
     "location": "Mircești (Ungheni)",
     "location_details": "Republica Moldova",
@@ -5814,6 +5833,27 @@
     "lon": 21.6
   },
   {
+    "name": "Opinca Trail - Holod Experience",
+    "location": "Holod",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "22km",
+      "16.5km",
+      "10.5km"
+    ],
+    "link": "https://oradearunningculture.ro/evenimente/opinca-trail-holod-experience",
+    "link_fb": "https://www.facebook.com/oradearunningculture2023",
+    "id": 606,
+    "year": 2026,
+    "month": 9,
+    "day": 5,
+    "lat": 46.785648827799186,
+    "lon": 22.121587596966364
+  },
+  {
     "name": "Via Pontica",
     "location": "Limanu",
     "location_details": "2 Mai - Krapets",
@@ -6373,6 +6413,44 @@
     "lon": 25.066695
   },
   {
+    "name": "Oltenia Ultra Trail",
+    "location": "Craiova",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "DJ",
+    "type": "trail",
+    "distances": [
+      "150km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61589628072369",
+    "link_fb": "https://www.facebook.com/profile.php?id=61589628072369",
+    "id": 607,
+    "year": 2026,
+    "month": 9,
+    "day": 19,
+    "lat": 44.3167,
+    "lon": 23.8
+  },
+  {
+    "name": "Crosul Memoriei",
+    "location": "Mărgău",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "150km"
+    ],
+    "link": "https://www.facebook.com/events/984904454574749",
+    "link_fb": "",
+    "id": 608,
+    "year": 2026,
+    "month": 9,
+    "day": 19,
+    "lat": 46.74791583770645,
+    "lon": 22.95423727965364
+  },
+  {
     "name": "Nord Run",
     "location": "Sîngerei",
     "location_details": "Republica Moldova",
@@ -6414,27 +6492,6 @@
     "day": 20,
     "lat": 47.0559509149,
     "lon": 21.9394966774
-  },
-  {
-    "name": "Crosul Arenelor",
-    "location": "București",
-    "location_details": "Stadionul Arcul de Triumf",
-    "display_date": "Sun 20-Sep-2026",
-    "county": "B",
-    "type": "road",
-    "distances": [
-      "10km",
-      "2km",
-      "2x5km relay"
-    ],
-    "link": "https://crosularenelor.ro/",
-    "link_fb": "https://www.facebook.com/crosularenelor/",
-    "id": 95,
-    "year": 2026,
-    "month": 9,
-    "day": 20,
-    "lat": 44.4223331273,
-    "lon": 26.1548381031
   },
   {
     "name": "Crosul Companiilor Cluj",
@@ -6516,6 +6573,46 @@
     "day": 20,
     "lat": 45.7538214831,
     "lon": 21.2259904857
+  },
+  {
+    "name": "Friday Night Lights",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Wed 23-Sep-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://fridaynightlights.ro/",
+    "link_fb": "",
+    "id": 609,
+    "year": 2026,
+    "month": 9,
+    "day": 23,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
+  },
+  {
+    "name": "Via Bacovia Trail",
+    "location": "Luizi Călugara",
+    "location_details": "",
+    "display_date": "Thu 24-Sep-2026",
+    "county": "BC",
+    "type": "trail",
+    "distances": [
+      "21km(1100m↑)",
+      "12km(500m↑)",
+      "7.5km(500m↑)"
+    ],
+    "link": "https://vbtrail.ro/",
+    "link_fb": "https://www.facebook.com/viabacoviatrail",
+    "id": 331,
+    "year": 2026,
+    "month": 9,
+    "day": 24,
+    "lat": 46.55,
+    "lon": 26.8
   },
   {
     "name": "Maraton Piatra Craiului",
@@ -6800,6 +6897,27 @@
     "day": 26,
     "lat": 44.8604,
     "lon": 24.8703
+  },
+  {
+    "name": "Crosul Arenelor",
+    "location": "București",
+    "location_details": "Stadionul Arcul de Triumf",
+    "display_date": "Sun 27-Sep-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "2km",
+      "2x5km relay"
+    ],
+    "link": "https://crosularenelor.ro/",
+    "link_fb": "https://www.facebook.com/crosularenelor/",
+    "id": 95,
+    "year": 2026,
+    "month": 9,
+    "day": 27,
+    "lat": 44.4223331273,
+    "lon": 26.1548381031
   },
   {
     "name": "Buzău 21k",
@@ -7358,6 +7476,26 @@
     "day": 24,
     "lat": 45.300005,
     "lon": 21.883295
+  },
+  {
+    "name": "Semimaraton Sfântu Gheorghe",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/events/s/24-szentgyorgy-felmaraton-semi/1366272815468976/",
+    "link_fb": "",
+    "id": 373,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 45.8667,
+    "lon": 25.7833
   },
   {
     "name": "Brașov Marathon Night Challenge",

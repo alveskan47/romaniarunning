@@ -1100,6 +1100,13 @@
   },
   {
     "county": "CJ",
+    "location": "Mărgău",
+    "location_details": "",
+    "lat": 46.74791583770645,
+    "lon": 22.95423727965364
+  },
+  {
+    "county": "CJ",
     "location": "Mărișel",
     "location_details": "",
     "lat": 46.6667,
@@ -1184,6 +1191,13 @@
   },
   {
     "county": "CS",
+    "location": "Armeniș",
+    "location_details": "",
+    "lat": 45.20952324468092,
+    "lon": 22.309499934107706
+  },
+  {
+    "county": "CS",
     "location": "Băile Herculane",
     "location_details": "",
     "lat": 44.8833,
@@ -1202,6 +1216,13 @@
     "location_details": "",
     "lat": 45.0167,
     "lon": 21.9167
+  },
+  {
+    "county": "CS",
+    "location": "Holod",
+    "location_details": "",
+    "lat": 46.785648827799186,
+    "lon": 22.121587596966364
   },
   {
     "county": "CS",

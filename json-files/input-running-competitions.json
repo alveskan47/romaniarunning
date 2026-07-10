@@ -265,6 +265,11 @@
       "lon": 24.3126121287,
       "editions": [
         {
+          "year": 2027,
+          "month": 7,
+          "day": 3
+        },
+        {
           "year": 2026,
           "month": 7,
           "day": 4
@@ -3717,7 +3722,7 @@
         {
           "year": 2026,
           "month": 9,
-          "day": 20
+          "day": 27
         },
         {
           "year": 2025,
@@ -11020,11 +11025,17 @@
       "type": "trail",
       "distances": [
         "21km(1100m↑)",
-        "12km(500m↑)"
+        "12km(500m↑)",
+        "7.5km(500m↑)"
       ],
       "link": "https://vbtrail.ro/",
       "link_fb": "https://www.facebook.com/viabacoviatrail",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 24
+        },
         {
           "year": 2025,
           "month": 9,
@@ -12233,6 +12244,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24,
+          "event_link": "https://www.facebook.com/events/s/24-szentgyorgy-felmaraton-semi/1366272815468976/"
+        },
         {
           "year": 2025,
           "month": 10,
@@ -17983,6 +18000,114 @@
       ],
       "lat": 46.76869284049895,
       "lon": 23.5717102974638
+    },
+    {
+      "id": 605,
+      "name": "Farmotion",
+      "location": "Armeniș",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "23km"
+      ],
+      "link": "https://farmotion.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1
+        }
+      ],
+      "lat": 45.20952324468092,
+      "lon": 22.309499934107706
+    },
+    {
+      "id": 606,
+      "name": "Opinca Trail - Holod Experience",
+      "location": "Holod",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "22km",
+        "16.5km",
+        "10.5km"
+      ],
+      "link": "https://oradearunningculture.ro/evenimente/opinca-trail-holod-experience",
+      "link_fb": "https://www.facebook.com/oradearunningculture2023",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        }
+      ],
+      "lat": 46.785648827799186,
+      "lon": 22.121587596966364
+    },
+    {
+      "id": 607,
+      "name": "Oltenia Ultra Trail",
+      "location": "Craiova",
+      "county": "DJ",
+      "type": "trail",
+      "distances": [
+        "150km"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61589628072369",
+      "link_fb": "https://www.facebook.com/profile.php?id=61589628072369",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19
+        }
+      ],
+      "lat": 44.3167,
+      "lon": 23.8
+    },
+    {
+      "id": 608,
+      "name": "Crosul Memoriei",
+      "location": "Mărgău",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "150km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/984904454574749"
+        }
+      ],
+      "lat": 46.74791583770645,
+      "lon": 22.95423727965364
+    },
+    {
+      "id": 609,
+      "name": "Friday Night Lights",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "5km"
+      ],
+      "link": "https://fridaynightlights.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 23
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
     }
   ],
   "competitions_no_statistics": [

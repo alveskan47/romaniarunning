@@ -1,0 +1,278 @@
+{
+  "triathlon_competitions": [
+    {
+      "id": 1,
+      "name": "Ziua B",
+      "location": "Pantelimon",
+      "county": "IF",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 18,
+          "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/ziua-b-2026"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Maratonul Vinului",
+      "location": "Urlaţi",
+      "county": "PH",
+      "link": "https://www.facebook.com/Maratonulvinului",
+      "link_fb": "https://www.facebook.com/Maratonulvinului",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mediaș Bike Marathon",
+      "location": "Mediaș",
+      "county": "SB",
+      "link": "https://marathonmedias.ro/",
+      "link_fb": "https://www.facebook.com/MediasBikeMarathon/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Prima Evadare",
+      "location": "București",
+      "county": "B",
+      "link": "https://primaevadare.ro/",
+      "link_fb": "https://www.facebook.com/primaevadare/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Wall",
+      "location": "Pucioasa",
+      "county": "DB",
+      "link": "https://roadgrandtour.ro/the-wall/",
+      "link_fb": "https://www.facebook.com/roadgrandtour",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "King’s Cross",
+      "location": "Petriș",
+      "county": "AR",
+      "link": "https://kingscross.ecostuff.ro/",
+      "link_fb": "https://www.facebook.com/ecostuff.romania",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Măcin Mountain Fun",
+      "location": "Greci",
+      "county": "TL",
+      "link": "https://www.bikeworks.ro/macin-mountain-fun/stiri/",
+      "link_fb": "https://www.facebook.com/MacinMF/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Topoloveni Summer Tour",
+      "location": "Topoloveni",
+      "county": "AG",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 14,
+          "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/topoloveni-summer-tour-2026"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vidraru Bike Challenge",
+      "location": "Arefu",
+      "location_details": "Barajul Vidraru",
+      "county": "AG",
+      "link": "https://vidrarumtb.ro/",
+      "link_fb": "https://www.facebook.com/vidrarumtb/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 27
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Motorsirülő Challenge",
+      "location": "Miercurea Ciuc",
+      "county": "HR",
+      "link": "https://harghitaride.ro/ro/motorsirulo-challenge/",
+      "link_fb": "https://www.facebook.com/harghitaride",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 11
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Discover Valea Doftanei",
+      "location": "Trăisteni",
+      "county": "PH",
+      "link": "https://apedalforward.com/",
+      "link_fb": "https://www.facebook.com/apedalforward/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Guduc MTB",
+      "location": "Ghiduț",
+      "county": "HR",
+      "link": "https://guducmtb.ro/ro",
+      "link_fb": "https://www.facebook.com/GuducMTB/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Netindava",
+      "location": "Slobozia",
+      "county": "IL",
+      "link": "https://roadgrandtour.ro/netindava/",
+      "link_fb": "https://www.facebook.com/roadgrandtour",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Teleferic Challenge",
+      "location": "Brașov",
+      "location_details": "Poiana Brașov",
+      "county": "BV",
+      "link": "https://roadgrandtour.ro/teleferic/",
+      "link_fb": "https://www.facebook.com/roadgrandtour",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Maratonul Ciucului",
+      "location": "Miercurea Ciuc",
+      "county": "HR",
+      "link": "https://harghitaride.ro/ro/csik-marathon-mtb/",
+      "link_fb": "https://www.facebook.com/harghitaride",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Alpine Challenge",
+      "location": "Pucioasa",
+      "county": "DB",
+      "link": "https://alpinechallenge.ro/",
+      "link_fb": "https://www.facebook.com/bikexpertalpine/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Maratonul Nordului Darabani",
+      "location": "Darabani",
+      "county": "BT",
+      "link": "https://www.maratonulnordului.ro/MN-MTB.html",
+      "link_fb": "https://www.facebook.com/maratonulnordului",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 8
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Karst Isverna",
+      "location": "Isverna",
+      "county": "MH",
+      "link": "https://roadgrandtour.ro/karst-isverna/",
+      "link_fb": "https://www.facebook.com/roadgrandtour",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15
+        }
+      ]
+    }
+  ]
+}

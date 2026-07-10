@@ -548,6 +548,27 @@
     "lon": 26.668095
   },
   {
+    "name": "Cozia Mountain Run",
+    "location": "Călimănești",
+    "location_details": "",
+    "display_date": "Sat 03-Jul-2027",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "30km(2000m↑)",
+      "21km(900m↑)",
+      "4km(100m↑)"
+    ],
+    "link": "https://coziamountainrun.ro/",
+    "link_fb": "https://www.facebook.com/coziamountainrun",
+    "id": 7,
+    "year": 2027,
+    "month": 7,
+    "day": 3,
+    "lat": 45.2810779374,
+    "lon": 24.3126121287
+  },
+  {
     "name": "Maraton 1 Decembrie București",
     "location": "București",
     "location_details": "",
