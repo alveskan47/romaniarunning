@@ -1827,7 +1827,7 @@
     "county": "BV",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "",
     "link_fb": "",
@@ -1879,7 +1879,7 @@
     "lon": 23.721705
   },
   {
-    "name": "Sports Festival Cluj",
+    "name": "Sports Festival Cluj - Crosul Supereroilor",
     "location": "Cluj-Napoca",
     "location_details": "Cluj Arena",
     "display_date": "Sun 04-Jun-2023",

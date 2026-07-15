@@ -1488,7 +1488,7 @@
     "county": "B",
     "type": "road",
     "distances": [
-      "0.6km ⚠ only kids"
+      "0.6km ⚠ only children"
     ],
     "link": "https://www.itsybitsy.ro/alearga-alaturi-de-copilul-tau-la-cursele-colorate-de-la-supereroi-pentru-viata-2026/",
     "link_fb": "",
@@ -1793,7 +1793,7 @@
     "county": "VL",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.facebook.com/events/1655589059027151",
     "link_fb": "",
@@ -2854,7 +2854,7 @@
     "county": "MM",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.facebook.com/events/869352635794586",
     "link_fb": "",
@@ -3219,7 +3219,7 @@
     "county": "BV",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.facebook.com/events/1246267614389353",
     "link_fb": "",
@@ -3337,7 +3337,7 @@
     "county": "CT",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.facebook.com/events/1378866807492985",
     "link_fb": "",
@@ -3492,8 +3492,8 @@
     "lon": 28.166695
   },
   {
-    "name": "Bușteni Ultra Race",
-    "location": "Bușteni",
+    "name": "Buşteni Ultra Race",
+    "location": "Buşteni",
     "location_details": "",
     "display_date": "Sat 06-Jun-2026",
     "county": "PH",
@@ -3620,7 +3620,7 @@
     "county": "AR",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.anirun.ro/",
     "link_fb": "https://www.facebook.com/sportforstrays/",
@@ -3754,7 +3754,7 @@
     "county": "MM",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.facebook.com/events/1008229194955370",
     "link_fb": "",
@@ -3972,7 +3972,7 @@
     "lon": 26.668095
   },
   {
-    "name": "Sports Festival Cluj",
+    "name": "Sports Festival Cluj - Crosul Supereroilor",
     "location": "Cluj-Napoca",
     "location_details": "Cluj Arena",
     "display_date": "Sun 14-Jun-2026",
@@ -4908,6 +4908,25 @@
     "lon": 25.349995
   },
   {
+    "name": "Alergam pentru Olga – 24 de ore de speranta",
+    "location": "Iași",
+    "location_details": "Stadionul Emil Alexandrescu",
+    "display_date": "Sat 18-Jul-2026",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "24H"
+    ],
+    "link": "https://www.facebook.com/events/857988153709683",
+    "link_fb": "",
+    "id": 610,
+    "year": 2026,
+    "month": 7,
+    "day": 18,
+    "lat": 47.1574,
+    "lon": 27.587
+  },
+  {
     "name": "Szent Gellert Cross",
     "location": "Ditrău",
     "location_details": "",
@@ -4927,6 +4946,25 @@
     "day": 19,
     "lat": 46.85,
     "lon": 25.5333
+  },
+  {
+    "name": "D'n'Bike & Run Galați",
+    "location": "Galați",
+    "location_details": "",
+    "display_date": "Sun 19-Jul-2026",
+    "county": "GL",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1600484091651683",
+    "link_fb": "",
+    "id": 611,
+    "year": 2026,
+    "month": 7,
+    "day": 19,
+    "lat": 45.4353,
+    "lon": 28.05
   },
   {
     "name": "Boogie To The Van 8k fun run",
@@ -5012,6 +5050,23 @@
     "day": 25,
     "lat": 45.7975,
     "lon": 24.1508
+  },
+  {
+    "name": "Festivalul Mișcării în Satul Meu",
+    "location": "Unguriu",
+    "location_details": "",
+    "display_date": "Sat 25-Jul-2026",
+    "county": "BZ",
+    "type": "road",
+    "distances": [
+      "⚠ only children"
+    ],
+    "link": "https://www.facebook.com/events/895314750281593",
+    "link_fb": "",
+    "id": 612,
+    "year": 2026,
+    "month": 7,
+    "day": 25
   },
   {
     "name": "Semimaraton Țara de Piatră",
@@ -5153,6 +5208,25 @@
     "day": 1,
     "lat": 45.20952324468092,
     "lon": 22.309499934107706
+  },
+  {
+    "name": "Ared Run",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 01-Aug-2026",
+    "county": "AR",
+    "type": "obstacles",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/ared/ared-run-2026/2848201328862318/",
+    "link_fb": "",
+    "id": 613,
+    "year": 2026,
+    "month": 8,
+    "day": 1,
+    "lat": 46.1866,
+    "lon": 21.3123
   },
   {
     "name": "Colinele Mircești",
@@ -5317,6 +5391,27 @@
     "day": 15,
     "lat": 44.2667,
     "lon": 28.633295
+  },
+  {
+    "name": "Fuga Lotrilor",
+    "location": "Brezoi",
+    "location_details": "",
+    "display_date": "Sat 15-Aug-2026",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "13km(144m↑)",
+      "6km(58m↑)",
+      "12km(330m↑) - 16-Aug"
+    ],
+    "link": "https://fugalotrilor.ro/",
+    "link_fb": "",
+    "id": 614,
+    "year": 2026,
+    "month": 8,
+    "day": 15,
+    "lat": 45.35,
+    "lon": 24.25
   },
   {
     "name": "Oltenia Forest Run - Băile Govora",
@@ -6575,46 +6670,6 @@
     "lon": 21.2259904857
   },
   {
-    "name": "Friday Night Lights",
-    "location": "București",
-    "location_details": "",
-    "display_date": "Wed 23-Sep-2026",
-    "county": "B",
-    "type": "road",
-    "distances": [
-      "5km"
-    ],
-    "link": "https://fridaynightlights.ro/",
-    "link_fb": "",
-    "id": 609,
-    "year": 2026,
-    "month": 9,
-    "day": 23,
-    "lat": 44.42736904671278,
-    "lon": 26.09240325460678
-  },
-  {
-    "name": "Via Bacovia Trail",
-    "location": "Luizi Călugara",
-    "location_details": "",
-    "display_date": "Thu 24-Sep-2026",
-    "county": "BC",
-    "type": "trail",
-    "distances": [
-      "21km(1100m↑)",
-      "12km(500m↑)",
-      "7.5km(500m↑)"
-    ],
-    "link": "https://vbtrail.ro/",
-    "link_fb": "https://www.facebook.com/viabacoviatrail",
-    "id": 331,
-    "year": 2026,
-    "month": 9,
-    "day": 24,
-    "lat": 46.55,
-    "lon": 26.8
-  },
-  {
     "name": "Maraton Piatra Craiului",
     "location": "Zărnești",
     "location_details": "",
@@ -7437,6 +7492,25 @@
     "lon": 25.55
   },
   {
+    "name": "Friday Night Lights",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Fri 23-Oct-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://fridaynightlights.ro/",
+    "link_fb": "",
+    "id": 609,
+    "year": 2026,
+    "month": 10,
+    "day": 23,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
+  },
+  {
     "name": "Movila Măgura Everesting Challenge",
     "location": "Movila Magura",
     "location_details": "Republica Moldova",
@@ -7454,6 +7528,27 @@
     "day": 23,
     "lat": 46.8,
     "lon": 28.6
+  },
+  {
+    "name": "Via Bacovia Trail",
+    "location": "Luizi Călugara",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "BC",
+    "type": "trail",
+    "distances": [
+      "21km(1100m↑)",
+      "12km(500m↑)",
+      "7.5km(500m↑)"
+    ],
+    "link": "https://vbtrail.ro/",
+    "link_fb": "https://www.facebook.com/viabacoviatrail",
+    "id": 331,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 46.55,
+    "lon": 26.8
   },
   {
     "name": "AlerGând la pădure",

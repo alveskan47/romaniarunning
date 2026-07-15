@@ -122,6 +122,26 @@
     "lon": 22.3667
   },
   {
+    "name": "Semimaraton Brașov",
+    "location": "Brașov",
+    "location_details": "Piața Unirii",
+    "display_date": "Sat 03-Apr-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "20km(640m↑)",
+      "10km(440m↑)"
+    ],
+    "link": "https://semimaraton.ro/",
+    "link_fb": "https://www.facebook.com/semimaraton",
+    "id": 3,
+    "year": 2027,
+    "month": 4,
+    "day": 3,
+    "lat": 45.63603756572883,
+    "lon": 25.580358932803648
+  },
+  {
     "name": "Legal Half-Marathon",
     "location": "București",
     "location_details": "",
@@ -506,8 +526,28 @@
     "lon": 24.15079
   },
   {
-    "name": "Bușteni Ultra Race",
-    "location": "Bușteni",
+    "name": "X-RUN Oradea",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://xmanromania.ro/",
+    "link_fb": "https://www.facebook.com/XmanRomania",
+    "id": 70,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 47.0559509149,
+    "lon": 21.9395166774
+  },
+  {
+    "name": "Buşteni Ultra Race",
+    "location": "Buşteni",
     "location_details": "",
     "display_date": "Sat 05-Jun-2027",
     "county": "PH",
@@ -548,6 +588,48 @@
     "lon": 26.668095
   },
   {
+    "name": "Sports Festival Cluj - Crosul Supereroilor",
+    "location": "Cluj-Napoca",
+    "location_details": "Cluj Arena",
+    "display_date": "Sun 13-Jun-2027",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.sportsfestival.com/",
+    "link_fb": "https://www.facebook.com/sportsfestivalcom/",
+    "id": 79,
+    "year": 2027,
+    "month": 6,
+    "day": 13,
+    "lat": 46.7686678405,
+    "lon": 23.5717252975
+  },
+  {
+    "name": "Crosul Orasului Mioveni 1485",
+    "location": "Mioveni",
+    "location_details": "",
+    "display_date": "Sun 27-Jun-2027",
+    "county": "AG",
+    "type": "road",
+    "distances": [
+      "21km",
+      "14km",
+      "7km",
+      "3km"
+    ],
+    "link": "https://miovenioutdoorsports.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057044126354",
+    "id": 124,
+    "year": 2027,
+    "month": 6,
+    "day": 27,
+    "lat": 44.9667,
+    "lon": 24.95
+  },
+  {
     "name": "Cozia Mountain Run",
     "location": "Călimănești",
     "location_details": "",
@@ -567,6 +649,28 @@
     "day": 3,
     "lat": 45.2810779374,
     "lon": 24.3126121287
+  },
+  {
+    "name": "Retezat Mountain Run",
+    "location": "Râu de Mori",
+    "location_details": "",
+    "display_date": "Sat 14-Aug-2027",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "39.7km(3340m↑)",
+      "24.9km(1960m↑)",
+      "12.8km(1260m↑)",
+      "8.6km(540m↑)"
+    ],
+    "link": "https://retezat-maraton-rausor.ro/",
+    "link_fb": "https://www.facebook.com/retezatmountainrunRausor",
+    "id": 87,
+    "year": 2027,
+    "month": 8,
+    "day": 14,
+    "lat": 45.3833,
+    "lon": 22.8833
   },
   {
     "name": "Maraton 1 Decembrie București",

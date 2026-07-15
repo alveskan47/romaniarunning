@@ -305,6 +305,17 @@
       "year_2023": ""
     },
     {
+      "id": 610,
+      "name": "Alergam pentru Olga – 24 de ore de speranta",
+      "location": "Iași",
+      "county": "IS",
+      "year_2027": "",
+      "year_2026": "Sat 18-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 598,
       "name": "Alergare Montană Rășinari – Fraga",
       "location": "Sibiu",
@@ -487,6 +498,17 @@
       "county": "AR",
       "year_2027": "",
       "year_2026": "Sun 24-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 613,
+      "name": "Ared Run",
+      "location": "Arad",
+      "county": "AR",
+      "year_2027": "",
+      "year_2026": "Sat 1-Aug",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -944,8 +966,8 @@
     },
     {
       "id": 120,
-      "name": "Bușteni Ultra Race",
-      "location": "Bușteni",
+      "name": "Buşteni Ultra Race",
+      "location": "Buşteni",
       "county": "PH",
       "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 6-Jun",
@@ -2300,7 +2322,7 @@
       "name": "Crosul Orasului Mioveni 1485",
       "location": "Mioveni",
       "county": "AG",
-      "year_2027": "",
+      "year_2027": "Sun 27-Jun",
       "year_2026": "Sat 27-Jun",
       "year_2025": "Sun 29-Jun",
       "year_2024": "Sun 30-Jun",
@@ -2989,6 +3011,17 @@
       "year_2023": ""
     },
     {
+      "id": 611,
+      "name": "D'n'Bike & Run Galați",
+      "location": "Galați",
+      "county": "GL",
+      "year_2027": "",
+      "year_2026": "Sun 19-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 601,
       "name": "Dream Run - Buziaș",
       "location": "Buziaș",
@@ -3165,6 +3198,17 @@
       "year_2023": ""
     },
     {
+      "id": 612,
+      "name": "Festivalul Mișcării în Satul Meu",
+      "location": "Unguriu",
+      "county": "BZ",
+      "year_2027": "",
+      "year_2026": "Sat 25-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 44,
       "name": "Festivalul Sporturilor București (primavara)",
       "location": "București",
@@ -3236,7 +3280,7 @@
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "Wed 23-Sep",
+      "year_2026": "Fri 23-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -3251,6 +3295,17 @@
       "year_2025": "Fri 14-Nov",
       "year_2024": "Fri 22-Nov",
       "year_2023": "Fri 3-Nov"
+    },
+    {
+      "id": 614,
+      "name": "Fuga Lotrilor",
+      "location": "Brezoi",
+      "county": "VL",
+      "year_2027": "",
+      "year_2026": "Sat 15-Aug",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 602,
@@ -4731,7 +4786,7 @@
       "name": "Retezat Mountain Run",
       "location": "Râu de Mori",
       "county": "HD",
-      "year_2027": "",
+      "year_2027": "Sat 14-Aug",
       "year_2026": "Sat 8-Aug",
       "year_2025": "Sat 9-Aug",
       "year_2024": "Sat 10-Aug",
@@ -5171,7 +5226,7 @@
       "name": "Semimaraton Brașov",
       "location": "Brașov",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sat 3-Apr",
       "year_2026": "Sat 4-Apr",
       "year_2025": "Sat 12-Apr",
       "year_2024": "Sat 6-Apr",
@@ -5553,10 +5608,10 @@
     },
     {
       "id": 79,
-      "name": "Sports Festival Cluj",
+      "name": "Sports Festival Cluj - Crosul Supereroilor",
       "location": "Cluj-Napoca",
       "county": "CJ",
-      "year_2027": "",
+      "year_2027": "Sun 13-Jun",
       "year_2026": "Sun 14-Jun",
       "year_2025": "Sun 15-Jun",
       "year_2024": "Sun 16-Jun",
@@ -6349,7 +6404,7 @@
       "location": "Luizi Călugara",
       "county": "BC",
       "year_2027": "",
-      "year_2026": "Thu 24-Sep",
+      "year_2026": "Sat 24-Oct",
       "year_2025": "Sat 20-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -6546,7 +6601,7 @@
       "name": "X-RUN Oradea",
       "location": "Oradea",
       "county": "BH",
-      "year_2027": "",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 8-Jun",

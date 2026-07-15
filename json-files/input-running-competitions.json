@@ -105,6 +105,11 @@
       "lon": 25.580358932803648,
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 3
+        },
+        {
           "year": 2026,
           "month": 4,
           "day": 4
@@ -2760,6 +2765,11 @@
       "link_fb": "https://www.facebook.com/XmanRomania",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
           "year": 2026,
           "month": 6,
           "day": 6
@@ -3082,7 +3092,7 @@
     },
     {
       "id": 79,
-      "name": "Sports Festival Cluj",
+      "name": "Sports Festival Cluj - Crosul Supereroilor",
       "location": "Cluj-Napoca",
       "location_details": "Cluj Arena",
       "county": "CJ",
@@ -3094,6 +3104,11 @@
       "link": "https://www.sportsfestival.com/",
       "link_fb": "https://www.facebook.com/sportsfestivalcom/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 13
+        },
         {
           "year": 2026,
           "month": 6,
@@ -3409,6 +3424,11 @@
       "link": "https://retezat-maraton-rausor.ro/",
       "link_fb": "https://www.facebook.com/retezatmountainrunRausor",
       "editions": [
+        {
+          "year": 2027,
+          "month": 8,
+          "day": 14
+        },
         {
           "year": 2026,
           "month": 8,
@@ -4509,8 +4529,8 @@
     },
     {
       "id": 120,
-      "name": "Bușteni Ultra Race",
-      "location": "Bușteni",
+      "name": "Buşteni Ultra Race",
+      "location": "Buşteni",
       "county": "PH",
       "type": "trail",
       "distances": [
@@ -4638,6 +4658,11 @@
       "link": "https://miovenioutdoorsports.ro/",
       "link_fb": "https://www.facebook.com/profile.php?id=100057044126354",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 27
+        },
         {
           "year": 2026,
           "month": 6,
@@ -7548,7 +7573,7 @@
       "county": "TM",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -7841,7 +7866,7 @@
       "county": "BV",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -8041,7 +8066,7 @@
       "county": "MM",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -8102,7 +8127,7 @@
       "county": "CS",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "https://www.facebook.com/cursawolfsrun",
       "link_fb": "https://www.facebook.com/cursawolfsrun",
@@ -10941,7 +10966,7 @@
       "county": "CT",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -11033,7 +11058,7 @@
       "editions": [
         {
           "year": 2026,
-          "month": 9,
+          "month": 10,
           "day": 24
         },
         {
@@ -11942,7 +11967,7 @@
       "county": "SB",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -11964,7 +11989,7 @@
       "county": "DJ",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -13147,7 +13172,7 @@
       "county": "CT",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -13311,7 +13336,7 @@
       "county": "CJ",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -14295,7 +14320,7 @@
       "county": "B",
       "type": "road",
       "distances": [
-        "0.6km ⚠ only kids"
+        "0.6km ⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -14565,7 +14590,7 @@
       "county": "AR",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "https://www.anirun.ro/",
       "link_fb": "https://www.facebook.com/sportforstrays/",
@@ -16281,7 +16306,7 @@
       "county": "VL",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -17487,7 +17512,7 @@
       "county": "CT",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -17575,7 +17600,7 @@
       "county": "MM",
       "type": "road",
       "distances": [
-        "⚠ only kids"
+        "⚠ only children"
       ],
       "link": "",
       "link_fb": "",
@@ -18102,12 +18127,127 @@
       "editions": [
         {
           "year": 2026,
-          "month": 9,
+          "month": 10,
           "day": 23
         }
       ],
       "lat": 44.42736904671278,
       "lon": 26.09240325460678
+    },
+    {
+      "id": 610,
+      "name": "Alergam pentru Olga – 24 de ore de speranta",
+      "location": "Iași",
+      "location_details": "Stadionul Emil Alexandrescu",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "24H"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/857988153709683"
+        }
+      ],
+      "lat": 47.1574,
+      "lon": 27.587
+    },
+    {
+      "id": 611,
+      "name": "D'n'Bike & Run Galați",
+      "location": "Galați",
+      "county": "GL",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/1600484091651683"
+        }
+      ],
+      "lat": 45.4353,
+      "lon": 28.05
+    },
+    {
+      "id": 612,
+      "name": "Festivalul Mișcării în Satul Meu",
+      "location": "Unguriu",
+      "county": "BZ",
+      "type": "road",
+      "distances": [
+        "⚠ only children"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/895314750281593"
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "name": "Ared Run",
+      "location": "Arad",
+      "county": "AR",
+      "type": "obstacles",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/ared/ared-run-2026/2848201328862318/"
+        }
+      ],
+      "lat": 46.1866,
+      "lon": 21.3123
+    },
+    {
+      "id": 614,
+      "name": "Fuga Lotrilor",
+      "location": "Brezoi",
+      "county": "VL",
+      "type": "trail",
+      "distances": [
+        "13km(144m↑)",
+        "6km(58m↑)",
+        "12km(330m↑)"
+      ],
+      "link": "https://fugalotrilor.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15,
+          "event_distances": [
+            "13km(144m↑)",
+            "6km(58m↑)",
+            "12km(330m↑) - 16-Aug"
+          ]
+        }
+      ],
+      "lat": 45.35,
+      "lon": 24.25
     }
   ],
   "competitions_no_statistics": [

@@ -2256,7 +2256,7 @@
     "county": "BV",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "https://www.facebook.com/events/407510242082519/",
     "link_fb": "",
@@ -2275,7 +2275,7 @@
     "county": "MM",
     "type": "road",
     "distances": [
-      "⚠ only kids"
+      "⚠ only children"
     ],
     "link": "",
     "link_fb": "",
@@ -2774,7 +2774,7 @@
     "lon": 27.0667
   },
   {
-    "name": "Sports Festival Cluj",
+    "name": "Sports Festival Cluj - Crosul Supereroilor",
     "location": "Cluj-Napoca",
     "location_details": "Cluj Arena",
     "display_date": "Sun 16-Jun-2024",

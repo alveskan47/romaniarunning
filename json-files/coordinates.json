@@ -931,6 +931,13 @@
     "lon": 26.6167
   },
   {
+    "county": "BZ",
+    "location": "Unguriu",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "CJ",
     "location": "Beliș",
     "location_details": "",
@@ -2474,26 +2481,12 @@
     "county": "PH",
     "location": "Buşteni",
     "location_details": "",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "county": "PH",
-    "location": "Buşteni",
-    "location_details": "Poiana Ţapului",
-    "lat": null,
-    "lon": null
-  },
-  {
-    "county": "PH",
-    "location": "Bușteni",
-    "location_details": "",
     "lat": 45.41015334460211,
     "lon": 25.53281764789364
   },
   {
     "county": "PH",
-    "location": "Bușteni",
+    "location": "Buşteni",
     "location_details": "Poiana Ţapului",
     "lat": 45.38200035739342,
     "lon": 25.540874405477204
