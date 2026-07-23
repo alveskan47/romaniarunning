@@ -1,0 +1,598 @@
+Competitii 2026
+	Competitie	Data	Info
+	Ianuarie		
+	1Run	1 ian 2026	https://www.facebook.com/events/2105270947000505
+	Gata cu Mâncatul, Hai cu Alergatul!	2 ian 2026	https://www.facebook.com/events/2251959195286836
+	Făget Winter Race	24 ian 2026	https://www.facebook.com/events/1592214835481202/
+	Crosul Micii Uniri	24 ian 2026	https://www.facebook.com/events/1353731486058610
+	Gerar	31 ian 2026	https://gerar.ro/
+	Februarie		
+	SKV Vertical Race	6-7 feb 2026	https://www.skvb.ro/
+	Faget Winter Trail	7 feb 2026	https://runnersclub.ro/faget-winter-tour/
+	Winter Run Vâlcea – Buridava	7-8 feb 2026	https://www.ecosport.ro/winter-run-valcea-buridava/
+	Viteza pe faleza	8 feb 2026	https://www.facebook.com/events/886505584135004
+	Siria Winter Trail	21 feb 2026	https://clubatia.com/siria-winter-trail/
+	Team Up & Run	28 feb 2026	https://www.facebook.com/events/686050600540672/
+	Martie		
+	Scorilo Winter Vertical	1 mar 2026	https://www.scoriloskyrace.ro/
+	Vladeasa Winter Trail	1 mar 2026	https://vladeasa.wintertrail.ro/
+	Martisor Trail Run	1 mar 2026	https://moldovatrail.run/
+	Crosul Divelor	7 mar 2026	https://runnersclub.ro/evenimente/
+	SportGuru Timisoara 21k	8 mar 2026	https://www.facebook.com/events/504588382722354/
+	Crosul AMiCUS „Alerg pentru mama”	8 mar 2026	https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama
+	Milestii Mici Wine Run	14 mar 2026	https://www.facebook.com/events/584847524635141/
+	Primavera Trail Race	14 mar 2026	https://www.primaveratrailrace.ro/ro/
+	Crosul pentru Viata	14 mar 2026	https://www.facebook.com/events/s/crosul-pentru-viata-2026/2086242665542139/
+	The Horn Run	14 mar 2026	https://thehornrun.ro/#form
+	Crosul Primăverii	15 mar 2026	https://www.facebook.com/events/2024235174785611
+	Pitigoi Vertical Challenge	15 mar 2026	https://www.facebook.com/events/s/-pitigoi-vertical-challenge-ed/908759895069957
+	WoodLand Series Trail Run	21 mar 2026	https://www.facebook.com/events/1373253737877582/
+	Semimaratonul de primăvară	21 mar 2026	https://fspt.md/tpost/b5lzdlv1c1-semimaratonul-de-primvar-2026
+	Crosul pentru Viață	21 mar 2026	https://www.facebook.com/events/4362852624044486
+	Crosul Primaverii	21 mar 2026	https://www.facebook.com/djst.tulcea
+	Alerg pentru Viață	21 mar 2026	https://www.facebook.com/events/1632271927899498
+	Legal Run	22 mar 2026	https://legalrun.ro/
+	Crosul AMiCUS „Alerg pentru mama” - Timisoara	22 mar 2026	https://amicus.ro/evenimente/crosul-caritabil-alerg-pentru-mama
+	Saruni Trail Race	28 mar 2026	https://www.facebook.com/events/1830897417480990
+	Garboavele Trail Run	28 mar 2026	https://www.facebook.com/events/1421956052416890
+	Campionatul National de Cros Duatlon	28 mar 2026	https://www.ridecompetition.ro/campionatul-national-de-cross-duatlon-iarcuri-cornesti-trikids-2026/
+	Run 4 animals	28 mar 2026	https://www.facebook.com/events/s/run-4-animals/1654806558857492/
+	Crosul Jandarmeriei Prahova	28 mar 2026	https://www.facebook.com/events/896768506507229
+	Festivalul Sporturilor Baneasa	28-29 mar 2026	https://festivalulsporturilor.ro/
+	Wizz Air Marathon Cluj	29 mar 2026	http://maraton-cluj.ro/
+	Indoor  Duathlon & Triathlon	30 mar 2026	https://rouatriclub.ro/indoor-triathlon/
+	Aprilie		
+	Crosul Asociatiei GNFOS	3 apr 2026	https://www.facebook.com/events/1643602359992709
+	Semimaraton Brasov	4 apr 2026	https://semimaraton.ro/
+	Ultra Race 24h Galați	4 apr 2026	https://www.facebook.com/ultramaratongalati
+	Crosul USAMV	4 apr 2026	https://crosul.usamv.ro/
+	Bistrita Trail Running	4 apr 2026	https://cspaduribistritene.ro/bistritatrailrunning/
+	Reșița Stairs Challenge	4 apr 2026	https://www.facebook.com/events/2738851119818323/
+	Vin la alergat	4 apr 2026	https://www.facebook.com/events/26227406133591211
+	Băneasa Forest Run	5 apr 2026	https://baneasaforestrun.ro/
+	TTR Backyard Ultra	17 apr 2026	http://timetrialrunning.ro/
+	Cheile Turzii Race	18 apr 2026	https://www.facebook.com/CheileTurziiRace
+	Medieval Trail Race	18 apr 2026	https://clubatia.com/
+	Dălhăuți Trail Challenge	19 apr 2026	https://www.facebook.com/profile.php?id=61584547897269
+	Braila 10k	19 apr 2026	https://braila10k.ro/
+	Calafat Trail Run	19 apr 2026	https://www.facebook.com/events/1745992119715903
+	Maratonul Argonautilor	18-19 apr 2026	https://maratonulargonautilor.ro/
+	Cupa Gigi Donciu	24 apr 2026	https://www.facebook.com/events/34650866297891315/
+	La Petrovaselo în vie	25 apr 2026	https://lapetrovaseloinvie.ro/
+	The Color Run București	25 apr 2026	https://www.thecolorrun.ro/evenimente/bucuresti/
+	Maratonul Codrului	25 apr 2026	https://www.proracers.ro/
+	Forest Race Marghita	25 apr 2026	https://runforfreedom.ro/evenimente/forest-race-marghita/
+	Rotarun for charity	25 apr 2026	https://rotarun.ro/
+	Crosul Primăverii Câmpia Turzii	25 apr 2026	https://www.facebook.com/photo/?fbid=26210972355235252&set=pcb.26210978728567948
+	Super Eroi pentru Viață	25 apr 2026	https://www.itsybitsy.ro/alearga-alaturi-de-copilul-tau-la-cursele-colorate-de-la-supereroi-pentru-viata-2026/
+	140 BPM	25 apr 2026	https://sites.google.com/baneasarace.ro/140bpm/
+	Urme pe play	25-26 apr 2026	https://urmepeplay.ro/
+	Chisinau Half Marathon	26 apr 2026	https://www.facebook.com/events/1682867895770702/
+	Bucharest International Half Marathon (Dita)	26 apr 2026	https://runbi21km.ro/
+	Semimaraton Iasi	26 apr 2026	https://semimaratoniasi.ro/
+	Mai		
+	Alergaras in Fagaras	1-3 mai 2026	https://alergaras.ro/
+	Volvo Ultra Race	2 mai 2026	https://www.facebook.com/events/641805045550158
+	Sălciua Trail Run	2 mai 2026	https://www.facebook.com/CSAtleticCluj
+	Chindia City Race	2 mai 2026	https://www.facebook.com/events/s/chindia-city-race-targoviste-2/1294962915799941/
+	Crosul Primaverii Sovata	2 mai 2026	https://www.facebook.com/events/s/crosul-primaverii-sovata-editi/1558770275225360/
+	Încă o rundă!	2 mai 2026	https://sepsirun.ro/inca-o-runda
+	Crosul Primaverii Medias	2 mai 2026	https://www.facebook.com/photo?fbid=944887601261841&set=a.186569027093706
+	Crosul Universității Transilvania	7 mai 2026	https://unitbv.ro/studenti/evenimente-anuale/7566-crosul-universitatii-transilvania.html
+	Crosul de noapte Cluj	8 mai 2026	https://runnersclub.ro/
+	Crosul Rosfed	8 mai 2026	https://www.facebook.com/events/4222940667956635
+	Crosul Copilariei	8 mai 2026	https://www.facebook.com/events/1655589059027151
+	Crosul Primaverii	8 mai 2026	https://www.facebook.com/events/1278739291128845
+	Baneasa Cross Country	9 mai 2026	https://www.facebook.com/OlgaGudynnInternationalSchool/posts/pfbid033K79ZPyjCZwgYR6dyEX19vvvWXbeK6cS8wzt1eg8XJo1p7LvEbdZv2zgoCpWUnpjl?rdid=vQtnoDXrNblUf3GE#
+	Subcarpati Trail Run 	9 mai 2026	https://subcarpatitrailrun.ro/
+	Trail Run în Țara Năsăudului	9 mai 2026	https://www.facebook.com/events/1247132183412266/
+	Ciudanovița în mișcare	9 mai 2026	https://www.facebook.com/events/1408542417385960/
+	Crosul Europei	9 mai 2026	https://www.facebook.com/events/1503997621112261
+	Crosul Primăverii	9 mai 2026	https://www.facebook.com/events/1431199175474638
+	Bucharest Half Marathon	9-10 mai 2026	https://www.bucuresti21km.ro/
+	Timotion	10 mai 2026	https://timotion.ro/
+	Mureș Half Marathon	10 mai 2026	https://www.facebook.com/events/1698777677486407
+	Wings for Life World Run
+(Bucuresti, Timisoara, Chisinau)	10 mai 2026	https://www.wingsforlifeworldrun.com/en
+	Budureasa Mountain Running	10 mai 2026	https://www.budureasarunning.ro/
+	Sănătate în mișcare	10 mai 2026	https://www.facebook.com/events/1610235800083109
+	Crosul UT	10 mai 2026	https://www.facebook.com/photo?fbid=1578559404276364&set=a.379603154172001
+	Crosul TEAM	13 mai 2026	https://teamchallenge.ro/
+	Crosul ULBS	15 mai 2026	https://events.ulbsibiu.ro/cros/
+	The Color Run Cluj	16 mai 2026	https://www.thecolorrun.ro/evenimente/
+	Jidvei Weinland Trails	16 mai 2026	https://www.jidvei.ro/weinland-trails/
+	EcoRun Moieciu	16 mai 2026	https://ecorun.ro/
+	Semimaraton Fetesti	16 mai 2026	https://www.facebook.com/events/s/semimaraton-fetesti-2026/1827702154577240/
+	Turnu Rosu Challenge	16 mai 2026	https://www.turnurosuchallenge.ro/
+	Crosul Cetatilor Suceava	16 mai 2026	https://acstrib.ro/crosul-cetatilor/
+	Ziua de alergare Gall Lajos	16 mai 2026	https://www.facebook.com/events/860140720324402
+	Neon Night Run	16 mai 2026	https://www.facebook.com/events/1707416207306595
+	Crosul Cetatilor – Cetatea Aradului	16 mai 2026	https://proactivi.org/page6.html
+	Run to the Hills	16 mai 2026	https://runtothehills.ro/
+	Semimaraton Portile Deltei	16 mai 2026	https://www.atletismtulcea.ro/
+	Wake Run	16 mai 2026	https://www.facebook.com/profile.php?id=100063629587403
+	Alearga Bookuros	16 mai 2026	https://www.facebook.com/events/1633024077629955
+	Pitesti Half Marathon	17 mai 2026	https://www.facebook.com/events/1560457601658551
+	Maratonul Nisipului	17 mai 2026	https://www.maratonulnisipului.ro/
+	Crosul sport4all	17 mai 2026	https://sport4alllugoj.ro/
+	Accenture Heroes Challenge	17 mai 2026	https://runnersclub.ro/heroes-challenge/
+	Alpha Running Road	17 mai 2026	https://www.facebook.com/events/1707416207306595/
+	Semimaratonul Siretului - In memoriam Ilie Roșu,	17 mai 2026	https://www.facebook.com/events/991008643388189
+	Turda Coffee Run	17 mai 2026	https://www.facebook.com/events/1964938664899045
+	Alergam pana la luna	17 mai 2026	https://asociatialuna.com/home-2/
+	Stop Hipertensiunii Cros Caritabil	17 mai 2026	https://www.facebook.com/events/974590628380760
+	Obciniada Night Run	23 mai 2026	https://www.obciniada.ro/night-run
+	Dac Warrior	23 mai 2026	https://dacwarrior.ro/
+	Semimaratonul Eroilor „Invictus”	23 mai 2026	https://www.facebook.com/events/s/semimaratonul-eroilor-invictus/24299355093084856/
+	The Color Run Timisoara	23 mai 2026	https://www.thecolorrun.ro/evenimente/
+	Transylvania 100	23 mai 2026	https://www.transylvania100k.com/
+	Tour de Tur	23 mai 2026	https://tourdetur.ro/
+	S24H	23 mai 2026	https://www.facebook.com/events/1405513473851984/
+	Alergarea Carpilor	23 mai 2026	https://www.facebook.com/events/s/alergarea-carpilor-techirghiol/3795323333936860/
+	Barlad Hills Challenge	23 mai 2026	https://www.facebook.com/events/s/barlad-hills-challenge/26139225392402432/
+	Medic de 10	23 mai 2026	https://www.medicde10km.ro/
+	Crosul Copiilor – Mișcare și Educație în Satul Meu	23 mai 2026	https://www.facebook.com/events/1871819583504568
+	Crosul Universitatii Bucuresti	23 mai 2926	https://www.facebook.com/photo?fbid=1460397075885499&set=a.562891348969414
+	Semimaraton "Casa Bună Sânpetru"	24 mai 2026	https://www.facebook.com/events/1436978297428239/
+	Semimaraton Galati	24 mai 2026	https://www.facebook.com/events/1352328629752834/
+	Accenture Heroes Challenge	24 mai 2026	https://runnersclub.ro/
+	Crosul Copiilor	24 mai 2026	https://www.facebook.com/events/869352635794586
+	Aradul in miscare	24 mai 2026	https://euromediu.ro/evenimente/aradul-in-miscare/
+	Alerg pentru mai bine	24 mai 2026	https://www.facebook.com/events/1701018914406644/
+	Crosul Universitatilor Clujene	24 mai 2026	https://www.facebook.com/events/1483910073461951
+	Memorialul Genel Velica	28 mai 2026	https://www.facebook.com/events/35611878565123068
+	Crosul „Fugi de fumat!	29 mai 2026	https://www.facebook.com/events/1525847552363800
+	Ultrabug	29-31 mai 2026	https://www.ultrabug.ro/
+	Geopark Mehedinți Adventure	29-31 mai 2026	https://www.facebook.com/events/24193134620387806
+	Duna Napok	29-31 mai 2026	https://www.facebook.com/dunanapoktorocko
+	Maraton Sibiu	30-31 mai 2026	https://maratonsibiu.ro/
+	Brasov Marathon	29 mai – 1 iun	https://www.brasovmarathon.ro/brasov-marathon/
+	Crosul Teiusului	30 mai 2026	https://www.facebook.com/people/Crosul-Teiu%C8%99ului/61558068608210/
+	Giarmata in miscare	30 mai 2026	https://www.facebook.com/GiarmataInMiscare
+	Thermal Trail Race	30 mai 2026	https://www.facebook.com/events/2010182889557041/
+	Comunitate in miscare	30 mai 2026	https://www.facebook.com/events/3800020473635350
+	Forest Run Faget	30 mai 2026	https://www.active-hub.ro/forest-run
+	Perform Cluj Athletics	30 mai 2026	https://www.facebook.com/events/928808056812502
+	Crosul Binelui	30 mai 2026	https://www.facebook.com/events/1348615117116210
+	Yeti Ultra 24 Hour Challenge	30 mai 2026	https://www.facebook.com/events/1447762413828027/
+	YOLO Jersey	31 mai 2026	https://yolojersey.ro/
+	Chișinău Legal Half Marathon	31 mai 2026	https://www.facebook.com/events/1434067064605467/
+	Crosul Copiilor	31 mai 2026	https://www.facebook.com/events/1246267614389353
+	Iunie		
+	1 iunie Run	1 iun 2026	https://www.facebook.com/events/1700912634201798
+	Mediaș Coffee Run	1 iun 2026	https://www.facebook.com/events/954134170665768
+	Crosul Copiilor Limanu	1 iun 2026	https://www.facebook.com/events/1594452958292949
+	Crosul umanitar ,,MAI aproape de Matei și Mabel!”	1 iun 2026	https://www.facebook.com/events/2006650183302476
+	Hai hui prin taramul micilor campioni	1 iun 2026	https://www.facebook.com/events/1378866807492985
+	Global Running Day	3 iun 2026	https://www.facebook.com/events/1001211239529279
+	Pas cu pas pentru sanatate	5 iun 2026	https://www.facebook.com/events/1946775999313317
+	Marea provocare de miscare	5-6 iun 2026	https://www.facebook.com/fitnesstribegroup
+	Măcin Mountain Fun	6 iun 2026	https://www.bikeworks.ro/macin-mountain-fun/
+	X Run	6 iun 2026	https://xmanromania.ro/
+	Maraton Apuseni	6 iun 2026	https://www.facebook.com/events/1750850818948555/
+	Fara asfalt la mare	6 iun 2026	https://www.faraasfalt.ro/
+	Busteni Ultra Race	6 iun 2026	https://busteniultrarace.ro/
+	Kids Run	6 iun 2026	https://www.facebook.com/events/949491784083519
+	Romanati Trail Run	6 iun 2026	https://romanatirun.ro/
+	Crosul Suflete Albastre	6 iun 2026	https://www.facebook.com/profile.php?id=100069477422280
+	Andurant Sprint Rafael	6 iun 2026	https://www.fundatiarafael.org/andurant-rafael/
+	Crosul Albertina Rusu	6 iun 2026	https://www.facebook.com/events/1998140291588821
+	Crosul Național „Ziua Olimpică”	6 iun 2026	https://www.cosr.ro/news/in-premiera-inscrieri-online-la-crosul-national-ziua-olimpica-de-la-bucuresti
+	Crosul Olimpic	6 iun 2026	https://www.facebook.com/events/1342585177793981
+	Festivalul Sporturilor Iasi	6-7 iun 2026	https://festivalulsporturilor.ro/
+	Cros Drag de Viata	7 iun 2026	https://www.facebook.com/events/1505840207628256
+	Tinca Cross	7 iun 2026	https://www.tincacross.ro/
+	Crosul Sperantei Suceava	7 iun 2026	https://www.facebook.com/events/1458393242726265
+	Crosul Olimpic Anul Nadia Comaneci	7 iun 2026	https://www.facebook.com/events/2524972781283594
+	Movila Măgura Everesting	12 iun 2026	https://itra.run/Races/RaceDetails/Movila.M%C4%83gura.Everesting.Challenge.Movila.M%C4%83gura.Everesting.4/2026/117329
+	Crosul Vacantei	12 iun 2026	https://www.facebook.com/events/1008229194955370
+	Sepsi Run	12-13 iun 2026	https://www.sepsirun.ro/
+	Pedala in Banie	12-14 iunie 2026	https://pedalainbanie.ro/
+	The Color Run Iasi	13 iun 2026	https://www.thecolorrun.ro/evenimente/
+	Maraton Scaunul Domnului	13 iun 2026	https://www.facebook.com/events/1435145131236212/
+	Maraton Maramures	13 iun 2026	https://maratonmaramures.ro/
+	Maratonul Sarii	13 iun 2026	https://maratonulsarii.adrenallina.ro/
+	Bloodfluencer Marathon	13 iun 2026	https://bloodfluencermarathon.ro/
+	Retezat Sky Race	13 iun 2026	https://retezat.skyrace.ro/
+	Maraton Tarcău	13 iun 2026	https://www.facebook.com/profile.php?id=100090512883067
+	Peniel Trail Run	13 iun 2026	https://www.run.peniel.ro/
+	Corbeanca Inimi in Miscare	13 iun 2026	https://www.facebook.com/events/4424612314477963
+	Crosul Ziua Olimpică	13 iun 2026	https://www.facebook.com/events/2069802277300768
+	Maratonul Nordului - Botosani	13-14 iun 2026	https://www.facebook.com/maratonulnordului
+	Crosul Supereroilor	14 iun 2026	https://www.sportsfestival.com/
+	Run for Heroes	14 iun 2026	https://www.runforheroes.ro/
+	Brașov Heroes	14 iun 2026	https://brasovheroes.fundatiacomunitarabrasov.ro/
+	IceCream Run	14 iun 2026	https://www.facebook.com/events/1433522672148656
+	Crosul Prieteniei Memorial Petrica Puran	14 iun 2026	https://www.facebook.com/events/2076017809961827
+	Race for the Cure	15 iun 2026	https://www.raceforthecure.eu/ro/
+	Run the Night	19 iun 2026	https://www.facebook.com/photo/?fbid=1736710164170563&set=a.150708669437395
+	Bison Adventure Race	19-21 iun 2026	https://bisonadventurerace.vanatoripark.ro/
+	Rosia Montana Marathon	20 iun 2026	https://www.facebook.com/RosiaMontanaMarathon
+	Cheile Grădiştei Spartan Trifecta	20 iun 2026 	https://ro.spartan.com/ro/race/detail/9916/
+	Maratonul Târnavei	20 iun 2026	https://maratonultarnavei.ro/
+	Cozia Mountain Bike & Run	20 iun 2026	https://www.ciclismvalcea.ro/
+	Cros Montan Traversare Ignis	20 iun 2026	https://sites.google.com/view/crosignis
+	Urlea Super Vertical	20 iun 2026	https://fagarasrocks.ro/urlea-super-vertical/
+	Atinge Omu	20 iun 2026	https://www.facebook.com/events/871242151897728/
+	Crosul Agnitei	20 iun 2026	https://www.facebook.com/events/1639443387398362
+	Nocturne Night Run	20 iun 2026	https://www.facebook.com/events/4259348504278954
+	Alergarea Solstițiului	20 iun 2026	https://www.facebook.com/events/1961100821144930
+	Crosul Sânzienelor	20 iun 2026	https://www.facebook.com/search/top/?q=crosul%20sanzienelor
+	Crosul Orasului Mioveni	27 iun 2026	http://miovenioutdoorsports.ro/
+	Sinaia Mountain Run	27 iun 2026	https://sinaia.run/
+	Rodnei Sky Race	27 iun 2026	https://rodneiskyrace.eu/
+	Crosul Hoia	27 iun 2026	https://runnersclub.ro/
+	Chisinau 10K	27 iun 2026	https://sporter.md/ro/events/run/16356/chisinau-10-km-night-run-2026
+	Ultra Zǎrand History	27 iun 2026	https://www.facebook.com/ultrazarand/
+	Maratonul Muntelui Ceahlău	27 iun 2026	https://neamtmaraton.ro/
+	Transylvania Triathlon Festival	27-28 iun 2026	https://www.facebook.com/events/1395908285358445
+	Cluj Running Festival	27-28 iun 2026	https://clujrun.ro/
+	Beer Mile Sibiu	28 iun 2026	https://www.facebook.com/events/1466925051129781/
+	Dascalu Forest Run	28 iun 2026	https://www.facebook.com/events/1892754165017645
+	Transylvania 6 days	29 iun-5 iul 2026	https://transylvania6days.ro/en/home/
+	Iulie		
+	Közösségi terepfutás Somlyón	1 iul 2026	https://www.facebook.com/events/1027496046382715
+	Alergare Montana Rășinari – Fraga	1 iul 2026	https://www.facebook.com/events/1548115420041798
+	Corcova Fest	3-5 iul 2026	https://corcovafest.com/
+	Carpathia Trails	4 iul 2026	https://www.facebook.com/carpathiatrails
+	Legendele Nemirei	4 iul 2026	https://www.legendelenemirei.com/
+	Cozia Mountain Run	4 iul 2026	https://coziamountainrun.ro/
+	Maraton La Fetești	5 iul 2026	https://www.facebook.com/events/944748408419723
+	Zalau Ultra Trail	10-11 iul 2026	https://zut.run/
+	Stâna de Vale Trail Race	10-11 iul 2026	https://www.facebook.com/profile.php?id=61575894238907
+	Predeal Forest Run	11 iul 2026	https://predealforestrun.ro/
+	Budeasa Swim & Run	11 iul 2026	https://triatlet.ro/
+	Cros Zilele Maghiarilor din Sighetu Marmației	11 iul 2026	https://www.facebook.com/events/2038207670416785
+	Alearga tu pentru ei	11-12 iul 2026	https://team.hospice.ro/
+	Trofeul Dragoneilor	17 iul 2026	https://www.facebook.com/events/1524922412160489
+	Maraton Bate Toaca	18 iul 2026	https://www.batetoaca.ro/
+	Buila Trail Race	18 iul 2026	https://builatrailrace.ro/
+	Burduf Challenge	18 iul 2026	https://www.facebook.com/tara.colibelor
+	Zarnesti Challenge	18 iul 2026	https://zarnestichallenge.ro/
+	Alergam pentru Olga – 24 de ore de speranta	18 iul 2026	https://www.facebook.com/events/857988153709683
+	Timisoara Triathlon	18-19 iul 2026	https://timisoaratriathlon.ro/
+	Szent Gellért Cross	19 iul 2026	https://www.facebook.com/szentgellertcross
+	D'n'Bike & Run Galați	19 iul 2026	https://www.facebook.com/events/1600484091651683
+	Boogie To The Van 8k fun run	23 iul 2026	https://www.facebook.com/events/1528277651784819
+	Up to Postăvaru	24-26 iul 2026	https://www.uptopostavaru.ro/
+	Bucovina Ultra Rocks	24-26 iul 2026	https://bucovina.utmb.world/
+	Casoaia Bike Run & Fun	25-26 iul 2026	https://www.facebook.com/profile.php?id=100057529934395
+	Get Muddy	25 iul 2026	https://www.facebook.com/events/1330923895650290
+	Cindrel ÎnAlergare	25 iul 2026	https://www.inalergare.ro/
+	Festivalul Mișcării în Satul Meu	25 iul 2026	https://www.facebook.com/events/895314750281593
+	Cros Montan Borsec	26 iul 2026	https://www.facebook.com/events/836355652879098
+	Semimaratonul Țara de Piatră	26 iul 2026	https://www.semimaraton.com/
+	Fagaras Rocks	29 iul-2 aug 2026	https://fagarasrocks.ro/
+	August		
+	Mogosa Everesting	1 aug 2026	https://mogosaeveresting.ro/
+	Tura licuricilor	1 aug 2026	https://www.facebook.com/photo/?fbid=1231855472317549&set=a.477094197793684
+	Colinele Mircesti	1 aug 2026	https://www.facebook.com/events/896971973395854
+	Farmotion	1 aug 2026	https://farmotion.ro/editii/farmotion-2026/curse/
+	Ared Run	1 aug 2026	https://www.facebook.com/photo/?fbid=122107616277375044&set=a.122099381709375044
+	Crosul Inimi și Tuberoze	1 aug 2026	https://www.facebook.com/sarbatoareatuberozei/posts/%EF%B8%8F-start-%C3%AEnscrierilor-%EF%B8%8Fcrosul-inimi-%C8%99i-tuberoze-revine-%C8%99i-v%C4%83-invit%C4%83-s%C4%83-lua%C8%9Bi-part/1464490552375427/
+	Sibiu Triathlon Challenge	2 aug 2026	https://www.facebook.com/events/775602391845026/
+	𝐍𝐲𝐚́𝐫𝐚́𝐝𝐦𝐞𝐧𝐭𝐞 𝐓𝐫𝐚𝐢𝐥 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞	2 aug 2026	https://www.facebook.com/events/1548318180248578
+	Aqua Challenge	1-2 aug 2026	https://www.facebook.com/events/27585429711096050
+	Ultra Race Romania	3-12 aug 2026	https://ultraraceromania.ro/
+	Retezat Mountain Run	8 aug 2026	https://retezat-maraton-rausor.ro/
+	Mures 24H	8 aug 2026	https://www.facebook.com/events/s/mures24h-mtb-trail-running-202/1929225134304803/
+	Alerg in Dumbrava	8 aug 2026	https://alergindumbrava.ro/
+	Maratonul Nordului – Teioasa Trail	8-9 aug 2026	https://www.facebook.com/events/781214247577154
+	Haita Challenge	15 aug 2026	https://www.facebook.com/events/s/haita-challenge-2026/2136601267143569/
+	The Color Run Night Mamaia	15 aug 2026	https://www.facebook.com/events/1812586196120247
+	Fuga Lotrilor	15 aug 2026	https://fugalotrilor.ro/
+	Oltenia Forest Run	15-16 aug 2026	https://www.facebook.com/olteniaalearga
+	Castle Run	16 aug 2026	https://www.facebook.com/events/2476745729433774
+	Crosul Culorilor	16 aug 2026	https://www.facebook.com/events/2519532968561495
+	Night Cross Challenge	21 aug 2026	https://www.facebook.com/events/1616231013094179/
+	Via Transilvanica Maraton	22 aug 2026	https://maraton.viatransilvanica.com/
+	2X2 Race	22 aug 2026	https://www.2x2race.ro/
+	Triatlonul Proactivi	22 aug 2026	http://proactivi.org/page1.html
+	Donaton Cross Country Race	22 aug 2026	https://donaton.ro/
+	Turul Ciclist & Cros Drumul Aurului	23 aug 2026	https://www.facebook.com/events/1349554929881473/
+	Underdogs - The Backyard Ultra	28 aug 2026	https://www.facebook.com/underdogbackyardultra
+	Trofeul „Ursul Carpatin”	28 aug 2026	https://www.facebook.com/events/2185608145611926
+	Maraton Dragonul de Aur	29 aug 2026	https://www.facebook.com/events/1344113827055516/
+	Jidvei Weinland Trails	29 aug 2026	https://www.jidvei.ro/weinland-trails/
+	Oslea Run	29 aug 2026	https://run.oslea.ro/
+	Scorilo Sky Race	29 aug 2026	https://www.scoriloskyrace.ro/
+	Fast & Fun Run	29 aug 2026	https://www.facebook.com/events/794993929565158
+	Crosul Cetăților -  Cetatea Ineului	29 aug 2026	https://proactivi.org/page6.html
+	Szenes Trail Run	29 aug 2026	https://szenesrun.ro/
+	Maratonul Olteniei	29-30 aug 2026	https://maratonulolteniei.ro/
+	Zarandia Run & Bike Challenge	29-30 aug 2026	https://www.facebook.com/events/s/-zarandia-run-bike-challenge-2/1450776063481403/
+	Vrancea Montana Run	30 aug 2026	https://vranceamontanarun.ro/
+	Bobalna Trail Run  	30 aug 2026	https://atleticcluj.ro/
+	Septembrie		
+	Cugi Race	5 sep 2026	https://cugirace.ro/
+	Transfier	5 sep 2026	https://transfier.ro/
+	Strugu Run	5 sep 2026	https://strugurun.ro/
+	Castelul din Carpati	5 sep 2026	https://www.facebook.com/Concursul.Castelul.din.Carpati/
+	Trail Run – Viata in miscare	5 sep 2026	https://www.facebook.com/events/2655717861494459
+	Bimbo Global Race	5 sep 2026	https://bimboglobalrace.ro/
+	Sopa Forest Race	5 sep 2026	https://www.facebook.com/events/2164126500987647
+	Crosul Cetatii Purem	5 sep 2026	https://www.crosulcetatii.ro/ro/
+	Dream Run	5 sep 2026	https://dreamrun.ro/
+	Opinca Trail - Holod Experience	5 sep 2026	https://oradearunningculture.ro/evenimente/opinca-trail-holod-experience
+	Crosul Viilor	5 sep 2026	https://www.facebook.com/events/1573738901097573
+	Ultramaraton Galați 24	5-6 sep 2026	https://www.facebook.com/profile.php?id=100064617015844
+	Sighisoara 10k	5-6 sep 2026	https://sighisoara10k.ro/
+	Ciucas X3	5-6 sep 2026	https://ciucasx3.ro/
+	Via Pontica	6 sep 2026	https://viapontica.eu/en/
+	Cheile Nerei Trail Run	6 sep 2026	https://www.sascabike.ro/index.html
+	European Masters Off Road Championships	10-13 sep 2026	https://www.runtransylvania.com/ro/european-masters-off-road-champhionships/
+	Rasnov Medieval Run	10-13 sep 2026	https://www.facebook.com/RunTransylvaniaPage/
+	Running Festival Csíkszereda	11-12 sep 2026	https://runningfestival.ro/
+	Woodrocks Trail Run	12 sep 2026	https://www.facebook.com/events/659141377246292/
+	Maratonul Dragomirnei	12 sep 2026	https://acstrib.ro/inscrieri-maratonul-dragomirnei/
+	Gugulan MTB & Run	12 sep 2026	https://www.facebook.com/gugulanmtb/
+	Aiud Green Run	12 sep 2026	https://www.aiudgreenrun.ro/
+	Oradea Run Fest	12 sep 2026	https://www.oradearunfest.ro/save-the-date/
+	Sureanu Race 4x2000	12 sep 2026	https://asociatiaturismpemunte.ro/
+	Heritage Run	12 sep 2026	https://experiences.mytransylvania.ro/heritage-run-alergam-pentru-patrimoniu/
+	Sighet Run	12 sep 2026	https://www.facebook.com/photo/?fbid=1334465525382914&set=pcb.1334466002049533
+	Semimaraton Arad	12 sep 2026	https://aradrun.ro/
+	Festivalul Sporturilor Baneasa	12-13 sep 2026	https://festivalulsporturilor.ro/
+	Chisinau Marathon	12-13 sep 2026	https://marathon.md/
+	Pe-un picior de plai	13 sep 2026	https://www.facebook.com/photo/?fbid=1231855472317549&set=a.477094197793684
+	Zavoi Trail Comana	13 sep 2026	https://zavoitrail.adrenallina.ro/
+	Semimaraton Brăila	13 sep 2026	https://runbraila.ro/
+	Rombat Trail Race	13 sep 2026	https://runnersclub.ro/
+	Baia Mare Half Marathon	13 sep 2026	https://www.facebook.com/events/736246279179453/
+	Autism 24H	19-20 sep 2026	https://www.autism24h.ro/
+	Siria Vertical Loop	19 sep 2026	https://clubatia.com/
+	Omu Marathon	19 sep 2026	https://www.omumarathon.com/
+	Gușterița Trail Run	19 sep 2026	https://www.facebook.com/events/1815808285806763
+	Mogosa Race	19 sep 2026	https://www.facebook.com/events/1611176950320294/
+	Spartan Sovata	19 sep 2026	https://ro.spartan.com/ro/race/detail/10704/overview
+	Nord Run	19 sep 2026	https://www.facebook.com/photo/?fbid=122121013107201103&set=a.122110479897201103
+	Oltenia Ultra Trail	19 sep 2026	https://www.facebook.com/profile.php?id=61589628072369
+	Crosul Memoriei	19 sep 2026	https://www.facebook.com/events/984904454574749
+	Gold trail Baia de Arieș	19 sep 2026	https://www.facebook.com/profile.php?id=61589878294620
+	Oradea City Running Day	20 sep 2026	https://www.facebook.com/events/1140541694640394/
+	Crosul Companiilor	20 sep 2026	https://runnersclub.ro/
+	Crosul Arenelor	20 sep 2026	https://crosularenelor.ro/
+	Ani Run	20 sep 2026	https://www.facebook.com/events/centrul-de-vizitare-ceala/anirun-14/844493948404998/
+	Trail ca cabana	20 sep 2026	https://www.facebook.com/traillacabana
+	Crosul OncoHelp	20 sep 2026	https://oncohelp.ro/evenimente/evenimente-caritabile/crosul-oncohelp-2026/
+	Maraton Piatra Craiului	26 sep 2026	https://www.carpathianman.ro/
+	Semimaraton Porolissum	26 sep 2026	https://porolissumtrail.ro/
+	Discover Valea Doftanei	26 sep 2026	https://apedalforward.com/
+	Ascotid Trail Race	26 sep 2026	https://www.facebook.com/Ascotidtrailrace/
+	Crosul Odorheiului	26 sep 2026	https://tomegfutas.ro/ro/pagina-principala/
+	Teleki Trail 	26 sep 2026	https://www.facebook.com/TelekiTrail
+	Trascau Trail Run	26 sep 2026	https://trascautrailrun.ro/
+	Alerg pentru tine Trail Run	26 sep 2026	https://www.centrulsfluca.ro/alerg-pentru-tine.php
+	Run for Life Dumbrava Vlasiei	26 sep 2026	https://runforlife.ro/dumbrava/inscriere/
+	Danube Trail	26 sep 2026	https://danubetrail23k.ro/
+	Mârzeşti Trail Run	26 sep 2026	https://www.facebook.com/FacebookMTR
+	Maratonul Delta Dunarii Sulina	26 sep 2026	https://www.facebook.com/events/1512472707244829
+	Fuss NEKI Gyergyó	26 sep 2026	https://www.facebook.com/events/169460212122606
+	Crosul Inimilor Alba Iulia	26 sep 2026	https://www.facebook.com/events/1029318416249918
+	Trivale Trail	26 sep 2026	https://www.trivaletrail.ro/
+	Buzău 21k	27 sep 2026	https://buzau.21k.ro/
+	Free Spirit Run Giurgiu-Ruse	27 sep 2026	https://www.facebook.com/events/1689748299007807
+	Cupa IPA 	26-27 sep 2026	https://www.facebook.com/photo/?fbid=4270467273215847&set=a.1467882546807681
+	Octombrie		
+	Veverița Night Run	3 oct 2026	https://veveritanightrun.ro/
+	Crosul Regina Maria 	3 oct 2026	https://runnersclub.ro/
+	Last Man Standing	3 oct 2026	https://zut.run/last-man-standing/
+	Oradea Night Run	3 oct 2026	https://www.facebook.com/oradeanightrun
+	Várdomb Backyard Ultra	3 oct 2026	https://www.facebook.com/events/924987566608835
+	Crosul Speranței	3 oct 2026	https://www.facebook.com/RunningAndCyclingClubBlaj
+	Secret Paradise Running	3 oct 2026	https://www.facebook.com/profile.php?id=100057408641179
+	Brașov Running Festival	3-4 oct 2026	https://www.facebook.com/events/1897613507845541/
+	UVT Liberty Marathon Timisoara	3-4 oct 2026	https://libertymarathon.uvt.ro/
+	Vâlcea Forest Run	3-4 oct 2026	https://www.facebook.com/valceaforestrun/
+	Harvest Run	4 oct 2026	https://harvestrun.ro/
+	Acasa la Taraboste	4 oct 2026	https://www.runmoldova.com/acasa-la-taraboste-2026/
+	TulbuRun	10 oct 2026	https://www.facebook.com/events/1526516481704046/
+	Hercules Maraton	10 oct 2026	https://hercules-maraton.ro/
+	Trascau Trail Run	10 oct 2026	https://trascautrailrun.ro/
+	Cupa Calimani la Alergare Montana	10 oct 2026	https://www.facebook.com/cupacalimani
+	Maratonul International Bucuresti	10-11 oct 2026	https://bucharest-marathon.com/
+	Ultra Zǎrand Cǎsoaia	16-18 oct 2026	https://www.facebook.com/ultrazarand/
+	Semimaraton Calarasi	17 oct 2026	https://www.facebook.com/events/s/semimaraton-alergarea-de-samba/1122029173473341/
+	Faget Tour	17 oct 2026	https://runnersclub.ro/
+	Azuga Trail Race	17 oct 2026	https://azuga.trailrace.ro/
+	Semimaratonul Craiovei	17 oct 2026	https://www.semimaratonulcraiovei.ro/
+	Zaga Zaga Escape Run	18 oct 2026	https://www.facebook.com/photo/?fbid=122120458701151596&set=pcb.122120459295151596
+	Friday Night Lights	23 oct 2026	https://fridaynightlights.ro/
+	AlerGând la pădure	24 oct 2026	https://www.facebook.com/events/s/alergand-la-padure-xii/2073717386718201/
+	Monor Trail Run	24 oct 2026	https://www.monortrail.run/
+	Felix Trail Run	24 oct 2026	https://www.facebook.com/events/s/felix-trail-run/26045495861739884/
+	Brașov Night Challenge	24 oct 2026	https://www.brasovmarathon.ro/night-challenge/
+	Via Bacovia Trail	24 oct 2026	https://vbtrail.run/en/vbt2026/
+	Semimaraton Sfantu Gheorghe	24 oct 2026	https://www.facebook.com/events/s/24-szentgyorgy-felmaraton-semi/1366272815468976/
+	Timisoara City Marathon	25 oct 2026	https://timisoaracitymarathon.ro/
+	Cursa imposibila	25 oct 2026	https://aleargaromania.ro/cursa-imposibila/
+	Brasov 21K	25 oct 2026	https://21k.ro/
+	Movila Măgura Everesting Challenge	23-25 oct 2026	https://www.facebook.com/events/1234994072120731/
+	Beiuș Running Day	31 oct 2026	https://www.facebook.com/profile.php?id=100057105803737
+	Hateg Royal Trail	31 oct 2026	https://hategroyaltrail.ro/
+	Hallo We Run	31 oct 2026	https://www.facebook.com/events/962291273424590/
+	Subcarpați Trail Run by Night	31 oct 2026	https://www.subcarpatitrailrun.ro/
+	Noiembrie		
+	Baneasa Forest Run	1 nov 2026	https://baneasaforestrun.ro/
+	Run Iasi	1 nov 2026	https://runiasi.ro/
+	Istrita Xscape	7 nov 2026	https://istritaxscape.ro/
+	Run for Life Cluj	7 nov 2026	https://runforlife.ro/wonderland/
+	Bucharest 21k	8 nov 2026	https://21k.ro/
+	Crosul 15 noiembrie	14 nov 2026	https://15noiembrie.ro/
+	Crosul de noapte Cluj	14 nov 2026	https://runnersclub.ro/
+	Semimaraton Dealul Balanesti	14 nov 2026	https://www.facebook.com/events/3082986255244400
+	SkyRun	14 nov 2026	https://www.instagram.com/p/DT-DmrmCBIf/
+	Lunca Timisului	14-15 nov 2026	https://www.facebook.com/events/s/lunca-timisului-cx-2026/2055204631963341/
+	Decembrie		
+	Maraton 1 Decembrie	1 dec 2026	http://www.maraton1decembrie.ro/
+	Cluj EcoTrail	1 dec 2026	https://clujecotrail.com/
+	OVB Charity Run	5 dec 2026	https://runnersclub.ro/
+	Maratonul Mosilor	5 dec 2026	https://www.facebook.com/events/929904439635715
+	Ultra Zǎrand Everesting+	11-13 dec 2026	https://www.facebook.com/ultrazarand/
+	Pe Arges in jos	13 dec 2026	https://paj.pitestitriathlon.ro/
+	Găsește-l pe Moș Crăciun în inima naturii, Codrul	13 dec 2026	https://www.facebook.com/events/1633427174451529
+	Maratonul de Crăciun	13 dec 2026	https://www.facebook.com/events/1828915547737887
+
+
+
+	INOT		
+			
+			
+			
+
+
+
+
+
+	TRIATLON		
+	Roua Indoor  Duathlon & Triathlon	29 mar 2026	https://rouatriclub.ro/indoor-triathlon/
+	H 3 RO	30-31 mai 2026	https://h3ro.org/
+	Fara Asfalt la mare	6 iunie 2026	https://www.faraasfalt.ro/
+	Xman Romania	6 iunie 2026	https://xmanromania.ro/
+	Transylvania Triathlon Festival	27-28 iunie 2026	https://transylvaniatriathlonfestival.ro/
+	Timisoara Triathlon	18-19 iulie 2026	https://timisoaratriathlon.ro/
+	Triatlon Cluj	25 iulie 2026	https://club-orca.ro/
+	Binder Lake Triathlon	26 iul 2026	https://ariasibiu.ro/triathlon-onroad/
+	Sibiu Triatlon Challenge	2 august 2026	https://acceptaprovocarea.com/
+	Triatlon Rep. Moldova	16 aug 2026	https://ftrm.md/dc-2024/7
+	Triatlonul Proactivi	22 aug 2026	http://www.proactivi.org/page1.html
+	Transfier	5 sep 2026	https://transfier.ro/
+	Triatlon Pantelimon	19-20 sep 2026	https://triathlon.unstoppable.ro/
+
+
+	BICICLETA		
+	Ziua B	18 apr 2026	https://www.ridersclub.ro/ro/competitie-ciclism/ziua-b-2026
+	Triada MTB Avrig	18 apr 2026	https://triadamtb.ro/triada-mtb-avrig/
+	Maratonul Vinului	25 apr 2026	https://maratonulvinului.ro/
+	Medias Bike Marathon	9 mai 2026	https://marathonmedias.ro/
+	Prima Evadare	16 mai 2026	https://primaevadare.ro/
+	The Wall	23 mai 2026	https://roadgrandtour.ro/the-wall/
+	King’s Cross	23 mai 2026	https://kingscross.ecostuff.ro/
+	Triada MTB Cheile Grădiștei	30 mai 2026	https://triadamtb.ro/triada-mtb-cheile-gradistei/
+	Măcin Mountain Fun	6 iun 2026	https://www.bikeworks.ro/macin-mountain-fun/stiri/
+	Criteriul Primaverii	7 iun 2026	https://www.facebook.com/events/1174757818158412/
+	Topoloveni Summer Tour	14 iun 2026	https://www.ridersclub.ro/ro/competitie-ciclism/topoloveni-summer-tour-2026
+	Vidraru Bike Challenge	27 iun 2026	https://vidrarumtb.ro/
+	Corcova Fest	4 iul 2026	https://corcovafest.com/
+	Motorsirülő Challenge	11 iul 2026	https://harghitaride.ro/ro/motorsirulo-challenge/
+	Discover Valea Doftanei	12 iul 2026	https://apedalforward.com/
+	Guduc MTB	12 iul 2026	https://guducmtb.ro/ro
+	Up to Postavaru	25 iul 2026	https://www.uptopostavaru.ro/
+	Netindava	25 iul 2026	https://roadgrandtour.ro/netindava/
+	Soveja Mountain Fun	25 iul 2026	https://www.facebook.com/events/1826343402105926/
+	Casoaia Bike	25 iul 2026	https://euromediu.ro/evenimente/casoaia/
+	Apuseni Bike Tour	26 iul 2026	https://www.facebook.com/events/4453104784948725/
+	Teleferic Challenge	1 aug 2026	https://roadgrandtour.ro/teleferic/
+	Maratonul Ciucului	1 aug 2026	https://harghitaride.ro/ro/csik-marathon-mtb/
+	Farmotion	1 aug 2026	https://farmotion.ro/editii/farmotion-2026/curse/
+	Sugas Hill Sprint	7 aug 2026	https://www.facebook.com/events/1519524813307987/
+	Alpine Challenge	8 aug 2026	https://alpinechallenge.ro/
+	Maratonul Nordului Darabani	8 aug 2026	http://www.maratonulnordului.ro/MN-MTB.html
+	Sugas 24 H	8 aug 2026	https://www.facebook.com/events/4303130299931331/
+	Karst Isverna	15 aug 2026	https://roadgrandtour.ro/karst-isverna/
+	Alba Carolina Bike Race	15 aug 2026	https://www.acbr.ro/
+	Haita Challenge	15 aug 2026	https://haitachallenge.ro/
+	Transilvania Bike Trails Race	19-23 aug 2026	https://tbtrace.ro/
+	Epic Magura Trails	23 aug 2026	http://www.epicmaguratrails.ro/
+	Aventură în Vrancea Sălbatică	28 aug 2026	https://putna-vrancea.ro/aventura-in-vrancea-salbatica/
+	Maratonul Olteniei	29 aug 2026	https://maratonulolteniei.ro/
+	Pedalam in Tara Vinului	29 aug 2026	https://www.jidvei.ro/weinland-trails/biking/
+	L'Étape România	30 aug 2026	https://romania.letapeseries.com/
+	Crosul Viilor	5 sep 2026	https://www.facebook.com/events/1573738901097573
+	Cheile Nerei Mountainbike	5-6 sep 2026	https://www.sascabike.ro/
+	Zavoi Trail	12 sep 2026	https://zavoitrail.adrenallina.ro/
+	Maratonul Dragomirnei	12 sep 2026	https://acstrib.ro/maratonul-dragomirnei/
+	Gugulan MTB	12 sep 2026	https://www.gugulanmtb.ro/
+	Cluj Bike Fest	12 sep 2026	https://www.facebook.com/events/1027253316762743/
+	Trans Ciucas	18-20 sep 2026	https://redmountainenduro.ro/transciucas/
+	Odyssey Apuseni Race	19 sep 2026	https://www.facebook.com/events/1552656106276782/?
+	Lupii Dacilor-Trofeul Muscelului	20 sep 2026	https://www.ridersclub.ro/ro/competitie-ciclism/lupii-dacilor-trofeul-muscelului-2026
+	Linia 20	20 sep 2026	https://linia20.ro/
+	Triada MTB Păltiniș	26 sep 2026	https://triadamtb.ro/triada-mtb-paltinis/
+	Descoperă Șamșud	3 oct 2026	https://descoperasamsud.ro/
+	Turul Colinelor Bacau	10 oct 2026	https://www.turulcolinelor.ro/
+	Haiduci si Domnite	17 oct 2026	https://www.ridersclub.ro/ro/competitie-ciclism/haiduci-si-domnite-2026
+	Paulesti Livada cu Ciresi	31 oct 2026	https://roadgrandtour.ro/paulesti-livada-cu-ciresi/
+
+
+
+
+
+
+
+Competitii 2027
+	Competitie	Data	Info
+	Ianuarie		
+	Gerar	30 ian 2027	https://gerar.ro/
+	Februarie		
+	Team Up & Run	27 feb 2027	https://www.facebook.com/events/1928467831889420
+	Martie		
+	Uphill Running Championship	13 mar 2027	https://urc.run/
+	Milestii Mici Winerun	13 mar 2027	https://www.facebook.com/events/1497398071968734/
+	SportGuru Timisoara 21k	21 mar 2027	https://www.facebook.com/events/2086897288926438
+	Woodland Series - Trail run	21 mar 2027	https://www.club3sport.ro/
+	TTR Backyard Ultra	27 mar 2027	https://www.facebook.com/photo/?fbid=1501621418673928&set=a.476169901219090
+	Aprilie		
+	Semimaraton Brasov	3 apr 2027	https://semimaraton.ro/
+	Legal Half Marathon	4 apr 2027	https://www.runmoldova.com/legal-hm-2027/
+	Maratonul Argonautilor	10-11 apr 2027	https://maratonulargonautilor.ro/
+	Băneasa Forest Run - Spring	11 apr 2027	https://baneasaforestrun.ro/
+	Wizz Air Cluj-Napoca Marathon	11 apr 2027	https://maraton-cluj.ro/
+	La Petrovaselo în vie	17 apr 2027	https://www.facebook.com/events/1498123015278696/
+	Cheile Turzii Race	17 apr 2027	https://www.facebook.com/events/2923358964501487
+	Alergăraș	24-25 apr 2027	https://alergaras.ro/
+	Chisinau Half Marathon	25 apr 2027	https://www.facebook.com/events/968008875644315
+	Bucharest International Halfmarathon	25 apr 2027	https://bucharest.run/
+	Semimaraton Iasi	25 apr 2027	https://semimaratoniasi.ro/
+	Mai		
+	Subcarpați Trail Run	8 mai 2027	https://www.subcarpatitrailrun.ro/
+	Thermal Trail Race	8 mai 2027	https://www.facebook.com/events/2268382540364216
+	Maraton Bârzava	8 mai 2027	https://www.facebook.com/profile.php?id=61557617351187
+	Semimaraton Bucuresti	8-9 mai 2027	https://www.bucuresti21km.ro/
+	Timotion	16 mai 2027	https://www.facebook.com/timotiontm
+	Dac Warrior	22 mai 2027	https://dacwarrior.ro/
+	Maratonul International Sibiu	29 mai 2027	https://www.facebook.com/events/1550418356439460/
+	Ultrabug	28-30 mai 2027	https://www.ultrabug.ro/
+	Iunie		
+	Busteni Ultra Race	5 iun 2027	https://busteniultrarace.ro/en/
+	X Run	5 iun 2027	https://www.facebook.com/events/1014786670929849/
+	Maratonul Nordului Botosani	12-13 iun 2027	https://www.maratonulnordului.ro/MN-Botosani.html
+	Crosul Supereroilor	13 iun 2027	https://www.facebook.com/events/2143526699522841/
+	Chisinau 10 km Night Run	26 iun 2027	https://sporter.md/ro/events/run/100292/chisinau-10-km-night-run-2027
+	Crosul Orasului Mioveni	27 iun 2027	https://miovenioutdoorsports.ro/
+	Iulie		
+	Cozia Mountain Run	3 iul 2027	https://coziamountainrun.ro/
+	Carpathia Trails	3 iul 2027	https://carpathiatrails.com/
+	August		
+	Retezat Mountain Run	14 aug 2027	https://retezat-maraton-rausor.ro/
+			
+	Septembrie		
+			
+			
+	Octombrie		
+			
+			
+	Noiembrie		
+			
+			
+	Decembrie		
+	Maraton 1 Decembrie	1 dec 2027	http://www.maraton1decembrie.ro/
+	Cluj EcoTrail	1 dec 2027	https://clujecotrail.com/
+
+
+	INOT		
+			
+			
+			
+
+	TRIATLON		
+	X Man	5 iun 2027	https://www.facebook.com/events/1014786670929849/
+			
+			
+
+
+	BICICLETA		
+	Maratonul Vinului	24 apr 2027	https://maratonulvinului.ro/
+	Velo Hora	23 mai 2027	https://sporter.md/ro/events/cycle/100209/velohora-by-skoda-2027
+			
+

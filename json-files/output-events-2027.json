@@ -122,6 +122,25 @@
     "lon": 22.3667
   },
   {
+    "name": "TTR Backyard Ultra",
+    "location": "Chiajna",
+    "location_details": "Roșu",
+    "display_date": "Sat 27-Mar-2027",
+    "county": "IF",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://timetrialrunning.ro/",
+    "link_fb": "https://www.facebook.com/TimeTrialRunning",
+    "id": 107,
+    "year": 2027,
+    "month": 3,
+    "day": 27,
+    "lat": 44.4667,
+    "lon": 25.9667
+  },
+  {
     "name": "Semimaraton Brașov",
     "location": "Brașov",
     "location_details": "Piața Unirii",
@@ -568,6 +587,26 @@
     "lon": 25.53281764789364
   },
   {
+    "name": "Maraton Tarcău",
+    "location": "Tarcău",
+    "location_details": "Schitu Tarcău",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "42.7km(1140m↑)",
+      "22km(570m↑)"
+    ],
+    "link": "https://maraton-tarcau.ro/",
+    "link_fb": "https://www.facebook.com/people/Maraton-Tarc%C4%83u/100090512883067/",
+    "id": 21,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 46.7,
+    "lon": 26.1833
+  },
+  {
     "name": "Maratonul Nordului - Botoșani",
     "location": "Botoșani",
     "location_details": "",
@@ -649,6 +688,30 @@
     "day": 3,
     "lat": 45.2810779374,
     "lon": 24.3126121287
+  },
+  {
+    "name": "Carpathia Trails",
+    "location": "Cheile Grădiștei",
+    "location_details": "",
+    "display_date": "Sat 03-Jul-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "102.6km(5910m↑)",
+      "58km(3480m↑)",
+      "44km(2430m↑)",
+      "36km(2230m↑)",
+      "23km(1190m↑)",
+      "6km(270m↑)"
+    ],
+    "link": "https://carpathiatrails.com/",
+    "link_fb": "https://www.facebook.com/carpathiatrails/",
+    "id": 20,
+    "year": 2027,
+    "month": 7,
+    "day": 3,
+    "lat": 45.5667,
+    "lon": 25.3167
   },
   {
     "name": "Retezat Mountain Run",

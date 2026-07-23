@@ -68,7 +68,7 @@
       "location": "Oradea",
       "county": "BH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 13-Nov",
       "year_2025": "Fri 21-Nov",
       "year_2024": "Fri 15-Nov",
       "year_2023": "Fri 15-Dec"
@@ -471,11 +471,11 @@
     },
     {
       "id": 400,
-      "name": "Arad Fall Run",
+      "name": "Arad Half Marathon",
       "location": "Arad",
       "county": "AR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 15-Nov",
       "year_2024": "Sat 24-Aug",
       "year_2023": "Sat 18-Nov"
@@ -1013,7 +1013,7 @@
       "name": "Carpathia Trails",
       "location": "Cheile Grădiștei",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sat 3-Jul",
       "year_2026": "Sat 4-Jul",
       "year_2025": "Sat 5-Jul",
       "year_2024": "Sat 6-Jul",
@@ -1421,7 +1421,7 @@
       "location": "Brad",
       "county": "HD",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 23-Aug",
       "year_2025": "Sun 24-Aug",
       "year_2024": "",
       "year_2023": ""
@@ -1911,6 +1911,28 @@
       "year_2023": ""
     },
     {
+      "id": 615,
+      "name": "Crosul Culorilor - Sebeș",
+      "location": "Sebeș",
+      "county": "AB",
+      "year_2027": "",
+      "year_2026": "Sun 16-Aug",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 618,
+      "name": "Crosul de la capătul lumii",
+      "location": "Băiuț",
+      "county": "MM",
+      "year_2027": "",
+      "year_2026": "Sun 6-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 147,
       "name": "Crosul de Noapte Cluj (primavara)",
       "location": "Cluj-Napoca",
@@ -2070,7 +2092,7 @@
       "location": "Hoghilag",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 1-Aug",
       "year_2025": "Sat 9-Aug",
       "year_2024": "",
       "year_2023": ""
@@ -2769,6 +2791,17 @@
       "year_2023": ""
     },
     {
+      "id": 617,
+      "name": "Crosul Viilor - Satu Mare",
+      "location": "Satu Mare",
+      "county": "SM",
+      "year_2027": "",
+      "year_2026": "Sat 5-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 251,
       "name": "Crosul Zilei Olimpice - Miercurea Ciuc",
       "location": "Miercurea Ciuc",
@@ -2961,7 +2994,7 @@
       "location": "Dascălu",
       "county": "IF",
       "year_2027": "",
-      "year_2026": "Sat 18-Jul",
+      "year_2026": "Sun 28-Jun",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -3434,7 +3467,7 @@
       "location": "Baia de Arieș",
       "county": "AB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 11-Oct",
       "year_2024": "",
       "year_2023": ""
@@ -3972,7 +4005,7 @@
       "name": "Maraton Tarcău",
       "location": "Tarcău",
       "county": "NT",
-      "year_2027": "",
+      "year_2027": "Sat 12-Jun",
       "year_2026": "Sat 13-Jun",
       "year_2025": "Sat 21-Jun",
       "year_2024": "Sat 11-May",
@@ -6106,7 +6139,7 @@
       "name": "TTR Backyard Ultra",
       "location": "Chiajna",
       "county": "IF",
-      "year_2027": "",
+      "year_2027": "Sat 27-Mar",
       "year_2026": "Fri 17-Apr",
       "year_2025": "",
       "year_2024": "",
@@ -6670,6 +6703,17 @@
       "year_2027": "",
       "year_2026": "Sat 3-Oct",
       "year_2025": "Sat 4-Oct",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 616,
+      "name": "Zarandia Run & Bike Challenge",
+      "location": "Vața de Jos",
+      "county": "HD",
+      "year_2027": "",
+      "year_2026": "Sat 29-Aug",
+      "year_2025": "",
       "year_2024": "",
       "year_2023": ""
     },

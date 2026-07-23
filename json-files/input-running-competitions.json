@@ -781,6 +781,11 @@
       "link_fb": "https://www.facebook.com/carpathiatrails/",
       "editions": [
         {
+          "year": 2027,
+          "month": 7,
+          "day": 3
+        },
+        {
           "year": 2026,
           "month": 7,
           "day": 4
@@ -818,6 +823,11 @@
       "link": "https://maraton-tarcau.ro/",
       "link_fb": "https://www.facebook.com/people/Maraton-Tarc%C4%83u/100090512883067/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 12
+        },
         {
           "year": 2026,
           "month": 6,
@@ -4139,9 +4149,14 @@
       "distances": [
         "-"
       ],
-      "link": "https://timetrialrunning.ro/ttr-backyard-ultra-2026-rosu-chiajna-prima-competitie-oficiala-organizata-de-echipa-time-trial-running/",
+      "link": "https://timetrialrunning.ro/",
       "link_fb": "https://www.facebook.com/TimeTrialRunning",
       "editions": [
+        {
+          "year": 2027,
+          "month": 3,
+          "day": 27
+        },
         {
           "year": 2026,
           "month": 4,
@@ -5288,8 +5303,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 7,
-          "day": 18,
+          "month": 6,
+          "day": 28,
           "event_link": "https://www.facebook.com/events/1892754165017645"
         }
       ],
@@ -9817,6 +9832,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 8,
+          "day": 1,
+          "event_link": "https://www.facebook.com/sarbatoareatuberozei/posts/1464490552375427/"
+        },
+        {
           "year": 2025,
           "month": 8,
           "day": 9,
@@ -9993,6 +10014,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1349554929881473/"
+        },
         {
           "year": 2025,
           "month": 8,
@@ -10704,7 +10731,7 @@
         "22km(550m↑)",
         "6km"
       ],
-      "link": "https://gugulanmtb.ro/",
+      "link": "https://www.facebook.com/gugulanmtb/",
       "link_fb": "https://www.facebook.com/gugulanmtb/",
       "editions": [
         {
@@ -12188,9 +12215,14 @@
       "distances": [
         "8km"
       ],
-      "link": "https://cupacalimani.ro/",
-      "link_fb": "https://www.facebook.com/cupacalimani/",
+      "link": "https://www.facebook.com/profile.php?id=61589878294620",
+      "link_fb": "https://www.facebook.com/profile.php?id=61589878294620",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19
+        },
         {
           "year": 2025,
           "month": 10,
@@ -13075,7 +13107,7 @@
     },
     {
       "id": 400,
-      "name": "Arad Fall Run",
+      "name": "Arad Half Marathon",
       "location": "Arad",
       "location_details": "Parcul Eminescu",
       "county": "AR",
@@ -13089,6 +13121,11 @@
       "link": "https://aradrun.ro/",
       "link_fb": "https://www.facebook.com/aradrun/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        },
         {
           "year": 2025,
           "month": 11,
@@ -13199,6 +13236,11 @@
       "link": "https://xterrasport.ro/caritate/ro/",
       "link_fb": "https://www.facebook.com/24deorepentruunzambet/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 13
+        },
         {
           "year": 2025,
           "month": 11,
@@ -18248,6 +18290,91 @@
       ],
       "lat": 45.35,
       "lon": 24.25
+    },
+    {
+      "id": 615,
+      "name": "Crosul Culorilor - Sebeș",
+      "location": "Sebeș",
+      "county": "AB",
+      "type": "road",
+      "distances": [
+        "4.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 16,
+          "event_link": "https://www.facebook.com/events/2519532968561495"
+        }
+      ],
+      "lat": 45.9582,
+      "lon": 23.5681
+    },
+    {
+      "id": 616,
+      "name": "Zarandia Run & Bike Challenge",
+      "location": "Vața de Jos",
+      "location_details": "Vața Băi",
+      "county": "HD",
+      "type": "trail",
+      "distances": [
+        "23km",
+        "11.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/s/-zarandia-run-bike-challenge-2/1450776063481403/"
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "name": "Crosul Viilor - Satu Mare",
+      "location": "Satu Mare",
+      "county": "SM",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/1573738901097573"
+        }
+      ],
+      "lat": 47.7917,
+      "lon": 22.8833
+    },
+    {
+      "id": 618,
+      "name": "Crosul de la capătul lumii",
+      "location": "Băiuț",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://crosul-de-la-capatul-lumii.netlify.app/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 6
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [

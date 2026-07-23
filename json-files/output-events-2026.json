@@ -1165,7 +1165,7 @@
     "distances": [
       "-"
     ],
-    "link": "https://timetrialrunning.ro/ttr-backyard-ultra-2026-rosu-chiajna-prima-competitie-oficiala-organizata-de-echipa-time-trial-running/",
+    "link": "https://timetrialrunning.ro/",
     "link_fb": "https://www.facebook.com/TimeTrialRunning",
     "id": 107,
     "year": 2026,
@@ -4438,6 +4438,25 @@
     "lon": 28.8638
   },
   {
+    "name": "Dascălu Forest Run",
+    "location": "Dascălu",
+    "location_details": "",
+    "display_date": "Sun 28-Jun-2026",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1892754165017645",
+    "link_fb": "",
+    "id": 144,
+    "year": 2026,
+    "month": 6,
+    "day": 28,
+    "lat": 44.60133469013012,
+    "lon": 26.227187415434443
+  },
+  {
     "name": "Cluj Running Festival",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -4829,25 +4848,6 @@
     "lon": 23.8833
   },
   {
-    "name": "Dascălu Forest Run",
-    "location": "Dascălu",
-    "location_details": "",
-    "display_date": "Sat 18-Jul-2026",
-    "county": "IF",
-    "type": "trail",
-    "distances": [
-      "-"
-    ],
-    "link": "https://www.facebook.com/events/1892754165017645",
-    "link_fb": "",
-    "id": 144,
-    "year": 2026,
-    "month": 7,
-    "day": 18,
-    "lat": 44.60133469013012,
-    "lon": 26.227187415434443
-  },
-  {
     "name": "Buila Trail Race",
     "location": "Bărbătești",
     "location_details": "",
@@ -5191,6 +5191,25 @@
     "lon": 21.2259904857
   },
   {
+    "name": "Crosul Inimi și Tuberoze Hoghilag",
+    "location": "Hoghilag",
+    "location_details": "",
+    "display_date": "Sat 01-Aug-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/sarbatoareatuberozei/posts/1464490552375427/",
+    "link_fb": "",
+    "id": 290,
+    "year": 2026,
+    "month": 8,
+    "day": 1,
+    "lat": 46.0833,
+    "lon": 24.4333
+  },
+  {
     "name": "Farmotion",
     "location": "Armeniș",
     "location_details": "",
@@ -5453,6 +5472,25 @@
     "lon": 25.4833
   },
   {
+    "name": "Crosul Culorilor - Sebeș",
+    "location": "Sebeș",
+    "location_details": "",
+    "display_date": "Sun 16-Aug-2026",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "4.5km"
+    ],
+    "link": "https://www.facebook.com/events/2519532968561495",
+    "link_fb": "",
+    "id": 615,
+    "year": 2026,
+    "month": 8,
+    "day": 16,
+    "lat": 45.9582,
+    "lon": 23.5681
+  },
+  {
     "name": "GLS Night Cross Challenge Sibiu",
     "location": "Sibiu",
     "location_details": "Muzeul Astra",
@@ -5535,6 +5573,25 @@
     "day": 22,
     "lat": 46.7686978405,
     "lon": 23.5717152975
+  },
+  {
+    "name": "Cros Drumul Aurului",
+    "location": "Brad",
+    "location_details": "",
+    "display_date": "Sun 23-Aug-2026",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "8.5km(256m↑)"
+    ],
+    "link": "https://www.facebook.com/events/1349554929881473/",
+    "link_fb": "",
+    "id": 296,
+    "year": 2026,
+    "month": 8,
+    "day": 23,
+    "lat": 46.1333,
+    "lon": 22.783295
   },
   {
     "name": "Underdogs - The Backyard Ultra",
@@ -5639,6 +5696,24 @@
     "day": 29,
     "lat": 46.8,
     "lon": 25.1
+  },
+  {
+    "name": "Zarandia Run & Bike Challenge",
+    "location": "Vața de Jos",
+    "location_details": "Vața Băi",
+    "display_date": "Sat 29-Aug-2026",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "23km",
+      "11.5km"
+    ],
+    "link": "https://www.facebook.com/events/s/-zarandia-run-bike-challenge-2/1450776063481403/",
+    "link_fb": "",
+    "id": 616,
+    "year": 2026,
+    "month": 8,
+    "day": 29
   },
   {
     "name": "Maratonul Dragonul de Aur",
@@ -5949,6 +6024,25 @@
     "lon": 22.121587596966364
   },
   {
+    "name": "Crosul Viilor - Satu Mare",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Sat 05-Sep-2026",
+    "county": "SM",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1573738901097573",
+    "link_fb": "",
+    "id": 617,
+    "year": 2026,
+    "month": 9,
+    "day": 5,
+    "lat": 47.7917,
+    "lon": 22.8833
+  },
+  {
     "name": "Via Pontica",
     "location": "Limanu",
     "location_details": "2 Mai - Krapets",
@@ -6007,6 +6101,23 @@
     "day": 6,
     "lat": 44.8333,
     "lon": 21.7167
+  },
+  {
+    "name": "Crosul de la capătul lumii",
+    "location": "Băiuț",
+    "location_details": "",
+    "display_date": "Sun 06-Sep-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://crosul-de-la-capatul-lumii.netlify.app/",
+    "link_fb": "",
+    "id": 618,
+    "year": 2026,
+    "month": 9,
+    "day": 6
   },
   {
     "name": "Râșnov Medieval Run",
@@ -6171,7 +6282,7 @@
       "22km(550m↑)",
       "6km"
     ],
-    "link": "https://gugulanmtb.ro/",
+    "link": "https://www.facebook.com/gugulanmtb/",
     "link_fb": "https://www.facebook.com/gugulanmtb/",
     "id": 319,
     "year": 2026,
@@ -6221,6 +6332,28 @@
     "day": 12,
     "lat": 47.9167,
     "lon": 23.8833
+  },
+  {
+    "name": "Arad Half Marathon",
+    "location": "Arad",
+    "location_details": "Parcul Eminescu",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7.5km",
+      "3km",
+      "1km"
+    ],
+    "link": "https://aradrun.ro/",
+    "link_fb": "https://www.facebook.com/aradrun/",
+    "id": 400,
+    "year": 2026,
+    "month": 9,
+    "day": 12,
+    "lat": 46.1833,
+    "lon": 21.316705
   },
   {
     "name": "Șureanu Race 4x2000",
@@ -6487,6 +6620,25 @@
     "day": 19,
     "lat": 47.7333,
     "lon": 23.733305
+  },
+  {
+    "name": "Gold Trail Baia de Arieș",
+    "location": "Baia de Arieș",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "8km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61589878294620",
+    "link_fb": "https://www.facebook.com/profile.php?id=61589878294620",
+    "id": 370,
+    "year": 2026,
+    "month": 9,
+    "day": 19,
+    "lat": 46.35,
+    "lon": 23.1167
   },
   {
     "name": "Spartan Race Sovata",
@@ -7920,6 +8072,25 @@
     "day": 8,
     "lat": 44.4223331273,
     "lon": 26.1548681031
+  },
+  {
+    "name": "24 de ore pentru un zambet",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Fri 13-Nov-2026",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://xterrasport.ro/caritate/ro/",
+    "link_fb": "https://www.facebook.com/24deorepentruunzambet/",
+    "id": 404,
+    "year": 2026,
+    "month": 11,
+    "day": 13,
+    "lat": 47.0559709149,
+    "lon": 21.9394966774
   },
   {
     "name": "Crosul 15 Noiembrie 1987",

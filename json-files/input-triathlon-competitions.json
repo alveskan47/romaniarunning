@@ -170,6 +170,36 @@
           "day": 20
         }
       ]
+    },
+    {
+      "id": 12,
+      "name": "Binder Lake Triathlon",
+      "location": "Sibiu",
+      "county": "SB",
+      "link": "https://ariasibiu.ro/",
+      "link_fb": "https://www.facebook.com/ariapentrusport/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Triatlonul Proactivi",
+      "location": "Ghioroc",
+      "county": "AR",
+      "link": "https://www.proactivi.org/page1.html",
+      "link_fb": "https://www.facebook.com/triatlonulproactivighioroc",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 22
+        }
+      ]
     }
   ]
 }

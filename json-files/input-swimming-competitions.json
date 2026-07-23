@@ -159,14 +159,13 @@
       "location": "Chișinău",
       "location_details": "Republica Moldova",
       "county": "MDA*",
-      "link": "",
+      "link": "https://seamile.md/ro/",
       "link_fb": "",
       "editions": [
         {
           "year": 2026,
           "month": 8,
-          "day": 16,
-          "event_link": "https://sporter.md/ro/events/swim/100156/seamile-2026"
+          "day": 16
         }
       ],
       "distances": [
