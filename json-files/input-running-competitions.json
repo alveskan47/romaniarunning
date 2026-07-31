@@ -556,6 +556,11 @@
       "link_fb": "https://www.facebook.com/p/Zalau-Ultra-Trail-61557106981327/",
       "editions": [
         {
+          "year": 2027,
+          "month": 7,
+          "day": 10
+        },
+        {
           "year": 2026,
           "month": 7,
           "day": 10
@@ -2930,6 +2935,11 @@
       "link": "https://maratonmaramures.ro/",
       "link_fb": "https://www.facebook.com/maratonmaramures.ro/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 12
+        },
         {
           "year": 2026,
           "month": 6,
@@ -7503,6 +7513,11 @@
       "link": "https://runtothehills.ro/",
       "link_fb": "https://www.facebook.com/runtothehillscrasna",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 15
+        },
         {
           "year": 2026,
           "month": 5,
@@ -18239,7 +18254,9 @@
           "day": 25,
           "event_link": "https://www.facebook.com/events/895314750281593"
         }
-      ]
+      ],
+      "lat": 45.375,
+      "lon": 26.5667
     },
     {
       "id": 613,
@@ -18333,7 +18350,9 @@
           "day": 29,
           "event_link": "https://www.facebook.com/events/s/-zarandia-run-bike-challenge-2/1450776063481403/"
         }
-      ]
+      ],
+      "lat": 46.0833,
+      "lon": 22.6167
     },
     {
       "id": 617,
@@ -18374,7 +18393,31 @@
           "month": 9,
           "day": 6
         }
-      ]
+      ],
+      "lat": 47.6167,
+      "lon": 23.9167
+    },
+    {
+      "id": 619,
+      "name": "Șiria Night Run",
+      "location": "Șiria",
+      "county": "AR",
+      "type": "trail",
+      "distances": [
+        "15km(600m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/27501475282854675"
+        }
+      ],
+      "lat": 46.2667,
+      "lon": 21.6333
     }
   ],
   "competitions_no_statistics": [

@@ -458,6 +458,27 @@
     "lon": 26.0923982546
   },
   {
+    "name": "Run To The Hills",
+    "location": "Crasna (SJ)",
+    "location_details": "",
+    "display_date": "Sat 15-May-2027",
+    "county": "SJ",
+    "type": "trail",
+    "distances": [
+      "21.9km",
+      "14.4km",
+      "5.9km"
+    ],
+    "link": "https://runtothehills.ro/",
+    "link_fb": "https://www.facebook.com/runtothehillscrasna",
+    "id": 215,
+    "year": 2027,
+    "month": 5,
+    "day": 15,
+    "lat": 47.1667,
+    "lon": 22.9
+  },
+  {
     "name": "Semimaraton Timotion",
     "location": "Timișoara",
     "location_details": "",
@@ -607,6 +628,28 @@
     "lon": 26.1833
   },
   {
+    "name": "Maraton Maramureș",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "42km(2130m↑)",
+      "21km(1150m↑)",
+      "10km(250m↑)",
+      "2km(100m↑)"
+    ],
+    "link": "https://maratonmaramures.ro/",
+    "link_fb": "https://www.facebook.com/maratonmaramures.ro/",
+    "id": 74,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 47.66669,
+    "lon": 23.58329
+  },
+  {
     "name": "Maratonul Nordului - Botoșani",
     "location": "Botoșani",
     "location_details": "",
@@ -712,6 +755,30 @@
     "day": 3,
     "lat": 45.5667,
     "lon": 25.3167
+  },
+  {
+    "name": "Zalău Ultra Trail",
+    "location": "Zalău",
+    "location_details": "",
+    "display_date": "Sat 10-Jul-2027",
+    "county": "SJ",
+    "type": "trail",
+    "distances": [
+      "102km(5255m↑)",
+      "43.7km(2340m↑)",
+      "24km(1252m↑)",
+      "12.5km(580m↑)",
+      "4.24km(150m↑)",
+      "2.51km(125m↑)"
+    ],
+    "link": "https://zut.run/",
+    "link_fb": "https://www.facebook.com/p/Zalau-Ultra-Trail-61557106981327/",
+    "id": 14,
+    "year": 2027,
+    "month": 7,
+    "day": 10,
+    "lat": 47.1833,
+    "lon": 23.058295
   },
   {
     "name": "Retezat Mountain Run",

@@ -5066,7 +5066,9 @@
     "id": 612,
     "year": 2026,
     "month": 7,
-    "day": 25
+    "day": 25,
+    "lat": 45.375,
+    "lon": 26.5667
   },
   {
     "name": "Semimaraton Țara de Piatră",
@@ -5246,6 +5248,25 @@
     "day": 1,
     "lat": 46.1866,
     "lon": 21.3123
+  },
+  {
+    "name": "Șiria Night Run",
+    "location": "Șiria",
+    "location_details": "",
+    "display_date": "Sat 01-Aug-2026",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "15km(600m↑)"
+    ],
+    "link": "https://www.facebook.com/events/27501475282854675",
+    "link_fb": "",
+    "id": 619,
+    "year": 2026,
+    "month": 8,
+    "day": 1,
+    "lat": 46.2667,
+    "lon": 21.6333
   },
   {
     "name": "Colinele Mircești",
@@ -5713,7 +5734,9 @@
     "id": 616,
     "year": 2026,
     "month": 8,
-    "day": 29
+    "day": 29,
+    "lat": 46.0833,
+    "lon": 22.6167
   },
   {
     "name": "Maratonul Dragonul de Aur",
@@ -6117,7 +6140,9 @@
     "id": 618,
     "year": 2026,
     "month": 9,
-    "day": 6
+    "day": 6,
+    "lat": 47.6167,
+    "lon": 23.9167
   },
   {
     "name": "Râșnov Medieval Run",
