@@ -18418,6 +18418,27 @@
       ],
       "lat": 46.2667,
       "lon": 21.6333
+    },
+    {
+      "id": 620,
+      "name": "Brăila Night Run",
+      "location": "Brăila",
+      "county": "BR",
+      "type": "trail",
+      "distances": [
+        "5km"
+      ],
+      "link": "https://runbraila.ro/night-run-braila/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 4
+        }
+      ],
+      "lat": 45.2692,
+      "lon": 27.9575
     }
   ],
   "competitions_no_statistics": [

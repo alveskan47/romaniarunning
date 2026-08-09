@@ -200,6 +200,37 @@
           "day": 22
         }
       ]
+    },
+    {
+      "id": 14,
+      "name": "Delta Triathlon",
+      "location": "Tulcea",
+      "county": "TL",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 17,
+          "event_link": "https://aquavitadelta.ro/program-dt-2026/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Divertiland Relay",
+      "location": "Chiajna",
+      "county": "IF",
+      "link": "https://relay.sevenclub.events/",
+      "link_fb": "https://www.facebook.com/SevenSportClubTriathlon",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        }
+      ]
     }
   ]
 }

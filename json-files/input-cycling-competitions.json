@@ -235,7 +235,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Alpine Challenge",
       "location": "Pucioasa",
       "county": "DB",
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Maratonul Nordului Darabani",
       "location": "Darabani",
       "county": "BT",
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Karst Isverna",
       "location": "Isverna",
       "county": "MH",
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Triada MTB Avrig",
       "location": "Avrig",
       "county": "SB",
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Triada MTB Cheile Grădiștei",
       "location": "Cheile Grădiștei",
       "county": "BV",
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Triada MTB Păltiniș",
       "location": "Păltiniș",
       "county": "SB",
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Corcova Fest",
       "location": "Corcova",
       "county": "MH",
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "name": "Soveja Mountain Fun",
       "location": "Soveja",
       "county": "VN",
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "Căsoaia Bike",
       "location": "Căsoaia",
       "county": "AR",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "Farmotion",
       "location": "Armeniș",
       "county": "CS",
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Șugaș Hill Sprint",
       "location": "Șugaș Băi",
       "county": "CV",
@@ -403,7 +403,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Șugaș 24H",
       "location": "Șugaș Băi",
       "county": "CV",
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Alba Carolina Bike Race",
       "location": "Alba Iulia",
       "county": "AB",
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "Haita Challenge",
       "location": "Gura Haitii",
       "county": "SV",
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Transilvania Bike Trails Race",
       "location": "Saschiz",
       "county": "MS",
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "name": "Epic Magura Trails",
       "location": "Cisnădie",
       "county": "SB",
@@ -479,7 +479,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "Aventură în Vrancea Sălbatică",
       "location": "Tulnici",
       "county": "VN",
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "Maratonul Olteniei",
       "location": "Râmnicu Vâlcea",
       "county": "VL",
@@ -509,7 +509,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "Pedalam in Tara Vinului",
       "location": "Cetatea de Baltă",
       "county": "AB",
@@ -524,7 +524,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 35,
       "name": "L'Étape România",
       "location": "București",
       "county": "B",
@@ -539,7 +539,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 36,
       "name": "Cheile Nerei Mountainbike",
       "location": "Sasca Montană",
       "county": "CS",
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 37,
       "name": "Zavoi Trail",
       "location": "Comana",
       "county": "GR",
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 38,
       "name": "Maratonul Dragomirnei",
       "location": "Mitocu Dragomirnei",
       "county": "SV",
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 39,
       "name": "Gugulan MTB",
       "location": "Caransebeș",
       "county": "CS",
@@ -599,7 +599,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 40,
       "name": "Cluj Bike Fest",
       "location": "Cluj-Napoca",
       "county": "CJ",
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 41,
       "name": "Trans Ciucas",
       "location": "Cheia (PH)",
       "county": "PH",
@@ -629,7 +629,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 42,
       "name": "Odyssey Apuseni Race",
       "location": "Băișoara",
       "location_details": "Buscat Resort",
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 43,
       "name": "Lupii Dacilor-Trofeul Muscelului",
       "location": "Câmpulung Muscel",
       "county": "AG",
@@ -661,7 +661,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": 44,
       "name": "Linia 20",
       "location": "Brașov",
       "county": "BV",
@@ -676,7 +676,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 45,
       "name": "Descoperă Șamșud",
       "location": "Șamșud",
       "county": "SJ",
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 46,
       "name": "Haiduci și Domnițe",
       "location": "Moara Vlăsiei",
       "county": "IF",
@@ -707,7 +707,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 47,
       "name": "Păulești Livada cu Cireși",
       "location": "Păulești (PH)",
       "county": "PH",
@@ -722,7 +722,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 48,
       "name": "Velo Hora",
       "location": "Chișinău",
       "location_details": "Republica Moldova",
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 49,
       "name": "Turul Ciclist Drumul Aurului",
       "location": "Brad",
       "county": "HD",
@@ -761,7 +761,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 50,
       "name": "Zarandia Run & Bike Challenge",
       "location": "Vața de Jos",
       "location_details": "Vața Băi",
@@ -778,7 +778,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": 51,
       "name": "Criteriul Primaverii",
       "location": "Sibiu",
       "county": "SB",
@@ -794,7 +794,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": 52,
       "name": "Apuseni Bike Tour",
       "location": "Mărgău",
       "county": "CJ",
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 53,
       "name": "Crosul Viilor - Satu Mare",
       "location": "Satu Mare",
       "county": "SM",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 54,
       "name": "Turul Colinelor Bacău",
       "location": "Ungureni",
       "county": "BC",
@@ -837,6 +837,97 @@
           "year": 2026,
           "month": 10,
           "day": 10
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Maratonul Codrului",
+      "location": "Homoroade",
+      "location_details": "Popasul Codrenilor Oteloaia",
+      "county": "SM",
+      "link": "https://www.proracers.ro/activitati/maratonul-codrului/",
+      "link_fb": "https://www.facebook.com/proracerssatumare",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Poli Bike Challenge",
+      "location": "Timișoara",
+      "county": "TM",
+      "link": "https://raceday.ro/poli-bike-challenge/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Musai Spectaculos",
+      "location": "Făgăraș",
+      "county": "BV",
+      "link": "https://alergaras.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Obciniada",
+      "location": "Gura Humorului",
+      "county": "SV",
+      "link": "https://www.obciniada.ro/mountain-bike",
+      "link_fb": "https://www.facebook.com/obciniada",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Tour de Tur",
+      "location": "Orașu Nou",
+      "county": "SM",
+      "link": "https://tourdetur.ro/",
+      "link_fb": "https://www.facebook.com/tourdeturRO",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Turul Ciclist Bartók",
+      "location": "Timișoara",
+      "county": "TM",
+      "link": "https://raceday.ro/turul-ciclist-bartok-bela/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
         }
       ]
     }
