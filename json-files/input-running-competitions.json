@@ -2579,6 +2579,11 @@
       "editions": [
         {
           "year": 2026,
+          "month": 6,
+          "day": 12
+        },
+        {
+          "year": 2026,
           "month": 5,
           "day": 23
         },
@@ -3170,6 +3175,11 @@
         {
           "year": 2026,
           "month": 6,
+          "day": 9
+        },
+        {
+          "year": 2026,
+          "month": 6,
           "day": 20
         },
         {
@@ -3684,7 +3694,7 @@
         {
           "year": 2026,
           "month": 9,
-          "day": 13
+          "day": 20
         },
         {
           "year": 2025,
@@ -18424,7 +18434,7 @@
       "name": "Brăila Night Run",
       "location": "Brăila",
       "county": "BR",
-      "type": "trail",
+      "type": "road",
       "distances": [
         "5km"
       ],
@@ -18439,6 +18449,134 @@
       ],
       "lat": 45.2692,
       "lon": 27.9575
+    },
+    {
+      "id": 621,
+      "name": "Fun Run",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 1,
+          "event_link": "https://www.facebook.com/events/1794230571959520"
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
+    },
+    {
+      "id": 622,
+      "name": "Karst Isverna",
+      "location": "Isverna",
+      "county": "MH",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "name": "Beat the Tempo Run",
+      "location": "Sibiu",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "12km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29,
+          "event_link": "https://web.facebook.com/events/sibiu-romania/alergare-cu-dj-beat-the-tempo-run/1689896238911429/"
+        }
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
+    },
+    {
+      "id": 624,
+      "name": "Crosul Copiilor Hărman",
+      "location": "Hărman",
+      "county": "BV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12,
+          "event_link": "https://www.facebook.com/groups/703070330437119/posts/2331404017603734/"
+        }
+      ],
+      "lat": 45.6833,
+      "lon": 25.6667
+    },
+    {
+      "id": 625,
+      "name": "ReBorn - Timișoara",
+      "location": "Timișoara",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "11.2km",
+        "5.6km",
+        "4x5.6km relay",
+        "4x2.8km relay"
+      ],
+      "link": "https://rebornrun.com/",
+      "link_fb": "https://web.facebook.com/profile.php?id=61590823293439",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13
+        }
+      ],
+      "lat": 45.75380648314605,
+      "lon": 21.22600548573397
+    },
+    {
+      "id": 626,
+      "name": "Salt Run",
+      "location": "Slănic Prahova",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "6km"
+      ],
+      "link": "https://saltrun.slanictinutulsarii.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        }
+      ]
     }
   ],
   "competitions_no_statistics": [

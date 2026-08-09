@@ -2233,6 +2233,13 @@
     "lon": 22.65
   },
   {
+    "county": "MH",
+    "location": "Isverna",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "MM",
     "location": "Baia Mare",
     "location_details": "",
@@ -2602,6 +2609,13 @@
     "location_details": "",
     "lat": 45.35,
     "lon": 25.55
+  },
+  {
+    "county": "PH",
+    "location": "Slănic Prahova",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "PH",

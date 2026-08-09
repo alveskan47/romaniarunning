@@ -3352,6 +3352,17 @@
       "year_2023": ""
     },
     {
+      "id": 621,
+      "name": "Fun Run",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "Mon 1-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 602,
       "name": "Fuss NEKI! Gyergyó",
       "location": "Gheorgheni",
@@ -3756,6 +3767,17 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 5-Oct",
+      "year_2023": ""
+    },
+    {
+      "id": 622,
+      "name": "Karst Isverna",
+      "location": "Isverna",
+      "county": "MH",
+      "year_2027": "",
+      "year_2026": "Sat 15-Aug",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {

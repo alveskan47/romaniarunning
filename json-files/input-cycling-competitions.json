@@ -930,6 +930,195 @@
           "day": 30
         }
       ]
+    },
+    {
+      "id": 61,
+      "name": "Șiria Cycling Circuit",
+      "location": "Șiria",
+      "county": "AR",
+      "link": "https://siriacyclingcircuit.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Izvoare Bike Challenge",
+      "location": "Desești",
+      "county": "MM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25,
+          "event_link": "https://izvoareresort.ro/index.php/2026/06/18/etapa-2-izvoare-bike-challenge-2026/"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Cupa Max Ausnit",
+      "location": "Lugoj",
+      "county": "TM",
+      "link": "https://raceday.ro/cupamaxausnit/",
+      "link_fb": "https://web.facebook.com/cupamaxausnit/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Turul Vrancei Rikora",
+      "location": "Cârligele",
+      "county": "VN",
+      "link": "https://web.facebook.com/turulvranceiroadbiketrophy",
+      "link_fb": "https://web.facebook.com/turulvranceiroadbiketrophy",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Turul Munteniei",
+      "location": "București",
+      "county": "B",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/1384848036797671"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Drumul Dunarii",
+      "location": "Videle",
+      "county": "TR",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1700169431420883"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Transfăgărășan Endurance Challenge",
+      "location": "Sibiu",
+      "county": "SB",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15,
+          "event_link": "https://www.facebook.com/events/2199795027498346"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Drumul lui Bachus",
+      "location": "Tătaru",
+      "county": "PH",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/3057729431097152/"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Turul Ciclist Drumul Aurului",
+      "location": "Brad",
+      "county": "HD",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1349554929881473/"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Șuior Downhill Challenge",
+      "location": "Baia Sprie",
+      "location_details": "Șuior Resort",
+      "county": "MM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/1387259170002565/"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Turul Apusenilor",
+      "location": "Oradea",
+      "county": "BH",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 10,
+          "event_link": "https://www.facebook.com/events/1071845148739455/"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Arad MTB Trophy",
+      "location": "Arad",
+      "county": "AR",
+      "link": "https://web.facebook.com/aradmtbtrophy",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 27
+        }
+      ]
     }
   ]
 }

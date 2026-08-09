@@ -3349,6 +3349,25 @@
     "lon": 28.6348
   },
   {
+    "name": "Fun Run",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Mon 01-Jun-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1794230571959520",
+    "link_fb": "",
+    "id": 621,
+    "year": 2026,
+    "month": 6,
+    "day": 1,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
+  },
+  {
     "name": "Global Running Day - București",
     "location": "București",
     "location_details": "Parc Herastrau",
@@ -4685,7 +4704,7 @@
     "location_details": "",
     "display_date": "Sat 04-Jul-2026",
     "county": "BR",
-    "type": "trail",
+    "type": "road",
     "distances": [
       "5km"
     ],
@@ -5471,6 +5490,23 @@
     "day": 15,
     "lat": 45.35,
     "lon": 24.25
+  },
+  {
+    "name": "Karst Isverna",
+    "location": "Isverna",
+    "location_details": "",
+    "display_date": "Sat 15-Aug-2026",
+    "county": "MH",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "",
+    "link_fb": "",
+    "id": 622,
+    "year": 2026,
+    "month": 8,
+    "day": 15
   },
   {
     "name": "Oltenia Forest Run - Băile Govora",
