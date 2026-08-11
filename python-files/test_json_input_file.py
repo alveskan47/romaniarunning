@@ -3,6 +3,8 @@ from datetime import datetime
 import sys
 from pathlib import Path
 
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+
 
 def load_json_file(json_file_path):
     """
@@ -31,11 +33,11 @@ def validate_json_structure(data):
         errors.append("Root element must be a JSON object/dictionary")
         return False, errors
 
-    if "competitions" not in data:
-        errors.append("Missing required root key: 'competitions'")
+    if "running_competitions" not in data:
+        errors.append("Missing required root key: 'running_competitions'")
 
-    if "competitions_no_statistics" not in data:
-        errors.append("Missing required root key: 'competitions_no_statistics'")
+    if "running_competitions_no_statistics" not in data:
+        errors.append("Missing required root key: 'running_competitions_no_statistics'")
 
     # If root structure is wrong, return early
     if errors:
@@ -43,8 +45,8 @@ def validate_json_structure(data):
 
     # Validate each competition array
     competition_lists = [
-        ("competitions", data["competitions"]),
-        ("competitions_no_statistics", data["competitions_no_statistics"])
+        ("running_competitions", data["running_competitions"]),
+        ("running_competitions_no_statistics", data["running_competitions_no_statistics"])
     ]
 
     for list_name, competitions in competition_lists:
@@ -193,10 +195,10 @@ def validate_dates_in_json(data):
 
     # Check both competitions and competitions_no_statistics
     competition_lists = []
-    if "competitions" in data:
-        competition_lists.append(("competitions", data["competitions"]))
-    if "competitions_no_statistics" in data:
-        competition_lists.append(("competitions_no_statistics", data["competitions_no_statistics"]))
+    if "running_competitions" in data:
+        competition_lists.append(("running_competitions", data["running_competitions"]))
+    if "running_competitions_no_statistics" in data:
+        competition_lists.append(("running_competitions_no_statistics", data["running_competitions_no_statistics"]))
 
     for list_name, competitions in competition_lists:
         for comp_idx, competition in enumerate(competitions):
@@ -281,10 +283,10 @@ def validate_unique_years_per_competition(data):
 
     # Check both competitions and competitions_no_statistics
     competition_lists = []
-    if "competitions" in data:
-        competition_lists.append(("competitions", data["competitions"]))
-    if "competitions_no_statistics" in data:
-        competition_lists.append(("competitions_no_statistics", data["competitions_no_statistics"]))
+    if "running_competitions" in data:
+        competition_lists.append(("running_competitions", data["running_competitions"]))
+    if "running_competitions_no_statistics" in data:
+        competition_lists.append(("running_competitions_no_statistics", data["running_competitions_no_statistics"]))
 
     for list_name, competitions in competition_lists:
         for comp_idx, competition in enumerate(competitions):
@@ -325,15 +327,15 @@ def validate_unique_years_per_competition(data):
 def validate_competition_ids(data):
     """
     Validates that:
-    - In 'competitions', all IDs are consecutive starting with 1
-    - In 'competitions_no_statistics', all IDs are 0
+    - In 'running_competitions', all IDs are consecutive starting with 1
+    - In 'running_competitions_no_statistics', all IDs are 0
     Returns a tuple of (is_valid, errors_list)
     """
     errors = []
 
-    # Validate 'competitions' - IDs should be consecutive starting with 1
-    if "competitions" in data:
-        competitions = data["competitions"]
+    # Validate 'running_competitions' - IDs should be consecutive starting with 1
+    if "running_competitions" in data:
+        competitions = data["running_competitions"]
         if isinstance(competitions, list):
             expected_id = 1
             for comp_idx, competition in enumerate(competitions):
@@ -349,16 +351,16 @@ def validate_competition_ids(data):
 
                 if comp_id != expected_id:
                     errors.append(
-                        f"competitions[{comp_idx}] '{comp_name}': "
+                        f"running_competitions[{comp_idx}] '{comp_name}': "
                         f"Expected id={expected_id}, but found id={comp_id}. "
                         f"IDs must be consecutive starting with 1."
                     )
 
                 expected_id += 1
 
-    # Validate 'competitions_no_statistics' - all IDs should be 0
-    if "competitions_no_statistics" in data:
-        competitions_no_stats = data["competitions_no_statistics"]
+    # Validate 'running_competitions_no_statistics' - all IDs should be 0
+    if "running_competitions_no_statistics" in data:
+        competitions_no_stats = data["running_competitions_no_statistics"]
         if isinstance(competitions_no_stats, list):
             for comp_idx, competition in enumerate(competitions_no_stats):
                 if not isinstance(competition, dict):
@@ -373,7 +375,7 @@ def validate_competition_ids(data):
 
                 if comp_id != 0:
                     errors.append(
-                        f"competitions_no_statistics[{comp_idx}] '{comp_name}': "
+                        f"running_competitions_no_statistics[{comp_idx}] '{comp_name}': "
                         f"Expected id=0, but found id={comp_id}. "
                         f"All competitions in this list must have id=0."
                     )
@@ -385,7 +387,7 @@ def validate_competition_ids(data):
 def validate_unique_competition_names(data):
     """
     Validates that all competition names are unique across both
-    'competitions' and 'competitions_no_statistics' arrays.
+    'running_competitions' and 'running_competitions_no_statistics' arrays.
     Returns a tuple of (is_valid, errors_list)
     """
     errors = []
@@ -396,10 +398,10 @@ def validate_unique_competition_names(data):
 
     # Check both competitions and competitions_no_statistics
     competition_lists = []
-    if "competitions" in data:
-        competition_lists.append(("competitions", data["competitions"]))
-    if "competitions_no_statistics" in data:
-        competition_lists.append(("competitions_no_statistics", data["competitions_no_statistics"]))
+    if "running_competitions" in data:
+        competition_lists.append(("running_competitions", data["running_competitions"]))
+    if "running_competitions_no_statistics" in data:
+        competition_lists.append(("running_competitions_no_statistics", data["running_competitions_no_statistics"]))
 
     for list_name, competitions in competition_lists:
         if not isinstance(competitions, list):

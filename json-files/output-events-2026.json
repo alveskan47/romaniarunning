@@ -5794,6 +5794,25 @@
     "lon": 22.6167
   },
   {
+    "name": "Beat the Tempo Run",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sat 29-Aug-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "12km"
+    ],
+    "link": "https://web.facebook.com/events/sibiu-romania/alergare-cu-dj-beat-the-tempo-run/1689896238911429/",
+    "link_fb": "",
+    "id": 623,
+    "year": 2026,
+    "month": 8,
+    "day": 29,
+    "lat": 45.7975,
+    "lon": 24.1508
+  },
+  {
     "name": "Maratonul Dragonul de Aur",
     "location": "Trebujeni",
     "location_details": "Republica Moldova",
@@ -6474,6 +6493,25 @@
     "lon": 23.5833
   },
   {
+    "name": "Crosul Copiilor Hărman",
+    "location": "Hărman",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/groups/703070330437119/posts/2331404017603734/",
+    "link_fb": "",
+    "id": 624,
+    "year": 2026,
+    "month": 9,
+    "day": 12,
+    "lat": 45.6833,
+    "lon": 25.6667
+  },
+  {
     "name": "Rombat Trail Run",
     "location": "Bistrița",
     "location_details": "",
@@ -6514,27 +6552,6 @@
     "day": 13,
     "lat": 44.4223231273,
     "lon": 26.1548681031
-  },
-  {
-    "name": "Semimaraton Brăila",
-    "location": "Brăila",
-    "location_details": "",
-    "display_date": "Sun 13-Sep-2026",
-    "county": "BR",
-    "type": "road",
-    "distances": [
-      "21km",
-      "11km",
-      "4km"
-    ],
-    "link": "https://runbraila.ro/",
-    "link_fb": "https://www.facebook.com/runbraila/",
-    "id": 93,
-    "year": 2026,
-    "month": 9,
-    "day": 13,
-    "lat": 45.269195,
-    "lon": 27.957495
   },
   {
     "name": "Pe-un picior de Plai",
@@ -6597,6 +6614,28 @@
     "day": 13,
     "lat": 47.6667,
     "lon": 23.5833
+  },
+  {
+    "name": "ReBorn - Timișoara",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sun 13-Sep-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "11.2km",
+      "5.6km",
+      "4x5.6km relay",
+      "4x2.8km relay"
+    ],
+    "link": "https://rebornrun.com/",
+    "link_fb": "https://web.facebook.com/profile.php?id=61590823293439",
+    "id": 625,
+    "year": 2026,
+    "month": 9,
+    "day": 13,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397
   },
   {
     "name": "Chișinău Maraton",
@@ -6819,6 +6858,27 @@
     "day": 20,
     "lat": 47.0559509149,
     "lon": 21.9394966774
+  },
+  {
+    "name": "Semimaraton Brăila",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Sun 20-Sep-2026",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "11km",
+      "4km"
+    ],
+    "link": "https://runbraila.ro/",
+    "link_fb": "https://www.facebook.com/runbraila/",
+    "id": 93,
+    "year": 2026,
+    "month": 9,
+    "day": 20,
+    "lat": 45.269195,
+    "lon": 27.957495
   },
   {
     "name": "Crosul Companiilor Cluj",
@@ -7184,6 +7244,25 @@
     "day": 26,
     "lat": 44.8604,
     "lon": 24.8703
+  },
+  {
+    "name": "Getic Cross",
+    "location": "Cuca",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "21.8km",
+      "8km",
+      "2km"
+    ],
+    "link": "https://montera.ro/geticcross/",
+    "link_fb": "",
+    "id": 627,
+    "year": 2026,
+    "month": 9,
+    "day": 26
   },
   {
     "name": "Crosul Arenelor",
@@ -7574,6 +7653,23 @@
     "day": 10,
     "lat": 46.9167,
     "lon": 25.35
+  },
+  {
+    "name": "Salt Run",
+    "location": "Slănic Prahova",
+    "location_details": "",
+    "display_date": "Sat 10-Oct-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://saltrun.slanictinutulsarii.ro/",
+    "link_fb": "",
+    "id": 626,
+    "year": 2026,
+    "month": 10,
+    "day": 10
   },
   {
     "name": "TulbuRun la Asconi Winery",

@@ -76,7 +76,7 @@ def update_total_competitions(competitions_data):
     -----------
     competitions_data : dict
         The competitions data loaded from input-running-competitions.json
-        Expected structure: {"competitions": [{"editions": [{"year": 2024, ...}]}]}
+        Expected structure: {"running_competitions": [{"editions": [{"year": 2024, ...}]}]}
 
     Returns:
     --------
@@ -88,7 +88,7 @@ def update_total_competitions(competitions_data):
     year_counts = defaultdict(int)
 
     # Iterate through all competitions (excluding competitions with id 0)
-    competitions = competitions_data.get('competitions', [])
+    competitions = competitions_data.get('running_competitions', [])
     for competition in competitions:
         # Skip competitions with id 0
         if competition.get('id') == 0:
@@ -118,7 +118,7 @@ def update_competitions_by_month(competitions_data):
     -----------
     competitions_data : dict
         The competitions data loaded from input-running-competitions.json
-        Expected structure: {"competitions": [{"editions": [{"year": 2024, "month": 5, ...}]}]}
+        Expected structure: {"running_competitions": [{"editions": [{"year": 2024, "month": 5, ...}]}]}
 
     Returns:
     --------
@@ -132,7 +132,7 @@ def update_competitions_by_month(competitions_data):
     year_month_counts = defaultdict(lambda: [0] * 12)
 
     # Iterate through all competitions (excluding competitions with id 0)
-    competitions = competitions_data.get('competitions', [])
+    competitions = competitions_data.get('running_competitions', [])
     for competition in competitions:
         # Skip competitions with id 0
         if competition.get('id') == 0:
@@ -167,7 +167,7 @@ def update_competitions_by_type(competitions_data):
     -----------
     competitions_data : dict
         The competitions data loaded from input-running-competitions.json
-        Expected structure: {"competitions": [{"type": "road", "editions": [{"year": 2024, ...}]}]}
+        Expected structure: {"running_competitions": [{"type": "road", "editions": [{"year": 2024, ...}]}]}
 
     Returns:
     --------
@@ -180,7 +180,7 @@ def update_competitions_by_type(competitions_data):
     year_type_counts = defaultdict(lambda: defaultdict(int))
 
     # Iterate through all competitions (excluding competitions with id 0)
-    competitions = competitions_data.get('competitions', [])
+    competitions = competitions_data.get('running_competitions', [])
     for competition in competitions:
         # Skip competitions with id 0
         if competition.get('id') == 0:
@@ -225,7 +225,7 @@ def update_competitions_by_county(competitions_data):
     -----------
     competitions_data : dict
         The competitions data loaded from input-running-competitions.json
-        Expected structure: {"competitions": [{"county": "B", "editions": [{"year": 2024, ...}]}]}
+        Expected structure: {"running_competitions": [{"county": "B", "editions": [{"year": 2024, ...}]}]}
 
     Returns:
     --------
@@ -239,7 +239,7 @@ def update_competitions_by_county(competitions_data):
     year_county_counts = defaultdict(lambda: defaultdict(int))
 
     # Iterate through all competitions (excluding competitions with id 0)
-    competitions = competitions_data.get('competitions', [])
+    competitions = competitions_data.get('running_competitions', [])
     for competition in competitions:
         # Skip competitions with id 0
         if competition.get('id') == 0:
@@ -281,7 +281,7 @@ def update_competitions_by_towns(competitions_data):
     -----------
     competitions_data : dict
         The competitions data loaded from input-running-competitions.json
-        Expected structure: {"competitions": [{"location": "București", "editions": [{"year": 2024, ...}]}]}
+        Expected structure: {"running_competitions": [{"location": "București", "editions": [{"year": 2024, ...}]}]}
 
     Returns:
     --------
@@ -295,7 +295,7 @@ def update_competitions_by_towns(competitions_data):
     year_town_counts = defaultdict(lambda: defaultdict(int))
 
     # Iterate through all competitions (excluding competitions with id 0)
-    competitions = competitions_data.get('competitions', [])
+    competitions = competitions_data.get('running_competitions', [])
     for competition in competitions:
         # Skip competitions with id 0
         if competition.get('id') == 0:

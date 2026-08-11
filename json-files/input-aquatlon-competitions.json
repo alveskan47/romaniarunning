@@ -1,0 +1,35 @@
+{
+  "aquatlon_competitions": [
+    {
+      "id": 1,
+      "name": "Budeasa Swim & Run",
+      "location": "Budeasa",
+      "county": "AG",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 11,
+          "event_link": "https://triatlet.ro/budeasa-swimrun-2026-2/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Swim Run",
+      "location": "Mangalia",
+      "county": "CT",
+      "link": "https://atlantisman.com/swimrun/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12
+        }
+      ]
+    }
+  ]
+}

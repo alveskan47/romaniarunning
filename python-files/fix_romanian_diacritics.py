@@ -345,7 +345,7 @@ def fix_json_diacritics():
     change_log = []
 
     # Process both competitions and competitions_no_statistics
-    for list_name in ["competitions", "competitions_no_statistics"]:
+    for list_name in ["running_competitions", "running_competitions_no_statistics"]:
         if list_name not in data:
             continue
 

@@ -6,7 +6,7 @@
     2024,
     2023
   ],
-  "competitions": [
+  "running_competitions": [
     {
       "id": 486,
       "name": "1 Iunie Run",
@@ -655,6 +655,17 @@
       "year_2025": "",
       "year_2024": "",
       "year_2023": "Sat 18-Mar"
+    },
+    {
+      "id": 623,
+      "name": "Beat the Tempo Run",
+      "location": "Sibiu",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "Sat 29-Aug",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 534,
@@ -1887,6 +1898,17 @@
       "year_2025": "Sat 31-May",
       "year_2024": "Sat 1-Jun",
       "year_2023": "Sat 3-Jun"
+    },
+    {
+      "id": 624,
+      "name": "Crosul Copiilor Hărman",
+      "location": "Hărman",
+      "county": "BV",
+      "year_2027": "",
+      "year_2026": "Sat 12-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 362,
@@ -3440,6 +3462,17 @@
       "year_2023": ""
     },
     {
+      "id": 627,
+      "name": "Getic Cross",
+      "location": "Cuca",
+      "county": "AG",
+      "year_2027": "",
+      "year_2026": "Sat 26-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 278,
       "name": "Ghioroc Night Run",
       "location": "Ghioroc",
@@ -4826,6 +4859,17 @@
       "year_2023": "Sat 2-Sep"
     },
     {
+      "id": 625,
+      "name": "ReBorn - Timișoara",
+      "location": "Timișoara",
+      "county": "TM",
+      "year_2027": "",
+      "year_2026": "Sun 13-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 512,
       "name": "Red Mountain Bike & Run",
       "location": "Cheia",
@@ -4929,7 +4973,7 @@
       "name": "Roșia Montană Marathon",
       "location": "Roșia Montană",
       "county": "AB",
-      "year_2027": "",
+      "year_2027": "Wed 9-Jun",
       "year_2026": "Sat 20-Jun",
       "year_2025": "Sun 22-Jun",
       "year_2024": "Sat 22-Jun",
@@ -5178,6 +5222,17 @@
       "year_2023": "Sat 20-May"
     },
     {
+      "id": 626,
+      "name": "Salt Run",
+      "location": "Slănic Prahova",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Sat 10-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 574,
       "name": "Sanatate prin educatie: The Race",
       "location": "Recaș",
@@ -5304,7 +5359,7 @@
       "location": "Brăila",
       "county": "BR",
       "year_2027": "",
-      "year_2026": "Sun 13-Sep",
+      "year_2026": "Sun 20-Sep",
       "year_2025": "Sun 21-Sep",
       "year_2024": "Sun 22-Sep",
       "year_2023": "Sun 24-Sep"
@@ -5479,7 +5534,7 @@
       "name": "Semimaratonul Eroilor Invictus - Bistrița",
       "location": "Bistrița",
       "county": "BN",
-      "year_2027": "",
+      "year_2027": "Sat 12-Jun",
       "year_2026": "Sat 23-May",
       "year_2025": "Sat 31-May",
       "year_2024": "Sat 15-Jun",

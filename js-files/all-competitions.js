@@ -373,7 +373,7 @@ async function loadAllCompetitions() {
         const data = await fetch_json_file('json-files/output-all-competitions-list.json');
 
         // Store data globally
-        competitionsData = data.competitions || [];
+        competitionsData = data.running_competitions || [];
         moldovaCompetitionsData = data.competitions_moldova || [];
         otherCompetitionsData = data.competitions_other || [];
         availableYears = data.years || [];

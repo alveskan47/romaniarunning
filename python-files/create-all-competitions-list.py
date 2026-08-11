@@ -166,7 +166,7 @@ def get_all_years(data):
     Parameters:
     -----------
     data : dict
-        Dictionary containing 'competitions' and optionally 'competitions_no_statistics'
+        Dictionary containing 'running_competitions' and optionally 'running_competitions_no_statistics'
 
     Returns:
     --------
@@ -174,7 +174,7 @@ def get_all_years(data):
         Sorted list of years in descending order
     """
     all_years = set()
-    for key in ['competitions', 'competitions_no_statistics']:
+    for key in ['running_competitions', 'running_competitions_no_statistics']:
         if key in data:
             for competition in data[key]:
                 for edition in competition.get('editions', []):
@@ -190,7 +190,7 @@ def extract_competitions(data, years):
     Parameters:
     -----------
     data : dict
-        Dictionary containing 'competitions' and optionally 'competitions_no_statistics'
+        Dictionary containing 'running_competitions' and optionally 'running_competitions_no_statistics'
     years : list
         List of years to extract edition dates for (in descending order)
 
@@ -206,9 +206,9 @@ def extract_competitions(data, years):
     moldova_competitions_list = []
     other_competitions_list = []
 
-    # Extract data from 'competitions' array
-    if 'competitions' in data:
-        for competition in data['competitions']:
+    # Extract data from 'running_competitions' array
+    if 'running_competitions' in data:
+        for competition in data['running_competitions']:
             if 'name' in competition:
                 # Get edition dates for all years
                 editions = competition.get('editions', [])
@@ -224,10 +224,10 @@ def extract_competitions(data, years):
                     comp_data[f'year_{year}'] = edition_dates[str(year)]
                 competitions_list.append(comp_data)
 
-    # Extract data from 'competitions_no_statistics' array if it exists
+    # Extract data from 'running_competitions_no_statistics' array if it exists
     # Split into Moldova competitions and other competitions
-    if 'competitions_no_statistics' in data:
-        for competition in data['competitions_no_statistics']:
+    if 'running_competitions_no_statistics' in data:
+        for competition in data['running_competitions_no_statistics']:
             if 'name' in competition:
                 county = competition.get('county', '')
                 editions = competition.get('editions', [])
@@ -292,7 +292,7 @@ def save_output(competitions_list, moldova_competitions_list, other_competitions
     """
     output_data = {
         "years": years,
-        "competitions": competitions_list,
+        "running_competitions": competitions_list,
         "competitions_moldova": moldova_competitions_list,
         "competitions_other": other_competitions_list
     }

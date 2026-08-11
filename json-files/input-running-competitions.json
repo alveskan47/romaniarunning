@@ -1,5 +1,5 @@
 {
-  "competitions": [
+  "running_competitions": [
     {
       "id": 1,
       "name": "Bucharest Half Marathon",
@@ -2578,7 +2578,7 @@
       "link_fb": "https://www.facebook.com/SemimaratonulEroilorInvictus",
       "editions": [
         {
-          "year": 2026,
+          "year": 2027,
           "month": 6,
           "day": 12
         },
@@ -3173,7 +3173,7 @@
       "link_fb": "https://www.facebook.com/RosiaMontanaMarathon/",
       "editions": [
         {
-          "year": 2026,
+          "year": 2027,
           "month": 6,
           "day": 9
         },
@@ -18577,9 +18577,30 @@
           "day": 10
         }
       ]
+    },
+    {
+      "id": 627,
+      "name": "Getic Cross",
+      "location": "Cuca",
+      "county": "AG",
+      "type": "trail",
+      "distances": [
+        "21.8km",
+        "8km",
+        "2km"
+      ],
+      "link": "https://montera.ro/geticcross/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        }
+      ]
     }
   ],
-  "competitions_no_statistics": [
+  "running_competitions_no_statistics": [
     {
       "id": 0,
       "name": "Aleargă România",

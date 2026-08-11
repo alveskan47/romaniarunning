@@ -199,7 +199,7 @@ def main() -> None:
     input_data = read_json_file(input_file_path)
 
     # Merge competitions from both arrays (competitions and competitions_no_statistics)
-    all_competitions = input_data["competitions"] + input_data["competitions_no_statistics"]
+    all_competitions = input_data["running_competitions"] + input_data["running_competitions_no_statistics"]
 
     # Dynamically extract all years present in the data
     all_years = sorted(set(

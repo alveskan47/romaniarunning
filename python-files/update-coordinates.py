@@ -159,8 +159,8 @@ def main():
     coords_list = read_json(coords_path)
 
     all_competitions = (
-        input_data.get('competitions', []) +
-        input_data.get('competitions_no_statistics', [])
+        input_data.get('running_competitions', []) +
+        input_data.get('running_competitions_no_statistics', [])
     )
 
     coords_list, removed = deduplicate_coords(coords_list)

@@ -155,6 +155,13 @@
   },
   {
     "county": "AG",
+    "location": "Cuca",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "AG",
     "location": "Curtea de Argeș",
     "location_details": "",
     "lat": 45.1394,

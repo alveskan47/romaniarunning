@@ -45,6 +45,10 @@
         {
           "page_name": "Cycling",
           "page_link": "cycling.html"
+        },
+        {
+          "page_name": "Aquatlon",
+          "page_link": "aquatlon.html"
         }
       ]
     },

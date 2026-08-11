@@ -608,6 +608,27 @@
     "lon": 25.53281764789364
   },
   {
+    "name": "Roșia Montană Marathon",
+    "location": "Roșia Montană",
+    "location_details": "",
+    "display_date": "Wed 09-Jun-2027",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "42.2km(1800m↑)",
+      "25.2km(1100m↑)",
+      "710km(4400m↑)"
+    ],
+    "link": "https://www.rosiamontanamarathon.ro/",
+    "link_fb": "https://www.facebook.com/RosiaMontanaMarathon/",
+    "id": 80,
+    "year": 2027,
+    "month": 6,
+    "day": 9,
+    "lat": 46.3167,
+    "lon": 23.1167
+  },
+  {
     "name": "Maraton Tarcău",
     "location": "Tarcău",
     "location_details": "Schitu Tarcău",
@@ -626,6 +647,26 @@
     "day": 12,
     "lat": 46.7,
     "lon": 26.1833
+  },
+  {
+    "name": "Semimaratonul Eroilor Invictus - Bistrița",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "BN",
+    "type": "road",
+    "distances": [
+      "21km",
+      "5km"
+    ],
+    "link": "https://semimaratonuleroilor.ro/",
+    "link_fb": "https://www.facebook.com/SemimaratonulEroilorInvictus",
+    "id": 65,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 47.133295,
+    "lon": 24.5
   },
   {
     "name": "Maraton Maramureș",
