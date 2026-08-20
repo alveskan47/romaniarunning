@@ -1152,6 +1152,17 @@
       "year_2023": ""
     },
     {
+      "id": 629,
+      "name": "Cluj Connect Run",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sun 11-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 10,
       "name": "Cluj EcoTrail Ultramarathon",
       "location": "Cluj-Napoca",
@@ -1567,6 +1578,17 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 13-Apr",
+      "year_2023": ""
+    },
+    {
+      "id": 628,
+      "name": "Cross Duathlon Cernica",
+      "location": "Cernica",
+      "county": "IF",
+      "year_2027": "",
+      "year_2026": "Sat 9-May",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {

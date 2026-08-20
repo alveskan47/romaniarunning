@@ -1,0 +1,51 @@
+{
+  "orienteering_competitions": [
+    {
+      "id": 1,
+      "name": "Bison Adventure Race",
+      "location": "Vânători-Neamț",
+      "county": "NT",
+      "link": "https://bisonadventurerace.vanatoripark.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61576327022567",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Roza Vânturilor Babarunca",
+      "location": "Săcele",
+      "location_details": "Babarunca",
+      "county": "BV",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/1034383732648074"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Carpathian Rogaining Trophy",
+      "location": "Dănești",
+      "county": "HR",
+      "link": "https://rogaining.ro/",
+      "link_fb": "https://www.facebook.com/rogaining.ro/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1945,6 +1945,25 @@
     "lon": 26.1548481031
   },
   {
+    "name": "Cross Duathlon Cernica",
+    "location": "Cernica",
+    "location_details": "",
+    "display_date": "Sat 09-May-2026",
+    "county": "IF",
+    "type": "trail",
+    "distances": [
+      "6km"
+    ],
+    "link": "https://duathlon.unstoppable.ro/",
+    "link_fb": "https://www.facebook.com/unstoppablesportclub",
+    "id": 628,
+    "year": 2026,
+    "month": 5,
+    "day": 9,
+    "lat": 44.3833,
+    "lon": 26.2167
+  },
+  {
     "name": "Bucharest Half Marathon",
     "location": "București",
     "location_details": "",
@@ -7712,6 +7731,27 @@
     "day": 11,
     "lat": 44.42758355968682,
     "lon": 26.09315428669368
+  },
+  {
+    "name": "Cluj Connect Run",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sun 11-Oct-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://clujconnectrun.ro/",
+    "link_fb": "https://www.facebook.com/clujconnectrun",
+    "id": 629,
+    "year": 2026,
+    "month": 10,
+    "day": 11,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Semimaratonul Craiovei",

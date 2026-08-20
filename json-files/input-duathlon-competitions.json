@@ -1,0 +1,97 @@
+{
+  "duathlon_competitions": [
+    {
+      "id": 1,
+      "name": "Campionatul National de Cross Duatlon – Iarcuri Cornești",
+      "location": "Cornești",
+      "county": "TM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 28,
+          "event_link": "https://www.ridecompetition.ro/campionatul-national-de-cross-duatlon-iarcuri-cornesti-trikids-2026-2/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Divertiland Duatlon",
+      "location": "Chiajna",
+      "county": "IF",
+      "link": "https://duatlon.sevenclub.events/",
+      "link_fb": "https://www.facebook.com/SevenSportClubTriathlon",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 18
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cross Duathlon Cernica",
+      "location": "Cernica",
+      "county": "IF",
+      "link": "https://duathlon.unstoppable.ro/",
+      "link_fb": "https://www.facebook.com/unstoppablesportclub",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Duatlon Satu Mare",
+      "location": "Satu Mare",
+      "county": "SM",
+      "link": "https://www.proracers.ro/eveniment/duatlon-satu-mare/",
+      "link_fb": "https://www.facebook.com/proracerssatumare",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 12
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Duathlon Offroad by Wienerberger",
+      "location": "Sibiu",
+      "county": "SB",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/4329863030602128"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Haita Challenge Duatlon",
+      "location": "Șaru Dornei",
+      "location_details": "Gura Haitii",
+      "county": "SV",
+      "link": "https://haitachallenge.ro/",
+      "link_fb": "https://www.facebook.com/HaitaChallenge",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15
+        }
+      ]
+    }
+  ]
+}

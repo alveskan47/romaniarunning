@@ -18598,6 +18598,50 @@
           "day": 26
         }
       ]
+    },
+    {
+      "id": 628,
+      "name": "Cross Duathlon Cernica",
+      "location": "Cernica",
+      "county": "IF",
+      "type": "trail",
+      "distances": [
+        "6km"
+      ],
+      "link": "https://duathlon.unstoppable.ro/",
+      "link_fb": "https://www.facebook.com/unstoppablesportclub",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 9
+        }
+      ],
+      "lat": 44.3833,
+      "lon": 26.2167
+    },
+    {
+      "id": 629,
+      "name": "Cluj Connect Run",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://clujconnectrun.ro/",
+      "link_fb": "https://www.facebook.com/clujconnectrun",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 11
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
     }
   ],
   "running_competitions_no_statistics": [

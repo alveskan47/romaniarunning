@@ -1,0 +1,19 @@
+{
+  "hyatlon_competitions": [
+    {
+      "id": 1,
+      "name": "Hyathlon Maratonul Olteniei",
+      "location": "Râmnicu Vâlcea",
+      "county": "VL",
+      "link": "https://maratonulolteniei.ro/hyathlon-hybrid-racing/",
+      "link_fb": "https://www.facebook.com/MaratonulOlteniei",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29
+        }
+      ]
+    }
+  ]
+}

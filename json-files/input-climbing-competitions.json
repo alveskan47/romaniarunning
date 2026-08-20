@@ -1,0 +1,19 @@
+{
+  "climbing_competitions": [
+    {
+      "id": 1,
+      "name": "Obciniada Climbing Festival",
+      "location": "Gura Humorului",
+      "county": "SV",
+      "link": "https://www.obciniada.ro/climbing",
+      "link_fb": "https://www.facebook.com/obciniada",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ]
+    }
+  ]
+}

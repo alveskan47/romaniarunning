@@ -1,0 +1,67 @@
+{
+  "skiing_competitions": [
+    {
+      "id": 1,
+      "name": "Bucegi Winter Race",
+      "location": "Telecabină Peștera",
+      "county": "DB",
+      "link": "https://carpatrace.ro/bwr/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 1,
+          "day": 31
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Red Bull Homerun",
+      "location": "Brașov",
+      "location_details": "Poiana Brașov",
+      "county": "BV",
+      "link": "https://www.redbull.com/ro-ro/events/red-bull-homerun",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 2,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cupa Vlădeasa",
+      "location": "Săcuieu",
+      "location_details": "Rogojel",
+      "county": "CJ",
+      "link": "https://www.salvamontvladeasa.eu/cupa-vladeasa-schi",
+      "link_fb": "https://www.facebook.com/profile.php?id=61563302668345",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 2,
+          "day": 21
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Oslea Hike and Ride",
+      "location": "Uricani",
+      "location_details": "Oslea",
+      "county": "HD",
+      "link": "https://www.redbull.com/ro-ro/events/oslea-hike-and-ride",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 8
+        }
+      ]
+    }
+  ]
+}
