@@ -2352,10 +2352,13 @@
     "county": "TM",
     "type": "trail",
     "distances": [
-      "21.1km",
       "10km",
       "5km",
-      "1.5km"
+      "3km",
+      "1.2km",
+      "0.8km",
+      "0.2km",
+      "4x0.1km relay"
     ],
     "link": "https://www.honeyrun.ro/",
     "link_fb": "https://www.facebook.com/HoneyRunLugoj/",

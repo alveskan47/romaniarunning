@@ -6981,6 +6981,31 @@
     "lon": 21.2259904857
   },
   {
+    "name": "Honey Run",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sun 20-Sep-2026",
+    "county": "TM",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km",
+      "3km",
+      "1.2km",
+      "0.8km",
+      "0.2km",
+      "4x0.1km relay"
+    ],
+    "link": "https://www.honeyrun.ro/",
+    "link_fb": "https://www.facebook.com/HoneyRunLugoj/",
+    "id": 359,
+    "year": 2026,
+    "month": 9,
+    "day": 20,
+    "lat": 45.6833,
+    "lon": 21.899995
+  },
+  {
     "name": "Maraton Piatra Craiului",
     "location": "Zărnești",
     "location_details": "",
