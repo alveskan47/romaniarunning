@@ -2383,6 +2383,26 @@
     "lon": 21.31229
   },
   {
+    "name": "Crosul Liceelor Bucurestene",
+    "location": "București",
+    "location_details": "Parcul Tineretului",
+    "display_date": "Sat 16-May-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "7.5km",
+      "4.5km"
+    ],
+    "link": "https://sincai.ro/cros",
+    "link_fb": "",
+    "id": 630,
+    "year": 2026,
+    "month": 5,
+    "day": 16,
+    "lat": 44.4045,
+    "lon": 26.1034
+  },
+  {
     "name": "Wake Run - Moldova",
     "location": "Pănăseşti",
     "location_details": "Republica Moldova",
@@ -5525,7 +5545,9 @@
     "id": 622,
     "year": 2026,
     "month": 8,
-    "day": 15
+    "day": 15,
+    "lat": 44.7833,
+    "lon": 22.7667
   },
   {
     "name": "Oltenia Forest Run - Băile Govora",
@@ -5822,7 +5844,7 @@
     "distances": [
       "12km"
     ],
-    "link": "https://web.facebook.com/events/sibiu-romania/alergare-cu-dj-beat-the-tempo-run/1689896238911429/",
+    "link": "https://www.facebook.com/events/sibiu-romania/alergare-cu-dj-beat-the-tempo-run/1689896238911429/",
     "link_fb": "",
     "id": 623,
     "year": 2026,
@@ -5951,29 +5973,6 @@
     "day": 5,
     "lat": 45.8333,
     "lon": 23.366695
-  },
-  {
-    "name": "Ultramaraton Galați 24",
-    "location": "Galați",
-    "location_details": "Faleza Dunării Galaţi",
-    "display_date": "Sat 05-Sep-2026",
-    "county": "GL",
-    "type": "trail",
-    "distances": [
-      "24H",
-      "50km",
-      "24km",
-      "10km",
-      "3km"
-    ],
-    "link": "https://www.facebook.com/profile.php?id=100064617015844",
-    "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
-    "id": 176,
-    "year": 2026,
-    "month": 9,
-    "day": 5,
-    "lat": 45.435305,
-    "lon": 28.049995
   },
   {
     "name": "Castelul din Carpati - Pasul Vâlcan",
@@ -6531,6 +6530,25 @@
     "lon": 25.6667
   },
   {
+    "name": "Vifi Run",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://vartemplom.ro/vifirun2026/",
+    "link_fb": "",
+    "id": 631,
+    "year": 2026,
+    "month": 9,
+    "day": 12,
+    "lat": 46.5417,
+    "lon": 24.5583
+  },
+  {
     "name": "Rombat Trail Run",
     "location": "Bistrița",
     "location_details": "",
@@ -6655,6 +6673,26 @@
     "day": 13,
     "lat": 45.75380648314605,
     "lon": 21.22600548573397
+  },
+  {
+    "name": "Crosul Demnității",
+    "location": "Uriu",
+    "location_details": "",
+    "display_date": "Sun 13-Sep-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "3.3km",
+      "1.3km"
+    ],
+    "link": "https://www.facebook.com/events/1405470694802261",
+    "link_fb": "",
+    "id": 632,
+    "year": 2026,
+    "month": 9,
+    "day": 13,
+    "lat": 47.0667,
+    "lon": 24.35
   },
   {
     "name": "Chișinău Maraton",
@@ -6836,6 +6874,66 @@
     "lon": 22.95423727965364
   },
   {
+    "name": "Bistrița Night Run",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "8km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/photo?fbid=122169506168694865&set=a.122116992902694865",
+    "link_fb": "",
+    "id": 633,
+    "year": 2026,
+    "month": 9,
+    "day": 19,
+    "lat": 47.1333,
+    "lon": 24.5
+  },
+  {
+    "name": "Bâtca Doamnei Run",
+    "location": "Piatra Neamț",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "12km",
+      "3.7km",
+      "2km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61592714341310",
+    "link_fb": "https://www.facebook.com/profile.php?id=61592714341310",
+    "id": 634,
+    "year": 2026,
+    "month": 9,
+    "day": 19,
+    "lat": 46.925,
+    "lon": 26.3667
+  },
+  {
+    "name": "Crosul Cardiologilor Sinaia",
+    "location": "Sinaia",
+    "location_details": "",
+    "display_date": "Sat 19-Sep-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1847216139591588",
+    "link_fb": "",
+    "id": 635,
+    "year": 2026,
+    "month": 9,
+    "day": 19,
+    "lat": 45.35,
+    "lon": 25.55
+  },
+  {
     "name": "Nord Run",
     "location": "Sîngerei",
     "location_details": "Republica Moldova",
@@ -7004,6 +7102,27 @@
     "day": 20,
     "lat": 45.6833,
     "lon": 21.899995
+  },
+  {
+    "name": "Crosul Inimii",
+    "location": "Sacoșu Turcesc",
+    "location_details": "",
+    "display_date": "Sun 20-Sep-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "7km",
+      "3.5km",
+      "0.7km"
+    ],
+    "link": "https://www.facebook.com/events/1423660413156323",
+    "link_fb": "",
+    "id": 636,
+    "year": 2026,
+    "month": 9,
+    "day": 20,
+    "lat": 45.6167,
+    "lon": 21.4833
   },
   {
     "name": "Maraton Piatra Craiului",
@@ -7306,7 +7425,47 @@
     "id": 627,
     "year": 2026,
     "month": 9,
-    "day": 26
+    "day": 26,
+    "lat": 44.7917,
+    "lon": 24.8917
+  },
+  {
+    "name": "Full Moon Run - Odorheiu Secuiesc",
+    "location": "Odorheiu Secuiesc",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1019078014228719/",
+    "link_fb": "",
+    "id": 637,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 46.3,
+    "lon": 25.3
+  },
+  {
+    "name": "Feteasca Run",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://iticket.md/event/feteasca-run-2026",
+    "link_fb": "",
+    "id": 0,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 47.1333,
+    "lon": 28.8667
   },
   {
     "name": "Crosul Arenelor",
@@ -7370,6 +7529,25 @@
     "lon": 25.9697
   },
   {
+    "name": "Crosul Copiilor - Sibiu",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sun 27-Sep-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "⚠ only children"
+    ],
+    "link": "https://www.facebook.com/events/4408941226032496",
+    "link_fb": "",
+    "id": 362,
+    "year": 2026,
+    "month": 9,
+    "day": 27,
+    "lat": 45.797505,
+    "lon": 24.15079
+  },
+  {
     "name": "Omu Marathon",
     "location": "Bran",
     "location_details": "Castelul Bran",
@@ -7429,6 +7607,29 @@
     "day": 3,
     "lat": 46.7686878405,
     "lon": 23.5716852975
+  },
+  {
+    "name": "Ultramaraton Galați 24",
+    "location": "Galați",
+    "location_details": "Faleza Dunării Galaţi",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "24H",
+      "50km",
+      "24km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=100064617015844",
+    "link_fb": "https://www.facebook.com/profile.php?id=100064617015844",
+    "id": 176,
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "lat": 45.435305,
+    "lon": 28.049995
   },
   {
     "name": "Zalău Ultra Trail - Last Man Standing",
@@ -7573,6 +7774,47 @@
     "lon": 21.9395266774
   },
   {
+    "name": "Cozla Trail Run",
+    "location": "Piatra Neamț",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "NT",
+    "type": "trail",
+    "distances": [
+      "10.78km(568m↑)",
+      "3.49km(267m↑)",
+      "1.23km(27m↑)"
+    ],
+    "link": "https://cozlatrailrun.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61593099807875",
+    "id": 638,
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "lat": 46.925,
+    "lon": 26.3667
+  },
+  {
+    "name": "Creasta Cocoșului Trail",
+    "location": "Breb",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "20km(934m↑)",
+      "7km(271m↑)"
+    ],
+    "link": "https://www.creastacocosului.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61592779124107",
+    "id": 639,
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "lat": 47.7333,
+    "lon": 23.8
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -7616,6 +7858,27 @@
     "day": 4,
     "lat": 45.6427,
     "lon": 25.588685
+  },
+  {
+    "name": "Sun Challenge",
+    "location": "București",
+    "location_details": "Parcul Vacarești",
+    "display_date": "Sun 04-Oct-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "20km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.sun-plaza.ro/sun-challenge-2026/",
+    "link_fb": "",
+    "id": 366,
+    "year": 2026,
+    "month": 10,
+    "day": 4,
+    "lat": 44.4223631273,
+    "lon": 26.1548481031
   },
   {
     "name": "Alergarea Acasa la Taraboste",
@@ -7713,7 +7976,32 @@
     "id": 626,
     "year": 2026,
     "month": 10,
-    "day": 10
+    "day": 10,
+    "lat": 45.2317,
+    "lon": 25.9483
+  },
+  {
+    "name": "Together Run",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 10-Oct-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "15km",
+      "10km",
+      "5km",
+      "1km"
+    ],
+    "link": "https://www.togetherrunarad.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61591904724569",
+    "id": 640,
+    "year": 2026,
+    "month": 10,
+    "day": 10,
+    "lat": 46.1866,
+    "lon": 21.3123
   },
   {
     "name": "TulbuRun la Asconi Winery",
@@ -7756,6 +8044,26 @@
     "day": 11,
     "lat": 44.42758355968682,
     "lon": 26.09315428669368
+  },
+  {
+    "name": "Olt Forras Trail Running Race",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sun 11-Oct-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "22km(1000m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://szentgellertcross.ro/ro/oltforrastrail/program",
+    "link_fb": "https://www.facebook.com/szentgellertcross/",
+    "id": 365,
+    "year": 2026,
+    "month": 10,
+    "day": 11,
+    "lat": 46.7167,
+    "lon": 25.583295
   },
   {
     "name": "Cluj Connect Run",
@@ -7885,6 +8193,25 @@
     "lon": 25.55
   },
   {
+    "name": "Bucovina Cross Country",
+    "location": "Poiana Stampei",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://athrun.ro/bucovina-cross-country-2026/",
+    "link_fb": "",
+    "id": 524,
+    "year": 2026,
+    "month": 10,
+    "day": 17,
+    "lat": 47.3,
+    "lon": 25.15
+  },
+  {
     "name": "Friday Night Lights",
     "location": "București",
     "location_details": "",
@@ -7921,6 +8248,28 @@
     "day": 23,
     "lat": 46.8,
     "lon": 28.6
+  },
+  {
+    "name": "Maratonul Montan Rafael",
+    "location": "Codlea",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "42km(2100m↑)",
+      "21km(800m↑)",
+      "10km(450m↑)",
+      "5km"
+    ],
+    "link": "https://www.fundatiarafael.org/maratonul-montan-rafael/",
+    "link_fb": "https://www.facebook.com/FundatiaRafael",
+    "id": 213,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 45.7,
+    "lon": 25.450005
   },
   {
     "name": "Via Bacovia Trail",
@@ -8431,6 +8780,25 @@
     "day": 14,
     "lat": 47.3167,
     "lon": 28.25
+  },
+  {
+    "name": "Spartan Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "CJ",
+    "type": "obstacles",
+    "distances": [
+      "-"
+    ],
+    "link": "https://ro.spartan.com/ro/race/detail/11347/overview",
+    "link_fb": "",
+    "id": 641,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638
   },
   {
     "name": "Maraton 1 Decembrie București",

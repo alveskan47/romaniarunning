@@ -913,6 +913,11 @@
       "link_fb": "https://www.facebook.com/SemiMaratonGalati/",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 30
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 24
@@ -1025,6 +1030,11 @@
       "link": "https://crosul.usamv.ro/",
       "link_fb": "https://www.facebook.com/crosUSAMV",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 3
+        },
         {
           "year": 2026,
           "month": 4,
@@ -1625,6 +1635,11 @@
       "link": "https://fagarasrocks.ro/",
       "link_fb": "https://www.facebook.com/fagarasrocks/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 8,
+          "day": 14
+        },
         {
           "year": 2026,
           "month": 8,
@@ -3362,6 +3377,20 @@
       "link_fb": "https://www.facebook.com/bucovinaultrarocksbyUTMB/",
       "editions": [
         {
+          "year": 2027,
+          "month": 7,
+          "day": 24,
+          "event_distances": [
+            "114km(7000m↑)",
+            "72km(4600m↑)",
+            "48km(3200m↑)",
+            "33km(2000m↑)",
+            "20km(1100m↑)",
+            "16.5km(700m↑)",
+            "5km(550m↑)"
+          ]
+        },
+        {
           "year": 2026,
           "month": 7,
           "day": 25,
@@ -3415,6 +3444,11 @@
       "link": "https://mogosaeveresting.ro/",
       "link_fb": "https://www.facebook.com/mogosaeveresting",
       "editions": [
+        {
+          "year": 2027,
+          "month": 7,
+          "day": 31
+        },
         {
           "year": 2026,
           "month": 8,
@@ -4787,6 +4821,11 @@
       "link": "https://ultraraceromania.ro/",
       "link_fb": "https://alveskan47.ro/romaniarunning/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 8,
+          "day": 2
+        },
         {
           "year": 2026,
           "month": 8,
@@ -6309,8 +6348,8 @@
       "editions": [
         {
           "year": 2026,
-          "month": 9,
-          "day": 5
+          "month": 10,
+          "day": 3
         },
         {
           "year": 2025,
@@ -7465,6 +7504,11 @@
       "link": "https://www.fundatiarafael.org/maratonul-montan-rafael/",
       "link_fb": "https://www.facebook.com/FundatiaRafael",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        },
         {
           "year": 2025,
           "month": 10,
@@ -12022,7 +12066,7 @@
     },
     {
       "id": 362,
-      "name": "Crosul Copiilor Sibiu",
+      "name": "Crosul Copiilor - Sibiu",
       "location": "Sibiu",
       "county": "SB",
       "type": "road",
@@ -12032,6 +12076,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/4408941226032496"
+        },
         {
           "year": 2025,
           "month": 10,
@@ -12096,9 +12146,14 @@
         "22km(1000m↑)",
         "7km(300m↑)"
       ],
-      "link": "https://szentgellertcross.ro/ro/oltforrastrail/",
+      "link": "https://szentgellertcross.ro/ro/oltforrastrail/program",
       "link_fb": "https://www.facebook.com/szentgellertcross/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 11
+        },
         {
           "year": 2025,
           "month": 10,
@@ -12128,6 +12183,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 4,
+          "event_link": "https://www.sun-plaza.ro/sun-challenge-2026/"
+        },
         {
           "year": 2025,
           "month": 10,
@@ -16256,13 +16317,20 @@
       "distances": [
         "10km"
       ],
-      "link": "https://athrun.ro/bucovina-cross-country/",
-      "link_fb": "https://www.facebook.com/people/Athletics-Run-Club/61554488710766/",
+      "link": "",
+      "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://athrun.ro/bucovina-cross-country-2026/"
+        },
         {
           "year": 2024,
           "month": 11,
-          "day": 10
+          "day": 10,
+          "event_link": "https://athrun.ro/bucovina-cross-country/"
         },
         {
           "year": 2023,
@@ -18497,7 +18565,9 @@
           "month": 8,
           "day": 15
         }
-      ]
+      ],
+      "lat": 44.7833,
+      "lon": 22.7667
     },
     {
       "id": 623,
@@ -18515,7 +18585,7 @@
           "year": 2026,
           "month": 8,
           "day": 29,
-          "event_link": "https://web.facebook.com/events/sibiu-romania/alergare-cu-dj-beat-the-tempo-run/1689896238911429/"
+          "event_link": "https://www.facebook.com/events/sibiu-romania/alergare-cu-dj-beat-the-tempo-run/1689896238911429/"
         }
       ],
       "lat": 45.7975,
@@ -18584,7 +18654,9 @@
           "month": 10,
           "day": 10
         }
-      ]
+      ],
+      "lat": 45.2317,
+      "lon": 25.9483
     },
     {
       "id": 627,
@@ -18605,7 +18677,9 @@
           "month": 9,
           "day": 26
         }
-      ]
+      ],
+      "lat": 44.7917,
+      "lon": 24.8917
     },
     {
       "id": 628,
@@ -18646,6 +18720,280 @@
           "year": 2026,
           "month": 10,
           "day": 11
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 630,
+      "name": "Crosul Liceelor Bucurestene",
+      "location": "București",
+      "location_details": "Parcul Tineretului",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "7.5km",
+        "4.5km"
+      ],
+      "link": "https://sincai.ro/cros",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 16
+        }
+      ],
+      "lat": 44.4045,
+      "lon": 26.1034
+    },
+    {
+      "id": 631,
+      "name": "Vifi Run",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12,
+          "event_link": "https://vartemplom.ro/vifirun2026/"
+        }
+      ],
+      "lat": 46.5417,
+      "lon": 24.5583
+    },
+    {
+      "id": 632,
+      "name": "Crosul Demnității",
+      "location": "Uriu",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "3.3km",
+        "1.3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/1405470694802261"
+        }
+      ],
+      "lat": 47.0667,
+      "lon": 24.35
+    },
+    {
+      "id": 633,
+      "name": "Bistrița Night Run",
+      "location": "Bistrița",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "8km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/photo?fbid=122169506168694865&set=a.122116992902694865"
+        }
+      ],
+      "lat": 47.1333,
+      "lon": 24.5
+    },
+    {
+      "id": 634,
+      "name": "Bâtca Doamnei Run",
+      "location": "Piatra Neamț",
+      "county": "NT",
+      "type": "trail",
+      "distances": [
+        "12km",
+        "3.7km",
+        "2km"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61592714341310",
+      "link_fb": "https://www.facebook.com/profile.php?id=61592714341310",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19
+        }
+      ],
+      "lat": 46.925,
+      "lon": 26.3667
+    },
+    {
+      "id": 635,
+      "name": "Crosul Cardiologilor Sinaia",
+      "location": "Sinaia",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/1847216139591588"
+        }
+      ],
+      "lat": 45.35,
+      "lon": 25.55
+    },
+    {
+      "id": 636,
+      "name": "Crosul Inimii",
+      "location": "Sacoșu Turcesc",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "7km",
+        "3.5km",
+        "0.7km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 20,
+          "event_link": "https://www.facebook.com/events/1423660413156323"
+        }
+      ],
+      "lat": 45.6167,
+      "lon": 21.4833
+    },
+    {
+      "id": 637,
+      "name": "Full Moon Run - Odorheiu Secuiesc",
+      "location": "Odorheiu Secuiesc",
+      "county": "HR",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/1019078014228719/"
+        }
+      ],
+      "lat": 46.3,
+      "lon": 25.3
+    },
+    {
+      "id": 638,
+      "name": "Cozla Trail Run",
+      "location": "Piatra Neamț",
+      "county": "NT",
+      "type": "trail",
+      "distances": [
+        "10.78km(568m↑)",
+        "3.49km(267m↑)",
+        "1.23km(27m↑)"
+      ],
+      "link": "https://cozlatrailrun.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61593099807875",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        }
+      ],
+      "lat": 46.925,
+      "lon": 26.3667
+    },
+    {
+      "id": 639,
+      "name": "Creasta Cocoșului Trail",
+      "location": "Breb",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "20km(934m↑)",
+        "7km(271m↑)"
+      ],
+      "link": "https://www.creastacocosului.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61592779124107",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        }
+      ],
+      "lat": 47.7333,
+      "lon": 23.8
+    },
+    {
+      "id": 640,
+      "name": "Together Run",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "21km",
+        "15km",
+        "10km",
+        "5km",
+        "1km"
+      ],
+      "link": "https://www.togetherrunarad.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61591904724569",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        }
+      ],
+      "lat": 46.1866,
+      "lon": 21.3123
+    },
+    {
+      "id": 641,
+      "name": "Spartan Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "obstacles",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 21,
+          "event_link": "https://ro.spartan.com/ro/race/detail/11347/overview"
         }
       ],
       "lat": 46.76869284049895,
@@ -19744,6 +20092,29 @@
       ],
       "lat": 47.3667,
       "lon": 28.0167
+    },
+    {
+      "id": 0,
+      "name": "Feteasca Run",
+      "location": "Cricova",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://iticket.md/event/feteasca-run-2026"
+        }
+      ],
+      "lat": 47.1333,
+      "lon": 28.8667
     }
   ]
 }

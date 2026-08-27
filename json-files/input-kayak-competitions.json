@@ -1,0 +1,20 @@
+{
+  "kayak_competitions": [
+    {
+      "id": 1,
+      "name": "Snagov Caiac Fest",
+      "location": "Snagov",
+      "county": "IF",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/1032526542511235"
+        }
+      ]
+    }
+  ]
+}

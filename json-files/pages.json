@@ -51,20 +51,24 @@
           "page_link": "aquatlon.html"
         },
         {
-          "page_name": "Duatlon",
+          "page_name": "Duathlon",
           "page_link": "duathlon.html"
         },
         {
-          "page_name": "Schi",
+          "page_name": "Skiing",
           "page_link": "skiing.html"
         },
         {
-          "page_name": "Alpinism",
+          "page_name": "Climbing",
           "page_link": "climbing.html"
         },
         {
-          "page_name": "Orientare",
+          "page_name": "Orienteering",
           "page_link": "orienteering.html"
+        },
+        {
+          "page_name": "Kayak",
+          "page_link": "kayak.html"
         },
         {
           "page_name": "Hyatlon",

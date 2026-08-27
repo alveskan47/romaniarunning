@@ -161,6 +161,27 @@
     "lon": 25.580358932803648
   },
   {
+    "name": "Crosul USAMV",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 03-Apr-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "1km"
+    ],
+    "link": "https://crosul.usamv.ro/",
+    "link_fb": "https://www.facebook.com/crosUSAMV",
+    "id": 26,
+    "year": 2027,
+    "month": 4,
+    "day": 3,
+    "lat": 44.4223231273,
+    "lon": 26.1548281031
+  },
+  {
     "name": "Legal Half-Marathon",
     "location": "București",
     "location_details": "",
@@ -566,6 +587,27 @@
     "lon": 24.15079
   },
   {
+    "name": "Semimaraton Galați",
+    "location": "Galați",
+    "location_details": "",
+    "display_date": "Sun 30-May-2027",
+    "county": "GL",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10.5km",
+      "3km"
+    ],
+    "link": "https://semimaratongalati.ro/",
+    "link_fb": "https://www.facebook.com/SemiMaratonGalati/",
+    "id": 23,
+    "year": 2027,
+    "month": 5,
+    "day": 30,
+    "lat": 45.435295,
+    "lon": 28.049995
+  },
+  {
     "name": "X-RUN Oradea",
     "location": "Oradea",
     "location_details": "",
@@ -820,6 +862,93 @@
     "day": 10,
     "lat": 47.1833,
     "lon": 23.058295
+  },
+  {
+    "name": "Bucovina Ultra Rocks",
+    "location": "Câmpulung Moldovenesc",
+    "location_details": "",
+    "display_date": "Sat 24-Jul-2027",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "114km(7000m↑)",
+      "72km(4600m↑)",
+      "48km(3200m↑)",
+      "33km(2000m↑)",
+      "20km(1100m↑)",
+      "16.5km(700m↑)",
+      "5km(550m↑)"
+    ],
+    "link": "https://bucovina.utmb.world/",
+    "link_fb": "https://www.facebook.com/bucovinaultrarocksbyUTMB/",
+    "id": 85,
+    "year": 2027,
+    "month": 7,
+    "day": 24,
+    "lat": 47.5167,
+    "lon": 25.566695
+  },
+  {
+    "name": "Mogosa Everesting",
+    "location": "Baia Sprie",
+    "location_details": "Domeniul Mogosa",
+    "display_date": "Sat 31-Jul-2027",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "24H (4km&495m↑/lap)"
+    ],
+    "link": "https://mogosaeveresting.ro/",
+    "link_fb": "https://www.facebook.com/mogosaeveresting",
+    "id": 86,
+    "year": 2027,
+    "month": 7,
+    "day": 31,
+    "lat": 47.7333,
+    "lon": 23.733295
+  },
+  {
+    "name": "Ultra Race Romania",
+    "location": "Lunca Jariștei",
+    "location_details": "",
+    "display_date": "Mon 02-Aug-2027",
+    "county": "BZ",
+    "type": "trail",
+    "distances": [
+      "250km"
+    ],
+    "link": "https://ultraraceromania.ro/",
+    "link_fb": "https://alveskan47.ro/romaniarunning/",
+    "id": 127,
+    "year": 2027,
+    "month": 8,
+    "day": 2,
+    "lat": 45.0167,
+    "lon": 27.0833
+  },
+  {
+    "name": "Făgăraș Rocks",
+    "location": "Recea (BV)",
+    "location_details": "",
+    "display_date": "Sat 14-Aug-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "127km(10500m↑)",
+      "70km(4900m↑)",
+      "35km(2400m↑)",
+      "20km(1350m↑)",
+      "10km(295m↑)",
+      "4km(100m↑)"
+    ],
+    "link": "https://fagarasrocks.ro/",
+    "link_fb": "https://www.facebook.com/fagarasrocks/",
+    "id": 42,
+    "year": 2027,
+    "month": 8,
+    "day": 14,
+    "lat": 45.7167,
+    "lon": 25.45
   },
   {
     "name": "Retezat Mountain Run",

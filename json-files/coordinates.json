@@ -157,8 +157,8 @@
     "county": "AG",
     "location": "Cuca",
     "location_details": "",
-    "lat": null,
-    "lon": null
+    "lat": 44.7917,
+    "lon": 24.8917
   },
   {
     "county": "AG",
@@ -656,6 +656,13 @@
     "location_details": "Castelul Teleki",
     "lat": 47.05,
     "lon": 24.3333
+  },
+  {
+    "county": "BN",
+    "location": "Uriu",
+    "location_details": "",
+    "lat": 47.0667,
+    "lon": 24.35
   },
   {
     "county": "BR",
@@ -2243,8 +2250,8 @@
     "county": "MH",
     "location": "Isverna",
     "location_details": "",
-    "lat": null,
-    "lon": null
+    "lat": 44.7833,
+    "lon": 22.7667
   },
   {
     "county": "MM",
@@ -2280,6 +2287,13 @@
     "location_details": "",
     "lat": 47.65,
     "lon": 24.6667
+  },
+  {
+    "county": "MM",
+    "location": "Breb",
+    "location_details": "",
+    "lat": 47.7333,
+    "lon": 23.8
   },
   {
     "county": "MM",
@@ -2621,8 +2635,8 @@
     "county": "PH",
     "location": "Slănic Prahova",
     "location_details": "",
-    "lat": null,
-    "lon": null
+    "lat": 45.2317,
+    "lon": 25.9483
   },
   {
     "county": "PH",
@@ -3008,6 +3022,13 @@
     "location_details": "Petrovaselo",
     "lat": 45.7667,
     "lon": 21.5
+  },
+  {
+    "county": "TM",
+    "location": "Sacoșu Turcesc",
+    "location_details": "",
+    "lat": 45.6167,
+    "lon": 21.4833
   },
   {
     "county": "TM",

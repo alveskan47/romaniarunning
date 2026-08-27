@@ -1,19 +1,53 @@
-{
-  "climbing_competitions": [
-    {
-      "id": 1,
-      "name": "Obciniada Climbing Festival",
-      "location": "Gura Humorului",
-      "county": "SV",
-      "link": "https://www.obciniada.ro/climbing",
-      "link_fb": "https://www.facebook.com/obciniada",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 23
-        }
-      ]
-    }
-  ]
+﻿{
+    "climbing_competitions":  [
+                                  {
+                                      "id":  1,
+                                      "name":  "Obciniada Climbing Festival",
+                                      "location":  "Gura Humorului",
+                                      "county":  "SV",
+                                      "link":  "https://www.obciniada.ro/climbing",
+                                      "link_fb":  "https://www.facebook.com/obciniada",
+                                      "editions":  [
+                                                       {
+                                                           "year":  2026,
+                                                           "month":  5,
+                                                           "day":  23
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "id":  2,
+                                      "name":  "WCD Climbing Fest",
+                                      "location":  "Gheorgheni",
+                                      "location_details":  "Lacu Roșu",
+                                      "county":  "HR",
+                                      "link":  "",
+                                      "link_fb":  "",
+                                      "editions":  [
+                                                       {
+                                                           "year":  2026,
+                                                           "month":  9,
+                                                           "day":  25,
+                                                           "event_link":  "https://www.facebook.com/events/888171757009582"
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "id":  3,
+                                      "name":  "Escalada Cheile Vălișoarei",
+                                      "location":  "Livezile",
+                                      "location_details":  "Cheile Vălișoarei",
+                                      "county":  "AB",
+                                      "link":  "",
+                                      "link_fb":  "",
+                                      "editions":  [
+                                                       {
+                                                           "year":  2026,
+                                                           "month":  10,
+                                                           "day":  16,
+                                                           "event_link":  "https://www.facebook.com/events/913659231141375/"
+                                                       }
+                                                   ]
+                                  }
+                              ]
 }

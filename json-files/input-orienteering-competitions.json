@@ -46,6 +46,69 @@
           "day": 29
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Winter Run Vâlcea - Oltenia Forest Run",
+      "location": "Ocnele Mari",
+      "county": "VL",
+      "link": "https://www.ecosport.ro/",
+      "link_fb": "https://www.facebook.com/ecosport.ecosport",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 2,
+          "day": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "City Race Euro Tour",
+      "location": "București",
+      "county": "B",
+      "link": "https://new.ecosport.ro/city-race-euro-tour-bucuresti/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Trofeul Munților",
+      "location": "Breaza (BV)",
+      "county": "BV",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/1379498344052586"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Trofeul Ursul Carpatin",
+      "location": "Buşteni",
+      "location_details": "Poiana Ţapului",
+      "county": "PH",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/2185608145611926"
+        }
+      ]
     }
   ]
 }
