@@ -217,7 +217,7 @@ function draw_highcharts_total(total_competitions) {
         },
         yAxis: {
             min: 0,
-            max: 400,
+            max: 500,
             tickPixelInterval: 72,
             tickPosition: 'inside',
             tickColor: colors.backgroundColor,
@@ -234,17 +234,17 @@ function draw_highcharts_total(total_competitions) {
             lineWidth: 0,
             plotBands: [{
                 from: 0,
-                to: 133,
+                to: 166.67,
                 color: '#DF5353', // red
                 thickness: 20
             }, {
-                from: 133,
-                to: 266,
+                from: 166.67,
+                to: 333.33,
                 color: '#DDDF0D', // yellow
                 thickness: 20
             }, {
-                from: 266,
-                to: 400,
+                from: 333.33,
+                to: 500,
                 color: '#0018F9', // blue
                 thickness: 20
             }]

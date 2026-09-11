@@ -109,6 +109,21 @@
           "event_link": "https://www.facebook.com/events/1209338617717188/"
         }
       ]
+    },
+    {
+      "id": 8,
+      "name": "Duatlonul Regal Invictus - Curtea de Argeș",
+      "location": "Curtea de Argeș",
+      "county": "AG",
+      "link": "https://www.invictusromania.ro/",
+      "link_fb": "https://www.facebook.com/InvictusTeamRomania/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 8
+        }
+      ]
     }
   ]
 }

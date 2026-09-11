@@ -330,6 +330,13 @@
   },
   {
     "county": "AR",
+    "location": "Zăbrani",
+    "location_details": "",
+    "lat": 46.067,
+    "lon": 21.55
+  },
+  {
+    "county": "AR",
     "location": "Șiria",
     "location_details": "",
     "lat": 46.2667,
@@ -715,6 +722,13 @@
   },
   {
     "county": "BT",
+    "location": "Stăuceni",
+    "location_details": "",
+    "lat": 47.733,
+    "lon": 26.75
+  },
+  {
+    "county": "BT",
     "location": "Sulița (BT)",
     "location_details": "",
     "lat": 48.2167,
@@ -939,7 +953,7 @@
   },
   {
     "county": "BZ",
-    "location": "Sărăta Monteoru",
+    "location": "Sărata Monteoru",
     "location_details": "",
     "lat": 45.2167,
     "lon": 26.6167
@@ -1895,6 +1909,13 @@
     "location_details": "Stadionul Emil Alexandrescu",
     "lat": 47.1574,
     "lon": 27.587
+  },
+  {
+    "county": "IS",
+    "location": "Miroslava",
+    "location_details": "",
+    "lat": 47.15,
+    "lon": 27.517
   },
   {
     "county": "IS",
@@ -3064,6 +3085,13 @@
     "location_details": "Piata Libertatii",
     "lat": 45.7538,
     "lon": 21.226
+  },
+  {
+    "county": "TR",
+    "location": "Turnu Măgurele",
+    "location_details": "",
+    "lat": 43.75167,
+    "lon": 24.87083
   },
   {
     "county": "VL",

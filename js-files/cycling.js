@@ -27,7 +27,7 @@ function renderCyclingTable(year) {
     const container = document.getElementById('cycling-table');
 
     const rows = [];
-    cyclingData.triathlon_competitions.forEach(comp => {
+    cyclingData.cycling_competitions.forEach(comp => {
         comp.editions.forEach(edition => {
             if (edition.year !== year) return;
 
@@ -113,7 +113,7 @@ async function cycling_main() {
 
         // Extract unique years from all editions
         const yearsSet = new Set();
-        cyclingData.triathlon_competitions.forEach(comp => {
+        cyclingData.cycling_competitions.forEach(comp => {
             comp.editions.forEach(edition => yearsSet.add(edition.year));
         });
         const years = Array.from(yearsSet).sort((a, b) => b - a);

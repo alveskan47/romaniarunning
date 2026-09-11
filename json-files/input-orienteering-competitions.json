@@ -109,6 +109,38 @@
           "event_link": "https://www.facebook.com/events/2185608145611926"
         }
       ]
+    },
+    {
+      "id": 8,
+      "name": "Festivalul Sporturilor București (toamnă)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Roza Vânturilor",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/2704000523708405"
+        }
+      ]
     }
   ]
 }

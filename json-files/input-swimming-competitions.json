@@ -173,6 +173,25 @@
         "1.5km",
         "0.75km"
       ]
+    },
+    {
+      "id": 9,
+      "name": "Festivalul Sporturilor București (toamnă)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13
+        }
+      ],
+      "distances": [
+        "0.05km"
+      ]
     }
   ]
 }

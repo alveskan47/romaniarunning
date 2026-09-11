@@ -155,6 +155,11 @@
       "link_fb": "https://www.facebook.com/transfier.triatlon/",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 4
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 5
