@@ -188,7 +188,7 @@
       "name": "Alba Iulia City Race",
       "location": "Alba Iulia",
       "county": "AB",
-      "year_2027": "",
+      "year_2027": "Sat 13-Mar",
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 28-Sep",
@@ -3587,8 +3587,8 @@
       "name": "Fun Run",
       "location": "București",
       "county": "B",
-      "year_2027": "",
-      "year_2026": "Mon 1-Jun",
+      "year_2027": "Tue 1-Jun",
+      "year_2026": "",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -4496,6 +4496,17 @@
       "year_2023": ""
     },
     {
+      "id": 652,
+      "name": "Marșul Lupilor Negri",
+      "location": "Iași",
+      "county": "IS",
+      "year_2027": "",
+      "year_2026": "Sat 12-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 71,
       "name": "Măcin Mountain Fun",
       "location": "Greci",
@@ -5238,7 +5249,7 @@
       "location": "Ploiești",
       "county": "PH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "Sat 27-Sep",
       "year_2024": "",
       "year_2023": ""

@@ -11481,6 +11481,11 @@
       "link_fb": "https://www.facebook.com/AlbaIuliaCityRace",
       "editions": [
         {
+          "year": 2027,
+          "month": 3,
+          "day": 13
+        },
+        {
           "year": 2024,
           "month": 9,
           "day": 28
@@ -11602,6 +11607,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.facebook.com/photo/?fbid=1403797821927679&set=a.563692959271507"
+        },
         {
           "year": 2025,
           "month": 9,
@@ -12112,7 +12123,9 @@
       "county": "BN",
       "type": "trail",
       "distances": [
-        "16.3km(697m↑)"
+        "40km",
+        "15km",
+        "9km"
       ],
       "link": "https://www.facebook.com/profile.php?id=100057408641179",
       "link_fb": "https://www.facebook.com/profile.php?id=100057408641179",
@@ -18610,7 +18623,7 @@
       "link_fb": "",
       "editions": [
         {
-          "year": 2026,
+          "year": 2027,
           "month": 6,
           "day": 1,
           "event_link": "https://www.facebook.com/events/1794230571959520"
@@ -19311,6 +19324,28 @@
       ],
       "lat": 46.567,
       "lon": 26.9146
+    },
+    {
+      "id": 652,
+      "name": "Marșul Lupilor Negri",
+      "location": "Iași",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 12,
+          "event_link": "https://www.facebook.com/events/1072089885391375/"
+        }
+      ],
+      "lat": 47.1574405088454,
+      "lon": 27.58696065379542
     }
   ],
   "running_competitions_no_statistics": [

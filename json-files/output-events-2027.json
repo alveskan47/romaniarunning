@@ -83,6 +83,27 @@
     "lon": 21.366695
   },
   {
+    "name": "Alba Iulia City Race",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "display_date": "Sat 13-Mar-2027",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://albaiulia.cityrace.ro/",
+    "link_fb": "https://www.facebook.com/AlbaIuliaCityRace",
+    "id": 340,
+    "year": 2027,
+    "month": 3,
+    "day": 13,
+    "lat": 46.068995,
+    "lon": 23.576295
+  },
+  {
     "name": "Mileștii Mici Winerun",
     "location": "Mileștii Mici",
     "location_details": "Republica Moldova",
@@ -691,6 +712,25 @@
     "day": 30,
     "lat": 45.435295,
     "lon": 28.049995
+  },
+  {
+    "name": "Fun Run",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Tue 01-Jun-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1794230571959520",
+    "link_fb": "",
+    "id": 620,
+    "year": 2027,
+    "month": 6,
+    "day": 1,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678
   },
   {
     "name": "X-RUN Oradea",

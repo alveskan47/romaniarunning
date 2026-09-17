@@ -3388,25 +3388,6 @@
     "lon": 28.6348
   },
   {
-    "name": "Fun Run",
-    "location": "București",
-    "location_details": "",
-    "display_date": "Mon 01-Jun-2026",
-    "county": "B",
-    "type": "road",
-    "distances": [
-      "-"
-    ],
-    "link": "https://www.facebook.com/events/1794230571959520",
-    "link_fb": "",
-    "id": 620,
-    "year": 2026,
-    "month": 6,
-    "day": 1,
-    "lat": 44.42736904671278,
-    "lon": 26.09240325460678
-  },
-  {
     "name": "Global Running Day - București",
     "location": "București",
     "location_details": "Parc Herastrau",
@@ -6587,6 +6568,25 @@
     "lon": 24.5583
   },
   {
+    "name": "Marșul Lupilor Negri",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sat 12-Sep-2026",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/1072089885391375/",
+    "link_fb": "",
+    "id": 652,
+    "year": 2026,
+    "month": 9,
+    "day": 12,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542
+  },
+  {
     "name": "Rompetrol Run & Care",
     "location": "anywhere",
     "location_details": "",
@@ -7461,6 +7461,27 @@
     "lon": 25.3
   },
   {
+    "name": "Run for Future - Ploiești",
+    "location": "Ploiești",
+    "location_details": "",
+    "display_date": "Sat 26-Sep-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "5km",
+      "2km",
+      "1km"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=1403797821927679&set=a.563692959271507",
+    "link_fb": "",
+    "id": 344,
+    "year": 2026,
+    "month": 9,
+    "day": 26,
+    "lat": 44.949995,
+    "lon": 26.0167
+  },
+  {
     "name": "Crosul Inimilor - Alba Iulia",
     "location": "Alba Iulia",
     "location_details": "",
@@ -8009,7 +8030,9 @@
     "county": "BN",
     "type": "trail",
     "distances": [
-      "16.3km(697m↑)"
+      "40km",
+      "15km",
+      "9km"
     ],
     "link": "https://www.facebook.com/profile.php?id=100057408641179",
     "link_fb": "https://www.facebook.com/profile.php?id=100057408641179",
