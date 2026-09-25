@@ -64,6 +64,20 @@
   },
   {
     "county": "AB",
+    "location": "Livezile",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "AB",
+    "location": "Livezile",
+    "location_details": "Cheile Vălișoarei",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "AB",
     "location": "Poșaga de Sus",
     "location_details": "",
     "lat": 46.3833,
@@ -124,6 +138,13 @@
     "location_details": "",
     "lat": 45.3667,
     "lon": 24.6333
+  },
+  {
+    "county": "AG",
+    "location": "Arefu",
+    "location_details": "Barajul Vidraru",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "AG",
@@ -239,6 +260,13 @@
   },
   {
     "county": "AG",
+    "location": "Topoloveni",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "AG",
     "location": "Ștefănești",
     "location_details": "",
     "lat": 44.8651,
@@ -271,6 +299,13 @@
     "location_details": "Stadionul Gloria",
     "lat": 46.1833,
     "lon": 21.3167
+  },
+  {
+    "county": "AR",
+    "location": "Băile Lipova",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "AR",
@@ -509,6 +544,13 @@
     "location_details": "",
     "lat": 46.2833,
     "lon": 26.6167
+  },
+  {
+    "county": "BC",
+    "location": "Ungureni",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "BH",
@@ -786,6 +828,13 @@
   {
     "county": "BV",
     "location": "Brașov",
+    "location_details": "Poiana Brașov",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "BV",
+    "location": "Brașov",
     "location_details": "Tampa",
     "lat": 45.6333,
     "lon": 25.5833
@@ -890,6 +939,13 @@
   },
   {
     "county": "BV",
+    "location": "Săcele",
+    "location_details": "Babarunca",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "BV",
     "location": "Veneția de Jos",
     "location_details": "",
     "lat": 45.8333,
@@ -953,6 +1009,13 @@
   },
   {
     "county": "BZ",
+    "location": "Siriu",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "BZ",
     "location": "Sărata Monteoru",
     "location_details": "",
     "lat": 45.2167,
@@ -1006,6 +1069,13 @@
     "location_details": "",
     "lat": 46.5167,
     "lon": 23.5667
+  },
+  {
+    "county": "CJ",
+    "location": "Băișoara",
+    "location_details": "Buscat Resort",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "CJ",
@@ -1282,6 +1352,13 @@
   },
   {
     "county": "CS",
+    "location": "Văliug",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "CS",
     "location": "Zăvoi (CS)",
     "location_details": "",
     "lat": 45.2167,
@@ -1293,6 +1370,13 @@
     "location_details": "Poiana Marului",
     "lat": 45.2167,
     "lon": 22.5167
+  },
+  {
+    "county": "CT",
+    "location": "2 Mai",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "CT",
@@ -1393,6 +1477,13 @@
     "lon": 25.7833
   },
   {
+    "county": "CV",
+    "location": "Șugaș Băi",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "DB",
     "location": "Glogoveanu",
     "location_details": "",
@@ -1412,6 +1503,13 @@
     "location_details": "Hotel Peștera",
     "lat": 45.3667,
     "lon": 25.5167
+  },
+  {
+    "county": "DB",
+    "location": "Pucioasa",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "DB",
@@ -1646,6 +1744,13 @@
   },
   {
     "county": "HD",
+    "location": "Uricani",
+    "location_details": "Oslea",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "HD",
     "location": "Vața de Jos",
     "location_details": "",
     "lat": 46.0833,
@@ -1716,10 +1821,31 @@
   },
   {
     "county": "HR",
+    "location": "Dănești",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "HR",
     "location": "Gheorgheni",
     "location_details": "",
     "lat": 46.7167,
     "lon": 25.5833
+  },
+  {
+    "county": "HR",
+    "location": "Gheorgheni",
+    "location_details": "Lacu Roșu",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "HR",
+    "location": "Ghiduț",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "HR",
@@ -1883,11 +2009,25 @@
     "lon": 26.15
   },
   {
+    "county": "IF",
+    "location": "Tunari",
+    "location_details": "",
+    "lat": 44.55,
+    "lon": 26.15
+  },
+  {
     "county": "IL",
     "location": "Fetești",
     "location_details": "",
     "lat": 44.3667,
     "lon": 27.8333
+  },
+  {
+    "county": "IL",
+    "location": "Slobozia",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "IS",
@@ -2304,6 +2444,13 @@
   },
   {
     "county": "MM",
+    "location": "Baia Sprie",
+    "location_details": "Șuior Resort",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "MM",
     "location": "Borșa",
     "location_details": "",
     "lat": 47.65,
@@ -2322,6 +2469,13 @@
     "location_details": "",
     "lat": 47.6167,
     "lon": 23.9167
+  },
+  {
+    "county": "MM",
+    "location": "Desești",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "MM",
@@ -2395,6 +2549,13 @@
   },
   {
     "county": "MS",
+    "location": "Saschiz",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "MS",
     "location": "Sighișoara",
     "location_details": "",
     "lat": 46.2167,
@@ -2413,6 +2574,13 @@
     "location_details": "",
     "lat": 46.5167,
     "lon": 24.5833
+  },
+  {
+    "county": "MS",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "MS",
@@ -2504,6 +2672,13 @@
     "location_details": "Schitu Tarcău",
     "lat": 46.7,
     "lon": 26.1833
+  },
+  {
+    "county": "NT",
+    "location": "Vânători-Neamț",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "OT",
@@ -2647,6 +2822,13 @@
   },
   {
     "county": "PH",
+    "location": "Păulești (PH)",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "PH",
     "location": "Sinaia",
     "location_details": "",
     "lat": 45.35,
@@ -2667,11 +2849,32 @@
     "lon": 25.8
   },
   {
+    "county": "PH",
+    "location": "Tătaru",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "PH",
+    "location": "Urlaţi",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "SB",
     "location": "Agnita",
     "location_details": "",
     "lat": 45.9667,
     "lon": 24.65
+  },
+  {
+    "county": "SB",
+    "location": "Avrig",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "SB",
@@ -2693,6 +2896,13 @@
     "location_details": "",
     "lat": 45.59,
     "lon": 24.6267
+  },
+  {
+    "county": "SB",
+    "location": "Cisnădie",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "SB",
@@ -2821,6 +3031,13 @@
     "lon": 23.0583
   },
   {
+    "county": "SJ",
+    "location": "Șamșud",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "SM",
     "location": "Homoroade",
     "location_details": "",
@@ -2868,6 +3085,13 @@
     "location_details": "",
     "lat": 47.55,
     "lon": 25.4167
+  },
+  {
+    "county": "SV",
+    "location": "Gura Haitii",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "SV",
@@ -2975,6 +3199,13 @@
     "lon": 28.8022
   },
   {
+    "county": "TL",
+    "location": "Tulcea",
+    "location_details": "Tudor Vladimirescu",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "TM",
     "location": "Bencecu de Jos",
     "location_details": "",
@@ -2987,6 +3218,13 @@
     "location_details": "",
     "lat": 45.65,
     "lon": 21.6
+  },
+  {
+    "county": "TM",
+    "location": "Cornești",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "TM",
@@ -3094,6 +3332,13 @@
     "lon": 24.87083
   },
   {
+    "county": "TR",
+    "location": "Videle",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "county": "VL",
     "location": "Brezoi",
     "location_details": "",
@@ -3186,6 +3431,13 @@
   },
   {
     "county": "VN",
+    "location": "Cârligele",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "VN",
     "location": "Dălhăuți",
     "location_details": "",
     "lat": 45.9833,
@@ -3232,6 +3484,20 @@
     "location_details": "",
     "lat": 45.7167,
     "lon": 27.1167
+  },
+  {
+    "county": "VN",
+    "location": "Soveja",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "VN",
+    "location": "Tulnici",
+    "location_details": "",
+    "lat": null,
+    "lon": null
   },
   {
     "county": "VS",

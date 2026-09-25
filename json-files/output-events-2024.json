@@ -14,7 +14,8 @@
     "id": 0,
     "year": 2024,
     "month": 1,
-    "day": 1
+    "day": 1,
+    "sport": "running"
   },
   {
     "name": "Vatra Dornei Night Run",
@@ -34,7 +35,8 @@
     "month": 1,
     "day": 20,
     "lat": 47.350005,
-    "lon": 25.366695
+    "lon": 25.366695,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Gerar",
@@ -54,7 +56,8 @@
     "month": 1,
     "day": 27,
     "lat": 44.4223231273,
-    "lon": 26.1548381031
+    "lon": 26.1548381031,
+    "sport": "running"
   },
   {
     "name": "Făget Winter Trail",
@@ -74,7 +77,8 @@
     "month": 2,
     "day": 3,
     "lat": 46.7686678405,
-    "lon": 23.5717052975
+    "lon": 23.5717052975,
+    "sport": "running"
   },
   {
     "name": "SKV Night Run",
@@ -93,7 +97,8 @@
     "month": 2,
     "day": 3,
     "lat": 45.64269,
-    "lon": 25.588695
+    "lon": 25.588695,
+    "sport": "running"
   },
   {
     "name": "Winter Run Vâlcea – Buridava",
@@ -113,7 +118,8 @@
     "month": 2,
     "day": 3,
     "lat": 45.0667,
-    "lon": 24.249995
+    "lon": 24.249995,
+    "sport": "running"
   },
   {
     "name": "Winter Run Vâlcea – Crosul Salinei Ocnele Mari",
@@ -135,7 +141,8 @@
     "month": 2,
     "day": 4,
     "lat": 45.0667,
-    "lon": 24.250005
+    "lon": 24.250005,
+    "sport": "running"
   },
   {
     "name": "Oradea City Trail",
@@ -156,7 +163,8 @@
     "month": 2,
     "day": 10,
     "lat": 47.0559509149,
-    "lon": 21.9395066774
+    "lon": 21.9395066774,
+    "sport": "running"
   },
   {
     "name": "SKV Vertical Race - Winter",
@@ -176,7 +184,8 @@
     "month": 2,
     "day": 10,
     "lat": 45.64269,
-    "lon": 25.588705
+    "lon": 25.588705,
+    "sport": "running"
   },
   {
     "name": "Ziua Indragostitilor de Alergare",
@@ -195,7 +204,8 @@
     "month": 2,
     "day": 17,
     "lat": 47.6667,
-    "lon": 23.58331
+    "lon": 23.58331,
+    "sport": "running"
   },
   {
     "name": "Vladeasa Winter Trail",
@@ -214,7 +224,8 @@
     "month": 2,
     "day": 18,
     "lat": 46.75,
-    "lon": 22.9167
+    "lon": 22.9167,
+    "sport": "running"
   },
   {
     "name": "Șiria Winter Trail",
@@ -235,7 +246,8 @@
     "month": 2,
     "day": 24,
     "lat": 46.266695,
-    "lon": 21.633295
+    "lon": 21.633295,
+    "sport": "running"
   },
   {
     "name": "Crosul Indragostitilor de Alergare",
@@ -255,7 +267,8 @@
     "month": 2,
     "day": 24,
     "lat": 47.133305,
-    "lon": 24.49999
+    "lon": 24.49999,
+    "sport": "running"
   },
   {
     "name": "Love Run Fest",
@@ -275,7 +288,8 @@
     "month": 2,
     "day": 24,
     "lat": 47.1333,
-    "lon": 28.8667
+    "lon": 28.8667,
+    "sport": "running"
   },
   {
     "name": "Team Up & Run",
@@ -294,7 +308,8 @@
     "month": 3,
     "day": 2,
     "lat": 45.7538014831,
-    "lon": 21.2259904857
+    "lon": 21.2259904857,
+    "sport": "running"
   },
   {
     "name": "GRR Martisor",
@@ -314,7 +329,8 @@
     "month": 3,
     "day": 2,
     "lat": 45.550005,
-    "lon": 28.033295
+    "lon": 28.033295,
+    "sport": "running"
   },
   {
     "name": "Mileștii Mici Winerun",
@@ -333,7 +349,8 @@
     "month": 3,
     "day": 2,
     "lat": 46.8833,
-    "lon": 28.9167
+    "lon": 28.9167,
+    "sport": "running"
   },
   {
     "name": "Scorilo Winter Trail",
@@ -353,7 +370,8 @@
     "month": 3,
     "day": 3,
     "lat": 45.2167,
-    "lon": 22.516705
+    "lon": 22.516705,
+    "sport": "running"
   },
   {
     "name": "Pitești 4 Seasons Running - Spring",
@@ -372,7 +390,8 @@
     "month": 3,
     "day": 3,
     "lat": 44.858295,
-    "lon": 24.8633
+    "lon": 24.8633,
+    "sport": "running"
   },
   {
     "name": "Cros caritabil Alerg pentru mama - Sibiu",
@@ -391,7 +410,8 @@
     "month": 3,
     "day": 10,
     "lat": 45.7833,
-    "lon": 24.150005
+    "lon": 24.150005,
+    "sport": "running"
   },
   {
     "name": "Crosul Divelor",
@@ -411,7 +431,8 @@
     "month": 3,
     "day": 16,
     "lat": 46.7686678405,
-    "lon": 23.5717352975
+    "lon": 23.5717352975,
+    "sport": "running"
   },
   {
     "name": "Crosul Pentru Viață - București",
@@ -431,7 +452,8 @@
     "month": 3,
     "day": 16,
     "lat": 44.4223431273,
-    "lon": 26.1548281031
+    "lon": 26.1548281031,
+    "sport": "running"
   },
   {
     "name": "SportGuru Timișoara 21k",
@@ -452,7 +474,8 @@
     "month": 3,
     "day": 17,
     "lat": 45.7537914831,
-    "lon": 21.2259904857
+    "lon": 21.2259904857,
+    "sport": "running"
   },
   {
     "name": "Rubicon",
@@ -471,7 +494,8 @@
     "month": 3,
     "day": 22,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Primavera Trail Race",
@@ -492,7 +516,8 @@
     "month": 3,
     "day": 23,
     "lat": 46.8833,
-    "lon": 22.55
+    "lon": 22.55,
+    "sport": "running"
   },
   {
     "name": "Gârboavele Trail Run",
@@ -512,7 +537,8 @@
     "month": 3,
     "day": 30,
     "lat": 45.549995,
-    "lon": 28.033295
+    "lon": 28.033295,
+    "sport": "running"
   },
   {
     "name": "Reșița Stairs Challenge",
@@ -532,7 +558,8 @@
     "month": 3,
     "day": 30,
     "lat": 45.299995,
-    "lon": 21.883295
+    "lon": 21.883295,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Brașov",
@@ -552,7 +579,8 @@
     "month": 4,
     "day": 6,
     "lat": 45.63603756572883,
-    "lon": 25.580358932803648
+    "lon": 25.580358932803648,
+    "sport": "running"
   },
   {
     "name": "Crosul USAMV",
@@ -573,7 +601,8 @@
     "month": 4,
     "day": 6,
     "lat": 44.4223231273,
-    "lon": 26.1548281031
+    "lon": 26.1548281031,
+    "sport": "running"
   },
   {
     "name": "Crosul Studentesc Corneliu Andrei Stroe",
@@ -592,7 +621,8 @@
     "month": 4,
     "day": 6,
     "lat": 44.316705,
-    "lon": 23.800005
+    "lon": 23.800005,
+    "sport": "running"
   },
   {
     "name": "Roca Brună Wine Run&Hike",
@@ -612,7 +642,8 @@
     "month": 4,
     "day": 6,
     "lat": 46.15,
-    "lon": 21.5667
+    "lon": 21.5667,
+    "sport": "running"
   },
   {
     "name": "Crosul UT - Cluj-Napoca (primavara)",
@@ -632,7 +663,8 @@
     "month": 4,
     "day": 6,
     "lat": 46.7687078405,
-    "lon": 23.5716952975
+    "lon": 23.5716952975,
+    "sport": "running"
   },
   {
     "name": "Crosul Primaverii - Baia Mare",
@@ -652,7 +684,8 @@
     "month": 4,
     "day": 7,
     "lat": 47.66669,
-    "lon": 23.5833
+    "lon": 23.5833,
+    "sport": "running"
   },
   {
     "name": "Titan Park Run",
@@ -673,7 +706,8 @@
     "month": 4,
     "day": 7,
     "lat": 44.4223731273,
-    "lon": 26.1548381031
+    "lon": 26.1548381031,
+    "sport": "running"
   },
   {
     "name": "Runway Run",
@@ -692,7 +726,8 @@
     "month": 4,
     "day": 7,
     "lat": 44.3667,
-    "lon": 27.2167
+    "lon": 27.2167,
+    "sport": "running"
   },
   {
     "name": "Woodland Series - Trail run",
@@ -712,7 +747,8 @@
     "month": 4,
     "day": 13,
     "lat": 46.8167,
-    "lon": 22.3667
+    "lon": 22.3667,
+    "sport": "running"
   },
   {
     "name": "Legal Half-Marathon",
@@ -733,7 +769,8 @@
     "month": 4,
     "day": 13,
     "lat": 44.4223231273,
-    "lon": 26.1548481031
+    "lon": 26.1548481031,
+    "sport": "running"
   },
   {
     "name": "Maratonul Argonautilor",
@@ -754,7 +791,8 @@
     "month": 4,
     "day": 13,
     "lat": 44.4167,
-    "lon": 28.5167
+    "lon": 28.5167,
+    "sport": "running"
   },
   {
     "name": "Cross - Noi iubim Săcălaz",
@@ -773,7 +811,8 @@
     "month": 4,
     "day": 13,
     "lat": 45.7833,
-    "lon": 21.1833
+    "lon": 21.1833,
+    "sport": "running"
   },
   {
     "name": "Wizz Air Cluj-Napoca Marathon",
@@ -796,7 +835,8 @@
     "month": 4,
     "day": 14,
     "lat": 46.7686678405,
-    "lon": 23.5716852975
+    "lon": 23.5716852975,
+    "sport": "running"
   },
   {
     "name": "Băneasa Forest Run - Spring",
@@ -818,7 +858,8 @@
     "month": 4,
     "day": 14,
     "lat": 44.4223231273,
-    "lon": 26.1548781031
+    "lon": 26.1548781031,
+    "sport": "running"
   },
   {
     "name": "Crosul Cleja tine pasul",
@@ -838,7 +879,8 @@
     "month": 4,
     "day": 14,
     "lat": 46.5667,
-    "lon": 26.8333
+    "lon": 26.8333,
+    "sport": "running"
   },
   {
     "name": "Eco Run Hărman",
@@ -857,7 +899,8 @@
     "month": 4,
     "day": 16,
     "lat": 45.6833,
-    "lon": 25.6667
+    "lon": 25.6667,
+    "sport": "running"
   },
   {
     "name": "Ultra Race 24h Galați",
@@ -879,7 +922,8 @@
     "month": 4,
     "day": 20,
     "lat": 45.549995,
-    "lon": 28.033305
+    "lon": 28.033305,
+    "sport": "running"
   },
   {
     "name": "The Color Run - București - Spring",
@@ -898,7 +942,8 @@
     "month": 4,
     "day": 20,
     "lat": 44.4223331273,
-    "lon": 26.1548481031
+    "lon": 26.1548481031,
+    "sport": "running"
   },
   {
     "name": "Ultramaraton Galați 24",
@@ -921,7 +966,8 @@
     "month": 4,
     "day": 20,
     "lat": 45.435305,
-    "lon": 28.049995
+    "lon": 28.049995,
+    "sport": "running"
   },
   {
     "name": "Crosul Primaverii Sovata",
@@ -941,7 +987,8 @@
     "month": 4,
     "day": 20,
     "lat": 46.583295,
-    "lon": 25.066695
+    "lon": 25.066695,
+    "sport": "running"
   },
   {
     "name": "Ovidio Running Constanța",
@@ -960,7 +1007,8 @@
     "month": 4,
     "day": 20,
     "lat": 44.159805,
-    "lon": 28.634795
+    "lon": 28.634795,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Iași",
@@ -982,7 +1030,8 @@
     "month": 4,
     "day": 21,
     "lat": 47.1574305088,
-    "lon": 27.5869456538
+    "lon": 27.5869456538,
+    "sport": "running"
   },
   {
     "name": "Bucharest International Half Marathon",
@@ -1003,7 +1052,8 @@
     "month": 4,
     "day": 21,
     "lat": 44.4223331273,
-    "lon": 26.1548281031
+    "lon": 26.1548281031,
+    "sport": "running"
   },
   {
     "name": "Lunca Timișului Trophy",
@@ -1024,7 +1074,8 @@
     "month": 4,
     "day": 21,
     "lat": 45.7167,
-    "lon": 21.333305
+    "lon": 21.333305,
+    "sport": "running"
   },
   {
     "name": "Medieval Trail Race",
@@ -1044,7 +1095,8 @@
     "month": 4,
     "day": 27,
     "lat": 46.266695,
-    "lon": 21.633305
+    "lon": 21.633305,
+    "sport": "running"
   },
   {
     "name": "Alergăraș în Făgăraș",
@@ -1067,7 +1119,8 @@
     "month": 4,
     "day": 27,
     "lat": 45.8417,
-    "lon": 24.975
+    "lon": 24.975,
+    "sport": "running"
   },
   {
     "name": "Forest Race Marghita",
@@ -1088,7 +1141,8 @@
     "month": 4,
     "day": 27,
     "lat": 47.3333,
-    "lon": 22.333295
+    "lon": 22.333295,
+    "sport": "running"
   },
   {
     "name": "Sălciua Trail Run",
@@ -1109,7 +1163,8 @@
     "month": 4,
     "day": 27,
     "lat": 46.4833,
-    "lon": 23.2833
+    "lon": 23.2833,
+    "sport": "running"
   },
   {
     "name": "RotaRun for Charity - Cluj",
@@ -1130,7 +1185,8 @@
     "month": 4,
     "day": 27,
     "lat": 46.7686878405,
-    "lon": 23.5717252975
+    "lon": 23.5717252975,
+    "sport": "running"
   },
   {
     "name": "Feleacu Running Hills",
@@ -1150,7 +1206,8 @@
     "month": 4,
     "day": 27,
     "lat": 46.7333,
-    "lon": 23.5833
+    "lon": 23.5833,
+    "sport": "running"
   },
   {
     "name": "Somova eXtreme",
@@ -1169,7 +1226,8 @@
     "month": 4,
     "day": 27,
     "lat": 45.2,
-    "lon": 28.8833
+    "lon": 28.8833,
+    "sport": "running"
   },
   {
     "name": "Cursa pentru Sanatate - Baia Mare",
@@ -1189,7 +1247,8 @@
     "month": 4,
     "day": 27,
     "lat": 47.66671,
-    "lon": 23.58329
+    "lon": 23.58329,
+    "sport": "running"
   },
   {
     "name": "Maraton Bârzava - Csíkborzsova maraton",
@@ -1208,7 +1267,8 @@
     "month": 4,
     "day": 27,
     "lat": 46.43163039441392,
-    "lon": 25.82130424456892
+    "lon": 25.82130424456892,
+    "sport": "running"
   },
   {
     "name": "Urme pe Play",
@@ -1230,7 +1290,8 @@
     "month": 4,
     "day": 28,
     "lat": 45.6333,
-    "lon": 24.1167
+    "lon": 24.1167,
+    "sport": "running"
   },
   {
     "name": "Crosul Invictus Argeș",
@@ -1250,7 +1311,8 @@
     "month": 4,
     "day": 28,
     "lat": 44.879995,
-    "lon": 24.860005
+    "lon": 24.860005,
+    "sport": "running"
   },
   {
     "name": "Crosul Veteranilor - Tulcea",
@@ -1270,7 +1332,8 @@
     "month": 4,
     "day": 28,
     "lat": 45.176695,
-    "lon": 28.802205
+    "lon": 28.802205,
+    "sport": "running"
   },
   {
     "name": "Crosul Pădurenilor",
@@ -1289,7 +1352,8 @@
     "month": 5,
     "day": 1,
     "lat": 45.4333,
-    "lon": 22.8667
+    "lon": 22.8667,
+    "sport": "running"
   },
   {
     "name": "Ziua de alergare Gall Lajos",
@@ -1309,7 +1373,8 @@
     "month": 5,
     "day": 4,
     "lat": 45.8667,
-    "lon": 25.95
+    "lon": 25.95,
+    "sport": "running"
   },
   {
     "name": "Crosul de Noapte Cluj (primavara)",
@@ -1329,7 +1394,8 @@
     "month": 5,
     "day": 10,
     "lat": 46.7686778405,
-    "lon": 23.5716952975
+    "lon": 23.5716952975,
+    "sport": "running"
   },
   {
     "name": "Maraton Tarcău",
@@ -1349,7 +1415,8 @@
     "month": 5,
     "day": 11,
     "lat": 46.7,
-    "lon": 26.1833
+    "lon": 26.1833,
+    "sport": "running"
   },
   {
     "name": "Subcarpați Trail Run",
@@ -1372,7 +1439,8 @@
     "month": 5,
     "day": 11,
     "lat": 44.9833,
-    "lon": 25.783295
+    "lon": 25.783295,
+    "sport": "running"
   },
   {
     "name": "Thermal Trail Race",
@@ -1392,7 +1460,8 @@
     "month": 5,
     "day": 11,
     "lat": 47.0167,
-    "lon": 21.8833
+    "lon": 21.8833,
+    "sport": "running"
   },
   {
     "name": "Tușnad Marathon",
@@ -1411,7 +1480,8 @@
     "month": 5,
     "day": 11,
     "lat": 46.1333,
-    "lon": 25.8833
+    "lon": 25.8833,
+    "sport": "running"
   },
   {
     "name": "Crosul Primaverii - Mediaș",
@@ -1430,7 +1500,8 @@
     "month": 5,
     "day": 11,
     "lat": 46.1583,
-    "lon": 24.358295
+    "lon": 24.358295,
+    "sport": "running"
   },
   {
     "name": "Romanați Trail Run",
@@ -1451,7 +1522,8 @@
     "month": 5,
     "day": 11,
     "lat": 44.116695,
-    "lon": 24.349995
+    "lon": 24.349995,
+    "sport": "running"
   },
   {
     "name": "Bucharest Half Marathon",
@@ -1472,7 +1544,8 @@
     "month": 5,
     "day": 12,
     "lat": 44.4273690467,
-    "lon": 26.0923982546
+    "lon": 26.0923982546,
+    "sport": "running"
   },
   {
     "name": "Mureș Half Marathon",
@@ -1492,7 +1565,8 @@
     "month": 5,
     "day": 12,
     "lat": 46.54169,
-    "lon": 24.55829
+    "lon": 24.55829,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Timotion",
@@ -1512,7 +1586,8 @@
     "month": 5,
     "day": 12,
     "lat": 45.7537914831,
-    "lon": 21.2260004857
+    "lon": 21.2260004857,
+    "sport": "running"
   },
   {
     "name": "Crosul Alearga Pentru Viata - București",
@@ -1531,7 +1606,8 @@
     "month": 5,
     "day": 12,
     "lat": 44.4223431273,
-    "lon": 26.1548581031
+    "lon": 26.1548581031,
+    "sport": "running"
   },
   {
     "name": "Crosul O zi cu tata - Arad",
@@ -1550,7 +1626,8 @@
     "month": 5,
     "day": 12,
     "lat": 46.1866,
-    "lon": 21.31229
+    "lon": 21.31229,
+    "sport": "running"
   },
   {
     "name": "Crosul ULBS",
@@ -1571,7 +1648,8 @@
     "month": 5,
     "day": 17,
     "lat": 45.797495,
-    "lon": 24.1508
+    "lon": 24.1508,
+    "sport": "running"
   },
   {
     "name": "Tour de Tur",
@@ -1591,7 +1669,8 @@
     "month": 5,
     "day": 18,
     "lat": 47.8,
-    "lon": 23.1833
+    "lon": 23.1833,
+    "sport": "running"
   },
   {
     "name": "The Color Run - Cluj-Napoca",
@@ -1610,7 +1689,8 @@
     "month": 5,
     "day": 18,
     "lat": 46.7686778405,
-    "lon": 23.5716852975
+    "lon": 23.5716852975,
+    "sport": "running"
   },
   {
     "name": "EcoRun Moieciu",
@@ -1630,7 +1710,8 @@
     "month": 5,
     "day": 18,
     "lat": 45.4833,
-    "lon": 25.3167
+    "lon": 25.3167,
+    "sport": "running"
   },
   {
     "name": "Crosul Cetăților - Măderat - Șiria",
@@ -1650,7 +1731,8 @@
     "month": 5,
     "day": 18,
     "lat": 46.266705,
-    "lon": 21.633305
+    "lon": 21.633305,
+    "sport": "running"
   },
   {
     "name": "Run On Pustnicu",
@@ -1670,7 +1752,8 @@
     "month": 5,
     "day": 18,
     "lat": 44.45,
-    "lon": 26.2333
+    "lon": 26.2333,
+    "sport": "running"
   },
   {
     "name": "Micalaca Run",
@@ -1689,7 +1772,8 @@
     "month": 5,
     "day": 18,
     "lat": 46.1866,
-    "lon": 21.3123
+    "lon": 21.3123,
+    "sport": "running"
   },
   {
     "name": "EU4Cahul",
@@ -1710,7 +1794,8 @@
     "month": 5,
     "day": 18,
     "lat": 45.9,
-    "lon": 28.1833
+    "lon": 28.1833,
+    "sport": "running"
   },
   {
     "name": "Soldanesti Run",
@@ -1731,7 +1816,8 @@
     "month": 5,
     "day": 18,
     "lat": 47.8167,
-    "lon": 28.7833
+    "lon": 28.7833,
+    "sport": "running"
   },
   {
     "name": "Pitești Half Marathon",
@@ -1752,7 +1838,8 @@
     "month": 5,
     "day": 19,
     "lat": 44.860395,
-    "lon": 24.870295
+    "lon": 24.870295,
+    "sport": "running"
   },
   {
     "name": "Cros Drag de Viață",
@@ -1771,7 +1858,8 @@
     "month": 5,
     "day": 19,
     "lat": 47.1574505088,
-    "lon": 27.5869456538
+    "lon": 27.5869456538,
+    "sport": "running"
   },
   {
     "name": "Slatina City Run",
@@ -1791,7 +1879,8 @@
     "month": 5,
     "day": 19,
     "lat": 44.4333,
-    "lon": 24.3667
+    "lon": 24.3667,
+    "sport": "running"
   },
   {
     "name": "Triathlon Roua",
@@ -1812,7 +1901,8 @@
     "month": 5,
     "day": 19,
     "lat": 47.1574505088,
-    "lon": 27.5869556538
+    "lon": 27.5869556538,
+    "sport": "running"
   },
   {
     "name": "La Petrovaselo in vie",
@@ -1833,7 +1923,8 @@
     "month": 5,
     "day": 25,
     "lat": 45.7667,
-    "lon": 21.5
+    "lon": 21.5,
+    "sport": "running"
   },
   {
     "name": "Transylvania 100",
@@ -1856,7 +1947,8 @@
     "month": 5,
     "day": 25,
     "lat": 45.5167,
-    "lon": 25.366695
+    "lon": 25.366695,
+    "sport": "running"
   },
   {
     "name": "Semimaratonul Casa Bună Sânpetru",
@@ -1876,7 +1968,8 @@
     "month": 5,
     "day": 25,
     "lat": 45.7,
-    "lon": 25.65
+    "lon": 25.65,
+    "sport": "running"
   },
   {
     "name": "Maraton Sibiu",
@@ -1900,7 +1993,8 @@
     "month": 5,
     "day": 25,
     "lat": 45.797495,
-    "lon": 24.15079
+    "lon": 24.15079,
+    "sport": "running"
   },
   {
     "name": "The Color Run - Timișoara",
@@ -1919,7 +2013,8 @@
     "month": 5,
     "day": 25,
     "lat": 45.7538014831,
-    "lon": 21.2260004857
+    "lon": 21.2260004857,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Fetești",
@@ -1939,7 +2034,8 @@
     "month": 5,
     "day": 25,
     "lat": 44.3667,
-    "lon": 27.8333
+    "lon": 27.8333,
+    "sport": "running"
   },
   {
     "name": "Crosul Lacului Albastru",
@@ -1959,7 +2055,8 @@
     "month": 5,
     "day": 25,
     "lat": 47.6667,
-    "lon": 23.6833
+    "lon": 23.6833,
+    "sport": "running"
   },
   {
     "name": "Crosul Ziua Olimpica - Brașov",
@@ -1978,7 +2075,8 @@
     "month": 5,
     "day": 25,
     "lat": 45.6427,
-    "lon": 25.588715
+    "lon": 25.588715,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Galați",
@@ -1999,7 +2097,8 @@
     "month": 5,
     "day": 26,
     "lat": 45.435295,
-    "lon": 28.049995
+    "lon": 28.049995,
+    "sport": "running"
   },
   {
     "name": "Maratonul Nisipului",
@@ -2020,7 +2119,8 @@
     "month": 5,
     "day": 26,
     "lat": 44.159795,
-    "lon": 28.634795
+    "lon": 28.634795,
+    "sport": "running"
   },
   {
     "name": "King's Cross",
@@ -2040,7 +2140,8 @@
     "month": 5,
     "day": 26,
     "lat": 46.1833,
-    "lon": 22.016705
+    "lon": 22.016705,
+    "sport": "running"
   },
   {
     "name": "Legal Half-Marathon - Chișinău",
@@ -2061,7 +2162,8 @@
     "month": 5,
     "day": 26,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Ultrabug",
@@ -2084,7 +2186,8 @@
     "month": 5,
     "day": 31,
     "lat": 47.55,
-    "lon": 25.4167
+    "lon": 25.4167,
+    "sport": "running"
   },
   {
     "name": "Festivalul Sporturilor Iași",
@@ -2107,7 +2210,8 @@
     "month": 6,
     "day": 1,
     "lat": 47.1574305088,
-    "lon": 27.5869556538
+    "lon": 27.5869556538,
+    "sport": "running"
   },
   {
     "name": "Brașov Marathon",
@@ -2129,7 +2233,8 @@
     "month": 6,
     "day": 1,
     "lat": 45.64269,
-    "lon": 25.588715
+    "lon": 25.588715,
+    "sport": "running"
   },
   {
     "name": "Maratonul Codrului",
@@ -2149,7 +2254,8 @@
     "month": 6,
     "day": 1,
     "lat": 47.55,
-    "lon": 22.6833
+    "lon": 22.6833,
+    "sport": "running"
   },
   {
     "name": "Măcin Mountain Fun",
@@ -2169,7 +2275,8 @@
     "month": 6,
     "day": 1,
     "lat": 45.149995,
-    "lon": 28.166695
+    "lon": 28.166695,
+    "sport": "running"
   },
   {
     "name": "Marea provocare de mișcare",
@@ -2188,7 +2295,8 @@
     "month": 6,
     "day": 1,
     "lat": 45.86669,
-    "lon": 25.7833
+    "lon": 25.7833,
+    "sport": "running"
   },
   {
     "name": "Crosul Teiușului",
@@ -2208,7 +2316,8 @@
     "month": 6,
     "day": 1,
     "lat": 46.2,
-    "lon": 23.6833
+    "lon": 23.6833,
+    "sport": "running"
   },
   {
     "name": "Duna Nap",
@@ -2227,7 +2336,8 @@
     "month": 6,
     "day": 1,
     "lat": 46.4333,
-    "lon": 23.616705
+    "lon": 23.616705,
+    "sport": "running"
   },
   {
     "name": "Crosul Albertina Rusu",
@@ -2246,7 +2356,8 @@
     "month": 6,
     "day": 1,
     "lat": 47.6167,
-    "lon": 25.95
+    "lon": 25.95,
+    "sport": "running"
   },
   {
     "name": "Crosul Copiilor - Veneția de Jos",
@@ -2265,7 +2376,8 @@
     "month": 6,
     "day": 1,
     "lat": 45.8333,
-    "lon": 24.8833
+    "lon": 24.8833,
+    "sport": "running"
   },
   {
     "name": "Crosul Copiilor - Baia Mare",
@@ -2284,7 +2396,8 @@
     "month": 6,
     "day": 1,
     "lat": 47.66669,
-    "lon": 23.58331
+    "lon": 23.58331,
+    "sport": "running"
   },
   {
     "name": "Cros Alergăm pentru Suflete Albastre",
@@ -2303,7 +2416,8 @@
     "month": 6,
     "day": 1,
     "lat": 48.2167,
-    "lon": 26.7167
+    "lon": 26.7167,
+    "sport": "running"
   },
   {
     "name": "Crosul Zilei Olimpice - Miercurea Ciuc",
@@ -2322,7 +2436,8 @@
     "month": 6,
     "day": 1,
     "lat": 46.366695,
-    "lon": 25.799995
+    "lon": 25.799995,
+    "sport": "running"
   },
   {
     "name": "Moonlight Rush",
@@ -2342,7 +2457,8 @@
     "month": 6,
     "day": 1,
     "lat": 47.1667,
-    "lon": 28.5167
+    "lon": 28.5167,
+    "sport": "running"
   },
   {
     "name": "Honey Run",
@@ -2367,7 +2483,8 @@
     "month": 6,
     "day": 2,
     "lat": 45.6833,
-    "lon": 21.899995
+    "lon": 21.899995,
+    "sport": "running"
   },
   {
     "name": "Maratonul Inimii Buziaș",
@@ -2388,7 +2505,8 @@
     "month": 6,
     "day": 2,
     "lat": 45.65,
-    "lon": 21.6
+    "lon": 21.6,
+    "sport": "running"
   },
   {
     "name": "Crosul Zilei Olimpice - Tulcea",
@@ -2407,7 +2525,8 @@
     "month": 6,
     "day": 2,
     "lat": 45.176705,
-    "lon": 28.802205
+    "lon": 28.802205,
+    "sport": "running"
   },
   {
     "name": "Alearga în COOLori",
@@ -2428,7 +2547,8 @@
     "month": 6,
     "day": 7,
     "lat": 46.5667,
-    "lon": 23.783295
+    "lon": 23.783295,
+    "sport": "running"
   },
   {
     "name": "Maraton Apuseni",
@@ -2451,7 +2571,8 @@
     "month": 6,
     "day": 8,
     "lat": 46.7686678405,
-    "lon": 23.5716952975
+    "lon": 23.5716952975,
+    "sport": "running"
   },
   {
     "name": "X-RUN Oradea",
@@ -2471,7 +2592,8 @@
     "month": 6,
     "day": 8,
     "lat": 47.0559509149,
-    "lon": 21.9395166774
+    "lon": 21.9395166774,
+    "sport": "running"
   },
   {
     "name": "Atinge Omu",
@@ -2490,7 +2612,8 @@
     "month": 6,
     "day": 8,
     "lat": 45.3667,
-    "lon": 25.4833
+    "lon": 25.4833,
+    "sport": "running"
   },
   {
     "name": "Race for the Cure Romania",
@@ -2509,7 +2632,8 @@
     "month": 6,
     "day": 8,
     "lat": 44.4223531273,
-    "lon": 26.1548581031
+    "lon": 26.1548581031,
+    "sport": "running"
   },
   {
     "name": "Xrace - Siriu",
@@ -2530,7 +2654,8 @@
     "month": 6,
     "day": 8,
     "lat": 45.5167,
-    "lon": 26.4167
+    "lon": 26.4167,
+    "sport": "running"
   },
   {
     "name": "Băile Harghita - Harghita Mădăraș",
@@ -2549,7 +2674,8 @@
     "month": 6,
     "day": 8,
     "lat": 46.5833,
-    "lon": 25.6167
+    "lon": 25.6167,
+    "sport": "running"
   },
   {
     "name": "Border Marathon",
@@ -2570,7 +2696,8 @@
     "month": 6,
     "day": 8,
     "lat": 47.2,
-    "lon": 27.7833
+    "lon": 27.7833,
+    "sport": "running"
   },
   {
     "name": "Cheile Nerei Bike & Trail Run Race",
@@ -2590,7 +2717,8 @@
     "month": 6,
     "day": 9,
     "lat": 44.8333,
-    "lon": 21.7167
+    "lon": 21.7167,
+    "sport": "running"
   },
   {
     "name": "Semimaratonul Eroilor Invictus - Bistrița",
@@ -2610,7 +2738,8 @@
     "month": 6,
     "day": 15,
     "lat": 47.133295,
-    "lon": 24.5
+    "lon": 24.5,
+    "sport": "running"
   },
   {
     "name": "Maraton Scaunul Domnului",
@@ -2632,7 +2761,8 @@
     "month": 6,
     "day": 15,
     "lat": 46.85,
-    "lon": 24.6167
+    "lon": 24.6167,
+    "sport": "running"
   },
   {
     "name": "Maraton Maramureș",
@@ -2654,7 +2784,8 @@
     "month": 6,
     "day": 15,
     "lat": 47.66669,
-    "lon": 23.58329
+    "lon": 23.58329,
+    "sport": "running"
   },
   {
     "name": "Bloodfluencer Marathon",
@@ -2676,7 +2807,8 @@
     "month": 6,
     "day": 15,
     "lat": 45.7167,
-    "lon": 25.15
+    "lon": 25.15,
+    "sport": "running"
   },
   {
     "name": "The Color Run - Iași",
@@ -2695,7 +2827,8 @@
     "month": 6,
     "day": 15,
     "lat": 47.1574305088,
-    "lon": 27.5869656538
+    "lon": 27.5869656538,
+    "sport": "running"
   },
   {
     "name": "Retezat SkyRace",
@@ -2716,7 +2849,8 @@
     "month": 6,
     "day": 15,
     "lat": 45.3167,
-    "lon": 23.3833
+    "lon": 23.3833,
+    "sport": "running"
   },
   {
     "name": "Șureanu Race 4x2000",
@@ -2735,7 +2869,8 @@
     "month": 6,
     "day": 15,
     "lat": 45.75,
-    "lon": 23.55
+    "lon": 23.55,
+    "sport": "running"
   },
   {
     "name": "Beard Run - Crosul Treptelor",
@@ -2755,7 +2890,8 @@
     "month": 6,
     "day": 15,
     "lat": 46.7687078405,
-    "lon": 23.5717152975
+    "lon": 23.5717152975,
+    "sport": "running"
   },
   {
     "name": "Boboc Air Base Run",
@@ -2774,7 +2910,8 @@
     "month": 6,
     "day": 15,
     "lat": 45.2833,
-    "lon": 27.0667
+    "lon": 27.0667,
+    "sport": "running"
   },
   {
     "name": "Sports Festival Cluj - Crosul Supereroilor",
@@ -2794,7 +2931,8 @@
     "month": 6,
     "day": 16,
     "lat": 46.7686678405,
-    "lon": 23.5717252975
+    "lon": 23.5717252975,
+    "sport": "running"
   },
   {
     "name": "Maratonul Târnavei",
@@ -2815,7 +2953,8 @@
     "month": 6,
     "day": 16,
     "lat": 46.3333,
-    "lon": 24.2833
+    "lon": 24.2833,
+    "sport": "running"
   },
   {
     "name": "Pedala in Banie",
@@ -2835,7 +2974,8 @@
     "month": 6,
     "day": 16,
     "lat": 44.25,
-    "lon": 23.7667
+    "lon": 23.7667,
+    "sport": "running"
   },
   {
     "name": "Roșia Montană Marathon",
@@ -2856,7 +2996,8 @@
     "month": 6,
     "day": 22,
     "lat": 46.3167,
-    "lon": 23.1167
+    "lon": 23.1167,
+    "sport": "running"
   },
   {
     "name": "Andurant Sprint Rafael",
@@ -2877,7 +3018,8 @@
     "month": 6,
     "day": 22,
     "lat": 45.7,
-    "lon": 25.449995
+    "lon": 25.449995,
+    "sport": "running"
   },
   {
     "name": "Crosul Ziua Olimpica - Craiova",
@@ -2897,7 +3039,8 @@
     "month": 6,
     "day": 22,
     "lat": 44.3167,
-    "lon": 23.783305
+    "lon": 23.783305,
+    "sport": "running"
   },
   {
     "name": "Geopark Mehedinți Adventure",
@@ -2917,7 +3060,8 @@
     "month": 6,
     "day": 22,
     "lat": 47.6833,
-    "lon": 23.7
+    "lon": 23.7,
+    "sport": "running"
   },
   {
     "name": "Cros Montan Traversare Igniș",
@@ -2937,7 +3081,8 @@
     "month": 6,
     "day": 22,
     "lat": 47.6667,
-    "lon": 23.58329
+    "lon": 23.58329,
+    "sport": "running"
   },
   {
     "name": "Hoia Baciu Night Run",
@@ -2958,7 +3103,8 @@
     "month": 6,
     "day": 22,
     "lat": 46.7686978405,
-    "lon": 23.5717052975
+    "lon": 23.5717052975,
+    "sport": "running"
   },
   {
     "name": "Crosul Agnitei",
@@ -2978,7 +3124,8 @@
     "month": 6,
     "day": 22,
     "lat": 45.9667,
-    "lon": 24.65
+    "lon": 24.65,
+    "sport": "running"
   },
   {
     "name": "Zaiafet Wine Run (Băneasa)",
@@ -2999,7 +3146,8 @@
     "month": 6,
     "day": 22,
     "lat": 44.4223731273,
-    "lon": 26.1548581031
+    "lon": 26.1548581031,
+    "sport": "running"
   },
   {
     "name": "Traian Trail",
@@ -3020,7 +3168,8 @@
     "month": 6,
     "day": 22,
     "lat": 46.6167,
-    "lon": 27.05
+    "lon": 27.05,
+    "sport": "running"
   },
   {
     "name": "Crosul Bucuria Alergării cu Invictus",
@@ -3040,7 +3189,8 @@
     "month": 6,
     "day": 22,
     "lat": 44.950005,
-    "lon": 26.0167
+    "lon": 26.0167,
+    "sport": "running"
   },
   {
     "name": "Ecomaraton La Fetești",
@@ -3061,7 +3211,8 @@
     "month": 6,
     "day": 22,
     "lat": 47.5833,
-    "lon": 28.5833
+    "lon": 28.5833,
+    "sport": "running"
   },
   {
     "name": "Pitești 4 Seasons Running - Summer",
@@ -3080,7 +3231,8 @@
     "month": 6,
     "day": 23,
     "lat": 44.858295,
-    "lon": 24.86331
+    "lon": 24.86331,
+    "sport": "running"
   },
   {
     "name": "Crosul Hoia",
@@ -3101,7 +3253,8 @@
     "month": 6,
     "day": 29,
     "lat": 46.7686778405,
-    "lon": 23.5717252975
+    "lon": 23.5717252975,
+    "sport": "running"
   },
   {
     "name": "Teleki Trail",
@@ -3123,7 +3276,8 @@
     "month": 6,
     "day": 29,
     "lat": 46.583295,
-    "lon": 25.066705
+    "lon": 25.066705,
+    "sport": "running"
   },
   {
     "name": "Run To The Hills",
@@ -3144,7 +3298,8 @@
     "month": 6,
     "day": 29,
     "lat": 47.1667,
-    "lon": 22.9
+    "lon": 22.9,
+    "sport": "running"
   },
   {
     "name": "Ultra Zarand History - Șoimoș",
@@ -3165,7 +3320,8 @@
     "month": 6,
     "day": 29,
     "lat": 46.1333,
-    "lon": 21.55
+    "lon": 21.55,
+    "sport": "running"
   },
   {
     "name": "Bucharest 10K Grand Prix",
@@ -3185,7 +3341,8 @@
     "month": 6,
     "day": 29,
     "lat": 44.4223731273,
-    "lon": 26.1548681031
+    "lon": 26.1548681031,
+    "sport": "running"
   },
   {
     "name": "Crosul Orasului Mioveni 1485",
@@ -3207,7 +3364,8 @@
     "month": 6,
     "day": 30,
     "lat": 44.9667,
-    "lon": 24.95
+    "lon": 24.95,
+    "sport": "running"
   },
   {
     "name": "Budureasa Mountain Running",
@@ -3227,7 +3385,8 @@
     "month": 6,
     "day": 30,
     "lat": 46.75,
-    "lon": 22.3833
+    "lon": 22.3833,
+    "sport": "running"
   },
   {
     "name": "Cozia Mountain Run",
@@ -3248,7 +3407,8 @@
     "month": 7,
     "day": 6,
     "lat": 45.2810779374,
-    "lon": 24.3126121287
+    "lon": 24.3126121287,
+    "sport": "running"
   },
   {
     "name": "Maraton Legendele Nemirei",
@@ -3268,7 +3428,8 @@
     "month": 7,
     "day": 6,
     "lat": 46.2333,
-    "lon": 26.4167
+    "lon": 26.4167,
+    "sport": "running"
   },
   {
     "name": "Carpathia Trails",
@@ -3292,7 +3453,8 @@
     "month": 7,
     "day": 6,
     "lat": 45.5667,
-    "lon": 25.3167
+    "lon": 25.3167,
+    "sport": "running"
   },
   {
     "name": "Rodnei Sky Race",
@@ -3313,7 +3475,8 @@
     "month": 7,
     "day": 6,
     "lat": 47.65,
-    "lon": 24.6667
+    "lon": 24.6667,
+    "sport": "running"
   },
   {
     "name": "Crosul Hospice - Alearga Tu Pentru Ei",
@@ -3335,7 +3498,8 @@
     "month": 7,
     "day": 6,
     "lat": 45.6333,
-    "lon": 25.583295
+    "lon": 25.583295,
+    "sport": "running"
   },
   {
     "name": "Scărița Everesting",
@@ -3356,7 +3520,8 @@
     "month": 7,
     "day": 6,
     "lat": 46.4,
-    "lon": 23.3833
+    "lon": 23.3833,
+    "sport": "running"
   },
   {
     "name": "Predeal Forest Run",
@@ -3378,7 +3543,8 @@
     "month": 7,
     "day": 13,
     "lat": 45.5,
-    "lon": 25.5833
+    "lon": 25.5833,
+    "sport": "running"
   },
   {
     "name": "Budeasa Swim & Run",
@@ -3397,7 +3563,8 @@
     "month": 7,
     "day": 13,
     "lat": 44.9833,
-    "lon": 24.833295
+    "lon": 24.833295,
+    "sport": "running"
   },
   {
     "name": "Movila Măgura Everesting Challenge",
@@ -3416,7 +3583,8 @@
     "month": 7,
     "day": 13,
     "lat": 46.8,
-    "lon": 28.6
+    "lon": 28.6,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Țara de Piatră",
@@ -3437,7 +3605,8 @@
     "month": 7,
     "day": 14,
     "lat": 46.3667,
-    "lon": 23.05
+    "lon": 23.05,
+    "sport": "running"
   },
   {
     "name": "Zynir Bike & Run",
@@ -3458,7 +3627,8 @@
     "month": 7,
     "day": 14,
     "lat": 47.75,
-    "lon": 23.2833
+    "lon": 23.2833,
+    "sport": "running"
   },
   {
     "name": "Buila Trail Race",
@@ -3479,7 +3649,8 @@
     "month": 7,
     "day": 20,
     "lat": 44.9833,
-    "lon": 23.9667
+    "lon": 23.9667,
+    "sport": "running"
   },
   {
     "name": "Burduf Challenge",
@@ -3499,7 +3670,8 @@
     "month": 7,
     "day": 20,
     "lat": 45.5833,
-    "lon": 24.1167
+    "lon": 24.1167,
+    "sport": "running"
   },
   {
     "name": "Szent Gellert Cross",
@@ -3520,7 +3692,8 @@
     "month": 7,
     "day": 21,
     "lat": 46.85,
-    "lon": 25.5333
+    "lon": 25.5333,
+    "sport": "running"
   },
   {
     "name": "Cros Montan Borsec",
@@ -3539,7 +3712,8 @@
     "month": 7,
     "day": 21,
     "lat": 46.9667,
-    "lon": 25.5333
+    "lon": 25.5333,
+    "sport": "running"
   },
   {
     "name": "Făgăraș Rocks",
@@ -3563,7 +3737,8 @@
     "month": 7,
     "day": 27,
     "lat": 45.7167,
-    "lon": 25.45
+    "lon": 25.45,
+    "sport": "running"
   },
   {
     "name": "Bucovina Ultra Rocks",
@@ -3588,7 +3763,8 @@
     "month": 7,
     "day": 27,
     "lat": 47.5167,
-    "lon": 25.566695
+    "lon": 25.566695,
+    "sport": "running"
   },
   {
     "name": "The Color Run - Mamaia",
@@ -3607,7 +3783,8 @@
     "month": 7,
     "day": 27,
     "lat": 44.2667,
-    "lon": 28.633295
+    "lon": 28.633295,
+    "sport": "running"
   },
   {
     "name": "Corcova Fest",
@@ -3627,7 +3804,8 @@
     "month": 7,
     "day": 27,
     "lat": 44.85,
-    "lon": 22.8167
+    "lon": 22.8167,
+    "sport": "running"
   },
   {
     "name": "Cindrel In Alergare",
@@ -3649,7 +3827,8 @@
     "month": 7,
     "day": 27,
     "lat": 45.55,
-    "lon": 23.9667
+    "lon": 23.9667,
+    "sport": "running"
   },
   {
     "name": "Căsoaia Bike, Run & Fun",
@@ -3669,7 +3848,8 @@
     "month": 7,
     "day": 28,
     "lat": 46.283305,
-    "lon": 21.749995
+    "lon": 21.749995,
+    "sport": "running"
   },
   {
     "name": "Zalău Ultra Trail",
@@ -3693,7 +3873,8 @@
     "month": 8,
     "day": 3,
     "lat": 47.1833,
-    "lon": 23.058295
+    "lon": 23.058295,
+    "sport": "running"
   },
   {
     "name": "Mogosa Everesting",
@@ -3712,7 +3893,8 @@
     "month": 8,
     "day": 3,
     "lat": 47.7333,
-    "lon": 23.733295
+    "lon": 23.733295,
+    "sport": "running"
   },
   {
     "name": "Mureș 24H",
@@ -3733,7 +3915,8 @@
     "month": 8,
     "day": 3,
     "lat": 46.558295,
-    "lon": 24.57499
+    "lon": 24.57499,
+    "sport": "running"
   },
   {
     "name": "Tura Licuricilor",
@@ -3752,7 +3935,8 @@
     "month": 8,
     "day": 3,
     "lat": 45.7538114831,
-    "lon": 21.2259904857
+    "lon": 21.2259904857,
+    "sport": "running"
   },
   {
     "name": "Smida Trail Run",
@@ -3772,7 +3956,8 @@
     "month": 8,
     "day": 3,
     "lat": 46.65,
-    "lon": 22.9333
+    "lon": 22.9333,
+    "sport": "running"
   },
   {
     "name": "Maratonul Nordului - Teioasa Trail",
@@ -3793,7 +3978,8 @@
     "month": 8,
     "day": 4,
     "lat": 48.1833,
-    "lon": 26.5833
+    "lon": 26.5833,
+    "sport": "running"
   },
   {
     "name": "Retezat Mountain Run",
@@ -3815,7 +4001,8 @@
     "month": 8,
     "day": 10,
     "lat": 45.3833,
-    "lon": 22.8833
+    "lon": 22.8833,
+    "sport": "running"
   },
   {
     "name": "Crosul Siretului",
@@ -3834,7 +4021,8 @@
     "month": 8,
     "day": 10,
     "lat": 47.2833,
-    "lon": 26.9833
+    "lon": 26.9833,
+    "sport": "running"
   },
   {
     "name": "Stafeta Prieteniei IPA",
@@ -3853,7 +4041,8 @@
     "month": 8,
     "day": 10,
     "lat": 44.6333,
-    "lon": 22.649995
+    "lon": 22.649995,
+    "sport": "running"
   },
   {
     "name": "Alerg in Dumbrava",
@@ -3874,7 +4063,8 @@
     "month": 8,
     "day": 10,
     "lat": 45.05,
-    "lon": 25.1833
+    "lon": 25.1833,
+    "sport": "running"
   },
   {
     "name": "Maraton Granitul Greci",
@@ -3894,7 +4084,8 @@
     "month": 8,
     "day": 10,
     "lat": 45.149995,
-    "lon": 28.166705
+    "lon": 28.166705,
+    "sport": "running"
   },
   {
     "name": "Castle Run",
@@ -3913,7 +4104,8 @@
     "month": 8,
     "day": 18,
     "lat": 46.8167,
-    "lon": 25.4833
+    "lon": 25.4833,
+    "sport": "running"
   },
   {
     "name": "Hit the egg - Ouşoru Challenge",
@@ -3934,7 +4126,8 @@
     "month": 8,
     "day": 18,
     "lat": 47.349995,
-    "lon": 25.366705
+    "lon": 25.366705,
+    "sport": "running"
   },
   {
     "name": "GLS Night Cross Challenge Sibiu",
@@ -3954,7 +4147,8 @@
     "month": 8,
     "day": 23,
     "lat": 45.7833,
-    "lon": 24.149995
+    "lon": 24.149995,
+    "sport": "running"
   },
   {
     "name": "2x2 Race",
@@ -3975,7 +4169,8 @@
     "month": 8,
     "day": 24,
     "lat": 45.59,
-    "lon": 24.6267
+    "lon": 24.6267,
+    "sport": "running"
   },
   {
     "name": "Via Transilvanica Maraton",
@@ -3996,7 +4191,8 @@
     "month": 8,
     "day": 24,
     "lat": 47,
-    "lon": 24.783295
+    "lon": 24.783295,
+    "sport": "running"
   },
   {
     "name": "Underdogs - The Backyard Ultra",
@@ -4015,7 +4211,8 @@
     "month": 8,
     "day": 24,
     "lat": 45.1167,
-    "lon": 25.85
+    "lon": 25.85,
+    "sport": "running"
   },
   {
     "name": "Oslea Run",
@@ -4037,7 +4234,8 @@
     "month": 8,
     "day": 24,
     "lat": 45.3333,
-    "lon": 23.4167
+    "lon": 23.4167,
+    "sport": "running"
   },
   {
     "name": "Arad Half Marathon",
@@ -4059,7 +4257,8 @@
     "month": 8,
     "day": 24,
     "lat": 46.1833,
-    "lon": 21.316705
+    "lon": 21.316705,
+    "sport": "running"
   },
   {
     "name": "Codru Ultra Trail",
@@ -4078,7 +4277,8 @@
     "month": 8,
     "day": 24,
     "lat": 47.3167,
-    "lon": 28.7333
+    "lon": 28.7333,
+    "sport": "running"
   },
   {
     "name": "Maratonul Olteniei",
@@ -4098,7 +4298,8 @@
     "month": 8,
     "day": 25,
     "lat": 45.1003,
-    "lon": 24.3694
+    "lon": 24.3694,
+    "sport": "running"
   },
   {
     "name": "Râșnov Medieval Run",
@@ -4119,7 +4320,8 @@
     "month": 8,
     "day": 31,
     "lat": 45.591695,
-    "lon": 25.458295
+    "lon": 25.458295,
+    "sport": "running"
   },
   {
     "name": "Jidvei Weinland Trails",
@@ -4142,7 +4344,8 @@
     "month": 8,
     "day": 31,
     "lat": 46.2167,
-    "lon": 24.0833
+    "lon": 24.0833,
+    "sport": "running"
   },
   {
     "name": "Dac Warrior",
@@ -4162,7 +4365,8 @@
     "month": 8,
     "day": 31,
     "lat": 45.083295,
-    "lon": 26.133295
+    "lon": 26.133295,
+    "sport": "running"
   },
   {
     "name": "Scorilo Sky Race",
@@ -4184,7 +4388,8 @@
     "month": 8,
     "day": 31,
     "lat": 45.2167,
-    "lon": 22.516695
+    "lon": 22.516695,
+    "sport": "running"
   },
   {
     "name": "Hargita Trail Race",
@@ -4205,7 +4410,8 @@
     "month": 8,
     "day": 31,
     "lat": 46.5167,
-    "lon": 25.7667
+    "lon": 25.7667,
+    "sport": "running"
   },
   {
     "name": "AniRUN",
@@ -4226,7 +4432,8 @@
     "month": 9,
     "day": 1,
     "lat": 46.1667,
-    "lon": 21.25
+    "lon": 21.25,
+    "sport": "running"
   },
   {
     "name": "Vrancea Montană Run",
@@ -4246,7 +4453,8 @@
     "month": 9,
     "day": 1,
     "lat": 45.7167,
-    "lon": 27.1167
+    "lon": 27.1167,
+    "sport": "running"
   },
   {
     "name": "Ciucaș X3",
@@ -4267,7 +4475,8 @@
     "month": 9,
     "day": 7,
     "lat": 45.3833,
-    "lon": 26.0167
+    "lon": 26.0167,
+    "sport": "running"
   },
   {
     "name": "CugiRace",
@@ -4289,7 +4498,8 @@
     "month": 9,
     "day": 7,
     "lat": 45.8333,
-    "lon": 23.366695
+    "lon": 23.366695,
+    "sport": "running"
   },
   {
     "name": "Cros Popestiul in Miscare",
@@ -4308,7 +4518,8 @@
     "month": 9,
     "day": 7,
     "lat": 44.3833,
-    "lon": 26.1833
+    "lon": 26.1833,
+    "sport": "running"
   },
   {
     "name": "Castelul din Carpati - Pasul Vâlcan",
@@ -4327,7 +4538,8 @@
     "month": 9,
     "day": 7,
     "lat": 45.3833,
-    "lon": 23.2833
+    "lon": 23.2833,
+    "sport": "running"
   },
   {
     "name": "Crosul Cetății Oradea",
@@ -4347,7 +4559,8 @@
     "month": 9,
     "day": 7,
     "lat": 47.0559609149,
-    "lon": 21.9395166774
+    "lon": 21.9395166774,
+    "sport": "running"
   },
   {
     "name": "Cros pentru Viata - Gherla",
@@ -4366,7 +4579,8 @@
     "month": 9,
     "day": 7,
     "lat": 47.0333,
-    "lon": 23.9
+    "lon": 23.9,
+    "sport": "running"
   },
   {
     "name": "Brașov Heroes",
@@ -4387,7 +4601,8 @@
     "month": 9,
     "day": 8,
     "lat": 45.6167,
-    "lon": 25.5667
+    "lon": 25.5667,
+    "sport": "running"
   },
   {
     "name": "Transmaraton (Bucegi)",
@@ -4407,7 +4622,8 @@
     "month": 9,
     "day": 8,
     "lat": 45.3667,
-    "lon": 25.5167
+    "lon": 25.5167,
+    "sport": "running"
   },
   {
     "name": "Crosul Alergam pentru zambete - Loamneș",
@@ -4426,7 +4642,8 @@
     "month": 9,
     "day": 8,
     "lat": 45.9167,
-    "lon": 24.0333
+    "lon": 24.0333,
+    "sport": "running"
   },
   {
     "name": "DHTT",
@@ -4447,7 +4664,8 @@
     "month": 9,
     "day": 8,
     "lat": 46.3667,
-    "lon": 25.8333
+    "lon": 25.8333,
+    "sport": "running"
   },
   {
     "name": "EURO Marathon - Chișinău",
@@ -4466,7 +4684,8 @@
     "month": 9,
     "day": 8,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Rombat Trail Run",
@@ -4487,7 +4706,8 @@
     "month": 9,
     "day": 14,
     "lat": 47.133295,
-    "lon": 24.49999
+    "lon": 24.49999,
+    "sport": "running"
   },
   {
     "name": "Maratonul Dragomirnei",
@@ -4509,7 +4729,8 @@
     "month": 9,
     "day": 14,
     "lat": 47.6833,
-    "lon": 26.1167
+    "lon": 26.1167,
+    "sport": "running"
   },
   {
     "name": "The Color Run Night - București - Autumn",
@@ -4528,7 +4749,8 @@
     "month": 9,
     "day": 14,
     "lat": 44.4223331273,
-    "lon": 26.1548581031
+    "lon": 26.1548581031,
+    "sport": "running"
   },
   {
     "name": "Pe-un picior de Plai",
@@ -4548,7 +4770,8 @@
     "month": 9,
     "day": 14,
     "lat": 45.8,
-    "lon": 21.299995
+    "lon": 21.299995,
+    "sport": "running"
   },
   {
     "name": "Autism 24h Marea Neagra",
@@ -4567,7 +4790,8 @@
     "month": 9,
     "day": 14,
     "lat": 44.2667,
-    "lon": 28.633305
+    "lon": 28.633305,
+    "sport": "running"
   },
   {
     "name": "Running Festival Csikszereda",
@@ -4592,7 +4816,8 @@
     "month": 9,
     "day": 14,
     "lat": 46.366695,
-    "lon": 25.800005
+    "lon": 25.800005,
+    "sport": "running"
   },
   {
     "name": "Aiud Green Run",
@@ -4613,7 +4838,8 @@
     "month": 9,
     "day": 14,
     "lat": 46.3163,
-    "lon": 23.721695
+    "lon": 23.721695,
+    "sport": "running"
   },
   {
     "name": "Maratonul Dragonul de Aur",
@@ -4632,7 +4858,8 @@
     "month": 9,
     "day": 14,
     "lat": 47.35,
-    "lon": 28.8833
+    "lon": 28.8833,
+    "sport": "running"
   },
   {
     "name": "Festivalul Sporturilor București (toamnă)",
@@ -4653,7 +4880,8 @@
     "month": 9,
     "day": 15,
     "lat": 44.4223231273,
-    "lon": 26.1548681031
+    "lon": 26.1548681031,
+    "sport": "running"
   },
   {
     "name": "Baia Mare Half Marathon",
@@ -4675,7 +4903,8 @@
     "month": 9,
     "day": 15,
     "lat": 47.6667,
-    "lon": 23.5833
+    "lon": 23.5833,
+    "sport": "running"
   },
   {
     "name": "Șiria Vertical Loop 2h",
@@ -4694,7 +4923,8 @@
     "month": 9,
     "day": 21,
     "lat": 46.266705,
-    "lon": 21.633295
+    "lon": 21.633295,
+    "sport": "running"
   },
   {
     "name": "Omu Marathon",
@@ -4715,7 +4945,8 @@
     "month": 9,
     "day": 21,
     "lat": 45.5167,
-    "lon": 25.366705
+    "lon": 25.366705,
+    "sport": "running"
   },
   {
     "name": "Maraton Delta Dunării Sulina",
@@ -4736,7 +4967,8 @@
     "month": 9,
     "day": 21,
     "lat": 45.15,
-    "lon": 29.6667
+    "lon": 29.6667,
+    "sport": "running"
   },
   {
     "name": "Trail la Cabana",
@@ -4757,7 +4989,8 @@
     "month": 9,
     "day": 21,
     "lat": 47.1,
-    "lon": 27.5333
+    "lon": 27.5333,
+    "sport": "running"
   },
   {
     "name": "Gugulan MTB & RUN Caransebeș",
@@ -4777,7 +5010,8 @@
     "month": 9,
     "day": 21,
     "lat": 45.4167,
-    "lon": 22.2167
+    "lon": 22.2167,
+    "sport": "running"
   },
   {
     "name": "Sepsi Inst. Run",
@@ -4797,7 +5031,8 @@
     "month": 9,
     "day": 21,
     "lat": 45.8667,
-    "lon": 25.78329
+    "lon": 25.78329,
+    "sport": "running"
   },
   {
     "name": "Mogosa Race",
@@ -4818,7 +5053,8 @@
     "month": 9,
     "day": 21,
     "lat": 47.7333,
-    "lon": 23.733305
+    "lon": 23.733305,
+    "sport": "running"
   },
   {
     "name": "Crosul Loteriei Romane - București",
@@ -4838,7 +5074,8 @@
     "month": 9,
     "day": 21,
     "lat": 44.4223631273,
-    "lon": 26.1548781031
+    "lon": 26.1548781031,
+    "sport": "running"
   },
   {
     "name": "Ladies Run",
@@ -4857,7 +5094,8 @@
     "month": 9,
     "day": 21,
     "lat": 44.4223731273,
-    "lon": 26.1548781031
+    "lon": 26.1548781031,
+    "sport": "running"
   },
   {
     "name": "Night Run Sfântu Gheorghe",
@@ -4876,7 +5114,8 @@
     "month": 9,
     "day": 21,
     "lat": 45.86671,
-    "lon": 25.78329
+    "lon": 25.78329,
+    "sport": "running"
   },
   {
     "name": "Crosul Familiei Sfântu Gheorghe",
@@ -4895,7 +5134,8 @@
     "month": 9,
     "day": 21,
     "lat": 45.86671,
-    "lon": 25.7833
+    "lon": 25.7833,
+    "sport": "running"
   },
   {
     "name": "Alergam pe Drumul Aurului",
@@ -4915,7 +5155,8 @@
     "month": 9,
     "day": 21,
     "lat": 46.1333,
-    "lon": 22.783305
+    "lon": 22.783305,
+    "sport": "running"
   },
   {
     "name": "EcoRun de Hram la Stăuceni",
@@ -4934,7 +5175,8 @@
     "month": 9,
     "day": 21,
     "lat": 47.1,
-    "lon": 28.8167
+    "lon": 28.8167,
+    "sport": "running"
   },
   {
     "name": "Alergam Ajutam - Chișinău",
@@ -4956,7 +5198,8 @@
     "month": 9,
     "day": 21,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Oradea City Running Day",
@@ -4978,7 +5221,8 @@
     "month": 9,
     "day": 22,
     "lat": 47.0559509149,
-    "lon": 21.9394966774
+    "lon": 21.9394966774,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Brăila",
@@ -4999,7 +5243,8 @@
     "month": 9,
     "day": 22,
     "lat": 45.269195,
-    "lon": 27.957495
+    "lon": 27.957495,
+    "sport": "running"
   },
   {
     "name": "Crosul Arenelor",
@@ -5020,7 +5265,8 @@
     "month": 9,
     "day": 22,
     "lat": 44.4223331273,
-    "lon": 26.1548381031
+    "lon": 26.1548381031,
+    "sport": "running"
   },
   {
     "name": "Brașov Running Festival",
@@ -5040,7 +5286,8 @@
     "month": 9,
     "day": 22,
     "lat": 45.6427,
-    "lon": 25.588685
+    "lon": 25.588685,
+    "sport": "running"
   },
   {
     "name": "Crosul Companiilor Cluj",
@@ -5059,7 +5306,8 @@
     "month": 9,
     "day": 22,
     "lat": 46.7686778405,
-    "lon": 23.5717352975
+    "lon": 23.5717352975,
+    "sport": "running"
   },
   {
     "name": "Crosul OncoHelp",
@@ -5079,7 +5327,8 @@
     "month": 9,
     "day": 22,
     "lat": 45.7538214831,
-    "lon": 21.2259904857
+    "lon": 21.2259904857,
+    "sport": "running"
   },
   {
     "name": "Crosul Recuperarii Cluj",
@@ -5098,7 +5347,8 @@
     "month": 9,
     "day": 22,
     "lat": 46.7687178405,
-    "lon": 23.5716952975
+    "lon": 23.5716952975,
+    "sport": "running"
   },
   {
     "name": "Maraton Piatra Craiului",
@@ -5117,7 +5367,8 @@
     "month": 9,
     "day": 28,
     "lat": 45.566695,
-    "lon": 25.349995
+    "lon": 25.349995,
+    "sport": "running"
   },
   {
     "name": "Ascotid Trail Race",
@@ -5138,7 +5389,8 @@
     "month": 9,
     "day": 28,
     "lat": 46.54169,
-    "lon": 24.55831
+    "lon": 24.55831,
+    "sport": "running"
   },
   {
     "name": "Alba Iulia City Race",
@@ -5159,7 +5411,8 @@
     "month": 9,
     "day": 28,
     "lat": 46.068995,
-    "lon": 23.576295
+    "lon": 23.576295,
+    "sport": "running"
   },
   {
     "name": "Crosul Odorheiului",
@@ -5178,17 +5431,19 @@
     "month": 9,
     "day": 28,
     "lat": 46.3,
-    "lon": 25.3
+    "lon": 25.3,
+    "sport": "running"
   },
   {
-    "name": "Crosul #BeActive",
+    "name": "Crosul #BeActive - București",
     "location": "București",
     "location_details": "",
     "display_date": "Sat 28-Sep-2024",
     "county": "B",
     "type": "road",
     "distances": [
-      "5km"
+      "10km",
+      "2km"
     ],
     "link": "https://www.facebook.com/events/476179475289342/",
     "link_fb": "",
@@ -5197,7 +5452,8 @@
     "month": 9,
     "day": 28,
     "lat": 44.4223631273,
-    "lon": 26.1548281031
+    "lon": 26.1548281031,
+    "sport": "running"
   },
   {
     "name": "Alerg pentru tine Trail Run - Sucevița",
@@ -5218,7 +5474,8 @@
     "month": 9,
     "day": 28,
     "lat": 47.7,
-    "lon": 25.7167
+    "lon": 25.7167,
+    "sport": "running"
   },
   {
     "name": "Fuss NEKI! Gyergyó",
@@ -5237,7 +5494,8 @@
     "month": 9,
     "day": 28,
     "lat": 46.7167,
-    "lon": 25.5833
+    "lon": 25.5833,
+    "sport": "running"
   },
   {
     "name": "UVT Liberty Marathon Timișoara",
@@ -5262,7 +5520,8 @@
     "month": 9,
     "day": 29,
     "lat": 45.7537914831,
-    "lon": 21.2260104857
+    "lon": 21.2260104857,
+    "sport": "running"
   },
   {
     "name": "Cros Energie Pentru Toti",
@@ -5282,7 +5541,8 @@
     "month": 9,
     "day": 29,
     "lat": 44.4223831273,
-    "lon": 26.1548181031
+    "lon": 26.1548181031,
+    "sport": "running"
   },
   {
     "name": "Run4Life",
@@ -5301,7 +5561,8 @@
     "month": 9,
     "day": 29,
     "lat": 47.1574505088,
-    "lon": 27.5869656538
+    "lon": 27.5869656538,
+    "sport": "running"
   },
   {
     "name": "Bimbo Global Race Brașov",
@@ -5322,7 +5583,8 @@
     "month": 9,
     "day": 29,
     "lat": 45.64271,
-    "lon": 25.588695
+    "lon": 25.588695,
+    "sport": "running"
   },
   {
     "name": "EduRun - Cros Nocturn Caritabil - Cluj",
@@ -5343,7 +5605,8 @@
     "month": 9,
     "day": 29,
     "lat": 46.7687178405,
-    "lon": 23.5717052975
+    "lon": 23.5717052975,
+    "sport": "running"
   },
   {
     "name": "Red Mountain Bike & Run",
@@ -5362,7 +5625,8 @@
     "month": 9,
     "day": 29,
     "lat": 45.45,
-    "lon": 26.05
+    "lon": 26.05,
+    "sport": "running"
   },
   {
     "name": "Crosul impreuna pentru inimi",
@@ -5382,7 +5646,8 @@
     "month": 9,
     "day": 29,
     "lat": 45.648,
-    "lon": 25.593005
+    "lon": 25.593005,
+    "sport": "running"
   },
   {
     "name": "Chișinău Maraton",
@@ -5404,7 +5669,8 @@
     "month": 9,
     "day": 29,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Veverita Night Run",
@@ -5424,7 +5690,8 @@
     "month": 10,
     "day": 5,
     "lat": 47.349995,
-    "lon": 25.366695
+    "lon": 25.366695,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Călărași",
@@ -5446,7 +5713,8 @@
     "month": 10,
     "day": 5,
     "lat": 44.2014,
-    "lon": 27.331695
+    "lon": 27.331695,
+    "sport": "running"
   },
   {
     "name": "Gusterita Trail Run",
@@ -5468,7 +5736,8 @@
     "month": 10,
     "day": 5,
     "lat": 45.8167,
-    "lon": 24.1833
+    "lon": 24.1833,
+    "sport": "running"
   },
   {
     "name": "Crosul Regina Maria",
@@ -5488,7 +5757,8 @@
     "month": 10,
     "day": 5,
     "lat": 46.7686878405,
-    "lon": 23.5716852975
+    "lon": 23.5716852975,
+    "sport": "running"
   },
   {
     "name": "140 BPM",
@@ -5508,7 +5778,8 @@
     "month": 10,
     "day": 5,
     "lat": 44.4223431273,
-    "lon": 26.1548381031
+    "lon": 26.1548381031,
+    "sport": "running"
   },
   {
     "name": "Vâlcea Forest Run",
@@ -5529,7 +5800,8 @@
     "month": 10,
     "day": 5,
     "lat": 45.1167,
-    "lon": 24.3167
+    "lon": 24.3167,
+    "sport": "running"
   },
   {
     "name": "Mârzeşti Trail Run",
@@ -5550,7 +5822,8 @@
     "month": 10,
     "day": 5,
     "lat": 47.1167,
-    "lon": 27.5333
+    "lon": 27.5333,
+    "sport": "running"
   },
   {
     "name": "CrosISU",
@@ -5570,7 +5843,8 @@
     "month": 10,
     "day": 5,
     "lat": 46.925,
-    "lon": 26.366695
+    "lon": 26.366695,
+    "sport": "running"
   },
   {
     "name": "Hațeg Royal Trail",
@@ -5592,7 +5866,8 @@
     "month": 10,
     "day": 5,
     "lat": 45.6,
-    "lon": 22.9167
+    "lon": 22.9167,
+    "sport": "running"
   },
   {
     "name": "Run for Life - București",
@@ -5613,7 +5888,8 @@
     "month": 10,
     "day": 5,
     "lat": 44.4223531273,
-    "lon": 26.1548781031
+    "lon": 26.1548781031,
+    "sport": "running"
   },
   {
     "name": "15k Free Spirit Run Ruse - Giurgiu",
@@ -5632,7 +5908,8 @@
     "month": 10,
     "day": 5,
     "lat": 43.9017,
-    "lon": 25.9697
+    "lon": 25.9697,
+    "sport": "running"
   },
   {
     "name": "Harvest Run",
@@ -5654,7 +5931,8 @@
     "month": 10,
     "day": 5,
     "lat": 46.1833,
-    "lon": 21.4
+    "lon": 21.4,
+    "sport": "running"
   },
   {
     "name": "Cupa Călimani la alergare montana",
@@ -5674,7 +5952,8 @@
     "month": 10,
     "day": 5,
     "lat": 46.9167,
-    "lon": 25.35
+    "lon": 25.35,
+    "sport": "running"
   },
   {
     "name": "Brașov Marathon Night Challenge",
@@ -5693,7 +5972,8 @@
     "month": 10,
     "day": 5,
     "lat": 45.6427,
-    "lon": 25.588695
+    "lon": 25.588695,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Bacău",
@@ -5714,7 +5994,8 @@
     "month": 10,
     "day": 5,
     "lat": 46.567005,
-    "lon": 26.914595
+    "lon": 26.914595,
+    "sport": "running"
   },
   {
     "name": "Kahana Sprint Endurance",
@@ -5735,7 +6016,8 @@
     "month": 10,
     "day": 5,
     "lat": 46.75,
-    "lon": 22.8167
+    "lon": 22.8167,
+    "sport": "running"
   },
   {
     "name": "Alergarea Acasa la Taraboste",
@@ -5754,7 +6036,8 @@
     "month": 10,
     "day": 5,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
@@ -5773,7 +6056,8 @@
     "month": 10,
     "day": 6,
     "lat": 45.4333,
-    "lon": 23.45
+    "lon": 23.45,
+    "sport": "running"
   },
   {
     "name": "Olt Forras Trail Running Race",
@@ -5793,7 +6077,8 @@
     "month": 10,
     "day": 6,
     "lat": 46.7167,
-    "lon": 25.583295
+    "lon": 25.583295,
+    "sport": "running"
   },
   {
     "name": "Sun Challenge",
@@ -5814,7 +6099,8 @@
     "month": 10,
     "day": 6,
     "lat": 44.4223631273,
-    "lon": 26.1548481031
+    "lon": 26.1548481031,
+    "sport": "running"
   },
   {
     "name": "Spirit of Wipro Run - București",
@@ -5833,7 +6119,8 @@
     "month": 10,
     "day": 6,
     "lat": 44.4223831273,
-    "lon": 26.1548281031
+    "lon": 26.1548281031,
+    "sport": "running"
   },
   {
     "name": "Crosul Inimilor Generoase",
@@ -5853,7 +6140,8 @@
     "month": 10,
     "day": 6,
     "lat": 45.8833,
-    "lon": 22.916695
+    "lon": 22.916695,
+    "sport": "running"
   },
   {
     "name": "Porolissum Trail",
@@ -5874,7 +6162,8 @@
     "month": 10,
     "day": 12,
     "lat": 47.2,
-    "lon": 23.0833
+    "lon": 23.0833,
+    "sport": "running"
   },
   {
     "name": "Crosul Cetăților - Cetatea Ineului",
@@ -5894,7 +6183,8 @@
     "month": 10,
     "day": 12,
     "lat": 46.4333,
-    "lon": 21.85
+    "lon": 21.85,
+    "sport": "running"
   },
   {
     "name": "Turnu Roșu Challenge",
@@ -5915,7 +6205,8 @@
     "month": 10,
     "day": 12,
     "lat": 45.7167,
-    "lon": 24.2833
+    "lon": 24.2833,
+    "sport": "running"
   },
   {
     "name": "Hercules Maraton",
@@ -5936,7 +6227,8 @@
     "month": 10,
     "day": 12,
     "lat": 44.8833,
-    "lon": 22.4167
+    "lon": 22.4167,
+    "sport": "running"
   },
   {
     "name": "Semimaratonul Mocanitei",
@@ -5956,7 +6248,8 @@
     "month": 10,
     "day": 12,
     "lat": 47.05,
-    "lon": 24.3333
+    "lon": 24.3333,
+    "sport": "running"
   },
   {
     "name": "Zespezel Challenge",
@@ -5976,7 +6269,8 @@
     "month": 10,
     "day": 12,
     "lat": 46.8167,
-    "lon": 24.6833
+    "lon": 24.6833,
+    "sport": "running"
   },
   {
     "name": "TulbuRun la Asconi Winery",
@@ -5996,7 +6290,8 @@
     "month": 10,
     "day": 12,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Bucharest Marathon",
@@ -6018,7 +6313,8 @@
     "month": 10,
     "day": 13,
     "lat": 44.42758355968682,
-    "lon": 26.09315428669368
+    "lon": 26.09315428669368,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Curtea Domneasca",
@@ -6038,7 +6334,8 @@
     "month": 10,
     "day": 13,
     "lat": 46.925,
-    "lon": 26.366705
+    "lon": 26.366705,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Miercurea Nirajului",
@@ -6060,7 +6357,8 @@
     "month": 10,
     "day": 13,
     "lat": 46.5167,
-    "lon": 24.8167
+    "lon": 24.8167,
+    "sport": "running"
   },
   {
     "name": "Semimaratonul Craiovei",
@@ -6081,7 +6379,8 @@
     "month": 10,
     "day": 19,
     "lat": 44.316695,
-    "lon": 23.799995
+    "lon": 23.799995,
+    "sport": "running"
   },
   {
     "name": "Faget Tour",
@@ -6101,7 +6400,8 @@
     "month": 10,
     "day": 19,
     "lat": 46.7686878405,
-    "lon": 23.5716952975
+    "lon": 23.5716952975,
+    "sport": "running"
   },
   {
     "name": "Velocrosul Castanilor",
@@ -6120,7 +6420,8 @@
     "month": 10,
     "day": 19,
     "lat": 44.9167,
-    "lon": 26.0333
+    "lon": 26.0333,
+    "sport": "running"
   },
   {
     "name": "Ultra Zarand - Căsoaia",
@@ -6141,7 +6442,8 @@
     "month": 10,
     "day": 19,
     "lat": 46.283295,
-    "lon": 21.749995
+    "lon": 21.749995,
+    "sport": "running"
   },
   {
     "name": "Azuga Trail Race",
@@ -6163,7 +6465,8 @@
     "month": 10,
     "day": 19,
     "lat": 45.4333,
-    "lon": 25.55
+    "lon": 25.55,
+    "sport": "running"
   },
   {
     "name": "Crosul Democrației - Mangalia",
@@ -6182,7 +6485,8 @@
     "month": 10,
     "day": 19,
     "lat": 43.8167,
-    "lon": 28.583295
+    "lon": 28.583295,
+    "sport": "running"
   },
   {
     "name": "Crosul Toamnei Blăjel",
@@ -6203,7 +6507,8 @@
     "month": 10,
     "day": 19,
     "lat": 46.0333,
-    "lon": 24.2833
+    "lon": 24.2833,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Sfântu Gheorghe",
@@ -6223,7 +6528,8 @@
     "month": 10,
     "day": 19,
     "lat": 45.8667,
-    "lon": 25.7833
+    "lon": 25.7833,
+    "sport": "running"
   },
   {
     "name": "Oradea Night Run",
@@ -6244,7 +6550,8 @@
     "month": 10,
     "day": 19,
     "lat": 47.0559609149,
-    "lon": 21.9395266774
+    "lon": 21.9395266774,
+    "sport": "running"
   },
   {
     "name": "1K Run Fast & Fun - Iași",
@@ -6263,7 +6570,8 @@
     "month": 10,
     "day": 20,
     "lat": 47.1574405088,
-    "lon": 27.5869556538
+    "lon": 27.5869556538,
+    "sport": "running"
   },
   {
     "name": "Maratonul Montan Rafael",
@@ -6285,7 +6593,8 @@
     "month": 10,
     "day": 26,
     "lat": 45.7,
-    "lon": 25.450005
+    "lon": 25.450005,
+    "sport": "running"
   },
   {
     "name": "AlerGând la pădure",
@@ -6300,17 +6609,18 @@
       "5km",
       "2km"
     ],
-    "link": "https://harvestrun.ro/",
-    "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+    "link": "https://alergandlapadure.ro/",
+    "link_fb": "https://www.facebook.com/alergandlapadure",
     "id": 355,
     "year": 2024,
     "month": 10,
     "day": 26,
     "lat": 45.300005,
-    "lon": 21.883295
+    "lon": 21.883295,
+    "sport": "running"
   },
   {
-    "name": "Crosul Marii Negre",
+    "name": "Crosul Mării Negre",
     "location": "Constanța",
     "location_details": "",
     "display_date": "Sat 26-Oct-2024",
@@ -6326,7 +6636,8 @@
     "month": 10,
     "day": 26,
     "lat": 44.159795,
-    "lon": 28.634805
+    "lon": 28.634805,
+    "sport": "running"
   },
   {
     "name": "4 RUN 4 FUN - Memorial Szasz Albert",
@@ -6345,7 +6656,8 @@
     "month": 10,
     "day": 26,
     "lat": 46.558295,
-    "lon": 24.575
+    "lon": 24.575,
+    "sport": "running"
   },
   {
     "name": "Timișoara City Marathon",
@@ -6367,7 +6679,8 @@
     "month": 10,
     "day": 27,
     "lat": 45.7537914831,
-    "lon": 21.2260204857
+    "lon": 21.2260204857,
+    "sport": "running"
   },
   {
     "name": "Halloween on Track",
@@ -6386,7 +6699,8 @@
     "month": 10,
     "day": 31,
     "lat": 47.1574505088,
-    "lon": 27.5869756538
+    "lon": 27.5869756538,
+    "sport": "running"
   },
   {
     "name": "IstritaXscape",
@@ -6407,7 +6721,8 @@
     "month": 11,
     "day": 2,
     "lat": 45.2167,
-    "lon": 26.6167
+    "lon": 26.6167,
+    "sport": "running"
   },
   {
     "name": "Beiuș Running Day",
@@ -6427,7 +6742,8 @@
     "month": 11,
     "day": 2,
     "lat": 46.6667,
-    "lon": 22.35
+    "lon": 22.35,
+    "sport": "running"
   },
   {
     "name": "Subcarpați Trail Run by Night",
@@ -6446,7 +6762,8 @@
     "month": 11,
     "day": 2,
     "lat": 44.9833,
-    "lon": 25.783305
+    "lon": 25.783305,
+    "sport": "running"
   },
   {
     "name": "Zărnești Challenge Semimaraton",
@@ -6467,7 +6784,8 @@
     "month": 11,
     "day": 2,
     "lat": 45.566695,
-    "lon": 25.350005
+    "lon": 25.350005,
+    "sport": "running"
   },
   {
     "name": "Bistrița November Run",
@@ -6488,7 +6806,8 @@
     "month": 11,
     "day": 2,
     "lat": 47.133305,
-    "lon": 24.50001
+    "lon": 24.50001,
+    "sport": "running"
   },
   {
     "name": "Băneasa Forest Run - Autumn",
@@ -6510,7 +6829,8 @@
     "month": 11,
     "day": 3,
     "lat": 44.4223331273,
-    "lon": 26.1548181031
+    "lon": 26.1548181031,
+    "sport": "running"
   },
   {
     "name": "Crosul Cetăților - Săvârșin",
@@ -6530,7 +6850,8 @@
     "month": 11,
     "day": 9,
     "lat": 46.05,
-    "lon": 21.9833
+    "lon": 21.9833,
+    "sport": "running"
   },
   {
     "name": "4 RUN 4 FUN - Stone Bear Race",
@@ -6549,7 +6870,8 @@
     "month": 11,
     "day": 9,
     "lat": 46.558295,
-    "lon": 24.57501
+    "lon": 24.57501,
+    "sport": "running"
   },
   {
     "name": "Spartan Race Sovata",
@@ -6568,7 +6890,8 @@
     "month": 11,
     "day": 9,
     "lat": 46.583305,
-    "lon": 25.066695
+    "lon": 25.066695,
+    "sport": "running"
   },
   {
     "name": "Sky Run",
@@ -6587,7 +6910,8 @@
     "month": 11,
     "day": 9,
     "lat": 44.4223631273,
-    "lon": 26.1548681031
+    "lon": 26.1548681031,
+    "sport": "running"
   },
   {
     "name": "Duatlonul Regal Invictus - Curtea de Argeș",
@@ -6606,7 +6930,8 @@
     "month": 11,
     "day": 9,
     "lat": 45.1394,
-    "lon": 24.6781
+    "lon": 24.6781,
+    "sport": "running"
   },
   {
     "name": "Crosul Andreian Galați",
@@ -6625,7 +6950,8 @@
     "month": 11,
     "day": 9,
     "lat": 45.435305,
-    "lon": 28.050005
+    "lon": 28.050005,
+    "sport": "running"
   },
   {
     "name": "Lunca Timișului CX",
@@ -6645,7 +6971,8 @@
     "month": 11,
     "day": 10,
     "lat": 45.7167,
-    "lon": 21.333295
+    "lon": 21.333295,
+    "sport": "running"
   },
   {
     "name": "Pitești 4 Seasons Running - Autumn",
@@ -6664,7 +6991,8 @@
     "month": 11,
     "day": 10,
     "lat": 44.858305,
-    "lon": 24.86329
+    "lon": 24.86329,
+    "sport": "running"
   },
   {
     "name": "Cernica Running Trails",
@@ -6685,7 +7013,8 @@
     "month": 11,
     "day": 10,
     "lat": 44.3833,
-    "lon": 26.216705
+    "lon": 26.216705,
+    "sport": "running"
   },
   {
     "name": "Bucovina Cross Country",
@@ -6704,7 +7033,8 @@
     "month": 11,
     "day": 10,
     "lat": 47.3,
-    "lon": 25.15
+    "lon": 25.15,
+    "sport": "running"
   },
   {
     "name": "Crosul de Noapte Cluj (toamna)",
@@ -6724,7 +7054,8 @@
     "month": 11,
     "day": 15,
     "lat": 46.7686778405,
-    "lon": 23.5717052975
+    "lon": 23.5717052975,
+    "sport": "running"
   },
   {
     "name": "Ultra-trail de la Cluj-Napoca la Dej",
@@ -6743,7 +7074,8 @@
     "month": 11,
     "day": 15,
     "lat": 46.7686978405,
-    "lon": 23.5717252975
+    "lon": 23.5717252975,
+    "sport": "running"
   },
   {
     "name": "24 de ore pentru un zambet",
@@ -6762,7 +7094,8 @@
     "month": 11,
     "day": 15,
     "lat": 47.0559709149,
-    "lon": 21.9394966774
+    "lon": 21.9394966774,
+    "sport": "running"
   },
   {
     "name": "Crosul 15 Noiembrie 1987",
@@ -6781,7 +7114,8 @@
     "month": 11,
     "day": 16,
     "lat": 45.64269,
-    "lon": 25.588685
+    "lon": 25.588685,
+    "sport": "running"
   },
   {
     "name": "Maraton Straja",
@@ -6800,7 +7134,8 @@
     "month": 11,
     "day": 16,
     "lat": 45.35,
-    "lon": 23.5667
+    "lon": 23.5667,
+    "sport": "running"
   },
   {
     "name": "Frontaliada",
@@ -6819,7 +7154,8 @@
     "month": 11,
     "day": 22,
     "lat": 44.9833,
-    "lon": 24.833305
+    "lon": 24.833305,
+    "sport": "running"
   },
   {
     "name": "4 RUN 4 FUN - Memorial Klosz Peter – Night Run",
@@ -6838,7 +7174,8 @@
     "month": 11,
     "day": 23,
     "lat": 46.558305,
-    "lon": 24.57499
+    "lon": 24.57499,
+    "sport": "running"
   },
   {
     "name": "Alpine Reșița - Semenic Challenge",
@@ -6857,7 +7194,8 @@
     "month": 11,
     "day": 23,
     "lat": 45.300005,
-    "lon": 21.883305
+    "lon": 21.883305,
+    "sport": "running"
   },
   {
     "name": "Maraton 1 Decembrie București",
@@ -6878,7 +7216,8 @@
     "month": 12,
     "day": 1,
     "lat": 44.4223231273,
-    "lon": 26.1548181031
+    "lon": 26.1548181031,
+    "sport": "running"
   },
   {
     "name": "Cluj EcoTrail Ultramarathon",
@@ -6900,7 +7239,8 @@
     "month": 12,
     "day": 1,
     "lat": 44.4273690467,
-    "lon": 26.0924082546
+    "lon": 26.0924082546,
+    "sport": "running"
   },
   {
     "name": "Aradul Alearga",
@@ -6919,7 +7259,8 @@
     "month": 12,
     "day": 1,
     "lat": 46.18661,
-    "lon": 21.3123
+    "lon": 21.3123,
+    "sport": "running"
   },
   {
     "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
@@ -6938,7 +7279,8 @@
     "month": 12,
     "day": 4,
     "lat": 47.7917,
-    "lon": 22.883305
+    "lon": 22.883305,
+    "sport": "running"
   },
   {
     "name": "4 RUN 4 FUN - Alergare de Moș Nicolae",
@@ -6957,7 +7299,8 @@
     "month": 12,
     "day": 7,
     "lat": 46.558305,
-    "lon": 24.575
+    "lon": 24.575,
+    "sport": "running"
   },
   {
     "name": "Pitești 4 Seasons Running - Winter",
@@ -6976,7 +7319,8 @@
     "month": 12,
     "day": 8,
     "lat": 44.858305,
-    "lon": 24.8633
+    "lon": 24.8633,
+    "sport": "running"
   },
   {
     "name": "Maratonul de Craciun - Chișinău",
@@ -6995,7 +7339,8 @@
     "month": 12,
     "day": 14,
     "lat": 47.0106,
-    "lon": 28.8638
+    "lon": 28.8638,
+    "sport": "running"
   },
   {
     "name": "Semimaraton Pe Argeș in Jos",
@@ -7016,7 +7361,8 @@
     "month": 12,
     "day": 15,
     "lat": 44.860395,
-    "lon": 24.870305
+    "lon": 24.870305,
+    "sport": "running"
   },
   {
     "name": "AniRUN - Christmas Special",
@@ -7037,7 +7383,8 @@
     "month": 12,
     "day": 15,
     "lat": 46.18659,
-    "lon": 21.31229
+    "lon": 21.31229,
+    "sport": "running"
   },
   {
     "name": "Maraton Podu Inalt",
@@ -7057,7 +7404,8 @@
     "month": 12,
     "day": 15,
     "lat": 46.6406,
-    "lon": 27.7306
+    "lon": 27.7306,
+    "sport": "running"
   },
   {
     "name": "Run Your Own Race",
@@ -7077,7 +7425,8 @@
     "month": 12,
     "day": 15,
     "lat": 44.4223831273,
-    "lon": 26.1548381031
+    "lon": 26.1548381031,
+    "sport": "running"
   },
   {
     "name": "Marea Moșmondeala",
@@ -7096,7 +7445,8 @@
     "month": 12,
     "day": 16,
     "lat": 45.797505,
-    "lon": 24.1508
+    "lon": 24.1508,
+    "sport": "running"
   },
   {
     "name": "Ultra Zarand Everesting - Căsoaia",
@@ -7118,7 +7468,8 @@
     "month": 12,
     "day": 22,
     "lat": 46.283295,
-    "lon": 21.750005
+    "lon": 21.750005,
+    "sport": "running"
   },
   {
     "name": "Santa Cross - Bacău",
@@ -7137,6 +7488,7 @@
     "month": 12,
     "day": 22,
     "lat": 46.566995,
-    "lon": 26.914595
+    "lon": 26.914595,
+    "sport": "running"
   }
 ]

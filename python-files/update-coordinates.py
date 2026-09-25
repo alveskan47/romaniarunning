@@ -1,23 +1,28 @@
 """
 update-coordinates.py
 
-Step 1 — Sync locations from input-running-competitions into coordinates.json:
-  - For every competition, derive its location key (county, location, location_details).
+coordinates.json is shared across every sport - one unique catalogue of locations,
+not one per sport. Every input-{sport}-competitions.json file is synced against it.
+
+Step 1 — Sync locations from every sport's input file into coordinates.json:
+  - For every competition, in every sport, derive its location key
+    (county, location, location_details).
   - If the key is not yet in coordinates.json, add it with null lat/lon so it can be
     filled in manually later.
   - When a competition has a non-empty location_details, two entries are added:
       • (county, location, "")               — the default/fallback for that place
       • (county, location, location_details) — the specific venue
 
-Step 2 — Back-fill coordinates into input-running-competitions.json:
+Step 2 — Back-fill coordinates into every input-{sport}-competitions.json:
   - For every competition that has no lat/lon yet, look it up in coordinates.json:
       1. Specific match: (county, location, location_details)
       2. Fallback match: (county, location, "")
   - If a match with valid (non-null) coordinates is found, write them onto the competition.
 
 Input/Output:
-  - json-files/input-running-competitions.json (read + possibly updated in Step 2)
-  - json-files/coordinates.json            (read + possibly updated in Step 1)
+  - json-files/input-{sport}-competitions.json for every sport in SPORTS
+    (read + possibly updated in Step 2)
+  - json-files/coordinates.json (read + possibly updated in Step 1)
 """
 
 import io
@@ -27,19 +32,25 @@ import sys
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
+# Every sport with an input-{sport}-competitions.json file in json-files/.
+SPORTS = [
+    "running", "cycling", "aquatlon", "climbing", "duathlon", "hyatlon",
+    "kayak", "orienteering", "skiing", "swimming", "triathlon",
+]
+
 
 def get_paths():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     parent_dir = os.path.dirname(script_dir)
     json_dir = os.path.join(parent_dir, 'json-files')
     return (
-        os.path.join(json_dir, 'input-running-competitions.json'),
+        {sport: os.path.join(json_dir, f'input-{sport}-competitions.json') for sport in SPORTS},
         os.path.join(json_dir, 'coordinates.json'),
     )
 
 
 def read_json(path):
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, 'r', encoding='utf-8-sig') as f:
         return json.load(f)
 
 
@@ -153,15 +164,20 @@ def backfill_coordinates(all_competitions, coords_list, index):
 # ─── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
-    input_path, coords_path = get_paths()
-
-    input_data = read_json(input_path)
+    input_paths, coords_path = get_paths()
     coords_list = read_json(coords_path)
 
-    all_competitions = (
-        input_data.get('running_competitions', []) +
-        input_data.get('running_competitions_no_statistics', [])
-    )
+    # Read every sport's input file up front, and collect every competition
+    # (across every sport) into one flat list for the coordinates sync step.
+    sport_data = {}
+    all_competitions = []
+    for sport, path in input_paths.items():
+        data = read_json(path)
+        sport_data[sport] = data
+        all_competitions.extend(
+            data.get(f'{sport}_competitions', []) +
+            data.get(f'{sport}_competitions_no_statistics', [])
+        )
 
     coords_list, removed = deduplicate_coords(coords_list)
     if removed:
@@ -169,7 +185,7 @@ def main():
 
     index = build_coords_index(coords_list)
 
-    # Step 1
+    # Step 1 — sync locations from every sport into the shared coordinates.json
     print("\nStep 1: Syncing locations into coordinates.json...")
     added, index = sync_locations(all_competitions, coords_list, index)
     coords_list.sort(key=lambda e: (e['county'], e['location'], e.get('location_details', '') or ''))
@@ -183,13 +199,22 @@ def main():
     if not added and not removed:
         print("  → No new locations found.")
 
-    # Step 2
-    print("\nStep 2: Back-filling coordinates into input-running-competitions.json...")
-    updated = backfill_coordinates(all_competitions, coords_list, index)
-    if updated:
-        write_json(input_path, input_data)
-        print(f"  → {updated} competition(s) updated with coordinates.")
-    else:
+    # Step 2 — back-fill coordinates into each sport's own input file
+    print("\nStep 2: Back-filling coordinates into input-{sport}-competitions.json files...")
+    total_updated = 0
+    for sport, path in input_paths.items():
+        data = sport_data[sport]
+        sport_competitions = (
+            data.get(f'{sport}_competitions', []) +
+            data.get(f'{sport}_competitions_no_statistics', [])
+        )
+        updated = backfill_coordinates(sport_competitions, coords_list, index)
+        if updated:
+            write_json(path, data)
+            print(f"  → {sport}: {updated} competition(s) updated with coordinates.")
+            total_updated += updated
+
+    if not total_updated:
         print("  → Nothing to update.")
 
 

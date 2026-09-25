@@ -103,6 +103,9 @@ async function skiing_main() {
         if (!response.ok) throw new Error('Failed to load skiing competitions');
 
         skiingData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        skiingData.skiing_competitions = skiingData.skiing_competitions
+            .concat(skiingData.skiing_competitions_no_statistics || []);
 
         const yearsSet = new Set();
         skiingData.skiing_competitions.forEach(comp => {

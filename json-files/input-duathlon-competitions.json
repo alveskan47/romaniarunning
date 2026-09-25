@@ -29,7 +29,9 @@
           "month": 4,
           "day": 18
         }
-      ]
+      ],
+      "lat": 44.4667,
+      "lon": 25.9667
     },
     {
       "id": 3,
@@ -44,7 +46,9 @@
           "month": 5,
           "day": 9
         }
-      ]
+      ],
+      "lat": 44.3833,
+      "lon": 26.2167
     },
     {
       "id": 4,
@@ -59,7 +63,9 @@
           "month": 6,
           "day": 12
         }
-      ]
+      ],
+      "lat": 47.7917,
+      "lon": 22.8833
     },
     {
       "id": 5,
@@ -75,7 +81,9 @@
           "day": 18,
           "event_link": "https://www.facebook.com/events/4329863030602128"
         }
-      ]
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
     },
     {
       "id": 6,
@@ -91,10 +99,31 @@
           "month": 8,
           "day": 15
         }
-      ]
+      ],
+      "lat": 47.2833,
+      "lon": 25.25
     },
     {
       "id": 7,
+      "name": "Duatlonul Regal Invictus - Curtea de Argeș",
+      "location": "Curtea de Argeș",
+      "county": "AG",
+      "link": "https://www.invictusromania.ro/",
+      "link_fb": "https://www.facebook.com/InvictusTeamRomania/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 8
+        }
+      ],
+      "lat": 45.1394,
+      "lon": 24.6781
+    }
+  ],
+  "duathlon_competitions_no_statistics": [
+    {
+      "id": 0,
       "name": "Duatlon Chișinău",
       "location": "Chișinău",
       "location_details": "Republica Moldova",
@@ -108,22 +137,9 @@
           "day": 18,
           "event_link": "https://www.facebook.com/events/1209338617717188/"
         }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Duatlonul Regal Invictus - Curtea de Argeș",
-      "location": "Curtea de Argeș",
-      "county": "AG",
-      "link": "https://www.invictusromania.ro/",
-      "link_fb": "https://www.facebook.com/InvictusTeamRomania/",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 11,
-          "day": 8
-        }
-      ]
+      ],
+      "lat": 47.0106,
+      "lon": 28.8638
     }
   ]
 }

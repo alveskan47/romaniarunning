@@ -1193,6 +1193,11 @@
       "link_fb": "https://www.facebook.com/oradea.city.trail",
       "editions": [
         {
+          "year": 2027,
+          "month": 1,
+          "day": 23
+        },
+        {
           "year": 2025,
           "month": 1,
           "day": 25
@@ -3596,6 +3601,11 @@
       "link_fb": "https://www.facebook.com/SibiuChallenge.ro/",
       "editions": [
         {
+          "year": 2027,
+          "month": 8,
+          "day": 20
+        },
+        {
           "year": 2026,
           "month": 8,
           "day": 21
@@ -3712,6 +3722,11 @@
       "link": "https://acstrib.ro/inscrieri-maratonul-dragomirnei/",
       "link_fb": "https://www.facebook.com/TRIBSV",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 4
+        },
         {
           "year": 2026,
           "month": 9,
@@ -4565,6 +4580,11 @@
       "link": "https://www.obciniada.ro/night-run",
       "link_fb": "https://www.facebook.com/obciniada",
       "editions": [
+        {
+          "year": 2027,
+          "month": 7,
+          "day": 9
+        },
         {
           "year": 2026,
           "month": 5,
@@ -8522,6 +8542,11 @@
       "link_fb": "https://www.facebook.com/p/Turnu-Ro%C8%99u-Challenge-61550549625676/",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 16
@@ -10317,6 +10342,11 @@
       "link_fb": "https://www.facebook.com/p/Popestiul-in-miscare-61550500731006/",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 6
@@ -11092,6 +11122,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 16,
+          "event_link": "https://www.facebook.com/events/1739520357345419"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 19,
@@ -11636,6 +11672,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/photo/?fbid=1487921746690350&set=a.471451485004053"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 27,
@@ -11669,16 +11711,23 @@
     },
     {
       "id": 347,
-      "name": "Crosul #BeActive",
+      "name": "Crosul #BeActive - București",
       "location": "București",
       "county": "B",
       "type": "road",
       "distances": [
-        "5km"
+        "10km",
+        "2km"
       ],
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.dsmb.ro/anunturi/start-inscrieri-crosul-beactive-2026/"
+        },
         {
           "year": 2025,
           "month": 9,
@@ -11831,11 +11880,17 @@
       "county": "SB",
       "type": "trail",
       "distances": [
-        "14km"
+        "-"
       ],
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/1403020464529032/"
+        },
         {
           "year": 2025,
           "month": 9,
@@ -11935,8 +11990,8 @@
         "5km",
         "2km"
       ],
-      "link": "https://harvestrun.ro/",
-      "link_fb": "https://www.facebook.com/profile.php?id=61556625965213",
+      "link": "https://alergandlapadure.ro/",
+      "link_fb": "https://www.facebook.com/alergandlapadure",
       "editions": [
         {
           "year": 2026,
@@ -12510,7 +12565,7 @@
     },
     {
       "id": 374,
-      "name": "Crosul Marii Negre",
+      "name": "Crosul Mării Negre",
       "location": "Constanța",
       "county": "CT",
       "type": "sand",
@@ -12520,6 +12575,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/1088889740172219/"
+        },
         {
           "year": 2025,
           "month": 10,
@@ -12887,21 +12948,20 @@
     },
     {
       "id": 386,
-      "name": "Run Iași - 10km",
+      "name": "Cursa Speranței - Iași",
       "location": "Iași",
       "county": "IS",
       "type": "road",
       "distances": [
         "10km"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://starofhope.ro/cursa-sperantei/",
+      "link_fb": "https://www.facebook.com/star.of.hope.ro",
       "editions": [
         {
-          "year": 2025,
+          "year": 2026,
           "month": 10,
-          "day": 25,
-          "event_link": "https://www.facebook.com/events/1256496729555097"
+          "day": 3
         }
       ],
       "lat": 47.1574405088,
@@ -16010,6 +16070,11 @@
       "link": "https://21k.ro/portfolio/brasov-21k/",
       "link_fb": "https://www.facebook.com/yoloeventsrom",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 18
+        },
         {
           "year": 2026,
           "month": 10,
@@ -19319,7 +19384,7 @@
           "year": 2026,
           "month": 9,
           "day": 20,
-          "event_link": "https://www.facebook.com/bjbacau/posts/crosul-bibliotecii-alearg%C4%83-cu-o-cartedragi-copii-%C8%99i-adolescen%C8%9Bi-de-la-7-la-99-de/1421643943488814/"
+          "event_link": "https://www.facebook.com/events/1346328637577240"
         }
       ],
       "lat": 46.567,
@@ -19346,6 +19411,50 @@
       ],
       "lat": 47.1574405088454,
       "lon": 27.58696065379542
+    },
+    {
+      "id": 653,
+      "name": "Tunari Fun Run",
+      "location": "Tunari",
+      "county": "IF",
+      "type": "road",
+      "distances": [
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/s/tunari-fun-run/3532493830253309/"
+        }
+      ],
+      "lat": 44.55,
+      "lon": 26.15
+    },
+    {
+      "id": 654,
+      "name": "Crosul #BeActive - Craiova",
+      "location": "Craiova",
+      "county": "DJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/2339066536631682/"
+        }
+      ],
+      "lat": 44.3167,
+      "lon": 23.8
     }
   ],
   "running_competitions_no_statistics": [
@@ -19514,6 +19623,11 @@
       "link": "https://marathon.md/ro",
       "link_fb": "https://www.facebook.com/chisinaumarathon",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 26
+        },
         {
           "year": 2026,
           "month": 9,
@@ -20298,7 +20412,7 @@
     },
     {
       "id": 0,
-      "name": "Wake Run - Moldova",
+      "name": "Wake Run - Moldova (primavara)",
       "location": "Pănăseşti",
       "location_details": "Republica Moldova",
       "county": "MDA*",
@@ -20313,6 +20427,28 @@
           "year": 2026,
           "month": 5,
           "day": 16
+        }
+      ],
+      "lat": 47.1667,
+      "lon": 28.5833
+    },
+    {
+      "id": 0,
+      "name": "Wake Run - Moldova (toamna)",
+      "location": "Pănăseşti",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=100063629587403",
+      "link_fb": "https://www.facebook.com/profile.php?id=100063629587403",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 28
         }
       ],
       "lat": 47.1667,

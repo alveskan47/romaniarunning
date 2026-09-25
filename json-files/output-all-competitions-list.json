@@ -815,7 +815,7 @@
       "name": "Brașov 21K",
       "location": "Brașov",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sun 18-Apr",
       "year_2026": "Sun 25-Oct",
       "year_2025": "",
       "year_2024": "",
@@ -1586,7 +1586,7 @@
       "location": "Popești-Leordeni",
       "county": "IF",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 7-Sep",
       "year_2023": "Sat 9-Sep"
@@ -1670,14 +1670,25 @@
     },
     {
       "id": 347,
-      "name": "Crosul #BeActive",
+      "name": "Crosul #BeActive - București",
       "location": "București",
       "county": "B",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 26-Sep",
       "year_2025": "Sat 27-Sep",
       "year_2024": "Sat 28-Sep",
       "year_2023": "Sat 23-Sep"
+    },
+    {
+      "id": 654,
+      "name": "Crosul #BeActive - Craiova",
+      "location": "Craiova",
+      "county": "DJ",
+      "year_2027": "",
+      "year_2026": "Sat 26-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 11,
@@ -2290,7 +2301,7 @@
       "location": "Sibiu",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Tue 29-Sep",
       "year_2025": "Mon 29-Sep",
       "year_2024": "",
       "year_2023": "Tue 14-Nov"
@@ -2429,11 +2440,11 @@
     },
     {
       "id": 374,
-      "name": "Crosul Marii Negre",
+      "name": "Crosul Mării Negre",
       "location": "Constanța",
       "county": "CT",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 17-Oct",
       "year_2025": "Sat 18-Oct",
       "year_2024": "Sat 26-Oct",
       "year_2023": "Sat 21-Oct"
@@ -2752,7 +2763,7 @@
       "location": "Drobeta Turnu-Severin",
       "county": "MH",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 27-Sep",
       "year_2024": "",
       "year_2023": ""
@@ -3184,6 +3195,17 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 27-Apr",
+      "year_2023": ""
+    },
+    {
+      "id": 386,
+      "name": "Cursa Speranței - Iași",
+      "location": "Iași",
+      "county": "IS",
+      "year_2027": "",
+      "year_2026": "Sat 3-Oct",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -3719,7 +3741,7 @@
       "name": "GLS Night Cross Challenge Sibiu",
       "location": "Sibiu",
       "county": "SB",
-      "year_2027": "",
+      "year_2027": "Fri 20-Aug",
       "year_2026": "Fri 21-Aug",
       "year_2025": "Fri 22-Aug",
       "year_2024": "Fri 23-Aug",
@@ -4357,7 +4379,7 @@
       "name": "Maratonul Dragomirnei",
       "location": "Mitocu Dragomirnei",
       "county": "SV",
-      "year_2027": "",
+      "year_2027": "Sat 4-Sep",
       "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "Sat 14-Sep",
@@ -4720,7 +4742,7 @@
       "name": "Obciniada Night Run",
       "location": "Gura Humorului",
       "county": "SV",
-      "year_2027": "",
+      "year_2027": "Fri 9-Jul",
       "year_2026": "Sat 23-May",
       "year_2025": "Sat 14-Jun",
       "year_2024": "",
@@ -4808,7 +4830,7 @@
       "name": "Oradea City Trail",
       "location": "Oradea",
       "county": "BH",
-      "year_2027": "",
+      "year_2027": "Sat 23-Jan",
       "year_2026": "",
       "year_2025": "Sat 25-Jan",
       "year_2024": "Sat 10-Feb",
@@ -5321,17 +5343,6 @@
       "year_2023": ""
     },
     {
-      "id": 386,
-      "name": "Run Iași - 10km",
-      "location": "Iași",
-      "county": "IS",
-      "year_2027": "",
-      "year_2026": "",
-      "year_2025": "Sat 25-Oct",
-      "year_2024": "",
-      "year_2023": ""
-    },
-    {
       "id": 453,
       "name": "Run On Pustnicu",
       "location": "Pantelimon",
@@ -5821,7 +5832,7 @@
       "location": "Sfântu Gheorghe",
       "county": "CV",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 16-Oct",
       "year_2025": "Fri 19-Sep",
       "year_2024": "Sat 21-Sep",
       "year_2023": ""
@@ -6509,6 +6520,17 @@
       "year_2023": ""
     },
     {
+      "id": 653,
+      "name": "Tunari Fun Run",
+      "location": "Tunari",
+      "county": "IF",
+      "year_2027": "",
+      "year_2026": "Sun 27-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 126,
       "name": "Tura Licuricilor",
       "location": "Timișoara",
@@ -6535,7 +6557,7 @@
       "name": "Turnu Roșu Challenge",
       "location": "Turnu Roșu",
       "county": "SB",
-      "year_2027": "",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 16-May",
       "year_2025": "Sun 8-Jun",
       "year_2024": "Sat 12-Oct",
@@ -7229,7 +7251,7 @@
     {
       "name": "Chișinău Maraton",
       "location": "Chișinău",
-      "year_2027": "",
+      "year_2027": "Sun 26-Sep",
       "year_2026": "Sun 13-Sep",
       "year_2025": "Sun 14-Sep",
       "year_2024": "Sun 29-Sep",
@@ -7506,10 +7528,19 @@
       "year_2023": ""
     },
     {
-      "name": "Wake Run - Moldova",
+      "name": "Wake Run - Moldova (primavara)",
       "location": "Pănăseşti",
       "year_2027": "",
       "year_2026": "Sat 16-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "name": "Wake Run - Moldova (toamna)",
+      "location": "Pănăseşti",
+      "year_2027": "",
+      "year_2026": "Sat 28-Nov",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""

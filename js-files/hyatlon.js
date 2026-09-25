@@ -103,6 +103,9 @@ async function hyatlon_main() {
         if (!response.ok) throw new Error('Failed to load hyatlon competitions');
 
         hyatlonData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        hyatlonData.hyatlon_competitions = hyatlonData.hyatlon_competitions
+            .concat(hyatlonData.hyatlon_competitions_no_statistics || []);
 
         const yearsSet = new Set();
         hyatlonData.hyatlon_competitions.forEach(comp => {

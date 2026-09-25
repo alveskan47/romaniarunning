@@ -13,7 +13,9 @@
           "month": 3,
           "day": 29
         }
-      ]
+      ],
+      "lat": 47.1574405088454,
+      "lon": 27.58696065379542
     },
     {
       "id": 2,
@@ -28,7 +30,9 @@
           "month": 5,
           "day": 30
         }
-      ]
+      ],
+      "lat": 44.1598,
+      "lon": 28.6348
     },
     {
       "id": 3,
@@ -63,7 +67,9 @@
           "month": 6,
           "day": 6
         }
-      ]
+      ],
+      "lat": 47.05596091490953,
+      "lon": 21.93951167742133
     },
     {
       "id": 5,
@@ -93,7 +99,9 @@
           "month": 7,
           "day": 18
         }
-      ]
+      ],
+      "lat": 45.75380648314605,
+      "lon": 21.22600548573397
     },
     {
       "id": 7,
@@ -108,7 +116,9 @@
           "month": 7,
           "day": 25
         }
-      ]
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
     },
     {
       "id": 8,
@@ -128,26 +138,12 @@
           "month": 8,
           "day": 2
         }
-      ]
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
     },
     {
       "id": 9,
-      "name": "Triathlon Festival",
-      "location": "Chișinău",
-      "location_details": "Republica Moldova",
-      "county": "MDA*",
-      "link": "https://ftrm.md/",
-      "link_fb": "https://www.facebook.com/ftrm.md/",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 16
-        }
-      ]
-    },
-    {
-      "id": 10,
       "name": "Transfier",
       "location": "Arefu",
       "county": "AG",
@@ -164,10 +160,12 @@
           "month": 9,
           "day": 5
         }
-      ]
+      ],
+      "lat": 45.3667,
+      "lon": 24.6333
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Triatlon Pantelimon",
       "location": "Pantelimon",
       "county": "IF",
@@ -179,10 +177,12 @@
           "month": 9,
           "day": 20
         }
-      ]
+      ],
+      "lat": 44.45,
+      "lon": 26.2333
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Binder Lake Triathlon",
       "location": "Sibiu",
       "county": "SB",
@@ -194,10 +194,12 @@
           "month": 7,
           "day": 26
         }
-      ]
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "Triatlonul Proactivi",
       "location": "Ghioroc",
       "county": "AR",
@@ -209,10 +211,12 @@
           "month": 8,
           "day": 22
         }
-      ]
+      ],
+      "lat": 46.1667,
+      "lon": 21.5
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "Delta Triathlon",
       "location": "Tulcea",
       "county": "TL",
@@ -225,10 +229,12 @@
           "day": 17,
           "event_link": "https://aquavitadelta.ro/program-dt-2026/"
         }
-      ]
+      ],
+      "lat": 45.1767,
+      "lon": 28.8022
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "Divertiland Relay",
       "location": "Chiajna",
       "county": "IF",
@@ -240,7 +246,29 @@
           "month": 9,
           "day": 12
         }
-      ]
+      ],
+      "lat": 44.4667,
+      "lon": 25.9667
+    }
+  ],
+  "triathlon_competitions_no_statistics": [
+    {
+      "id": 0,
+      "name": "Triathlon Festival",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "link": "https://ftrm.md/",
+      "link_fb": "https://www.facebook.com/ftrm.md/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        }
+      ],
+      "lat": 47.0106,
+      "lon": 28.8638
     }
   ]
 }

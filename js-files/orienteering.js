@@ -103,6 +103,9 @@ async function orienteering_main() {
         if (!response.ok) throw new Error('Failed to load orienteering competitions');
 
         orienteeringData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        orienteeringData.orienteering_competitions = orienteeringData.orienteering_competitions
+            .concat(orienteeringData.orienteering_competitions_no_statistics || []);
 
         const yearsSet = new Set();
         orienteeringData.orienteering_competitions.forEach(comp => {

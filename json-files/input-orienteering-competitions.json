@@ -30,7 +30,9 @@
           "day": 8,
           "event_link": "https://www.facebook.com/events/1034383732648074"
         }
-      ]
+      ],
+      "lat": 45.6167,
+      "lon": 25.691
     },
     {
       "id": 3,
@@ -60,7 +62,9 @@
           "month": 2,
           "day": 7
         }
-      ]
+      ],
+      "lat": 45.0667,
+      "lon": 24.25
     },
     {
       "id": 5,
@@ -75,7 +79,9 @@
           "month": 6,
           "day": 6
         }
-      ]
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
     },
     {
       "id": 6,
@@ -91,7 +97,9 @@
           "day": 21,
           "event_link": "https://www.facebook.com/events/1379498344052586"
         }
-      ]
+      ],
+      "lat": 45.6,
+      "lon": 25.6667
     },
     {
       "id": 7,
@@ -108,7 +116,9 @@
           "day": 28,
           "event_link": "https://www.facebook.com/events/2185608145611926"
         }
-      ]
+      ],
+      "lat": 45.38200035739342,
+      "lon": 25.540874405477204
     },
     {
       "id": 8,
@@ -124,7 +134,9 @@
           "month": 9,
           "day": 13
         }
-      ]
+      ],
+      "lat": 44.5083,
+      "lon": 26.0833
     },
     {
       "id": 9,
@@ -140,7 +152,10 @@
           "day": 19,
           "event_link": "https://www.facebook.com/events/2704000523708405"
         }
-      ]
+      ],
+      "lat": 45.8667,
+      "lon": 25.7833
     }
-  ]
+  ],
+  "orienteering_competitions_no_statistics": []
 }

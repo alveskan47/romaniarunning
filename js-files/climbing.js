@@ -103,6 +103,9 @@ async function climbing_main() {
         if (!response.ok) throw new Error('Failed to load climbing competitions');
 
         climbingData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        climbingData.climbing_competitions = climbingData.climbing_competitions
+            .concat(climbingData.climbing_competitions_no_statistics || []);
 
         const yearsSet = new Set();
         climbingData.climbing_competitions.forEach(comp => {

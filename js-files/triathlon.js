@@ -110,6 +110,9 @@ async function triathlon_main() {
         if (!response.ok) throw new Error('Failed to load triathlon competitions');
 
         triathlonData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        triathlonData.triathlon_competitions = triathlonData.triathlon_competitions
+            .concat(triathlonData.triathlon_competitions_no_statistics || []);
 
         // Extract unique years from all editions
         const yearsSet = new Set();

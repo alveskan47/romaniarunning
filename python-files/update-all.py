@@ -4,12 +4,17 @@ update-all.py
 Purpose:
 --------
 This is the main script to update all competition data and statistics.
-It orchestrates the execution of four sub-scripts in the correct order:
+It orchestrates the execution of the following sub-scripts in order:
 
-1. test_json_input_file.py - Tests and validates the input JSON data
-2. create-competitions-tables.py - Generates yearly competition tables from the input data
-3. create-all-competitions-list.py - Creates an alphabetically sorted list of all competitions
-4. update-statistics.py - Calculates and updates all statistics based on the competition data
+1. fix_romanian_diacritics.py - Fixes diacritics in input-running-competitions.json and coordinates.json
+2. update-coordinates.py - Syncs locations (across every sport) and back-fills coordinates
+   into every input-{sport}-competitions.json, using the shared coordinates.json
+3. test_json_input_file.py - Tests and validates input-running-competitions.json
+4. create-competitions-tables.py - Generates yearly output-events-{year}.json tables
+   from every sport's input data
+5. create-all-competitions-list.py - Creates an alphabetically sorted list of all
+   running competitions
+6. update-statistics.py - Calculates and updates running statistics
 
 Usage:
 ------
@@ -173,9 +178,10 @@ def main():
     print("✓ ALL UPDATES COMPLETED SUCCESSFULLY!")
     print("=" * 70)
     print("\nUpdated files:")
-    print("  - json-files/output-events-{year}.json (one file per year)")
-    print("  - json-files/output-all-competitions-list.json")
-    print("  - json-files/output-all-statistics.json")
+    print("  - json-files/coordinates.json (shared across all sports)")
+    print("  - json-files/output-events-{year}.json (one file per year, all sports)")
+    print("  - json-files/output-all-competitions-list.json (running only)")
+    print("  - json-files/output-all-statistics.json (running only)")
     print("\n")
 
 

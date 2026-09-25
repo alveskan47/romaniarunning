@@ -14,7 +14,9 @@
           "day": 11,
           "event_link": "https://triatlet.ro/budeasa-swimrun-2026-2/"
         }
-      ]
+      ],
+      "lat": 44.9833,
+      "lon": 24.8333
     },
     {
       "id": 2,
@@ -29,7 +31,10 @@
           "month": 9,
           "day": 12
         }
-      ]
+      ],
+      "lat": 43.8167,
+      "lon": 28.5833
     }
-  ]
+  ],
+  "aquatlon_competitions_no_statistics": []
 }

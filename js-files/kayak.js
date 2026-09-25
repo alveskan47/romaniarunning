@@ -103,6 +103,9 @@ async function kayak_main() {
         if (!response.ok) throw new Error('Failed to load kayak competitions');
 
         kayakData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        kayakData.kayak_competitions = kayakData.kayak_competitions
+            .concat(kayakData.kayak_competitions_no_statistics || []);
 
         const yearsSet = new Set();
         kayakData.kayak_competitions.forEach(comp => {

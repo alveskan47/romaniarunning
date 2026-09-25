@@ -14,7 +14,10 @@
           "day": 26,
           "event_link": "https://www.facebook.com/events/1032526542511235"
         }
-      ]
+      ],
+      "lat": 44.6833,
+      "lon": 26.15
     }
-  ]
+  ],
+  "kayak_competitions_no_statistics": []
 }

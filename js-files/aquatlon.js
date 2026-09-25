@@ -105,6 +105,9 @@ async function aquatlon_main() {
         if (!response.ok) throw new Error('Failed to load aquatlon competitions');
 
         aquatlonData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        aquatlonData.aquatlon_competitions = aquatlonData.aquatlon_competitions
+            .concat(aquatlonData.aquatlon_competitions_no_statistics || []);
 
         // Extract unique years from all editions
         const yearsSet = new Set();

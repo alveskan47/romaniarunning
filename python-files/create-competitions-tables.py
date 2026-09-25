@@ -1,12 +1,15 @@
 """
 Create Competitions Tables Script
 
-This script reads JSON files containing competitions with their different editions.
-It processes each event, groups them by year, and outputs a separate JSON file for each year.
+This script reads JSON files containing competitions with their different editions,
+for every sport. It processes each event, groups them by year across all sports,
+and outputs a separate JSON file for each year.
 
 Input:
-  - json-files/input-running-competitions.json (contains both competitions and competitions_no_statistics arrays)
-Output: json-files/output-events-{year}.json (one file per year containing all events for that year)
+  - json-files/input-{sport}-competitions.json for every sport in SPORTS
+    (each contains a "{sport}_competitions" and a "{sport}_competitions_no_statistics" array)
+Output: json-files/output-events-{year}.json (one file per year containing all events,
+        for every sport, for that year)
 """
 
 import datetime
@@ -14,6 +17,14 @@ import json
 import os
 from dataclasses import dataclass
 from typing import Any
+
+# Every sport with an input-{sport}-competitions.json file in json-files/.
+# Each file is expected to expose "{sport}_competitions" and
+# "{sport}_competitions_no_statistics" top-level arrays.
+SPORTS = [
+    "running", "cycling", "aquatlon", "climbing", "duathlon", "hyatlon",
+    "kayak", "orienteering", "skiing", "swimming", "triathlon",
+]
 
 
 @dataclass
@@ -85,6 +96,7 @@ class Edition:
     day: int = 0
     lat: float = None
     lon: float = None
+    sport: str = ""
 
     def __post_init__(self):
         """Initialize mutable default values."""
@@ -140,7 +152,7 @@ def read_json_file(json_file: str) -> dict[str, Any]:
         FileNotFoundError: If the file does not exist
         json.JSONDecodeError: If the file contains invalid JSON
     """
-    with open(json_file, 'r', encoding='utf-8') as file:
+    with open(json_file, 'r', encoding='utf-8-sig') as file:
         return json.load(file)
 
 
@@ -194,12 +206,20 @@ def main() -> None:
     # Build path to json-files folder
     json_files_dir = os.path.join(parent_dir, 'json-files')
 
-    # Read input JSON file from json-files folder
-    input_file_path = os.path.join(json_files_dir, 'input-running-competitions.json')
-    input_data = read_json_file(input_file_path)
+    # Read every sport's input file and tag each competition with its sport,
+    # then merge everything into a single list.
+    all_competitions = []
+    for sport in SPORTS:
+        input_file_path = os.path.join(json_files_dir, f'input-{sport}-competitions.json')
+        input_data = read_json_file(input_file_path)
 
-    # Merge competitions from both arrays (competitions and competitions_no_statistics)
-    all_competitions = input_data["running_competitions"] + input_data["running_competitions_no_statistics"]
+        sport_competitions = (
+            input_data.get(f'{sport}_competitions', []) +
+            input_data.get(f'{sport}_competitions_no_statistics', [])
+        )
+        for competition in sport_competitions:
+            competition['sport'] = sport
+        all_competitions.extend(sport_competitions)
 
     # Dynamically extract all years present in the data
     all_years = sorted(set(
@@ -210,7 +230,7 @@ def main() -> None:
     ), reverse=True)
 
     # Dictionary to store events grouped by year
-    competitions_output: Dict[int, List[Edition]] = {year: [] for year in all_years}
+    competitions_output = {year: [] for year in all_years}
 
     # Process each competition and its editions
     for competition in all_competitions:
@@ -235,13 +255,17 @@ def main() -> None:
                 current_event.location_details = competition["location_details"]
 
             current_event.county = competition["county"]
-            current_event.type = competition["type"]
+            current_event.sport = competition["sport"]
+
+            # Not every sport tracks a "type" (e.g. road/trail) - default to empty
+            current_event.type = competition.get("type", "")
 
             # Use event_distances from edition if it exists, otherwise use main distances
+            # (not every sport tracks distances - default to empty list)
             if "event_distances" in event_date:
                 current_event.distances = event_date["event_distances"]
             else:
-                current_event.distances = competition["distances"]
+                current_event.distances = competition.get("distances", [])
 
             # Link priority: 1) main link, 2) event_link from edition, 3) link_fb, 4) empty
             if competition["link"]:
@@ -274,9 +298,12 @@ def main() -> None:
 
     # Write a separate JSON file for each year to json-files folder
     for year, events in competitions_output.items():
-        # Sort events by date (year, month, day), then by id
-        # Special case: events with id=0 are sorted last when dates are equal
-        events.sort(key=lambda event: (event.year, event.month, event.day, float('inf') if event.id == 0 else event.id))
+        # Sort events by date (year, month, day), then by sport, then by id
+        # Special case: events with id=0 are sorted last within their sport when dates are equal
+        events.sort(key=lambda event: (
+            event.year, event.month, event.day, event.sport,
+            float('inf') if event.id == 0 else event.id
+        ))
 
         competition_output_json = convert_object_into_json(events, 2)
         output_filename = os.path.join(json_files_dir, f"output-events-{year}.json")

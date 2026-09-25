@@ -14,7 +14,9 @@
           "day": 18,
           "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/ziua-b-2026"
         }
-      ]
+      ],
+      "lat": 44.45,
+      "lon": 26.2333
     },
     {
       "id": 2,
@@ -49,7 +51,9 @@
           "month": 5,
           "day": 9
         }
-      ]
+      ],
+      "lat": 46.1583,
+      "lon": 24.3583
     },
     {
       "id": 4,
@@ -64,7 +68,9 @@
           "month": 5,
           "day": 16
         }
-      ]
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
     },
     {
       "id": 5,
@@ -99,7 +105,9 @@
           "month": 5,
           "day": 23
         }
-      ]
+      ],
+      "lat": 46.1833,
+      "lon": 22.0167
     },
     {
       "id": 7,
@@ -114,7 +122,9 @@
           "month": 6,
           "day": 6
         }
-      ]
+      ],
+      "lat": 45.15,
+      "lon": 28.1667
     },
     {
       "id": 8,
@@ -146,7 +156,9 @@
           "month": 6,
           "day": 27
         }
-      ]
+      ],
+      "lat": 45.3667,
+      "lon": 24.6333
     },
     {
       "id": 10,
@@ -161,7 +173,9 @@
           "month": 7,
           "day": 11
         }
-      ]
+      ],
+      "lat": 46.3667,
+      "lon": 25.8
     },
     {
       "id": 11,
@@ -176,7 +190,9 @@
           "month": 7,
           "day": 12
         }
-      ]
+      ],
+      "lat": 45.2333,
+      "lon": 25.8
     },
     {
       "id": 12,
@@ -227,7 +243,9 @@
           "month": 8,
           "day": 1
         }
-      ]
+      ],
+      "lat": 45.6427,
+      "lon": 25.5887
     },
     {
       "id": 15,
@@ -242,7 +260,9 @@
           "month": 8,
           "day": 1
         }
-      ]
+      ],
+      "lat": 46.3667,
+      "lon": 25.8
     },
     {
       "id": 16,
@@ -272,7 +292,9 @@
           "month": 8,
           "day": 8
         }
-      ]
+      ],
+      "lat": 48.1833,
+      "lon": 26.5833
     },
     {
       "id": 18,
@@ -287,7 +309,9 @@
           "month": 8,
           "day": 15
         }
-      ]
+      ],
+      "lat": 44.7833,
+      "lon": 22.7667
     },
     {
       "id": 19,
@@ -317,7 +341,9 @@
           "month": 5,
           "day": 30
         }
-      ]
+      ],
+      "lat": 45.5667,
+      "lon": 25.3167
     },
     {
       "id": 21,
@@ -332,7 +358,9 @@
           "month": 9,
           "day": 26
         }
-      ]
+      ],
+      "lat": 45.55,
+      "lon": 23.9667
     },
     {
       "id": 22,
@@ -347,7 +375,9 @@
           "month": 7,
           "day": 4
         }
-      ]
+      ],
+      "lat": 44.85,
+      "lon": 22.8167
     },
     {
       "id": 23,
@@ -378,7 +408,9 @@
           "month": 7,
           "day": 25
         }
-      ]
+      ],
+      "lat": 46.2833,
+      "lon": 21.75
     },
     {
       "id": 25,
@@ -394,7 +426,9 @@
           "day": 1,
           "event_link": "https://farmotion.ro/editii/farmotion-2026/curse/"
         }
-      ]
+      ],
+      "lat": 45.20952324468092,
+      "lon": 22.309499934107706
     },
     {
       "id": 26,
@@ -441,7 +475,9 @@
           "month": 8,
           "day": 15
         }
-      ]
+      ],
+      "lat": 46.069,
+      "lon": 23.5763
     },
     {
       "id": 29,
@@ -516,7 +552,9 @@
           "month": 8,
           "day": 29
         }
-      ]
+      ],
+      "lat": 45.1003,
+      "lon": 24.3694
     },
     {
       "id": 34,
@@ -531,7 +569,9 @@
           "month": 8,
           "day": 29
         }
-      ]
+      ],
+      "lat": 46.2167,
+      "lon": 24.0833
     },
     {
       "id": 35,
@@ -546,7 +586,9 @@
           "month": 8,
           "day": 30
         }
-      ]
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
     },
     {
       "id": 36,
@@ -561,7 +603,9 @@
           "month": 9,
           "day": 5
         }
-      ]
+      ],
+      "lat": 44.8333,
+      "lon": 21.7167
     },
     {
       "id": 37,
@@ -576,7 +620,9 @@
           "month": 9,
           "day": 12
         }
-      ]
+      ],
+      "lat": 44.1667,
+      "lon": 26.15
     },
     {
       "id": 38,
@@ -591,7 +637,9 @@
           "month": 9,
           "day": 12
         }
-      ]
+      ],
+      "lat": 47.6833,
+      "lon": 26.1167
     },
     {
       "id": 39,
@@ -606,7 +654,9 @@
           "month": 9,
           "day": 12
         }
-      ]
+      ],
+      "lat": 45.4167,
+      "lon": 22.2167
     },
     {
       "id": 40,
@@ -621,7 +671,9 @@
           "month": 9,
           "day": 12
         }
-      ]
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
     },
     {
       "id": 41,
@@ -636,7 +688,9 @@
           "month": 9,
           "day": 18
         }
-      ]
+      ],
+      "lat": 45.3833,
+      "lon": 26.0167
     },
     {
       "id": 42,
@@ -652,7 +706,9 @@
           "month": 9,
           "day": 19
         }
-      ]
+      ],
+      "lat": 46.5167,
+      "lon": 23.5667
     },
     {
       "id": 43,
@@ -668,7 +724,9 @@
           "day": 20,
           "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/lupii-dacilor-trofeul-muscelului-2026"
         }
-      ]
+      ],
+      "lat": 45.27100962396718,
+      "lon": 25.052809678402593
     },
     {
       "id": 44,
@@ -683,7 +741,9 @@
           "month": 9,
           "day": 20
         }
-      ]
+      ],
+      "lat": 45.6427,
+      "lon": 25.5887
     },
     {
       "id": 45,
@@ -714,7 +774,9 @@
           "day": 17,
           "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/haiduci-si-domnite-2026"
         }
-      ]
+      ],
+      "lat": 44.65,
+      "lon": 26.1167
     },
     {
       "id": 47,
@@ -733,6 +795,654 @@
     },
     {
       "id": 48,
+      "name": "Turul Ciclist Drumul Aurului",
+      "location": "Brad",
+      "county": "HD",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 23,
+          "event_link": "https://www.facebook.com/events/1349554929881473/"
+        }
+      ],
+      "lat": 46.1333,
+      "lon": 22.7833
+    },
+    {
+      "id": 49,
+      "name": "Zarandia Run & Bike Challenge",
+      "location": "Vața de Jos",
+      "location_details": "Vața Băi",
+      "county": "HD",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/s/-zarandia-run-bike-challenge-2/1450776063481403/"
+        }
+      ],
+      "lat": 46.0833,
+      "lon": 22.6167
+    },
+    {
+      "id": 50,
+      "name": "Criteriul Primaverii",
+      "location": "Sibiu",
+      "county": "SB",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/1174757818158412/"
+        }
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
+    },
+    {
+      "id": 51,
+      "name": "Apuseni Bike Tour",
+      "location": "Mărgău",
+      "county": "CJ",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26,
+          "event_link": "https://www.facebook.com/events/4453104784948725/"
+        }
+      ],
+      "lat": 46.74791583770645,
+      "lon": 22.95423727965364
+    },
+    {
+      "id": 52,
+      "name": "Crosul Viilor - Satu Mare",
+      "location": "Satu Mare",
+      "county": "SM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/1573738901097573"
+        }
+      ],
+      "lat": 47.7917,
+      "lon": 22.8833
+    },
+    {
+      "id": 53,
+      "name": "Turul Colinelor Bacău",
+      "location": "Ungureni",
+      "county": "BC",
+      "link": "https://www.turulcolinelor.ro/",
+      "link_fb": "https://www.facebook.com/turulcolinelorbacau",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Maratonul Codrului",
+      "location": "Homoroade",
+      "location_details": "Popasul Codrenilor Oteloaia",
+      "county": "SM",
+      "link": "https://www.proracers.ro/activitati/maratonul-codrului/",
+      "link_fb": "https://www.facebook.com/proracerssatumare",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 25
+        }
+      ],
+      "lat": 47.55,
+      "lon": 22.6833
+    },
+    {
+      "id": 55,
+      "name": "Poli Bike Challenge",
+      "location": "Timișoara",
+      "county": "TM",
+      "link": "https://raceday.ro/poli-bike-challenge/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 4,
+          "day": 26
+        }
+      ],
+      "lat": 45.75380648314605,
+      "lon": 21.22600548573397
+    },
+    {
+      "id": 56,
+      "name": "Musai Spectaculos",
+      "location": "Făgăraș",
+      "county": "BV",
+      "link": "https://alergaras.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 1
+        }
+      ],
+      "lat": 45.8417,
+      "lon": 24.975
+    },
+    {
+      "id": 57,
+      "name": "Obciniada",
+      "location": "Gura Humorului",
+      "county": "SV",
+      "link": "https://www.obciniada.ro/mountain-bike",
+      "link_fb": "https://www.facebook.com/obciniada",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ],
+      "lat": 47.55,
+      "lon": 25.8833
+    },
+    {
+      "id": 58,
+      "name": "Tour de Tur",
+      "location": "Orașu Nou",
+      "county": "SM",
+      "link": "https://tourdetur.ro/",
+      "link_fb": "https://www.facebook.com/tourdeturRO",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 23
+        }
+      ],
+      "lat": 47.8,
+      "lon": 23.1833
+    },
+    {
+      "id": 59,
+      "name": "Turul Ciclist Bartók",
+      "location": "Timișoara",
+      "county": "TM",
+      "link": "https://raceday.ro/turul-ciclist-bartok-bela/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        }
+      ],
+      "lat": 45.75380648314605,
+      "lon": 21.22600548573397
+    },
+    {
+      "id": 60,
+      "name": "Șiria Cycling Circuit",
+      "location": "Șiria",
+      "county": "AR",
+      "link": "https://siriacyclingcircuit.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 7
+        }
+      ],
+      "lat": 46.2667,
+      "lon": 21.6333
+    },
+    {
+      "id": 61,
+      "name": "Izvoare Bike Challenge",
+      "location": "Desești",
+      "county": "MM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 25,
+          "event_link": "https://izvoareresort.ro/index.php/2026/06/18/etapa-2-izvoare-bike-challenge-2026/"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Cupa Max Ausnit",
+      "location": "Lugoj",
+      "county": "TM",
+      "link": "https://raceday.ro/cupamaxausnit/",
+      "link_fb": "https://web.facebook.com/cupamaxausnit/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26
+        }
+      ],
+      "lat": 45.6833,
+      "lon": 21.9
+    },
+    {
+      "id": 63,
+      "name": "Turul Vrancei Rikora",
+      "location": "Cârligele",
+      "county": "VN",
+      "link": "https://web.facebook.com/turulvranceiroadbiketrophy",
+      "link_fb": "https://web.facebook.com/turulvranceiroadbiketrophy",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 1
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Turul Munteniei",
+      "location": "București",
+      "county": "B",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/1384848036797671"
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
+    },
+    {
+      "id": 65,
+      "name": "Drumul Dunarii",
+      "location": "Videle",
+      "county": "TR",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1700169431420883"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Transfăgărășan Endurance Challenge",
+      "location": "Sibiu",
+      "county": "SB",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15,
+          "event_link": "https://www.facebook.com/events/2199795027498346"
+        }
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
+    },
+    {
+      "id": 67,
+      "name": "Drumul lui Bachus",
+      "location": "Tătaru",
+      "county": "PH",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/3057729431097152/"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Șuior Downhill Challenge",
+      "location": "Baia Sprie",
+      "location_details": "Șuior Resort",
+      "county": "MM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/1387259170002565/"
+        }
+      ],
+      "lat": 47.6667,
+      "lon": 23.6833
+    },
+    {
+      "id": 69,
+      "name": "Turul Apusenilor",
+      "location": "Oradea",
+      "county": "BH",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 10,
+          "event_link": "https://www.facebook.com/events/1071845148739455/"
+        }
+      ],
+      "lat": 47.05596091490953,
+      "lon": 21.93951167742133
+    },
+    {
+      "id": 70,
+      "name": "Arad MTB Trophy",
+      "location": "Arad",
+      "county": "AR",
+      "link": "https://web.facebook.com/aradmtbtrophy",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        }
+      ],
+      "lat": 46.1866,
+      "lon": 21.3123
+    },
+    {
+      "id": 71,
+      "name": "Turul Dobrogei",
+      "location": "Constanța",
+      "county": "CT",
+      "link": "https://www.csmconstanta.ro/turuldobrogei/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 5,
+          "day": 1
+        }
+      ],
+      "lat": 44.1598,
+      "lon": 28.6348
+    },
+    {
+      "id": 72,
+      "name": "4 Eșarfe",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://4esarfe.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 20
+        }
+      ],
+      "lat": 44.5083,
+      "lon": 26.0833
+    },
+    {
+      "id": 73,
+      "name": "Crater Maraton",
+      "location": "Băile Felix",
+      "county": "BH",
+      "link": "https://www.velosportoradea.ro/crater-maraton",
+      "link_fb": "https://www.facebook.com/velosportoradea",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 21
+        }
+      ],
+      "lat": 47.0333,
+      "lon": 21.9
+    },
+    {
+      "id": 74,
+      "name": "Moonride Festival",
+      "location": "Constanța",
+      "county": "CT",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 22,
+          "event_link": "https://www.facebook.com/events/974689002259108"
+        }
+      ],
+      "lat": 44.1598,
+      "lon": 28.6348
+    },
+    {
+      "id": 75,
+      "name": "Codlea Bike Challenge",
+      "location": "Codlea",
+      "county": "BV",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/974689002259108"
+        }
+      ],
+      "lat": 45.7,
+      "lon": 25.45
+    },
+    {
+      "id": 76,
+      "name": "Făget Ride",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/1326597515843679/"
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 77,
+      "name": "Lunca Timișului CX",
+      "location": "Moșnița Nouă",
+      "location_details": "Lunca Timișului",
+      "county": "TM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/2055204631963341/"
+        }
+      ],
+      "lat": 45.7167,
+      "lon": 21.3333
+    },
+    {
+      "id": 78,
+      "name": "Lions Bike Race",
+      "location": "Alba Iulia",
+      "county": "AB",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 5,
+          "event_link": "https://www.lions-alba.ro/lions-bike-race-2026/"
+        }
+      ],
+      "lat": 46.069,
+      "lon": 23.5763
+    },
+    {
+      "id": 79,
+      "name": "Gârboavele Trail Run",
+      "location": "Tulucești",
+      "location_details": "Pădurea Gârboavele",
+      "county": "GL",
+      "link": "https://garboaveletrailrun.ro/",
+      "link_fb": "https://www.facebook.com/GarboaveleTrailRun/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 28
+        }
+      ],
+      "lat": 45.55,
+      "lon": 28.0333
+    },
+    {
+      "id": 80,
+      "name": "Festivalul Sporturilor București (toamnă)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13
+        }
+      ],
+      "lat": 44.5083,
+      "lon": 26.0833
+    },
+    {
+      "id": 81,
+      "name": "XC Maraton Bacău",
+      "location": "Bacău",
+      "county": "BC",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/1087836940863666"
+        }
+      ],
+      "lat": 46.567,
+      "lon": 26.9146
+    },
+    {
+      "id": 82,
+      "name": "Chilia MTB Challenge",
+      "location": "Tulcea",
+      "location_details": "Tudor Vladimirescu",
+      "county": "TL",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/1377650004547843"
+        }
+      ],
+      "lat": 45.1767,
+      "lon": 28.8022
+    },
+    {
+      "id": 83,
+      "name": "Bobâlna Bikes & Forks",
+      "location": "Bobâlna",
+      "county": "CJ",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/2242638806583351"
+        }
+      ],
+      "lat": 47.1833,
+      "lon": 23.9833
+    },
+    {
+      "id": 84,
+      "name": "Pedale’n Codru",
+      "location": "Băile Lipova",
+      "county": "AR",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10,
+          "event_link": "https://www.facebook.com/events/1631236298362464/"
+        }
+      ]
+    }
+  ],
+  "cycling_competitions_no_statistics": [
+    {
+      "id": 0,
       "name": "Velo Hora",
       "location": "Chișinău",
       "location_details": "Republica Moldova",
@@ -752,559 +1462,9 @@
           "day": 24,
           "event_link": "https://sporter.md/en/events/cycle/16753/velohora-by-skoda-2026"
         }
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Turul Ciclist Drumul Aurului",
-      "location": "Brad",
-      "county": "HD",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 23,
-          "event_link": "https://www.facebook.com/events/1349554929881473/"
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Zarandia Run & Bike Challenge",
-      "location": "Vața de Jos",
-      "location_details": "Vața Băi",
-      "county": "HD",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 29,
-          "event_link": "https://www.facebook.com/events/s/-zarandia-run-bike-challenge-2/1450776063481403/"
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Criteriul Primaverii",
-      "location": "Sibiu",
-      "county": "SB",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 6,
-          "day": 7,
-          "event_link": "https://www.facebook.com/events/1174757818158412/"
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "name": "Apuseni Bike Tour",
-      "location": "Mărgău",
-      "county": "CJ",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 7,
-          "day": 26,
-          "event_link": "https://www.facebook.com/events/4453104784948725/"
-        }
-      ]
-    },
-    {
-      "id": 53,
-      "name": "Crosul Viilor - Satu Mare",
-      "location": "Satu Mare",
-      "county": "SM",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 5,
-          "event_link": "https://www.facebook.com/events/1573738901097573"
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "name": "Turul Colinelor Bacău",
-      "location": "Ungureni",
-      "county": "BC",
-      "link": "https://www.turulcolinelor.ro/",
-      "link_fb": "https://www.facebook.com/turulcolinelorbacau",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 10,
-          "day": 10
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "name": "Maratonul Codrului",
-      "location": "Homoroade",
-      "location_details": "Popasul Codrenilor Oteloaia",
-      "county": "SM",
-      "link": "https://www.proracers.ro/activitati/maratonul-codrului/",
-      "link_fb": "https://www.facebook.com/proracerssatumare",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 4,
-          "day": 25
-        }
-      ]
-    },
-    {
-      "id": 56,
-      "name": "Poli Bike Challenge",
-      "location": "Timișoara",
-      "county": "TM",
-      "link": "https://raceday.ro/poli-bike-challenge/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 4,
-          "day": 26
-        }
-      ]
-    },
-    {
-      "id": 57,
-      "name": "Musai Spectaculos",
-      "location": "Făgăraș",
-      "county": "BV",
-      "link": "https://alergaras.ro/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 1
-        }
-      ]
-    },
-    {
-      "id": 58,
-      "name": "Obciniada",
-      "location": "Gura Humorului",
-      "county": "SV",
-      "link": "https://www.obciniada.ro/mountain-bike",
-      "link_fb": "https://www.facebook.com/obciniada",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 23
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "name": "Tour de Tur",
-      "location": "Orașu Nou",
-      "county": "SM",
-      "link": "https://tourdetur.ro/",
-      "link_fb": "https://www.facebook.com/tourdeturRO",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 23
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "name": "Turul Ciclist Bartók",
-      "location": "Timișoara",
-      "county": "TM",
-      "link": "https://raceday.ro/turul-ciclist-bartok-bela/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 30
-        }
-      ]
-    },
-    {
-      "id": 61,
-      "name": "Șiria Cycling Circuit",
-      "location": "Șiria",
-      "county": "AR",
-      "link": "https://siriacyclingcircuit.ro/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 6,
-          "day": 7
-        }
-      ]
-    },
-    {
-      "id": 62,
-      "name": "Izvoare Bike Challenge",
-      "location": "Desești",
-      "county": "MM",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 7,
-          "day": 25,
-          "event_link": "https://izvoareresort.ro/index.php/2026/06/18/etapa-2-izvoare-bike-challenge-2026/"
-        }
-      ]
-    },
-    {
-      "id": 63,
-      "name": "Cupa Max Ausnit",
-      "location": "Lugoj",
-      "county": "TM",
-      "link": "https://raceday.ro/cupamaxausnit/",
-      "link_fb": "https://web.facebook.com/cupamaxausnit/",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 7,
-          "day": 26
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "name": "Turul Vrancei Rikora",
-      "location": "Cârligele",
-      "county": "VN",
-      "link": "https://web.facebook.com/turulvranceiroadbiketrophy",
-      "link_fb": "https://web.facebook.com/turulvranceiroadbiketrophy",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 1
-        }
-      ]
-    },
-    {
-      "id": 65,
-      "name": "Turul Munteniei",
-      "location": "București",
-      "county": "B",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 8,
-          "event_link": "https://www.facebook.com/events/1384848036797671"
-        }
-      ]
-    },
-    {
-      "id": 66,
-      "name": "Drumul Dunarii",
-      "location": "Videle",
-      "county": "TR",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 14,
-          "event_link": "https://www.facebook.com/events/1700169431420883"
-        }
-      ]
-    },
-    {
-      "id": 67,
-      "name": "Transfăgărășan Endurance Challenge",
-      "location": "Sibiu",
-      "county": "SB",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 15,
-          "event_link": "https://www.facebook.com/events/2199795027498346"
-        }
-      ]
-    },
-    {
-      "id": 68,
-      "name": "Drumul lui Bachus",
-      "location": "Tătaru",
-      "county": "PH",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 22,
-          "event_link": "https://www.facebook.com/events/3057729431097152/"
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "name": "Șuior Downhill Challenge",
-      "location": "Baia Sprie",
-      "location_details": "Șuior Resort",
-      "county": "MM",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 28,
-          "event_link": "https://www.facebook.com/events/1387259170002565/"
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "name": "Turul Apusenilor",
-      "location": "Oradea",
-      "county": "BH",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 10,
-          "event_link": "https://www.facebook.com/events/1071845148739455/"
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "name": "Arad MTB Trophy",
-      "location": "Arad",
-      "county": "AR",
-      "link": "https://web.facebook.com/aradmtbtrophy",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 27
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "name": "Turul Dobrogei",
-      "location": "Constanța",
-      "county": "CT",
-      "link": "https://www.csmconstanta.ro/turuldobrogei/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 5,
-          "day": 1
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "name": "4 Eșarfe",
-      "location": "București",
-      "location_details": "Pădurea Băneasa",
-      "county": "B",
-      "link": "https://4esarfe.ro/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 6,
-          "day": 20
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "name": "Crater Maraton",
-      "location": "Băile Felix",
-      "county": "BH",
-      "link": "https://www.velosportoradea.ro/crater-maraton",
-      "link_fb": "https://www.facebook.com/velosportoradea",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 6,
-          "day": 21
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "name": "Moonride Festival",
-      "location": "Constanța",
-      "county": "CT",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 8,
-          "day": 22,
-          "event_link": "https://www.facebook.com/events/974689002259108"
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "name": "Codlea Bike Challenge",
-      "location": "Codlea",
-      "county": "BV",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 13,
-          "event_link": "https://www.facebook.com/events/974689002259108"
-        }
-      ]
-    },
-    {
-      "id": 77,
-      "name": "Făget Ride",
-      "location": "Cluj-Napoca",
-      "county": "CJ",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 10,
-          "day": 18,
-          "event_link": "https://www.facebook.com/events/1326597515843679/"
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "name": "Lunca Timișului CX",
-      "location": "Moșnița Nouă",
-      "location_details": "Lunca Timișului",
-      "county": "TM",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 11,
-          "day": 14,
-          "event_link": "https://www.facebook.com/events/2055204631963341/"
-        }
-      ]
-    },
-    {
-     "id": 79,
-      "name": "Lions Bike Race",
-      "location": "Alba Iulia",
-      "county": "AB",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 5,
-          "event_link": "https://www.lions-alba.ro/lions-bike-race-2026/"
-        }
-      ]
-    },
-    {
-     "id": 80,
-     "name": "Gârboavele Trail Run",
-      "location": "Tulucești",
-      "location_details": "Pădurea Gârboavele",
-      "county": "GL",
-      "link": "https://garboaveletrailrun.ro/",
-      "link_fb": "https://www.facebook.com/GarboaveleTrailRun/",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 3,
-          "day": 28
-        }
-      ]
-    },
-    {
-     "id": 81,
-     "name": "Festivalul Sporturilor București (toamnă)",
-      "location": "București",
-      "location_details": "Pădurea Băneasa",
-      "county": "B",
-      "link": "https://festivalulsporturilor.ro/",
-      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 13
-        }
-      ]
-    },
-    {
-     "id": 82,
-     "name": "XC Maraton Bacău",
-      "location": "Bacău",
-      "county": "BC",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 19,
-          "event_link": "https://www.facebook.com/events/1087836940863666"
-        }
-      ]
-    },
-    {
-     "id": 83,
-     "name": "Chilia MTB Challenge",
-      "location": "Tulcea",
-      "location_details": "Tudor Vladimirescu",
-      "county": "TL",
-      "link": "",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 19,
-          "event_link": "https://www.facebook.com/events/1377650004547843"
-        }
-      ]
+      ],
+      "lat": 47.0106,
+      "lon": 28.8638
     }
   ]
 }

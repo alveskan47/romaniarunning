@@ -103,6 +103,9 @@ async function duathlon_main() {
         if (!response.ok) throw new Error('Failed to load duatlon competitions');
 
         duathlonData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        duathlonData.duathlon_competitions = duathlonData.duathlon_competitions
+            .concat(duathlonData.duathlon_competitions_no_statistics || []);
 
         const yearsSet = new Set();
         duathlonData.duathlon_competitions.forEach(comp => {

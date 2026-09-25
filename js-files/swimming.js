@@ -110,6 +110,9 @@ async function swimming_main() {
         if (!response.ok) throw new Error('Failed to load swimming competitions');
 
         swimmingData = await response.json();
+        // Include Moldova/virtual competitions (no statistics, but still displayed)
+        swimmingData.swimming_competitions = swimmingData.swimming_competitions
+            .concat(swimmingData.swimming_competitions_no_statistics || []);
 
         // Extract unique years from all editions
         const yearsSet = new Set();

@@ -27,7 +27,9 @@
         "0.5km",
         "0.2km",
         "3x0.5km relay"
-      ]
+      ],
+      "lat": 44.1598,
+      "lon": 28.6348
     },
     {
       "id": 2,
@@ -48,7 +50,9 @@
         "3km",
         "1.5km",
         "0.5km"
-      ]
+      ],
+      "lat": 44.2014,
+      "lon": 27.3317
     },
     {
       "id": 3,
@@ -68,7 +72,9 @@
         "10km",
         "2km",
         "3x0.5km relay"
-      ]
+      ],
+      "lat": 43.8167,
+      "lon": 28.5833
     },
     {
       "id": 4,
@@ -113,7 +119,9 @@
       "distances": [
         "6.5km",
         "1.5km"
-      ]
+      ],
+      "lat": 46.6667,
+      "lon": 23.1167
     },
     {
       "id": 6,
@@ -131,7 +139,9 @@
       ],
       "distances": [
         "1km"
-      ]
+      ],
+      "lat": 44.9833,
+      "lon": 24.8333
     },
     {
       "id": 7,
@@ -155,6 +165,29 @@
     },
     {
       "id": 8,
+      "name": "Festivalul Sporturilor București (toamnă)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13
+        }
+      ],
+      "distances": [
+        "0.05km"
+      ],
+      "lat": 44.5083,
+      "lon": 26.0833
+    }
+  ],
+  "swimming_competitions_no_statistics": [
+    {
+      "id": 0,
       "name": "Chișinău - Sea Mile",
       "location": "Chișinău",
       "location_details": "Republica Moldova",
@@ -172,26 +205,9 @@
         "3km",
         "1.5km",
         "0.75km"
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Festivalul Sporturilor București (toamnă)",
-      "location": "București",
-      "location_details": "Pădurea Băneasa",
-      "county": "B",
-      "link": "https://festivalulsporturilor.ro/",
-      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 13
-        }
       ],
-      "distances": [
-        "0.05km"
-      ]
+      "lat": 47.0106,
+      "lon": 28.8638
     }
   ]
 }
