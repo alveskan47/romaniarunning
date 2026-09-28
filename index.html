@@ -81,14 +81,22 @@
         Version: <span class="badge text-bg-secondary" id="version-number">Loading...</span>
     </button>
 
-    <!-- Year Selector -->
-    <h2>Select year:</h2>
-    <div class="dropdown mb-4">
+    <!-- Year and Sport Selectors -->
+    <h2>Select year and sport:</h2>
+    <div class="dropdown mb-4 d-inline-block me-2">
         <button class="btn btn-success dropdown-toggle" type="button" id="yearDropdown" data-bs-toggle="dropdown" aria-expanded="false">
             <span id="text_year"><!-- Current year will be set by JavaScript --></span>
         </button>
         <ul class="dropdown-menu" id="year-dropdown-menu" aria-labelledby="yearDropdown">
             <!-- Year items will be inserted here by JavaScript -->
+        </ul>
+    </div>
+    <div class="dropdown mb-4 d-inline-block">
+        <button class="btn btn-success dropdown-toggle" type="button" id="sportDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            <span id="text_sport"><!-- Current sport will be set by JavaScript --></span>
+        </button>
+        <ul class="dropdown-menu" id="sport-dropdown-menu" aria-labelledby="sportDropdown">
+            <!-- Sport items will be inserted here by JavaScript -->
         </ul>
     </div>
 

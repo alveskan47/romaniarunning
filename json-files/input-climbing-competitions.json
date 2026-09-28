@@ -51,7 +51,9 @@
           "day": 16,
           "event_link": "https://www.facebook.com/events/913659231141375/"
         }
-      ]
+      ],
+      "lat": 46.3813,
+      "lon": 23.5451
     }
   ],
   "climbing_competitions_no_statistics": []

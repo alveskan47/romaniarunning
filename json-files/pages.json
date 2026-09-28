@@ -31,52 +31,6 @@
       ]
     },
     {
-      "page_name": "Other Sports",
-      "dropdown": true,
-      "sub_pages": [
-        {
-          "page_name": "Swimming",
-          "page_link": "swimming.html"
-        },
-        {
-          "page_name": "Triathlon",
-          "page_link": "triathlon.html"
-        },
-        {
-          "page_name": "Cycling",
-          "page_link": "cycling.html"
-        },
-        {
-          "page_name": "Aquatlon",
-          "page_link": "aquatlon.html"
-        },
-        {
-          "page_name": "Duathlon",
-          "page_link": "duathlon.html"
-        },
-        {
-          "page_name": "Skiing",
-          "page_link": "skiing.html"
-        },
-        {
-          "page_name": "Climbing",
-          "page_link": "climbing.html"
-        },
-        {
-          "page_name": "Orienteering",
-          "page_link": "orienteering.html"
-        },
-        {
-          "page_name": "Kayak",
-          "page_link": "kayak.html"
-        },
-        {
-          "page_name": "Hyatlon",
-          "page_link": "hyatlon.html"
-        }
-      ]
-    },
-    {
       "page_name": "Extra",
       "dropdown": true,
       "sub_pages": [

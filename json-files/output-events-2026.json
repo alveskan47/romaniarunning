@@ -1032,6 +1032,8 @@
     "year": 2026,
     "month": 3,
     "day": 28,
+    "lat": 45.9129,
+    "lon": 21.225,
     "sport": "duathlon"
   },
   {
@@ -1407,6 +1409,8 @@
     "year": 2026,
     "month": 4,
     "day": 18,
+    "lat": 45.7257,
+    "lon": 24.377,
     "sport": "cycling"
   },
   {
@@ -1590,6 +1594,8 @@
     "year": 2026,
     "month": 4,
     "day": 25,
+    "lat": 44.992,
+    "lon": 26.2327,
     "sport": "cycling"
   },
   {
@@ -2371,7 +2377,7 @@
     ],
     "link": "https://duathlon.unstoppable.ro/",
     "link_fb": "https://www.facebook.com/unstoppablesportclub",
-    "id": 627,
+    "id": 626,
     "year": 2026,
     "month": 5,
     "day": 9,
@@ -2850,7 +2856,7 @@
     ],
     "link": "https://sincai.ro/cros",
     "link_fb": "",
-    "id": 629,
+    "id": 628,
     "year": 2026,
     "month": 5,
     "day": 16,
@@ -3099,6 +3105,8 @@
     "year": 2026,
     "month": 5,
     "day": 23,
+    "lat": 45.0762,
+    "lon": 25.4343,
     "sport": "cycling"
   },
   {
@@ -4437,6 +4445,8 @@
     "year": 2026,
     "month": 6,
     "day": 6,
+    "lat": 43.7865,
+    "lon": 28.5751,
     "sport": "triathlon"
   },
   {
@@ -4841,6 +4851,8 @@
     "year": 2026,
     "month": 6,
     "day": 14,
+    "lat": 44.808,
+    "lon": 25.0853,
     "sport": "cycling"
   },
   {
@@ -4984,6 +4996,8 @@
     "year": 2026,
     "month": 6,
     "day": 19,
+    "lat": 47.213,
+    "lon": 26.3188,
     "sport": "orienteering"
   },
   {
@@ -5437,6 +5451,8 @@
     "year": 2026,
     "month": 6,
     "day": 27,
+    "lat": 46.4314,
+    "lon": 24.8422,
     "sport": "triathlon"
   },
   {
@@ -5636,6 +5652,8 @@
     "year": 2026,
     "month": 7,
     "day": 4,
+    "lat": 46.0149,
+    "lon": 26.6485,
     "sport": "cycling"
   },
   {
@@ -5767,6 +5785,8 @@
     "year": 2026,
     "month": 7,
     "day": 4,
+    "lat": 45.4786,
+    "lon": 26.2657,
     "sport": "swimming"
   },
   {
@@ -6033,6 +6053,8 @@
     "year": 2026,
     "month": 7,
     "day": 12,
+    "lat": 46.7865,
+    "lon": 25.5411,
     "sport": "cycling"
   },
   {
@@ -6230,6 +6252,8 @@
     "year": 2026,
     "month": 7,
     "day": 25,
+    "lat": 44.5636,
+    "lon": 27.3618,
     "sport": "cycling"
   },
   {
@@ -6264,6 +6288,8 @@
     "year": 2026,
     "month": 7,
     "day": 25,
+    "lat": 47.7725,
+    "lon": 23.8591,
     "sport": "cycling"
   },
   {
@@ -6395,6 +6421,8 @@
     "year": 2026,
     "month": 7,
     "day": 25,
+    "lat": 45.2258,
+    "lon": 22.0286,
     "sport": "swimming"
   },
   {
@@ -6621,6 +6649,8 @@
     "year": 2026,
     "month": 8,
     "day": 1,
+    "lat": 45.6863,
+    "lon": 27.0584,
     "sport": "cycling"
   },
   {
@@ -6887,6 +6917,8 @@
     "year": 2026,
     "month": 8,
     "day": 7,
+    "lat": 45.8975,
+    "lon": 25.708,
     "sport": "cycling"
   },
   {
@@ -6903,6 +6935,8 @@
     "year": 2026,
     "month": 8,
     "day": 8,
+    "lat": 45.0762,
+    "lon": 25.4343,
     "sport": "cycling"
   },
   {
@@ -6937,6 +6971,8 @@
     "year": 2026,
     "month": 8,
     "day": 8,
+    "lat": 45.8975,
+    "lon": 25.708,
     "sport": "cycling"
   },
   {
@@ -7078,6 +7114,8 @@
     "year": 2026,
     "month": 8,
     "day": 14,
+    "lat": 44.2746,
+    "lon": 25.5277,
     "sport": "cycling"
   },
   {
@@ -7130,6 +7168,8 @@
     "year": 2026,
     "month": 8,
     "day": 15,
+    "lat": 47.1973,
+    "lon": 25.2638,
     "sport": "cycling"
   },
   {
@@ -7384,6 +7424,8 @@
     "year": 2026,
     "month": 8,
     "day": 22,
+    "lat": 46.1941,
+    "lon": 24.9619,
     "sport": "cycling"
   },
   {
@@ -7400,6 +7442,8 @@
     "year": 2026,
     "month": 8,
     "day": 22,
+    "lat": 45.0986,
+    "lon": 26.3475,
     "sport": "cycling"
   },
   {
@@ -7519,6 +7563,8 @@
     "year": 2026,
     "month": 8,
     "day": 23,
+    "lat": 45.7168,
+    "lon": 24.1546,
     "sport": "cycling"
   },
   {
@@ -7573,6 +7619,8 @@
     "year": 2026,
     "month": 8,
     "day": 28,
+    "lat": 45.9473,
+    "lon": 26.4451,
     "sport": "cycling"
   },
   {
@@ -7717,6 +7765,8 @@
     "year": 2026,
     "month": 8,
     "day": 29,
+    "lat": 46.5165,
+    "lon": 25.7571,
     "sport": "orienteering"
   },
   {
@@ -8810,7 +8860,7 @@
     ],
     "link": "https://vartemplom.ro/vifirun2026/",
     "link_fb": "",
-    "id": 630,
+    "id": 629,
     "year": 2026,
     "month": 9,
     "day": 12,
@@ -8830,7 +8880,7 @@
     ],
     "link": "https://www.facebook.com/events/1043133868546824",
     "link_fb": "",
-    "id": 641,
+    "id": 640,
     "year": 2026,
     "month": 9,
     "day": 12,
@@ -8850,7 +8900,7 @@
     ],
     "link": "https://www.facebook.com/events/1072089885391375/",
     "link_fb": "",
-    "id": 652,
+    "id": 650,
     "year": 2026,
     "month": 9,
     "day": 12,
@@ -9093,7 +9143,7 @@
     ],
     "link": "https://www.facebook.com/events/1405470694802261",
     "link_fb": "",
-    "id": 631,
+    "id": 630,
     "year": 2026,
     "month": 9,
     "day": 13,
@@ -9510,7 +9560,7 @@
     ],
     "link": "https://www.facebook.com/photo?fbid=122169506168694865&set=a.122116992902694865",
     "link_fb": "",
-    "id": 632,
+    "id": 631,
     "year": 2026,
     "month": 9,
     "day": 19,
@@ -9532,7 +9582,7 @@
     ],
     "link": "https://www.facebook.com/profile.php?id=61592714341310",
     "link_fb": "https://www.facebook.com/profile.php?id=61592714341310",
-    "id": 633,
+    "id": 632,
     "year": 2026,
     "month": 9,
     "day": 19,
@@ -9552,7 +9602,7 @@
     ],
     "link": "https://www.facebook.com/events/1847216139591588",
     "link_fb": "",
-    "id": 634,
+    "id": 633,
     "year": 2026,
     "month": 9,
     "day": 19,
@@ -9572,7 +9622,7 @@
     ],
     "link": "https://www.facebook.com/events/2070426236909039",
     "link_fb": "",
-    "id": 642,
+    "id": 641,
     "year": 2026,
     "month": 9,
     "day": 19,
@@ -9829,7 +9879,7 @@
     ],
     "link": "https://www.facebook.com/events/1423660413156323",
     "link_fb": "",
-    "id": 635,
+    "id": 634,
     "year": 2026,
     "month": 9,
     "day": 20,
@@ -9849,7 +9899,7 @@
     ],
     "link": "https://www.facebook.com/events/1346328637577240",
     "link_fb": "",
-    "id": 651,
+    "id": 649,
     "year": 2026,
     "month": 9,
     "day": 20,
@@ -10304,7 +10354,7 @@
     ],
     "link": "https://montera.ro/geticcross/",
     "link_fb": "",
-    "id": 626,
+    "id": 625,
     "year": 2026,
     "month": 9,
     "day": 26,
@@ -10324,7 +10374,7 @@
     ],
     "link": "https://www.facebook.com/events/1019078014228719/",
     "link_fb": "",
-    "id": 636,
+    "id": 635,
     "year": 2026,
     "month": 9,
     "day": 26,
@@ -10346,7 +10396,7 @@
     ],
     "link": "https://alergare.donboscobc.ro/trasee/",
     "link_fb": "https://www.facebook.com/donboscobacau/",
-    "id": 643,
+    "id": 642,
     "year": 2026,
     "month": 9,
     "day": 26,
@@ -10366,7 +10416,7 @@
     ],
     "link": "https://www.facebook.com/events/1046003011560864",
     "link_fb": "",
-    "id": 647,
+    "id": 646,
     "year": 2026,
     "month": 9,
     "day": 26,
@@ -10386,7 +10436,7 @@
     ],
     "link": "https://www.facebook.com/events/2339066536631682/",
     "link_fb": "",
-    "id": 654,
+    "id": 652,
     "year": 2026,
     "month": 9,
     "day": 26,
@@ -10521,26 +10571,6 @@
     "sport": "running"
   },
   {
-    "name": "Crosul Cetății Turnu",
-    "location": "Turnu Măgurele",
-    "location_details": "",
-    "display_date": "Sun 27-Sep-2026",
-    "county": "TR",
-    "type": "road",
-    "distances": [
-      "14km"
-    ],
-    "link": "https://www.facebook.com/profile.php?id=61584156471124",
-    "link_fb": "https://www.facebook.com/profile.php?id=61584156471124",
-    "id": 648,
-    "year": 2026,
-    "month": 9,
-    "day": 27,
-    "lat": 43.75167,
-    "lon": 24.87083,
-    "sport": "running"
-  },
-  {
     "name": "Tunari Fun Run",
     "location": "Tunari",
     "location_details": "",
@@ -10552,7 +10582,7 @@
     ],
     "link": "https://www.facebook.com/events/s/tunari-fun-run/3532493830253309/",
     "link_fb": "",
-    "id": 653,
+    "id": 651,
     "year": 2026,
     "month": 9,
     "day": 27,
@@ -10611,7 +10641,7 @@
     ],
     "link": "https://www.facebook.com/profile.php?id=61579471746803",
     "link_fb": "https://www.facebook.com/profile.php?id=61579471746803",
-    "id": 644,
+    "id": 643,
     "year": 2026,
     "month": 10,
     "day": 2,
@@ -10633,6 +10663,8 @@
     "year": 2026,
     "month": 10,
     "day": 3,
+    "lat": 47.3458,
+    "lon": 22.9535,
     "sport": "cycling"
   },
   {
@@ -10926,7 +10958,7 @@
     ],
     "link": "https://cozlatrailrun.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61593099807875",
-    "id": 637,
+    "id": 636,
     "year": 2026,
     "month": 10,
     "day": 3,
@@ -10947,12 +10979,32 @@
     ],
     "link": "https://www.creastacocosului.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61592779124107",
-    "id": 638,
+    "id": 637,
     "year": 2026,
     "month": 10,
     "day": 3,
     "lat": 47.7333,
     "lon": 23.8,
+    "sport": "running"
+  },
+  {
+    "name": "Oxigen 2 - Come2Play – Sectorul 2 în mișcare",
+    "location": "București",
+    "location_details": "Parcul Național",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://oxigen2.ro/come2play/",
+    "link_fb": "https://www.facebook.com/oxigen2",
+    "id": 655,
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "lat": 44.436415,
+    "lon": 26.149728,
     "sport": "running"
   },
   {
@@ -11058,6 +11110,8 @@
     "year": 2026,
     "month": 10,
     "day": 10,
+    "lat": 46.5574,
+    "lon": 27.0977,
     "sport": "cycling"
   },
   {
@@ -11074,6 +11128,8 @@
     "year": 2026,
     "month": 10,
     "day": 10,
+    "lat": 46.0667,
+    "lon": 21.705,
     "sport": "cycling"
   },
   {
@@ -11142,26 +11198,6 @@
     "sport": "running"
   },
   {
-    "name": "Salt Run",
-    "location": "Slănic Prahova",
-    "location_details": "",
-    "display_date": "Sat 10-Oct-2026",
-    "county": "PH",
-    "type": "road",
-    "distances": [
-      "6km"
-    ],
-    "link": "https://saltrun.slanictinutulsarii.ro/",
-    "link_fb": "",
-    "id": 625,
-    "year": 2026,
-    "month": 10,
-    "day": 10,
-    "lat": 45.2317,
-    "lon": 25.9483,
-    "sport": "running"
-  },
-  {
     "name": "Together Run",
     "location": "Arad",
     "location_details": "",
@@ -11177,7 +11213,7 @@
     ],
     "link": "https://www.togetherrunarad.ro/",
     "link_fb": "https://www.facebook.com/profile.php?id=61591904724569",
-    "id": 639,
+    "id": 638,
     "year": 2026,
     "month": 10,
     "day": 10,
@@ -11264,7 +11300,7 @@
     ],
     "link": "https://clujconnectrun.ro/",
     "link_fb": "https://www.facebook.com/clujconnectrun",
-    "id": 628,
+    "id": 627,
     "year": 2026,
     "month": 10,
     "day": 11,
@@ -11286,6 +11322,8 @@
     "year": 2026,
     "month": 10,
     "day": 16,
+    "lat": 46.3813,
+    "lon": 23.5451,
     "sport": "climbing"
   },
   {
@@ -11510,7 +11548,7 @@
     ],
     "link": "https://www.facebook.com/profile.php?id=61593801323353",
     "link_fb": "https://www.facebook.com/profile.php?id=61593801323353",
-    "id": 645,
+    "id": 644,
     "year": 2026,
     "month": 10,
     "day": 17,
@@ -11586,7 +11624,7 @@
     ],
     "link": "https://www.facebook.com/events/s/bell-dragomirna-backyard-ultra/1377736301215935/",
     "link_fb": "",
-    "id": 646,
+    "id": 645,
     "year": 2026,
     "month": 10,
     "day": 23,
@@ -11767,6 +11805,26 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Loteriei Române - Târgu Jiu",
+    "location": "Târgu Jiu",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "GJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.loto.ro/?p=22832",
+    "link_fb": "",
+    "id": 654,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 45.0423,
+    "lon": 23.2728,
+    "sport": "running"
+  },
+  {
     "name": "Timișoara City Marathon",
     "location": "Timișoara",
     "location_details": "",
@@ -11887,6 +11945,8 @@
     "year": 2026,
     "month": 10,
     "day": 31,
+    "lat": 45.0019,
+    "lon": 25.968,
     "sport": "cycling"
   },
   {
@@ -11986,7 +12046,7 @@
     ],
     "link": "https://advancemilitaryrun.ro/",
     "link_fb": "",
-    "id": 649,
+    "id": 647,
     "year": 2026,
     "month": 10,
     "day": 31,
@@ -12059,6 +12119,24 @@
     "sport": "running"
   },
   {
+    "name": "Otopeni MTB Adventure",
+    "location": "Otopeni",
+    "location_details": "",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "IF",
+    "type": "",
+    "distances": [],
+    "link": "https://www.ridersclub.ro/ro/competitie-ciclism/ziua-b-2026",
+    "link_fb": "",
+    "id": 85,
+    "year": 2026,
+    "month": 11,
+    "day": 7,
+    "lat": 44.5508,
+    "lon": 26.0729,
+    "sport": "cycling"
+  },
+  {
     "name": "IstritaXscape",
     "location": "Sărata Monteoru",
     "location_details": "",
@@ -12116,7 +12194,7 @@
     ],
     "link": "https://proactivi.org/",
     "link_fb": "https://www.facebook.com/profile.php?id=100059604559641",
-    "id": 650,
+    "id": 648,
     "year": 2026,
     "month": 11,
     "day": 7,
@@ -12339,7 +12417,7 @@
     ],
     "link": "https://ro.spartan.com/ro/race/detail/11347/overview",
     "link_fb": "",
-    "id": 640,
+    "id": 639,
     "year": 2026,
     "month": 11,
     "day": 21,

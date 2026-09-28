@@ -14,7 +14,9 @@
           "day": 28,
           "event_link": "https://www.ridecompetition.ro/campionatul-national-de-cross-duatlon-iarcuri-cornesti-trikids-2026-2/"
         }
-      ]
+      ],
+      "lat": 45.9129,
+      "lon": 21.225
     },
     {
       "id": 2,

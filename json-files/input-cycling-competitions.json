@@ -36,7 +36,9 @@
           "month": 4,
           "day": 25
         }
-      ]
+      ],
+      "lat": 44.992,
+      "lon": 26.2327
     },
     {
       "id": 3,
@@ -85,7 +87,9 @@
           "month": 5,
           "day": 23
         }
-      ]
+      ],
+      "lat": 45.0762,
+      "lon": 25.4343
     },
     {
       "id": 6,
@@ -140,7 +144,9 @@
           "day": 14,
           "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/topoloveni-summer-tour-2026"
         }
-      ]
+      ],
+      "lat": 44.808,
+      "lon": 25.0853
     },
     {
       "id": 9,
@@ -212,7 +218,9 @@
           "month": 7,
           "day": 12
         }
-      ]
+      ],
+      "lat": 46.7865,
+      "lon": 25.5411
     },
     {
       "id": 13,
@@ -227,7 +235,9 @@
           "month": 7,
           "day": 25
         }
-      ]
+      ],
+      "lat": 44.5636,
+      "lon": 27.3618
     },
     {
       "id": 14,
@@ -277,7 +287,9 @@
           "month": 8,
           "day": 8
         }
-      ]
+      ],
+      "lat": 45.0762,
+      "lon": 25.4343
     },
     {
       "id": 17,
@@ -326,7 +338,9 @@
           "month": 4,
           "day": 18
         }
-      ]
+      ],
+      "lat": 45.7257,
+      "lon": 24.377
     },
     {
       "id": 20,
@@ -393,7 +407,9 @@
           "day": 4,
           "event_link": "https://www.facebook.com/events/1826343402105926/"
         }
-      ]
+      ],
+      "lat": 46.0149,
+      "lon": 26.6485
     },
     {
       "id": 24,
@@ -444,7 +460,9 @@
           "day": 7,
           "event_link": "https://www.facebook.com/events/1519524813307987/"
         }
-      ]
+      ],
+      "lat": 45.8975,
+      "lon": 25.708
     },
     {
       "id": 27,
@@ -460,7 +478,9 @@
           "day": 8,
           "event_link": "https://www.facebook.com/events/4303130299931331/"
         }
-      ]
+      ],
+      "lat": 45.8975,
+      "lon": 25.708
     },
     {
       "id": 28,
@@ -492,7 +512,9 @@
           "month": 8,
           "day": 15
         }
-      ]
+      ],
+      "lat": 47.1973,
+      "lon": 25.2638
     },
     {
       "id": 30,
@@ -507,7 +529,9 @@
           "month": 8,
           "day": 22
         }
-      ]
+      ],
+      "lat": 46.1941,
+      "lon": 24.9619
     },
     {
       "id": 31,
@@ -522,7 +546,9 @@
           "month": 8,
           "day": 23
         }
-      ]
+      ],
+      "lat": 45.7168,
+      "lon": 24.1546
     },
     {
       "id": 32,
@@ -537,7 +563,9 @@
           "month": 8,
           "day": 28
         }
-      ]
+      ],
+      "lat": 45.9473,
+      "lon": 26.4451
     },
     {
       "id": 33,
@@ -758,7 +786,9 @@
           "month": 10,
           "day": 3
         }
-      ]
+      ],
+      "lat": 47.3458,
+      "lon": 22.9535
     },
     {
       "id": 46,
@@ -791,7 +821,9 @@
           "month": 10,
           "day": 31
         }
-      ]
+      ],
+      "lat": 45.0019,
+      "lon": 25.968
     },
     {
       "id": 48,
@@ -897,7 +929,9 @@
           "month": 10,
           "day": 10
         }
-      ]
+      ],
+      "lat": 46.5574,
+      "lon": 27.0977
     },
     {
       "id": 54,
@@ -1033,7 +1067,9 @@
           "day": 25,
           "event_link": "https://izvoareresort.ro/index.php/2026/06/18/etapa-2-izvoare-bike-challenge-2026/"
         }
-      ]
+      ],
+      "lat": 47.7725,
+      "lon": 23.8591
     },
     {
       "id": 62,
@@ -1065,7 +1101,9 @@
           "month": 8,
           "day": 1
         }
-      ]
+      ],
+      "lat": 45.6863,
+      "lon": 27.0584
     },
     {
       "id": 64,
@@ -1099,7 +1137,9 @@
           "day": 14,
           "event_link": "https://www.facebook.com/events/1700169431420883"
         }
-      ]
+      ],
+      "lat": 44.2746,
+      "lon": 25.5277
     },
     {
       "id": 66,
@@ -1133,7 +1173,9 @@
           "day": 22,
           "event_link": "https://www.facebook.com/events/3057729431097152/"
         }
-      ]
+      ],
+      "lat": 45.0986,
+      "lon": 26.3475
     },
     {
       "id": 68,
@@ -1437,7 +1479,27 @@
           "day": 10,
           "event_link": "https://www.facebook.com/events/1631236298362464/"
         }
-      ]
+      ],
+      "lat": 46.0667,
+      "lon": 21.705
+    },
+    {
+      "id": 85,
+      "name": "Otopeni MTB Adventure",
+      "location": "Otopeni",
+      "county": "IF",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7,
+          "event_link": "https://www.ridersclub.ro/ro/competitie-ciclism/ziua-b-2026"
+        }
+      ],
+      "lat": 44.5508,
+      "lon": 26.0729
     }
   ],
   "cycling_competitions_no_statistics": [

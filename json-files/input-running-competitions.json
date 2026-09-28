@@ -18788,27 +18788,6 @@
     },
     {
       "id": 625,
-      "name": "Salt Run",
-      "location": "Slănic Prahova",
-      "county": "PH",
-      "type": "road",
-      "distances": [
-        "6km"
-      ],
-      "link": "https://saltrun.slanictinutulsarii.ro/",
-      "link_fb": "",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 10,
-          "day": 10
-        }
-      ],
-      "lat": 45.2317,
-      "lon": 25.9483
-    },
-    {
-      "id": 626,
       "name": "Getic Cross",
       "location": "Cuca",
       "county": "AG",
@@ -18831,7 +18810,7 @@
       "lon": 24.8917
     },
     {
-      "id": 627,
+      "id": 626,
       "name": "Cross Duathlon Cernica",
       "location": "Cernica",
       "county": "IF",
@@ -18852,7 +18831,7 @@
       "lon": 26.2167
     },
     {
-      "id": 628,
+      "id": 627,
       "name": "Cluj Connect Run",
       "location": "Cluj-Napoca",
       "county": "CJ",
@@ -18875,7 +18854,7 @@
       "lon": 23.5717102974638
     },
     {
-      "id": 629,
+      "id": 628,
       "name": "Crosul Liceelor Bucurestene",
       "location": "București",
       "location_details": "Parcul Tineretului",
@@ -18898,7 +18877,7 @@
       "lon": 26.1034
     },
     {
-      "id": 630,
+      "id": 629,
       "name": "Vifi Run",
       "location": "Târgu Mureș",
       "county": "MS",
@@ -18920,7 +18899,7 @@
       "lon": 24.5583
     },
     {
-      "id": 631,
+      "id": 630,
       "name": "Crosul Demnității",
       "location": "Uriu",
       "county": "BN",
@@ -18943,7 +18922,7 @@
       "lon": 24.35
     },
     {
-      "id": 632,
+      "id": 631,
       "name": "Bistrița Night Run",
       "location": "Bistrița",
       "county": "BN",
@@ -18966,7 +18945,7 @@
       "lon": 24.5
     },
     {
-      "id": 633,
+      "id": 632,
       "name": "Bâtca Doamnei Run",
       "location": "Piatra Neamț",
       "county": "NT",
@@ -18989,7 +18968,7 @@
       "lon": 26.3667
     },
     {
-      "id": 634,
+      "id": 633,
       "name": "Crosul Cardiologilor Sinaia",
       "location": "Sinaia",
       "county": "PH",
@@ -19011,7 +18990,7 @@
       "lon": 25.55
     },
     {
-      "id": 635,
+      "id": 634,
       "name": "Crosul Inimii",
       "location": "Sacoșu Turcesc",
       "county": "TM",
@@ -19035,7 +19014,7 @@
       "lon": 21.4833
     },
     {
-      "id": 636,
+      "id": 635,
       "name": "Full Moon Run - Odorheiu Secuiesc",
       "location": "Odorheiu Secuiesc",
       "county": "HR",
@@ -19057,7 +19036,7 @@
       "lon": 25.3
     },
     {
-      "id": 637,
+      "id": 636,
       "name": "Cozla Trail Run",
       "location": "Piatra Neamț",
       "county": "NT",
@@ -19080,7 +19059,7 @@
       "lon": 26.3667
     },
     {
-      "id": 638,
+      "id": 637,
       "name": "Creasta Cocoșului Trail",
       "location": "Breb",
       "county": "MM",
@@ -19102,7 +19081,7 @@
       "lon": 23.8
     },
     {
-      "id": 639,
+      "id": 638,
       "name": "Together Run",
       "location": "Arad",
       "county": "AR",
@@ -19127,7 +19106,7 @@
       "lon": 21.3123
     },
     {
-      "id": 640,
+      "id": 639,
       "name": "Spartan Cluj",
       "location": "Cluj-Napoca",
       "county": "CJ",
@@ -19149,7 +19128,7 @@
       "lon": 23.5717102974638
     },
     {
-      "id": 641,
+      "id": 640,
       "name": "Happy Kids Run",
       "location": "Târgu Mureș",
       "county": "MS",
@@ -19171,7 +19150,7 @@
       "lon": 24.5583
     },
     {
-      "id": 642,
+      "id": 641,
       "name": "Run4Color Miroslava",
       "location": "Miroslava",
       "county": "IS",
@@ -19193,7 +19172,7 @@
       "lon": 27.517
     },
     {
-      "id": 643,
+      "id": 642,
       "name": "Kilometri de Speranță",
       "location": "Bacău",
       "county": "BC",
@@ -19216,7 +19195,7 @@
       "lon": 26.9146
     },
     {
-      "id": 644,
+      "id": 643,
       "name": "Crosul Roșfed (toamna)",
       "location": "Gilău",
       "county": "CJ",
@@ -19238,7 +19217,7 @@
       "lon": 23.3833
     },
     {
-      "id": 645,
+      "id": 644,
       "name": "Armenopolis Ultra Running",
       "location": "Gherla",
       "county": "CJ",
@@ -19259,7 +19238,7 @@
       "lon": 23.9
     },
     {
-      "id": 646,
+      "id": 645,
       "name": "Dragomirna BELL – Backyard Ultra",
       "location": "Mitocu Dragomirnei",
       "county": "SV",
@@ -19281,7 +19260,7 @@
       "lon": 26.1167
     },
     {
-      "id": 647,
+      "id": 646,
       "name": "Crosul Sperantei Stăuceni",
       "location": "Stăuceni",
       "county": "BT",
@@ -19303,28 +19282,7 @@
       "lon": 26.75
     },
     {
-      "id": 648,
-      "name": "Crosul Cetății Turnu",
-      "location": "Turnu Măgurele",
-      "county": "TR",
-      "type": "road",
-      "distances": [
-        "14km"
-      ],
-      "link": "https://www.facebook.com/profile.php?id=61584156471124",
-      "link_fb": "https://www.facebook.com/profile.php?id=61584156471124",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 9,
-          "day": 27
-        }
-      ],
-      "lat": 43.75167,
-      "lon": 24.87083
-    },
-    {
-      "id": 649,
+      "id": 647,
       "name": "Advance Military Run",
       "location": "Săcele",
       "county": "BV",
@@ -19346,7 +19304,7 @@
       "lon": 25.691
     },
     {
-      "id": 650,
+      "id": 648,
       "name": "Crosul Cetăților - Domeniul Mairovitz",
       "location": "Zăbrani",
       "county": "AR",
@@ -19369,7 +19327,7 @@
       "lon": 21.55
     },
     {
-      "id": 651,
+      "id": 649,
       "name": "Crosul Bibliotecii Bacău",
       "location": "Bacău",
       "county": "BC",
@@ -19391,7 +19349,7 @@
       "lon": 26.9146
     },
     {
-      "id": 652,
+      "id": 650,
       "name": "Marșul Lupilor Negri",
       "location": "Iași",
       "county": "IS",
@@ -19413,7 +19371,7 @@
       "lon": 27.58696065379542
     },
     {
-      "id": 653,
+      "id": 651,
       "name": "Tunari Fun Run",
       "location": "Tunari",
       "county": "IF",
@@ -19435,7 +19393,7 @@
       "lon": 26.15
     },
     {
-      "id": 654,
+      "id": 652,
       "name": "Crosul #BeActive - Craiova",
       "location": "Craiova",
       "county": "DJ",
@@ -19455,6 +19413,73 @@
       ],
       "lat": 44.3167,
       "lon": 23.8
+    },
+    {
+      "id": 653,
+      "name": "Mediaș Summer Trails",
+      "location": "Mediaș",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "21km",
+        "10km",
+        "5km"
+      ],
+      "link": "https://medias.run/summertrails",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 19
+        }
+      ],
+      "lat": 46.1583,
+      "lon": 24.3583
+    },
+    {
+      "id": 654,
+      "name": "Crosul Loteriei Române - Târgu Jiu",
+      "location": "Târgu Jiu",
+      "county": "GJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24,
+          "event_link": "https://www.loto.ro/?p=22832"
+        }
+      ],
+      "lat": 45.0423,
+      "lon": 23.2728
+    },
+    {
+      "id": 655,
+      "name": "Oxigen 2 - Come2Play – Sectorul 2 în mișcare",
+      "location": "București",
+      "location_details": "Parcul Național",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://oxigen2.ro/come2play/",
+      "link_fb": "https://www.facebook.com/oxigen2",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        }
+      ],
+      "lat": 44.436415,
+      "lon": 26.149728
     }
   ],
   "running_competitions_no_statistics": [

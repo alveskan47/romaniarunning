@@ -427,6 +427,8 @@
     "year": 2027,
     "month": 4,
     "day": 24,
+    "lat": 44.992,
+    "lon": 26.2327,
     "sport": "cycling"
   },
   {
@@ -1078,6 +1080,28 @@
     "sport": "running"
   },
   {
+    "name": "Mediaș Summer Trails",
+    "location": "Mediaș",
+    "location_details": "",
+    "display_date": "Sat 19-Jun-2027",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://medias.run/summertrails",
+    "link_fb": "",
+    "id": 653,
+    "year": 2027,
+    "month": 6,
+    "day": 19,
+    "lat": 46.1583,
+    "lon": 24.3583,
+    "sport": "running"
+  },
+  {
     "name": "Crosul Orasului Mioveni 1485",
     "location": "Mioveni",
     "location_details": "",
@@ -1230,6 +1254,8 @@
     "year": 2027,
     "month": 7,
     "day": 11,
+    "lat": 46.7865,
+    "lon": 25.5411,
     "sport": "cycling"
   },
   {

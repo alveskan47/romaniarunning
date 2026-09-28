@@ -9,43 +9,38 @@
 }
 
 /* Column width optimization */
-.competition-table th:nth-child(1),
-.competition-table td:nth-child(1) {
-    width: 13%; /* Date column - fits full date on one row */
-    white-space: nowrap;
+.competition-table .col-sport {
+    width: 10%; /* Sport column - only shown when "All Sports" is selected */
 }
 
-.competition-table th:nth-child(2),
-.competition-table td:nth-child(2) {
+.competition-table .col-date {
+    width: 13%; /* Date column - fits full date on one row */
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+.competition-table .col-competition {
     width: 38%; /* Competition column - more space */
 }
 
-.competition-table th:nth-child(3),
-.competition-table td:nth-child(3) {
+.competition-table .col-location {
     width: 15%; /* Location column */
 }
 
-.competition-table th:nth-child(4),
-.competition-table td:nth-child(4) {
+.competition-table .col-county {
     width: 8%; /* County column */
 }
 
-.competition-table th:nth-child(5),
-.competition-table td:nth-child(5) {
+.competition-table .col-type {
     width: 7%; /* Type column */
 }
 
-.competition-table th:nth-child(6),
-.competition-table td:nth-child(6) {
+.competition-table .col-distances {
     width: 19%; /* Distances column */
 }
 
 .competition-table ul {
     margin-bottom: 0;
-}
-
-.competition-table tbody td:first-child {
-    font-weight: bold;
 }
 
 .last-of-month {

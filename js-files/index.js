@@ -1,10 +1,28 @@
 /**
  * JavaScript file specific to index.html (Home page - Competitions)
- * Handles year selection and competition table display
+ * Handles year selection, sport selection, and competition table display
  */
 
-// Current year tracker - dynamically set to current year
+// Current year/sport trackers
 let currentCompetitionYear = new Date().getFullYear();
+let currentCompetitionSport = 'running';
+
+// Sports available in the dropdown, in display order.
+// Value 'all' means show every sport and add a Sport column to the table.
+const SPORTS = [
+    { value: 'running', label: 'Running' },
+    { value: 'all', label: 'All Sports' },
+    { value: 'swimming', label: 'Swimming' },
+    { value: 'triathlon', label: 'Triathlon' },
+    { value: 'cycling', label: 'Cycling' },
+    { value: 'aquatlon', label: 'Aquatlon' },
+    { value: 'duathlon', label: 'Duathlon' },
+    { value: 'skiing', label: 'Skiing' },
+    { value: 'climbing', label: 'Climbing' },
+    { value: 'orienteering', label: 'Orienteering' },
+    { value: 'kayak', label: 'Kayak' },
+    { value: 'hyatlon', label: 'Hyatlon' }
+];
 
 /**
  * Changes the displayed year and updates the competition table
@@ -13,23 +31,40 @@ let currentCompetitionYear = new Date().getFullYear();
 function change_year(year) {
     currentCompetitionYear = year;
     document.getElementById('text_year').textContent = year;
-    loadCompetitionsForYear(year);
+    loadCompetitionsForYear(year, currentCompetitionSport);
 }
 
 /**
- * Loads competitions for the specified year from JSON file
- * @param {number} year - The year to load competitions for
+ * Changes the displayed sport and updates the competition table
+ * @param {string} sport - The sport value to display ('all' for every sport)
  */
-async function loadCompetitionsForYear(year) {
+function change_sport(sport) {
+    currentCompetitionSport = sport;
+    const sportEntry = SPORTS.find(s => s.value === sport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : sport;
+    updateSportInUrl(sport);
+    loadCompetitionsForYear(currentCompetitionYear, sport);
+}
+
+/**
+ * Loads competitions for the specified year from JSON file and filters by sport
+ * @param {number} year - The year to load competitions for
+ * @param {string} sport - The sport to filter by ('all' for every sport)
+ */
+async function loadCompetitionsForYear(year, sport) {
     const container = document.getElementById('competitions-container');
 
     try {
-        // Load year-specific JSON file
+        // Load year-specific JSON file (contains every sport)
         const response = await fetch(`json-files/output-events-${year}.json`);
 
         if (response.ok) {
-            const competitions = await response.json();
-            container.innerHTML = renderCompetitionsTable(competitions, year);
+            const allCompetitions = await response.json();
+            const competitions = sport === 'all'
+                ? allCompetitions
+                : allCompetitions.filter(competition => competition.sport === sport);
+
+            container.innerHTML = renderCompetitionsTable(competitions, year, sport);
 
             // Scroll to current month if viewing current year
             const now = new Date();
@@ -57,28 +92,47 @@ async function loadCompetitionsForYear(year) {
 }
 
 /**
+ * Capitalizes the first letter of a sport value for display (e.g. "running" -> "Running")
+ * @param {string} sport - The sport value
+ * @returns {string} The capitalized sport name
+ */
+function formatSportName(sport) {
+    return sport.charAt(0).toUpperCase() + sport.slice(1);
+}
+
+/**
  * Renders competitions data as an HTML table
  * @param {Array} competitions - Array of competition objects
  * @param {number} year - The year being displayed
+ * @param {string} sport - The sport being displayed ('all' for every sport)
  * @returns {string} HTML string for the competitions table
  */
-function renderCompetitionsTable(competitions, year) {
+function renderCompetitionsTable(competitions, year, sport) {
     // Determine if we should show links and distances
     // Show full version for: current year, next year, and last year
     // Hide links and distances for years older than (currentYear - 1)
     const currentYear = new Date().getFullYear();
     const showFullVersion = year >= (currentYear - 1);
+    const showSportColumn = sport === 'all';
+
+    // Hide the Type/Distances columns entirely when none of the displayed
+    // competitions have that data (e.g. most non-running sports have no "type",
+    // and most non-running/swimming sports have no "distances")
+    const showTypeColumn = competitions.some(competition => !!competition.type);
+    const showDistancesColumn = showFullVersion &&
+        competitions.some(competition => Array.isArray(competition.distances) && competition.distances.length > 0);
 
     let html = `
         <table class="table table-striped competition-table" id="competitions_${year}">
             <thead>
             <tr>
-                <th scope="col">Date</th>
-                <th scope="col">Competition</th>
-                <th scope="col">Location</th>
-                <th scope="col">County</th>
-                <th scope="col">Type</th>
-                ${showFullVersion ? '<th scope="col">Distances</th>' : ''}
+                ${showSportColumn ? '<th scope="col" class="col-sport">Sport</th>' : ''}
+                <th scope="col" class="col-date">Date</th>
+                <th scope="col" class="col-competition">Competition</th>
+                <th scope="col" class="col-location">Location</th>
+                <th scope="col" class="col-county">County</th>
+                ${showTypeColumn ? '<th scope="col" class="col-type">Type</th>' : ''}
+                ${showDistancesColumn ? '<th scope="col" class="col-distances">Distances</th>' : ''}
             </tr>
             </thead>
             <tbody>
@@ -108,9 +162,9 @@ function renderCompetitionsTable(competitions, year) {
             ? `${competition.location}<br><small class="text-muted">${competition.location_details}</small>`
             : competition.location;
 
-        // Render distances cell only if showFullVersion
-        const distancesCell = showFullVersion
-            ? `<td>
+        // Render distances cell only if the Distances column is shown
+        const distancesCell = showDistancesColumn
+            ? `<td class="col-distances">
                     <ul>
                         ${competition.distances.map(distance => `<li>${distance}</li>`).join('\n                        ')}
                     </ul>
@@ -119,11 +173,12 @@ function renderCompetitionsTable(competitions, year) {
 
         html += `
             <tr${rowClass} data-month="${competition.month}">
-                <td>${competition.display_date}</td>
-                <td>${competitionNameCell}</td>
-                <td>${locationCell}</td>
-                <td>${competition.county}</td>
-                <td>${competition.type}</td>
+                ${showSportColumn ? `<td class="col-sport">${formatSportName(competition.sport)}</td>` : ''}
+                <td class="col-date">${competition.display_date}</td>
+                <td class="col-competition">${competitionNameCell}</td>
+                <td class="col-location">${locationCell}</td>
+                <td class="col-county">${competition.county}</td>
+                ${showTypeColumn ? `<td class="col-type">${competition.type}</td>` : ''}
                 ${distancesCell}
             </tr>
         `;
@@ -238,11 +293,58 @@ async function loadAvailableYears() {
     }
 }
 
-// Initialize page with current year when DOM is ready
+/**
+ * Populates the sport dropdown with the available sports
+ */
+function loadAvailableSports() {
+    const dropdownMenu = document.getElementById('sport-dropdown-menu');
+    if (!dropdownMenu) return;
+
+    dropdownMenu.innerHTML = '';
+    SPORTS.forEach(sportEntry => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="change_sport('${sportEntry.value}')">${sportEntry.label}</a>`;
+        dropdownMenu.appendChild(li);
+    });
+}
+
+/**
+ * Reads the "sport" query parameter from the URL (e.g. index.html?sport=all)
+ * @returns {string} A valid sport value from SPORTS, or the default ('running') if
+ * the parameter is missing or not recognized
+ */
+function getSportFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const sportParam = (params.get('sport') || '').toLowerCase();
+    const isValid = SPORTS.some(s => s.value === sportParam);
+    return isValid ? sportParam : SPORTS[0].value;
+}
+
+/**
+ * Updates the "sport" query parameter in the URL to match the current selection,
+ * without reloading the page
+ * @param {string} sport - The sport value to reflect in the URL
+ */
+function updateSportInUrl(sport) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('sport', sport);
+    window.history.replaceState({}, '', url);
+}
+
+// Initialize page with current year and sport (from URL, if provided) when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
     const currentYear = new Date().getFullYear();
+    const initialSport = getSportFromUrl();
+    const sportEntry = SPORTS.find(s => s.value === initialSport);
+
+    currentCompetitionSport = initialSport;
+
     document.getElementById('text_year').textContent = currentYear;
-    loadCompetitionsForYear(currentYear);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : initialSport;
+    updateSportInUrl(initialSport);
+
+    loadCompetitionsForYear(currentYear, currentCompetitionSport);
     loadLastUpdateDate();
     loadAvailableYears();
+    loadAvailableSports();
 });
