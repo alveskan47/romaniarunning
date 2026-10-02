@@ -53,6 +53,19 @@
     <h1>Archive</h1>
 </div>
 
+<!-- Sport Selector -->
+<div class="container mt-4 mb-4 text-center">
+    <h2>Select sport:</h2>
+    <div class="dropdown d-inline-block">
+        <button class="btn btn-success dropdown-toggle" type="button" id="sportDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            <span id="text_sport"></span>
+        </button>
+        <ul class="dropdown-menu" id="sport-dropdown-menu" aria-labelledby="sportDropdown">
+            <!-- Sport items will be inserted here by JavaScript -->
+        </ul>
+    </div>
+</div>
+
 <!-- Regular Competitions Table -->
 <div class="container mt-5 mb-5">
     <div class="text-center mb-3">
@@ -63,19 +76,7 @@
         <table id="table-1" class="table table-striped table-hover">
             <thead class="table-dark">
                 <tr>
-                    <th scope="col" data-column="id" class="user-select-none">
-                        ID <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <th scope="col" data-column="name" class="user-select-none">
-                        Competition Name <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <th scope="col" data-column="location" class="user-select-none">
-                        Location <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <th scope="col" data-column="county" class="user-select-none">
-                        County <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <!-- Year columns will be inserted here by JavaScript -->
+                    <!-- Columns will be inserted here by JavaScript -->
                 </tr>
             </thead>
             <tbody id="competitions-table-body">
@@ -99,13 +100,7 @@
         <table id="table-2" class="table table-striped table-hover">
             <thead class="table-dark">
                 <tr>
-                    <th scope="col" data-column="name" class="user-select-none">
-                        Competition Name <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <th scope="col" data-column="location" class="user-select-none">
-                        Location <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <!-- Year columns will be inserted here by JavaScript -->
+                    <!-- Columns will be inserted here by JavaScript -->
                 </tr>
             </thead>
             <tbody id="competitions-moldova-table-body">
@@ -129,10 +124,7 @@
         <table id="table-3" class="table table-striped table-hover">
             <thead class="table-dark">
                 <tr>
-                    <th scope="col" data-column="name" class="user-select-none">
-                        Competition Name <i class="bi bi-arrow-down-up"></i>
-                    </th>
-                    <!-- Year columns will be inserted here by JavaScript -->
+                    <!-- Columns will be inserted here by JavaScript -->
                 </tr>
             </thead>
             <tbody id="competitions-other-table-body">

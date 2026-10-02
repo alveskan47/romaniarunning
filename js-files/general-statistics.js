@@ -1,3 +1,6 @@
+// Years with per-year event data available (json-files/output-events-{year}.json)
+const GENERAL_STATISTICS_YEARS = [2023, 2024, 2025, 2026, 2027];
+
 function getThemeColorsGeneral() {
     const theme = document.documentElement.getAttribute('data-bs-theme');
     const isDark = theme === 'dark';
@@ -11,25 +14,49 @@ function getThemeColorsGeneral() {
     };
 }
 
-let generalJsonData = null;
+let selectedSport = 'running';
+// Cache: year -> events[] (every sport, unfiltered)
+const rawEventsByYear = {};
 
-function general_statistics_main() {
-    (async () => {
-        try {
-            generalJsonData = await fetch_json_file('json-files/output-all-statistics.json');
-            draw_competitions_by_year(generalJsonData);
-        } catch (error) {
-            console.error('Error in fetching or using JSON:', error);
-        }
-    })();
+/**
+ * Filters the raw per-year events down to the selected sport, excluding
+ * competitions without individual statistics tracking (Moldova / virtual entries, id 0)
+ * @param {Array} events - Raw events for a year (every sport)
+ * @param {string} sport - The sport to filter by ('all' for every sport)
+ * @returns {Array} Filtered events
+ */
+function filterGeneralStatisticsEvents(events, sport) {
+    const tracked = events.filter(e => e.id !== 0);
+    return sport === 'all' ? tracked : tracked.filter(e => e.sport === sport);
 }
 
-function draw_competitions_by_year(jsonData) {
-    const colors = getThemeColorsGeneral();
-    const totalObj = jsonData['statistics']['total_competitions'];
+/**
+ * Loads (and caches) every year's events, then draws the chart
+ */
+async function general_statistics_main() {
+    try {
+        await Promise.all(GENERAL_STATISTICS_YEARS.map(async year => {
+            if (rawEventsByYear[year] === undefined) {
+                rawEventsByYear[year] = await fetch_json_file(`json-files/output-events-${year}.json`);
+            }
+        }));
+        renderGeneralStatistics();
+    } catch (error) {
+        console.error('Error in fetching or using JSON:', error);
+    }
+}
 
-    const years = Object.keys(totalObj).map(Number).sort((a, b) => a - b);
-    const values = years.map(y => totalObj[y]);
+/**
+ * Recomputes the per-year totals for the selected sport and redraws the chart
+ */
+function renderGeneralStatistics() {
+    const years = GENERAL_STATISTICS_YEARS.slice().sort((a, b) => a - b);
+    const values = years.map(year => filterGeneralStatisticsEvents(rawEventsByYear[year] || [], selectedSport).length);
+    draw_competitions_by_year(years, values);
+}
+
+function draw_competitions_by_year(years, values) {
+    const colors = getThemeColorsGeneral();
 
     Highcharts.chart('container-by-year', {
         chart: {
@@ -104,8 +131,30 @@ function draw_competitions_by_year(jsonData) {
     });
 }
 
+/**
+ * Changes the displayed sport and redraws the chart
+ * @param {string} sport - The sport value to display ('all' for every sport)
+ */
+function change_sport(sport) {
+    selectedSport = sport;
+    const sportEntry = SPORTS.find(s => s.value === sport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : sport;
+    updateSportInUrl(sport);
+    renderGeneralStatistics();
+}
+
 document.addEventListener('themeChanged', () => {
-    if (generalJsonData) {
-        draw_competitions_by_year(generalJsonData);
+    if (Object.keys(rawEventsByYear).length > 0) {
+        renderGeneralStatistics();
     }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    selectedSport = getSportFromUrl();
+    const sportEntry = SPORTS.find(s => s.value === selectedSport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : selectedSport;
+    updateSportInUrl(selectedSport);
+    loadAvailableSports('sport-dropdown-menu', 'change_sport');
+
+    general_statistics_main();
 });

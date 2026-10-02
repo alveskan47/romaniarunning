@@ -1,5 +1,39 @@
 // Statistics page JavaScript - Functions for loading and displaying statistics charts
 
+// Years with per-year event data available (json-files/output-events-{year}.json)
+const STATISTICS_YEARS = [2023, 2024, 2025, 2026, 2027];
+
+// Romanian county codes mapped to their Highcharts map "hc-key" values
+const COUNTY_HC_KEYS = [
+    ['AB', 'ro-ab'], ['AR', 'ro-ar'], ['AG', 'ro-ag'], ['B', 'ro-bi'],
+    ['BC', 'ro-bc'], ['BH', 'ro-bh'], ['BN', 'ro-bn'], ['BT', 'ro-bt'],
+    ['BR', 'ro-br'], ['BV', 'ro-bv'], ['BZ', 'ro-bz'], ['CL', 'ro-cl'],
+    ['CS', 'ro-cs'], ['CJ', 'ro-cj'], ['CT', 'ro-ct'], ['CV', 'ro-cv'],
+    ['DB', 'ro-db'], ['DJ', 'ro-dj'], ['GL', 'ro-gl'], ['GR', 'ro-gr'],
+    ['GJ', 'ro-gj'], ['HR', 'ro-hr'], ['HD', 'ro-hd'], ['IL', 'ro-il'],
+    ['IS', 'ro-is'], ['IF', 'ro-if'], ['MM', 'ro-mm'], ['MH', 'ro-mh'],
+    ['MS', 'ro-ms'], ['NT', 'ro-nt'], ['OT', 'ro-ot'], ['PH', 'ro-ph'],
+    ['SJ', 'ro-sj'], ['SM', 'ro-sm'], ['SB', 'ro-sb'], ['SV', 'ro-sv'],
+    ['TR', 'ro-tr'], ['TM', 'ro-tm'], ['TL', 'ro-tl'], ['VL', 'ro-vl'],
+    ['VS', 'ro-vs'], ['VN', 'ro-vn']
+];
+
+// Gauge upper bound (chart 1) per sport, reflecting each sport's typical yearly volume
+const GAUGE_MAX_BY_SPORT = {
+    running: 500,
+    all: 1000,
+    swimming: 20,
+    triathlon: 30,
+    cycling: 150,
+    aquatlon: 10,
+    duathlon: 20,
+    skiing: 10,
+    climbing: 10,
+    orienteering: 20,
+    kayak: 10,
+    hyatlon: 10
+};
+
 /**
  * Gets the current theme colors based on the active Bootstrap theme
  * @returns {Object} Object containing theme-specific colors
@@ -19,16 +53,13 @@ function getThemeColors() {
 }
 
 /**
- * Populates the year dropdown from the statistics JSON data (runs only once)
- * @param {Object} jsonData - The complete statistics JSON data
+ * Populates the year dropdown (runs only once)
  */
-function populateYearDropdown(jsonData) {
+function populateYearDropdown() {
     const dropdownMenu = document.getElementById('year-dropdown-menu');
     if (!dropdownMenu || dropdownMenu.children.length > 0) return;
 
-    const years = Object.keys(jsonData['statistics']['total_competitions'] || {})
-        .map(Number)
-        .sort((a, b) => b - a);
+    const years = STATISTICS_YEARS.slice().sort((a, b) => b - a);
 
     years.forEach(year => {
         const li = document.createElement('li');
@@ -37,152 +68,142 @@ function populateYearDropdown(jsonData) {
     });
 }
 
+// Store current year/sport and raw (unfiltered) events globally to allow theme/sport redraws
+let currentYear = new Date().getFullYear();
+let selectedSport = 'running';
+let currentRawEvents = null;
+
+/**
+ * Filters the raw per-year events down to the selected sport, excluding
+ * competitions without individual statistics tracking (Moldova / virtual entries, id 0)
+ * @param {Array} events - Raw events for a year (every sport)
+ * @param {string} sport - The sport to filter by ('all' for every sport)
+ * @returns {Array} Filtered events
+ */
+function filterStatisticsEvents(events, sport) {
+    const tracked = events.filter(e => e.id !== 0);
+    return sport === 'all' ? tracked : tracked.filter(e => e.sport === sport);
+}
+
+/**
+ * Computes the top 10 towns by competition count, including ties at 10th place
+ * (unless that would push the total over 20 towns), matching python-files/update-statistics.py
+ * @param {Object} townCounts - Map of town name -> competition count
+ * @returns {Object} Map of the selected towns -> competition count
+ */
+function topTowns(townCounts) {
+    const sorted = Object.entries(townCounts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+
+    if (sorted.length <= 10) return Object.fromEntries(sorted);
+
+    const tenthValue = sorted[9][1];
+    const top10 = sorted.slice(0, 10);
+    const tied = sorted.slice(10).filter(([, count]) => count === tenthValue);
+
+    if (top10.length + tied.length > 20) {
+        return Object.fromEntries(top10.filter(([, count]) => count > tenthValue));
+    }
+    return Object.fromEntries([...top10, ...tied]);
+}
+
+/**
+ * Computes all chart statistics from a (sport-filtered) list of events
+ * @param {Array} events - Filtered events to aggregate
+ * @returns {Object} Aggregated statistics for all charts
+ */
+function computeStatistics(events) {
+    const total_competitions = events.length;
+
+    const competitions_by_month = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    events.forEach(e => {
+        if (e.month >= 1 && e.month <= 12) competitions_by_month[e.month - 1]++;
+    });
+
+    const competitions_by_type = { trail: 0, road: 0, other: 0 };
+    events.forEach(e => {
+        const type = (e.type === 'road' || e.type === 'trail') ? e.type : 'other';
+        competitions_by_type[type]++;
+    });
+
+    const countyCounts = {};
+    COUNTY_HC_KEYS.forEach(([code]) => { countyCounts[code] = 0; });
+    events.forEach(e => {
+        if (e.county && countyCounts[e.county] !== undefined) countyCounts[e.county]++;
+    });
+    const competitions_by_county = COUNTY_HC_KEYS.map(([code, hcKey]) => [hcKey, countyCounts[code]]);
+
+    const townCounts = {};
+    events.forEach(e => {
+        if (e.location) townCounts[e.location] = (townCounts[e.location] || 0) + 1;
+    });
+    const competitions_by_towns = topTowns(townCounts);
+
+    return { total_competitions, competitions_by_month, competitions_by_type, competitions_by_county, competitions_by_towns };
+}
+
 /**
  * Main function to initialize statistics page with data for a specific year
  * @param {number} year - The year to display statistics for
  */
-function statistics_main(year) {
-    (async () => {
-        try {
-            const jsonData = await fetch_json_file('json-files/output-all-statistics.json');
-            populateYearDropdown(jsonData);
-            update_charts_by_year(jsonData, year);
-        } catch (error) {
-            console.error('Error in fetching or using JSON:', error);
-        }
-    })();
+async function statistics_main(year) {
+    try {
+        const events = await fetch_json_file(`json-files/output-events-${year}.json`);
+        currentYear = year;
+        currentRawEvents = events;
+        update_charts_by_year();
+    } catch (error) {
+        console.error('Error in fetching or using JSON:', error);
+    }
 }
 
-// Store current year globally to allow theme-based redraws
-let currentYear = new Date().getFullYear();
-let currentJsonData = null;
+/**
+ * Updates the chart section headers to reflect the selected sport, and shows/hides
+ * the "by type" chart (chart 3), which is only meaningful for running
+ */
+function updateSectionHeaders() {
+    const sportEntry = SPORTS.find(s => s.value === selectedSport);
+    const sportLabel = selectedSport === 'all' ? 'all sports' : (sportEntry ? sportEntry.label.toLowerCase() : selectedSport);
+
+    document.getElementById('header-total').textContent = `1. Total number of ${sportLabel} competitions in Romania`;
+    document.getElementById('header-month').textContent = `2. Number of ${sportLabel} competitions in Romania by month`;
+    document.getElementById('header-county').textContent = `4. Number of ${sportLabel} competitions in Romania by county`;
+    document.getElementById('header-towns').textContent = `5. Number of ${sportLabel} competitions in Romania by towns`;
+
+    const typeSection = document.getElementById('section-type');
+    if (typeSection) {
+        typeSection.style.display = selectedSport === 'running' ? '' : 'none';
+    }
+}
 
 /**
- * Updates all charts based on the selected year
- * @param {Object} jsonData - The complete statistics JSON data
- * @param {number} year - The year to filter data by
+ * Updates all charts based on the currently selected year/sport
  */
-function update_charts_by_year(jsonData, year) {
-    // Store for theme change redraws
-    currentYear = year;
-    currentJsonData = jsonData;
+function update_charts_by_year() {
+    if (!currentRawEvents) return;
 
-    // Update the displayed year in the dropdown
-    document.getElementById('text_year').textContent = year;
+    document.getElementById('text_year').textContent = currentYear;
+    updateSectionHeaders();
 
-    let total_competitions;
-    let competitions_by_month;
-    let competitions_by_type;
-    let competitions_by_county;
-    let competitions_by_towns;
-
-    // Extract total competitions for the year
-    if (jsonData["statistics"]["total_competitions"][year]) {
-        total_competitions = jsonData["statistics"]["total_competitions"][year];
-    } else {
-        total_competitions = 0;
-    }
-
-    // Extract competitions by month for the year
-    if (jsonData["statistics"]["competitions_by_month"][year]) {
-        competitions_by_month = jsonData["statistics"]["competitions_by_month"][year];
-    } else {
-        competitions_by_month = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-    }
-
-    // Extract competitions by type for the year
-    if (jsonData["statistics"]["competitions_by_type"][year]) {
-        competitions_by_type = jsonData["statistics"]["competitions_by_type"][year];
-    } else {
-        competitions_by_type = {
-            "trail": 0,
-            "road": 0,
-            "other": 0
-        };
-    }
-
-    // Extract competitions by county for the year
-    if (jsonData["statistics"]["competitions_by_county"][year]) {
-        competitions_by_county = [
-            ['ro-ab', jsonData["statistics"]["competitions_by_county"][year]["AB"]],
-            ['ro-ar', jsonData["statistics"]["competitions_by_county"][year]["AR"]],
-            ['ro-ag', jsonData["statistics"]["competitions_by_county"][year]["AG"]],
-            ['ro-bi', jsonData["statistics"]["competitions_by_county"][year]["B"]],
-            ['ro-bc', jsonData["statistics"]["competitions_by_county"][year]["BC"]],
-            ['ro-bh', jsonData["statistics"]["competitions_by_county"][year]["BH"]],
-            ['ro-bn', jsonData["statistics"]["competitions_by_county"][year]["BN"]],
-            ['ro-bt', jsonData["statistics"]["competitions_by_county"][year]["BT"]],
-            ['ro-br', jsonData["statistics"]["competitions_by_county"][year]["BR"]],
-            ['ro-bv', jsonData["statistics"]["competitions_by_county"][year]["BV"]],
-            ['ro-bz', jsonData["statistics"]["competitions_by_county"][year]["BZ"]],
-            ['ro-cl', jsonData["statistics"]["competitions_by_county"][year]["CL"]],
-            ['ro-cs', jsonData["statistics"]["competitions_by_county"][year]["CS"]],
-            ['ro-cj', jsonData["statistics"]["competitions_by_county"][year]["CJ"]],
-            ['ro-ct', jsonData["statistics"]["competitions_by_county"][year]["CT"]],
-            ['ro-cv', jsonData["statistics"]["competitions_by_county"][year]["CV"]],
-            ['ro-db', jsonData["statistics"]["competitions_by_county"][year]["DB"]],
-            ['ro-dj', jsonData["statistics"]["competitions_by_county"][year]["DJ"]],
-            ['ro-gl', jsonData["statistics"]["competitions_by_county"][year]["GL"]],
-            ['ro-gr', jsonData["statistics"]["competitions_by_county"][year]["GR"]],
-            ['ro-gj', jsonData["statistics"]["competitions_by_county"][year]["GJ"]],
-            ['ro-hr', jsonData["statistics"]["competitions_by_county"][year]["HR"]],
-            ['ro-hd', jsonData["statistics"]["competitions_by_county"][year]["HD"]],
-            ['ro-il', jsonData["statistics"]["competitions_by_county"][year]["IL"]],
-            ['ro-is', jsonData["statistics"]["competitions_by_county"][year]["IS"]],
-            ['ro-if', jsonData["statistics"]["competitions_by_county"][year]["IF"]],
-            ['ro-mm', jsonData["statistics"]["competitions_by_county"][year]["MM"]],
-            ['ro-mh', jsonData["statistics"]["competitions_by_county"][year]["MH"]],
-            ['ro-ms', jsonData["statistics"]["competitions_by_county"][year]["MS"]],
-            ['ro-nt', jsonData["statistics"]["competitions_by_county"][year]["NT"]],
-            ['ro-ot', jsonData["statistics"]["competitions_by_county"][year]["OT"]],
-            ['ro-ph', jsonData["statistics"]["competitions_by_county"][year]["PH"]],
-            ['ro-sj', jsonData["statistics"]["competitions_by_county"][year]["SJ"]],
-            ['ro-sm', jsonData["statistics"]["competitions_by_county"][year]["SM"]],
-            ['ro-sb', jsonData["statistics"]["competitions_by_county"][year]["SB"]],
-            ['ro-sv', jsonData["statistics"]["competitions_by_county"][year]["SV"]],
-            ['ro-tr', jsonData["statistics"]["competitions_by_county"][year]["TR"]],
-            ['ro-tm', jsonData["statistics"]["competitions_by_county"][year]["TM"]],
-            ['ro-tl', jsonData["statistics"]["competitions_by_county"][year]["TL"]],
-            ['ro-vl', jsonData["statistics"]["competitions_by_county"][year]["VL"]],
-            ['ro-vs', jsonData["statistics"]["competitions_by_county"][year]["VS"]],
-            ['ro-vn', jsonData["statistics"]["competitions_by_county"][year]["VN"]]
-        ];
-    } else {
-        competitions_by_county = [
-            ['ro-ab', 0], ['ro-ar', 0], ['ro-ag', 0], ['ro-bi', 0],
-            ['ro-bc', 0], ['ro-bh', 0], ['ro-bn', 0], ['ro-bt', 0],
-            ['ro-br', 0], ['ro-bv', 0], ['ro-bz', 0], ['ro-cl', 0],
-            ['ro-cs', 0], ['ro-cj', 0], ['ro-ct', 0], ['ro-cv', 0],
-            ['ro-db', 0], ['ro-dj', 0], ['ro-gl', 0], ['ro-gr', 0],
-            ['ro-gj', 0], ['ro-hr', 0], ['ro-hd', 0], ['ro-il', 0],
-            ['ro-is', 0], ['ro-if', 0], ['ro-mm', 0], ['ro-mh', 0],
-            ['ro-ms', 0], ['ro-nt', 0], ['ro-ot', 0], ['ro-ph', 0],
-            ['ro-sj', 0], ['ro-sm', 0], ['ro-sb', 0], ['ro-sv', 0],
-            ['ro-tr', 0], ['ro-tm', 0], ['ro-tl', 0], ['ro-vl', 0],
-            ['ro-vs', 0], ['ro-vn', 0]
-        ];
-    }
-
-    // Extract competitions by towns for the year
-    if (jsonData["statistics"]["competitions_by_towns"][year]) {
-        competitions_by_towns = jsonData["statistics"]["competitions_by_towns"][year];
-    } else {
-        competitions_by_towns = {};
-    }
+    const filtered = filterStatisticsEvents(currentRawEvents, selectedSport);
+    const stats = computeStatistics(filtered);
+    const gaugeMax = GAUGE_MAX_BY_SPORT[selectedSport] ?? 500;
 
     // Draw all charts
-    draw_highcharts_total(total_competitions);
-    draw_highcharts_months(competitions_by_month);
-    draw_highcharts_type(competitions_by_type);
-    draw_highcharts_county(competitions_by_county);
-    draw_highcharts_towns(competitions_by_towns);
+    draw_highcharts_total(stats.total_competitions, gaugeMax);
+    draw_highcharts_months(stats.competitions_by_month);
+    if (selectedSport === 'running') {
+        draw_highcharts_type(stats.competitions_by_type);
+    }
+    draw_highcharts_county(stats.competitions_by_county);
+    draw_highcharts_towns(stats.competitions_by_towns);
 }
 
 /**
  * Draws the total competitions gauge chart
  * @param {number} total_competitions - Total number of competitions
+ * @param {number} maxValue - Upper bound of the gauge, scaled to the selected sport
  */
-function draw_highcharts_total(total_competitions) {
+function draw_highcharts_total(total_competitions, maxValue) {
     const colors = getThemeColors();
 
     Highcharts.chart('container-total', {
@@ -217,7 +238,7 @@ function draw_highcharts_total(total_competitions) {
         },
         yAxis: {
             min: 0,
-            max: 500,
+            max: maxValue,
             tickPixelInterval: 72,
             tickPosition: 'inside',
             tickColor: colors.backgroundColor,
@@ -234,17 +255,17 @@ function draw_highcharts_total(total_competitions) {
             lineWidth: 0,
             plotBands: [{
                 from: 0,
-                to: 166.67,
+                to: maxValue / 3,
                 color: '#DF5353', // red
                 thickness: 20
             }, {
-                from: 166.67,
-                to: 333.33,
+                from: maxValue / 3,
+                to: (maxValue / 3) * 2,
                 color: '#DDDF0D', // yellow
                 thickness: 20
             }, {
-                from: 333.33,
-                to: 500,
+                from: (maxValue / 3) * 2,
+                to: maxValue,
                 color: '#0018F9', // blue
                 thickness: 20
             }]
@@ -617,9 +638,34 @@ function change_data(year) {
     document.getElementById('text_year').textContent = year;
 }
 
+/**
+ * Changes the displayed sport and redraws the charts
+ * @param {string} sport - The sport value to display ('all' for every sport)
+ */
+function change_sport(sport) {
+    selectedSport = sport;
+    const sportEntry = SPORTS.find(s => s.value === sport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : sport;
+    updateSportInUrl(sport);
+    update_charts_by_year();
+}
+
 // Listen for theme changes and redraw charts
 document.addEventListener('themeChanged', () => {
-    if (currentJsonData && currentYear) {
-        update_charts_by_year(currentJsonData, currentYear);
+    update_charts_by_year();
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    selectedSport = getSportFromUrl();
+    const sportEntry = SPORTS.find(s => s.value === selectedSport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : selectedSport;
+    updateSportInUrl(selectedSport);
+    loadAvailableSports('sport-dropdown-menu', 'change_sport');
+
+    populateYearDropdown();
+
+    if (!STATISTICS_YEARS.includes(currentYear)) {
+        currentYear = STATISTICS_YEARS[0];
     }
+    statistics_main(currentYear);
 });

@@ -24,7 +24,7 @@
 
     <link rel="stylesheet" href="css-files/main.css">
 </head>
-<body onload="general_statistics_main()">
+<body>
 
 <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
     <div class="container-fluid">
@@ -42,8 +42,21 @@
     <h1>General Statistics</h1>
 </div>
 
+<!-- Sport Selector -->
+<div class="container mt-4 mb-4 text-center">
+    <h2>Select sport:</h2>
+    <div class="dropdown d-inline-block">
+        <button class="btn btn-success dropdown-toggle" type="button" id="sportDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            <span id="text_sport"></span>
+        </button>
+        <ul class="dropdown-menu" id="sport-dropdown-menu" aria-labelledby="sportDropdown">
+            <!-- Sport items will be inserted here by JavaScript -->
+        </ul>
+    </div>
+</div>
+
 <div class="container mt-5 mb-5 text-center">
-    <h2>1. Number of running competitions in Romania by year</h2>
+    <h2>1. Number of competitions in Romania by year</h2>
     <figure class="highcharts-figure">
         <div id="container-by-year"></div>
     </figure>

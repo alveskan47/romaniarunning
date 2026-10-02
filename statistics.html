@@ -32,7 +32,7 @@
     <!-- General CSS - Styles applied across all pages -->
     <link rel="stylesheet" href="css-files/main.css">
 </head>
-<body onload="statistics_main(new Date().getFullYear())">
+<body>
 
 <!-- Navigation Bar - Primary theme with dark mode support -->
 <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
@@ -63,10 +63,10 @@
     <p class="text-muted mt-3">Note: Virtual competitions and competitions from the Republic of Moldova are not included in these statistics.</p>
 </div>
 
-<!-- Year Selector -->
+<!-- Year and Sport Selectors -->
 <div class="container mt-4 mb-4 text-center">
-    <h2>Select year:</h2>
-    <div class="dropdown d-inline-block">
+    <h2>Select year and sport:</h2>
+    <div class="dropdown d-inline-block me-2">
         <button class="btn btn-success dropdown-toggle" type="button" id="yearDropdown" data-bs-toggle="dropdown" aria-expanded="false">
             <span id="text_year"></span>
         </button>
@@ -74,11 +74,19 @@
             <!-- Year items will be inserted here by JavaScript -->
         </ul>
     </div>
+    <div class="dropdown d-inline-block">
+        <button class="btn btn-success dropdown-toggle" type="button" id="sportDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            <span id="text_sport"></span>
+        </button>
+        <ul class="dropdown-menu" id="sport-dropdown-menu" aria-labelledby="sportDropdown">
+            <!-- Sport items will be inserted here by JavaScript -->
+        </ul>
+    </div>
 </div>
 
 <!-- Chart 1: Total Competitions -->
 <div class="container mt-5 mb-5 text-center">
-    <h2>1. Total number of running competitions in Romania</h2>
+    <h2 id="header-total">1. Total number of running competitions in Romania</h2>
     <figure class="highcharts-figure">
         <div id="container-total"></div>
     </figure>
@@ -86,15 +94,15 @@
 
 <!-- Chart 2: Competitions by Month -->
 <div class="container mt-5 mb-5 text-center">
-    <h2>2. Number of running competitions in Romania by month</h2>
+    <h2 id="header-month">2. Number of running competitions in Romania by month</h2>
     <figure class="highcharts-figure">
         <div id="container-month"></div>
     </figure>
 </div>
 
-<!-- Chart 3: Competitions by Type -->
-<div class="container mt-5 mb-5 text-center">
-    <h2>3. Number of running competitions in Romania by type</h2>
+<!-- Chart 3: Competitions by Type (running only) -->
+<div class="container mt-5 mb-5 text-center" id="section-type">
+    <h2 id="header-type">3. Number of running competitions in Romania by type</h2>
     <figure class="highcharts-figure">
         <div id="container-type"></div>
     </figure>
@@ -102,7 +110,7 @@
 
 <!-- Chart 4: Competitions by County -->
 <div class="container mt-5 mb-5 text-center">
-    <h2>4. Number of running competitions in Romania by county</h2>
+    <h2 id="header-county">4. Number of running competitions in Romania by county</h2>
     <figure class="highcharts-figure">
         <div id="container-counties"></div>
     </figure>
@@ -110,7 +118,7 @@
 
 <!-- Chart 5: Competitions by Towns -->
 <div class="container mt-5 mb-5 text-center">
-    <h2>5. Number of running competitions in Romania by towns</h2>
+    <h2 id="header-towns">5. Number of running competitions in Romania by towns</h2>
     <figure class="highcharts-figure">
         <div id="container-towns"></div>
     </figure>

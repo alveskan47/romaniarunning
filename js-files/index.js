@@ -7,22 +7,8 @@
 let currentCompetitionYear = new Date().getFullYear();
 let currentCompetitionSport = 'running';
 
-// Sports available in the dropdown, in display order.
-// Value 'all' means show every sport and add a Sport column to the table.
-const SPORTS = [
-    { value: 'running', label: 'Running' },
-    { value: 'all', label: 'All Sports' },
-    { value: 'swimming', label: 'Swimming' },
-    { value: 'triathlon', label: 'Triathlon' },
-    { value: 'cycling', label: 'Cycling' },
-    { value: 'aquatlon', label: 'Aquatlon' },
-    { value: 'duathlon', label: 'Duathlon' },
-    { value: 'skiing', label: 'Skiing' },
-    { value: 'climbing', label: 'Climbing' },
-    { value: 'orienteering', label: 'Orienteering' },
-    { value: 'kayak', label: 'Kayak' },
-    { value: 'hyatlon', label: 'Hyatlon' }
-];
+// SPORTS, formatSportName, getSportFromUrl and updateSportInUrl are defined in main.js
+// and shared across pages that support multisport filtering.
 
 /**
  * Changes the displayed year and updates the competition table
@@ -89,15 +75,6 @@ async function loadCompetitionsForYear(year, sport) {
             </div>
         `;
     }
-}
-
-/**
- * Capitalizes the first letter of a sport value for display (e.g. "running" -> "Running")
- * @param {string} sport - The sport value
- * @returns {string} The capitalized sport name
- */
-function formatSportName(sport) {
-    return sport.charAt(0).toUpperCase() + sport.slice(1);
 }
 
 /**
@@ -293,44 +270,6 @@ async function loadAvailableYears() {
     }
 }
 
-/**
- * Populates the sport dropdown with the available sports
- */
-function loadAvailableSports() {
-    const dropdownMenu = document.getElementById('sport-dropdown-menu');
-    if (!dropdownMenu) return;
-
-    dropdownMenu.innerHTML = '';
-    SPORTS.forEach(sportEntry => {
-        const li = document.createElement('li');
-        li.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="change_sport('${sportEntry.value}')">${sportEntry.label}</a>`;
-        dropdownMenu.appendChild(li);
-    });
-}
-
-/**
- * Reads the "sport" query parameter from the URL (e.g. index.html?sport=all)
- * @returns {string} A valid sport value from SPORTS, or the default ('running') if
- * the parameter is missing or not recognized
- */
-function getSportFromUrl() {
-    const params = new URLSearchParams(window.location.search);
-    const sportParam = (params.get('sport') || '').toLowerCase();
-    const isValid = SPORTS.some(s => s.value === sportParam);
-    return isValid ? sportParam : SPORTS[0].value;
-}
-
-/**
- * Updates the "sport" query parameter in the URL to match the current selection,
- * without reloading the page
- * @param {string} sport - The sport value to reflect in the URL
- */
-function updateSportInUrl(sport) {
-    const url = new URL(window.location.href);
-    url.searchParams.set('sport', sport);
-    window.history.replaceState({}, '', url);
-}
-
 // Initialize page with current year and sport (from URL, if provided) when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
     const currentYear = new Date().getFullYear();
@@ -346,5 +285,5 @@ document.addEventListener('DOMContentLoaded', () => {
     loadCompetitionsForYear(currentYear, currentCompetitionSport);
     loadLastUpdateDate();
     loadAvailableYears();
-    loadAvailableSports();
+    loadAvailableSports('sport-dropdown-menu', 'change_sport');
 });

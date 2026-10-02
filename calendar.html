@@ -41,6 +41,16 @@
 <div class="container mt-5 mb-5">
     <h1 class="mb-4">Calendar</h1>
 
+    <!-- Sport selector -->
+    <div class="d-flex align-items-center gap-3 mb-3">
+        <div class="dropdown">
+            <button class="btn btn-success dropdown-toggle" type="button" id="sportDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                <span id="sportDropdownLabel"></span>
+            </button>
+            <ul class="dropdown-menu" id="sportDropdownMenu" aria-labelledby="sportDropdown"></ul>
+        </div>
+    </div>
+
     <!-- Year, Month selectors and navigation -->
     <div class="d-flex align-items-center gap-3 mb-4">
         <button class="btn btn-outline-secondary" onclick="prevMonth()" aria-label="Previous month">

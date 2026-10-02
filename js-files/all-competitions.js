@@ -1,10 +1,20 @@
-// JavaScript file for All Competitions page
+// JavaScript file for All Competitions (Archive) page
+
+// Years with per-year event data available (json-files/output-events-{year}.json)
+const ARCHIVE_YEARS = [2023, 2024, 2025, 2026, 2027];
+const ARCHIVE_MONTH_ABBR = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+const ARCHIVE_DAY_NAMES = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
+let selectedSport = 'running';
+// Cache: year -> events[] (every sport, unfiltered)
+const rawEventsByYear = {};
 
 // Global variables to store data and sorting state
 let competitionsData = [];
 let moldovaCompetitionsData = [];
 let otherCompetitionsData = [];
-let availableYears = [];
+let availableYears = ARCHIVE_YEARS.slice().sort((a, b) => b - a);
+let showSportColumn = false;
 let sortState = {
     table1: { column: 'name', ascending: true },
     table2: { column: 'name', ascending: true },
@@ -59,6 +69,19 @@ function dateToSortableNumber(dateStr) {
 
     // Return MMDD as a number (e.g., 524 for May 24)
     return month * 100 + day;
+}
+
+/**
+ * Formats a year/month/day as "DayName DD-Mon" (e.g., "Sat 24-Jan"), matching the
+ * format produced by python-files/create-all-competitions-list.py
+ * @param {number} year - Full year
+ * @param {number} month - Month (1-12)
+ * @param {number} day - Day of month
+ * @returns {string} Formatted date string
+ */
+function formatArchiveEditionDate(year, month, day) {
+    const date = new Date(year, month - 1, day);
+    return `${ARCHIVE_DAY_NAMES[date.getDay()]} ${day}-${ARCHIVE_MONTH_ABBR[month - 1]}`;
 }
 
 /**
@@ -130,6 +153,61 @@ function updateSortIcons(tableId, column, ascending) {
 }
 
 /**
+ * Builds the regular/Moldova/other competition lists for the selected sport by
+ * reshaping the per-year events (json-files/output-events-{year}.json) into one
+ * row per competition, with a year_YYYY column per edition.
+ * - Regular competitions have a non-zero id (unique within their sport).
+ * - Competitions without individual statistics tracking share id 0; among those,
+ *   county "MDA*" marks a Moldova competition, everything else is "other" (virtual, etc.)
+ * @param {string} sport - The sport to filter by ('all' for every sport)
+ */
+function buildCompetitionLists(sport) {
+    const regularMap = new Map();
+    const moldovaMap = new Map();
+    const otherMap = new Map();
+
+    ARCHIVE_YEARS.forEach(year => {
+        const events = rawEventsByYear[year] || [];
+        events.forEach(e => {
+            if (sport !== 'all' && e.sport !== sport) return;
+
+            const formattedDate = formatArchiveEditionDate(e.year, e.month, e.day);
+
+            if (e.id !== 0) {
+                const key = `${e.sport}::${e.id}`;
+                if (!regularMap.has(key)) {
+                    regularMap.set(key, {
+                        id: e.id,
+                        name: e.name,
+                        location: e.location,
+                        county: e.county,
+                        sport: e.sport
+                    });
+                }
+                regularMap.get(key)[`year_${year}`] = formattedDate;
+            } else if (e.county === 'MDA*') {
+                const key = `${e.sport}::${e.name}`;
+                if (!moldovaMap.has(key)) {
+                    moldovaMap.set(key, { name: e.name, location: e.location, sport: e.sport });
+                }
+                moldovaMap.get(key)[`year_${year}`] = formattedDate;
+            } else {
+                const key = `${e.sport}::${e.name}`;
+                if (!otherMap.has(key)) {
+                    otherMap.set(key, { name: e.name, sport: e.sport });
+                }
+                otherMap.get(key)[`year_${year}`] = formattedDate;
+            }
+        });
+    });
+
+    competitionsData = Array.from(regularMap.values());
+    moldovaCompetitionsData = Array.from(moldovaMap.values());
+    otherCompetitionsData = Array.from(otherMap.values());
+    showSportColumn = sport === 'all';
+}
+
+/**
  * Populates the first table with full competition data (ID, Name, Location, County, Year columns)
  * @param {Array} competitions - Array of competition objects
  */
@@ -146,7 +224,7 @@ function populateTable1(competitions) {
 
     // Check if we have data
     if (!competitions || competitions.length === 0) {
-        const colspan = 4 + availableYears.length;
+        const colspan = (showSportColumn ? 5 : 4) + availableYears.length;
         tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
         return;
     }
@@ -154,6 +232,12 @@ function populateTable1(competitions) {
     // Create table rows for each competition
     competitions.forEach((competition) => {
         const row = document.createElement('tr');
+
+        if (showSportColumn) {
+            const sportCell = document.createElement('td');
+            sportCell.textContent = formatSportName(competition.sport);
+            row.appendChild(sportCell);
+        }
 
         // ID column
         const idCell = document.createElement('td');
@@ -203,7 +287,7 @@ function populateTable2(competitions) {
 
     // Check if we have data
     if (!competitions || competitions.length === 0) {
-        const colspan = 2 + availableYears.length;
+        const colspan = (showSportColumn ? 3 : 2) + availableYears.length;
         tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
         return;
     }
@@ -211,6 +295,12 @@ function populateTable2(competitions) {
     // Create table rows for each competition
     competitions.forEach((competition) => {
         const row = document.createElement('tr');
+
+        if (showSportColumn) {
+            const sportCell = document.createElement('td');
+            sportCell.textContent = formatSportName(competition.sport);
+            row.appendChild(sportCell);
+        }
 
         // Name column
         const nameCell = document.createElement('td');
@@ -250,7 +340,7 @@ function populateTable3(competitions) {
 
     // Check if we have data
     if (!competitions || competitions.length === 0) {
-        const colspan = 1 + availableYears.length;
+        const colspan = (showSportColumn ? 2 : 1) + availableYears.length;
         tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
         return;
     }
@@ -258,6 +348,12 @@ function populateTable3(competitions) {
     // Create table rows for each competition
     competitions.forEach((competition) => {
         const row = document.createElement('tr');
+
+        if (showSportColumn) {
+            const sportCell = document.createElement('td');
+            sportCell.textContent = formatSportName(competition.sport);
+            row.appendChild(sportCell);
+        }
 
         // Name column
         const nameCell = document.createElement('td');
@@ -275,35 +371,58 @@ function populateTable3(competitions) {
     });
 }
 
+// Fixed (non-year) columns for each table, before the Sport column (if shown) and year columns are added
+const TABLE_CONFIGS = {
+    'table-1': {
+        fixedColumns: [
+            { key: 'id', label: 'ID' },
+            { key: 'name', label: 'Competition Name' },
+            { key: 'location', label: 'Location' },
+            { key: 'county', label: 'County' }
+        ],
+        sortFn: column => sortTable1(column)
+    },
+    'table-2': {
+        fixedColumns: [
+            { key: 'name', label: 'Competition Name' },
+            { key: 'location', label: 'Location' }
+        ],
+        sortFn: column => sortTable2(column)
+    },
+    'table-3': {
+        fixedColumns: [
+            { key: 'name', label: 'Competition Name' }
+        ],
+        sortFn: column => sortTable3(column)
+    }
+};
+
 /**
- * Dynamically updates the year column headers for all three tables
- * @param {Array<number>} years - Array of years in descending order
+ * Rebuilds a table's header row (fixed columns, optional Sport column, year columns)
+ * and (re)attaches sort click handlers
+ * @param {string} tableId - ID of the table
  */
-function updateTableHeaders(years) {
-    const tableConfigs = [
-        { tableId: 'table-1', sortFn: (col) => sortTable1(col) },
-        { tableId: 'table-2', sortFn: (col) => sortTable2(col) },
-        { tableId: 'table-3', sortFn: (col) => sortTable3(col) },
-    ];
+function renderTableHeader(tableId) {
+    const config = TABLE_CONFIGS[tableId];
+    const headerRow = document.querySelector(`#${tableId} thead tr`);
+    if (!headerRow || !config) return;
 
-    tableConfigs.forEach(({ tableId, sortFn }) => {
-        const headerRow = document.querySelector(`#${tableId} thead tr`);
-        if (!headerRow) return;
+    headerRow.innerHTML = '';
 
-        // Remove existing year column headers
-        headerRow.querySelectorAll('th.year-column').forEach(th => th.remove());
+    const columns = [];
+    if (showSportColumn) columns.push({ key: 'sport', label: 'Sport' });
+    columns.push(...config.fixedColumns);
+    availableYears.forEach(year => columns.push({ key: `year_${year}`, label: String(year), isYear: true }));
 
-        // Add year column headers
-        years.forEach(year => {
-            const th = document.createElement('th');
-            th.scope = 'col';
-            th.setAttribute('data-column', `year_${year}`);
-            th.className = 'user-select-none year-column';
-            th.style.cursor = 'pointer';
-            th.innerHTML = `${year} <i class="bi bi-arrow-down-up"></i>`;
-            th.addEventListener('click', () => sortFn(`year_${year}`));
-            headerRow.appendChild(th);
-        });
+    columns.forEach(col => {
+        const th = document.createElement('th');
+        th.scope = 'col';
+        th.setAttribute('data-column', col.key);
+        th.className = 'user-select-none' + (col.isYear ? ' year-column' : '');
+        th.style.cursor = 'pointer';
+        th.innerHTML = `${col.label} <i class="bi bi-arrow-down-up"></i>`;
+        th.addEventListener('click', () => config.sortFn(col.key));
+        headerRow.appendChild(th);
     });
 }
 
@@ -365,109 +484,93 @@ function sortTable3(column) {
 }
 
 /**
- * Loads and displays all competitions in three separate tables
+ * Updates the "Total: N competitions" captions under each table title
  */
-async function loadAllCompetitions() {
-    try {
-        // Fetch the competitions list data
-        const data = await fetch_json_file('json-files/output-all-competitions-list.json');
+function updateCompetitionCounts() {
+    const count1Element = document.getElementById('competition-count-1');
+    if (count1Element) count1Element.textContent = `Total: ${competitionsData.length} competitions`;
 
-        // Store data globally
-        competitionsData = data.running_competitions || [];
-        moldovaCompetitionsData = data.competitions_moldova || [];
-        otherCompetitionsData = data.competitions_other || [];
-        availableYears = data.years || [];
+    const count2Element = document.getElementById('competition-count-2');
+    if (count2Element) count2Element.textContent = `Total: ${moldovaCompetitionsData.length} competitions`;
 
-        // Update table headers dynamically based on available years
-        updateTableHeaders(availableYears);
-
-        // Sort by name initially (already sorted from Python, but ensure consistency)
-        const sorted1 = sortCompetitions(competitionsData, 'name', true);
-        const sorted2 = sortCompetitions(moldovaCompetitionsData, 'name', true);
-        const sorted3 = sortCompetitions(otherCompetitionsData, 'name', true);
-
-        // Populate the tables
-        populateTable1(sorted1);
-        populateTable2(sorted2);
-        populateTable3(sorted3);
-
-        // Update sort icons to show initial state
-        updateSortIcons('table-1', 'name', true);
-        updateSortIcons('table-2', 'name', true);
-        updateSortIcons('table-3', 'name', true);
-
-        // Update the competition counts
-        const count1Element = document.getElementById('competition-count-1');
-        if (count1Element) {
-            count1Element.textContent = `Total: ${competitionsData.length} competitions`;
-        }
-
-        const count2Element = document.getElementById('competition-count-2');
-        if (count2Element) {
-            count2Element.textContent = `Total: ${moldovaCompetitionsData.length} competitions`;
-        }
-
-        const count3Element = document.getElementById('competition-count-3');
-        if (count3Element) {
-            count3Element.textContent = `Total: ${otherCompetitionsData.length} competitions`;
-        }
-
-        console.log(`Loaded ${competitionsData.length} regular competitions`);
-        console.log(`Loaded ${moldovaCompetitionsData.length} Moldova competitions`);
-        console.log(`Loaded ${otherCompetitionsData.length} other competitions`);
-
-    } catch (error) {
-        console.error('Error loading competitions:', error);
-
-        // Show error in all tables
-        const tableBody1 = document.getElementById('competitions-table-body');
-        if (tableBody1) {
-            tableBody1.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
-        }
-
-        const tableBody2 = document.getElementById('competitions-moldova-table-body');
-        if (tableBody2) {
-            tableBody2.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
-        }
-
-        const tableBody3 = document.getElementById('competitions-other-table-body');
-        if (tableBody3) {
-            tableBody3.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
-        }
-    }
+    const count3Element = document.getElementById('competition-count-3');
+    if (count3Element) count3Element.textContent = `Total: ${otherCompetitionsData.length} competitions`;
 }
 
 /**
- * Initialize sort button event listeners
+ * Rebuilds the competition lists for the selected sport and redraws every table from scratch
  */
-function initializeSortButtons() {
-    // Table 1 sort buttons
-    document.querySelectorAll('#table-1 th[data-column]').forEach(header => {
-        header.style.cursor = 'pointer';
-        header.addEventListener('click', () => {
-            sortTable1(header.getAttribute('data-column'));
-        });
-    });
+function rebuildAndRenderTables() {
+    buildCompetitionLists(selectedSport);
 
-    // Table 2 sort buttons (Moldova)
-    document.querySelectorAll('#table-2 th[data-column]').forEach(header => {
-        header.style.cursor = 'pointer';
-        header.addEventListener('click', () => {
-            sortTable2(header.getAttribute('data-column'));
-        });
-    });
+    renderTableHeader('table-1');
+    renderTableHeader('table-2');
+    renderTableHeader('table-3');
 
-    // Table 3 sort buttons (Other)
-    document.querySelectorAll('#table-3 th[data-column]').forEach(header => {
-        header.style.cursor = 'pointer';
-        header.addEventListener('click', () => {
-            sortTable3(header.getAttribute('data-column'));
+    sortState = {
+        table1: { column: 'name', ascending: true },
+        table2: { column: 'name', ascending: true },
+        table3: { column: 'name', ascending: true }
+    };
+
+    const sorted1 = sortCompetitions(competitionsData, 'name', true);
+    const sorted2 = sortCompetitions(moldovaCompetitionsData, 'name', true);
+    const sorted3 = sortCompetitions(otherCompetitionsData, 'name', true);
+
+    populateTable1(sorted1);
+    populateTable2(sorted2);
+    populateTable3(sorted3);
+
+    updateSortIcons('table-1', 'name', true);
+    updateSortIcons('table-2', 'name', true);
+    updateSortIcons('table-3', 'name', true);
+
+    updateCompetitionCounts();
+}
+
+/**
+ * Changes the displayed sport and rebuilds/redraws every table
+ * @param {string} sport - The sport value to display ('all' for every sport)
+ */
+function change_sport(sport) {
+    selectedSport = sport;
+    const sportEntry = SPORTS.find(s => s.value === sport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : sport;
+    updateSportInUrl(sport);
+    rebuildAndRenderTables();
+}
+
+/**
+ * Loads (and caches) every year's events, then builds and displays all three tables
+ */
+async function loadAllCompetitions() {
+    try {
+        await Promise.all(ARCHIVE_YEARS.map(async year => {
+            if (rawEventsByYear[year] === undefined) {
+                rawEventsByYear[year] = await fetch_json_file(`json-files/output-events-${year}.json`);
+            }
+        }));
+
+        rebuildAndRenderTables();
+    } catch (error) {
+        console.error('Error loading competitions:', error);
+
+        ['competitions-table-body', 'competitions-moldova-table-body', 'competitions-other-table-body'].forEach(id => {
+            const tableBody = document.getElementById(id);
+            if (tableBody) {
+                tableBody.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
+            }
         });
-    });
+    }
 }
 
 // Initialize the page when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
+    selectedSport = getSportFromUrl();
+    const sportEntry = SPORTS.find(s => s.value === selectedSport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : selectedSport;
+    updateSportInUrl(selectedSport);
+    loadAvailableSports('sport-dropdown-menu', 'change_sport');
+
     loadAllCompetitions();
-    initializeSortButtons();
 });

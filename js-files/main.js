@@ -1,5 +1,75 @@
 // General JavaScript file for all pages
 
+/* ========================================
+   Shared Sport Selector Functions
+   ======================================== */
+
+// Sports available across pages that support multisport filtering, in display order.
+// Value 'all' means show every sport (and, where applicable, label each item with its sport).
+const SPORTS = [
+    { value: 'running', label: 'Running' },
+    { value: 'all', label: 'All Sports' },
+    { value: 'swimming', label: 'Swimming' },
+    { value: 'triathlon', label: 'Triathlon' },
+    { value: 'cycling', label: 'Cycling' },
+    { value: 'aquatlon', label: 'Aquatlon' },
+    { value: 'duathlon', label: 'Duathlon' },
+    { value: 'skiing', label: 'Skiing' },
+    { value: 'climbing', label: 'Climbing' },
+    { value: 'orienteering', label: 'Orienteering' },
+    { value: 'kayak', label: 'Kayak' },
+    { value: 'hyatlon', label: 'Hyatlon' }
+];
+
+/**
+ * Capitalizes the first letter of a sport value for display (e.g. "running" -> "Running")
+ * @param {string} sport - The sport value
+ * @returns {string} The capitalized sport name
+ */
+function formatSportName(sport) {
+    return sport.charAt(0).toUpperCase() + sport.slice(1);
+}
+
+/**
+ * Reads the "sport" query parameter from the URL (e.g. index.html?sport=all)
+ * @returns {string} A valid sport value from SPORTS, or the default ('running') if
+ * the parameter is missing or not recognized
+ */
+function getSportFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const sportParam = (params.get('sport') || '').toLowerCase();
+    const isValid = SPORTS.some(s => s.value === sportParam);
+    return isValid ? sportParam : SPORTS[0].value;
+}
+
+/**
+ * Updates the "sport" query parameter in the URL to match the current selection,
+ * without reloading the page
+ * @param {string} sport - The sport value to reflect in the URL
+ */
+function updateSportInUrl(sport) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('sport', sport);
+    window.history.replaceState({}, '', url);
+}
+
+/**
+ * Populates a sport dropdown menu with the available sports
+ * @param {string} menuId - The id of the <ul> dropdown-menu element to populate
+ * @param {string} onSelectFnName - Name of the global function to call (with the sport value) on selection
+ */
+function loadAvailableSports(menuId, onSelectFnName) {
+    const dropdownMenu = document.getElementById(menuId);
+    if (!dropdownMenu) return;
+
+    dropdownMenu.innerHTML = '';
+    SPORTS.forEach(sportEntry => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="${onSelectFnName}('${sportEntry.value}')">${sportEntry.label}</a>`;
+        dropdownMenu.appendChild(li);
+    });
+}
+
 /**
  * Fetches and parses a JSON file from the specified path
  * @param {string} file_path - The path to the JSON file to fetch

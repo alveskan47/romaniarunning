@@ -1,5 +1,6 @@
 let currentMapYear = new Date().getFullYear();
 let currentMapMonth = null;
+let selectedSport = 'running';
 let currentRawGeoEvents = [];
 let currentMapData = null;
 let mapChartInstance = null;
@@ -38,7 +39,15 @@ function change_year(year) {
 function change_month(month) {
     currentMapMonth = month;
     document.getElementById('text_month').textContent = month === null ? 'All months' : MONTH_NAMES[month - 1];
-    applyMonthFilter();
+    applyFilters();
+}
+
+function change_sport(sport) {
+    selectedSport = sport;
+    const sportEntry = SPORTS.find(s => s.value === sport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : sport;
+    updateSportInUrl(sport);
+    applyFilters();
 }
 
 function getPointColor(e) {
@@ -71,10 +80,14 @@ function jitterDuplicateCoords(points) {
     return points;
 }
 
-function applyMonthFilter() {
-    const filtered = currentMapMonth === null
+function applyFilters() {
+    let filtered = selectedSport === 'all'
         ? currentRawGeoEvents
-        : currentRawGeoEvents.filter(e => e.month === currentMapMonth);
+        : currentRawGeoEvents.filter(e => e.sport === selectedSport);
+
+    if (currentMapMonth !== null) {
+        filtered = filtered.filter(e => e.month === currentMapMonth);
+    }
 
     currentMapData = jitterDuplicateCoords(filtered.map(e => ({
         name: e.name,
@@ -139,7 +152,7 @@ async function loadMapForYear(year) {
     try {
         const events = await fetch_json_file(`json-files/output-events-${year}.json`);
         currentRawGeoEvents = events.filter(e => e.lat != null && e.lon != null);
-        applyMonthFilter();
+        applyFilters();
     } catch (error) {
         console.error('Error loading map data:', error);
     }
@@ -194,6 +207,7 @@ async function drawMap(points, totalCount) {
                         html += `<hr style="margin:4px 0">`;
                         html += `<b>${nameHtml}</b><br>${e.display_date}<br>`;
                         if (e.location_details) html += `${e.location_details}<br>`;
+                        if (selectedSport === 'all') html += `Sport: ${formatSportName(e.sport)}<br>`;
                         html += `Type: ${e.type}`;
                         if (dists) html += `<br>${dists}`;
                     });
@@ -210,6 +224,7 @@ async function drawMap(points, totalCount) {
                     `${e.display_date}<br>` +
                     `${e.location} · ${e.county}<br>` +
                     (e.location_details ? `${e.location_details}<br>` : '') +
+                    (selectedSport === 'all' ? `Sport: ${formatSportName(e.sport)}<br>` : '') +
                     `Type: ${e.type}` +
                     (dists ? `<br>${dists}` : '');
             },
@@ -291,6 +306,12 @@ document.addEventListener('themeChanged', () => {
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('text_year').textContent = currentMapYear;
     document.getElementById('text_month').textContent = 'All months';
+
+    selectedSport = getSportFromUrl();
+    const sportEntry = SPORTS.find(s => s.value === selectedSport);
+    document.getElementById('text_sport').textContent = sportEntry ? sportEntry.label : selectedSport;
+    updateSportInUrl(selectedSport);
+    loadAvailableSports('sport-dropdown-menu', 'change_sport');
 
     const today = new Date();
     document.getElementById('map-current-date').textContent =

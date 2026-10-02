@@ -14,14 +14,17 @@ const YEARS = [2023, 2024, 2025, 2026, 2027];
 
 let selectedYear = new Date().getFullYear();
 let selectedMonth = new Date().getMonth(); // 0-indexed
+let selectedSport = 'running';
 
 // Clamp to valid range
 if (selectedYear < YEARS[0]) selectedYear = YEARS[0];
 if (selectedYear > YEARS[YEARS.length - 1]) selectedYear = YEARS[YEARS.length - 1];
 
-// Cache: year -> { "YYYY-M-D": count }
+// Cache: year -> [event, ...] (every sport, unfiltered)
+const rawEventsByYear = {};
+// Cache: year -> { "YYYY-M-D": count } (filtered by selectedSport)
 const eventCounts = {};
-// Cache: year -> { "YYYY-M-D": [event, ...] }
+// Cache: year -> { "YYYY-M-D": [event, ...] } (filtered by selectedSport)
 const eventsByDay = {};
 
 function dayKey(year, month1, day) {
@@ -40,25 +43,43 @@ function getEvents(year, month0, day) {
     return byDay[dayKey(year, month0 + 1, day)] || [];
 }
 
+/**
+ * (Re)builds the eventCounts/eventsByDay indexes for a year from its cached
+ * raw events, filtered by the currently selected sport
+ * @param {number} year - The year to rebuild indexes for
+ */
+function buildIndexesForYear(year) {
+    const events = rawEventsByYear[year] || [];
+    const filtered = selectedSport === 'all'
+        ? events
+        : events.filter(e => e.sport === selectedSport);
+
+    const counts = {};
+    const byDay = {};
+    filtered.forEach(e => {
+        const k = dayKey(e.year, e.month, e.day);
+        counts[k] = (counts[k] || 0) + 1;
+        if (!byDay[k]) byDay[k] = [];
+        byDay[k].push(e);
+    });
+    eventCounts[year] = counts;
+    eventsByDay[year] = byDay;
+}
+
 function loadYearData(year) {
-    if (eventCounts[year] !== undefined) return Promise.resolve();
+    if (rawEventsByYear[year] !== undefined) {
+        buildIndexesForYear(year);
+        return Promise.resolve();
+    }
     return fetch(`json-files/output-events-${year}.json`)
         .then(r => r.json())
         .then(events => {
-            const counts = {};
-            const byDay = {};
-            events.forEach(e => {
-                const k = dayKey(e.year, e.month, e.day);
-                counts[k] = (counts[k] || 0) + 1;
-                if (!byDay[k]) byDay[k] = [];
-                byDay[k].push(e);
-            });
-            eventCounts[year] = counts;
-            eventsByDay[year] = byDay;
+            rawEventsByYear[year] = events;
+            buildIndexesForYear(year);
         })
         .catch(() => {
-            eventCounts[year] = {};
-            eventsByDay[year] = {};
+            rawEventsByYear[year] = [];
+            buildIndexesForYear(year);
         });
 }
 
@@ -217,7 +238,8 @@ async function renderRacesList() {
             html += `<p class="mb-1"><strong>${dow} ${formatDate(day, m, y)}</strong></p>`;
             html += '<ul class="list-unstyled ms-3 mb-2">';
             for (const e of events) {
-                html += `<li><a href="${e.link}" target="_blank" rel="noopener">${e.name}</a></li>`;
+                const sportPrefix = selectedSport === 'all' ? `(${formatSportName(e.sport)}) - ` : '';
+                html += `<li>${sportPrefix}<a href="${e.link}" target="_blank" rel="noopener">${e.name}</a></li>`;
             }
             html += '</ul>';
         }
@@ -230,6 +252,21 @@ async function renderRacesList() {
 function changeYear(year) {
     selectedYear = year;
     loadYearData(year).then(renderCalendar);
+}
+
+/**
+ * Changes the selected sport, rebuilds the indexes for every cached year
+ * and re-renders the calendar
+ * @param {string} sport - The sport value to display ('all' for every sport)
+ */
+function changeSport(sport) {
+    selectedSport = sport;
+    const sportEntry = SPORTS.find(s => s.value === sport);
+    document.getElementById('sportDropdownLabel').textContent = sportEntry ? sportEntry.label : sport;
+    updateSportInUrl(sport);
+
+    Object.keys(rawEventsByYear).forEach(y => buildIndexesForYear(Number(y)));
+    renderCalendar();
 }
 
 function changeMonth(month) {
@@ -262,6 +299,13 @@ function nextMonth() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Initialize sport (from URL, if provided)
+    selectedSport = getSportFromUrl();
+    const sportEntry = SPORTS.find(s => s.value === selectedSport);
+    document.getElementById('sportDropdownLabel').textContent = sportEntry ? sportEntry.label : selectedSport;
+    updateSportInUrl(selectedSport);
+    loadAvailableSports('sportDropdownMenu', 'changeSport');
+
     // Populate year dropdown
     const yearMenu = document.getElementById('yearDropdownMenu');
     YEARS.forEach(y => {
