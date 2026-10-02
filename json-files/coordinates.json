@@ -673,6 +673,13 @@
   },
   {
     "county": "BN",
+    "location": "Maieru",
+    "location_details": "",
+    "lat": 47.483802,
+    "lon": 24.732354
+  },
+  {
+    "county": "BN",
     "location": "Monor",
     "location_details": "",
     "lat": 47.0333,
@@ -1247,6 +1254,13 @@
   },
   {
     "county": "CJ",
+    "location": "Sãlicea",
+    "location_details": "",
+    "lat": 46.675593,
+    "lon": 23.52444
+  },
+  {
+    "county": "CJ",
     "location": "Săcuieu",
     "location_details": "",
     "lat": 46.75,
@@ -1685,6 +1699,13 @@
     "location_details": "",
     "lat": 45.6,
     "lon": 22.9167
+  },
+  {
+    "county": "HD",
+    "location": "Hunedoara",
+    "location_details": "",
+    "lat": 45.76972,
+    "lon": 22.92028
   },
   {
     "county": "HD",
@@ -3291,6 +3312,13 @@
   },
   {
     "county": "TM",
+    "location": "Pietroasa (TM)",
+    "location_details": "",
+    "lat": 45.83611,
+    "lon": 22.39444
+  },
+  {
+    "county": "TM",
     "location": "Recaș",
     "location_details": "",
     "lat": 45.7667,
@@ -3498,6 +3526,13 @@
     "location_details": "",
     "lat": 45.7667,
     "lon": 27.0667
+  },
+  {
+    "county": "VN",
+    "location": "Petrești",
+    "location_details": "",
+    "lat": 45.730019,
+    "lon": 27.226544
   },
   {
     "county": "VN",

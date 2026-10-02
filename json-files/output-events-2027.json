@@ -22,6 +22,28 @@
     "sport": "running"
   },
   {
+    "name": "Făget Winter Race",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Făget",
+    "display_date": "Sat 23-Jan-2027",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "21km(1023m↑)",
+      "15km(688m↑)",
+      "7km(243m↑)"
+    ],
+    "link": "https://fagetwinterrace.ro/",
+    "link_fb": "https://www.facebook.com/FagetWinterRace/",
+    "id": 32,
+    "year": 2027,
+    "month": 1,
+    "day": 23,
+    "lat": 46.7686678405,
+    "lon": 23.5717152975,
+    "sport": "running"
+  },
+  {
     "name": "Semimaraton Gerar",
     "location": "București",
     "location_details": "Politehnica",
@@ -674,6 +696,27 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Cetăților – Suceava",
+    "location": "Suceava",
+    "location_details": "",
+    "display_date": "Sat 15-May-2027",
+    "county": "SV",
+    "type": "trail",
+    "distances": [
+      "15km",
+      "3.5km"
+    ],
+    "link": "https://acstrib.ro/crosul-cetatilor/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
+    "id": 373,
+    "year": 2027,
+    "month": 5,
+    "day": 15,
+    "lat": 47.649995,
+    "lon": 26.250005,
+    "sport": "running"
+  },
+  {
     "name": "Semimaraton Timotion",
     "location": "Timișoara",
     "location_details": "",
@@ -1099,6 +1142,27 @@
     "day": 19,
     "lat": 46.1583,
     "lon": 24.3583,
+    "sport": "running"
+  },
+  {
+    "name": "Advance Military Run",
+    "location": "Săcele",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "18km",
+      "5.6km"
+    ],
+    "link": "https://advancemilitaryrun.ro/",
+    "link_fb": "",
+    "id": 647,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 45.6167,
+    "lon": 25.691,
     "sport": "running"
   },
   {
@@ -1538,6 +1602,28 @@
     "day": 26,
     "lat": 47.0106,
     "lon": 28.8638,
+    "sport": "running"
+  },
+  {
+    "name": "Buzău 21k",
+    "location": "Buzău",
+    "location_details": "",
+    "display_date": "Sun 03-Oct-2027",
+    "county": "BZ",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://buzau.21k.ro/",
+    "link_fb": "https://www.facebook.com/buzau21k/",
+    "id": 99,
+    "year": 2027,
+    "month": 10,
+    "day": 3,
+    "lat": 45.15,
+    "lon": 26.82,
     "sport": "running"
   },
   {

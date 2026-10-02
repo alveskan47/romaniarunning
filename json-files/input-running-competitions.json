@@ -1270,6 +1270,11 @@
       "link_fb": "https://www.facebook.com/FagetWinterRace/",
       "editions": [
         {
+          "year": 2027,
+          "month": 1,
+          "day": 23
+        },
+        {
           "year": 2026,
           "month": 1,
           "day": 24
@@ -4002,6 +4007,11 @@
       "link": "https://buzau.21k.ro/",
       "link_fb": "https://www.facebook.com/buzau21k/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 10,
+          "day": 3
+        },
         {
           "year": 2026,
           "month": 9,
@@ -7951,14 +7961,18 @@
         "5km",
         "0.8km"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://www.facebook.com/profile.php?id=61573082981326",
+      "link_fb": "https://www.facebook.com/profile.php?id=61573082981326",
       "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        },
         {
           "year": 2025,
           "month": 5,
-          "day": 31,
-          "event_link": "https://www.facebook.com/events/704908142191135/"
+          "day": 31
         }
       ],
       "lat": 46.7686978405,
@@ -10581,6 +10595,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/photo/?fbid=1410901367848718"
+        },
+        {
           "year": 2025,
           "month": 9,
           "day": 6,
@@ -12550,6 +12570,11 @@
       "link_fb": "https://www.facebook.com/TRIBSV",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 15
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 16
@@ -13084,6 +13109,11 @@
       "link": "https://zarnestichallenge.ro/semimaraton/",
       "link_fb": "https://www.facebook.com/zarnestichallenge",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7
+        },
         {
           "year": 2025,
           "month": 11,
@@ -19295,6 +19325,11 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 26
+        },
+        {
           "year": 2026,
           "month": 10,
           "day": 31
@@ -19480,6 +19515,295 @@
       ],
       "lat": 44.436415,
       "lon": 26.149728
+    },
+    {
+      "id": 656,
+      "name": "Crosul Zilei Sportive Barna Kóréh",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 18,
+          "event_link": "https://www.facebook.com/photo/?fbid=1529319222312978&set=a.603518621559714"
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 657,
+      "name": "Leeva Run",
+      "location": "Hunedoara",
+      "county": "HD",
+      "type": "road",
+      "distances": [
+        "32km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 15,
+          "event_link": "https://leeva.ro/news/leeva-run-2026-castelul-corvinilor-cetatea-devei"
+        }
+      ],
+      "lat": 45.76972,
+      "lon": 22.92028
+    },
+    {
+      "id": 658,
+      "name": "Lifest",
+      "location": "Sãlicea",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "42km",
+        "21km",
+        "10km"
+      ],
+      "link": "https://www.lifest.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61590190689614",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 8,
+          "day": 12
+        }
+      ],
+      "lat": 46.675593,
+      "lon": 23.52444
+    },
+    {
+      "id": 659,
+      "name": "Craiova Challenge",
+      "location": "Craiova",
+      "county": "DJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3,
+          "event_link": "https://m.iabilet.ro/bilete-craiova-challenge-editie-pilot-131299/"
+        }
+      ],
+      "lat": 44.3167,
+      "lon": 23.8
+    },
+    {
+      "id": 660,
+      "name": "Alearga pentru inima ta",
+      "location": "Petrești",
+      "county": "VN",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 4,
+          "event_link": "https://www.facebook.com/photo/?fbid=122139501879151325"
+        }
+      ],
+      "lat": 45.730019,
+      "lon": 27.226544
+    },
+    {
+      "id": 661,
+      "name": "Concursul internațional Scări",
+      "location": "Satu Mare",
+      "county": "SM",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2023,
+          "month": 10,
+          "day": 4,
+          "event_link": "https://www.facebook.com/photo/?fbid=769358741902694"
+        }
+      ],
+      "lat": 47.7917,
+      "lon": 22.8833
+    },
+    {
+      "id": 662,
+      "name": "REFLEX - Crosul Dunării",
+      "location": "Galați",
+      "county": "GL",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10,
+          "event_link": "https://www.facebook.com/events/1082767694468058"
+        }
+      ],
+      "lat": 45.4353,
+      "lon": 28.05
+    },
+    {
+      "id": 663,
+      "name": "The Ultimate Challenge",
+      "location": "Vișeu de Sus",
+      "county": "MM",
+      "type": "trail",
+      "distances": [
+        "11km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 10,
+          "event_link": "https://www.facebook.com/photo?fbid=122100503415459288"
+        }
+      ],
+      "lat": 47.7167,
+      "lon": 24.4333
+    },
+    {
+      "id": 664,
+      "name": "Târgu Mureș Coffee Run",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 11,
+          "event_link": "https://www.facebook.com/events/1411263871211448/"
+        }
+      ],
+      "lat": 46.5417,
+      "lon": 24.5583
+    },
+    {
+      "id": 665,
+      "name": "Cros Poli Sport",
+      "location": "București",
+      "location_details": "Politehnica",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/1370318695085589"
+        }
+      ],
+      "lat": 44.4369,
+      "lon": 26.0475
+    },
+    {
+      "id": 666,
+      "name": "Alearga pentru schimbare",
+      "location": "Bacău",
+      "county": "BC",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/4751510385133705"
+        }
+      ],
+      "lat": 46.567,
+      "lon": 26.9146
+    },
+    {
+      "id": 667,
+      "name": "Crosul Binder",
+      "location": "Mediaș",
+      "county": "SB",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/2586223415158360"
+        }
+      ],
+      "lat": 46.1583,
+      "lon": 24.3583
+    },
+    {
+      "id": 668,
+      "name": "Masters Race",
+      "location": "Maieru",
+      "county": "BN",
+      "type": "trail",
+      "distances": [
+        "15km ⚠ only over 35 years",
+        "5km"
+      ],
+      "link": "https://cararirodnei.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/2586223415158360"
+        }
+      ],
+      "lat": 47.483802,
+      "lon": 24.732354
     }
   ],
   "running_competitions_no_statistics": [

@@ -121,6 +121,24 @@
       ],
       "lat": 45.1394,
       "lon": 24.6781
+    },
+    {
+      "id": 8,
+      "name": "Velocrosul Castanilor",
+      "location": "Florești Prahova",
+      "location_details": "Domeniul Cantacuzino",
+      "county": "PH",
+      "link": "https://velocros.domeniulcantacuzino.ro/",
+      "link_fb": "https://www.facebook.com/velocrosulcastanilor/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        }
+      ],
+      "lat": 44.9167,
+      "lon": 26.0333
     }
   ],
   "duathlon_competitions_no_statistics": [

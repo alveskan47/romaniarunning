@@ -4982,6 +4982,26 @@
     "sport": "running"
   },
   {
+    "name": "Concursul internațional Scări",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Wed 04-Oct-2023",
+    "county": "SM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=769358741902694",
+    "link_fb": "",
+    "id": 661,
+    "year": 2023,
+    "month": 10,
+    "day": 4,
+    "lat": 47.7917,
+    "lon": 22.8833,
+    "sport": "running"
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
