@@ -12166,6 +12166,27 @@
     "sport": "running"
   },
   {
+    "name": "Run for Genomics",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 25-Oct-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "9km",
+      "3km"
+    ],
+    "link": "https://www.runforgenomics.com/",
+    "link_fb": "",
+    "id": 367,
+    "year": 2026,
+    "month": 10,
+    "day": 25,
+    "lat": 44.4223631273,
+    "lon": 26.1548581031,
+    "sport": "running"
+  },
+  {
     "name": "Ovidio Running Constanța",
     "location": "Constanța",
     "location_details": "",

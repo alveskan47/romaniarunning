@@ -868,6 +868,27 @@
     "sport": "running"
   },
   {
+    "name": "Geopark Mehedinți Adventure",
+    "location": "Moisești",
+    "location_details": "",
+    "display_date": "Sat 29-May-2027",
+    "county": "MM",
+    "type": "trail",
+    "distances": [
+      "28km(1253m↑)",
+      "18km(640m↑)"
+    ],
+    "link": "https://www.geoparkmehedintiadventure.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
+    "id": 244,
+    "year": 2027,
+    "month": 5,
+    "day": 29,
+    "lat": 47.6833,
+    "lon": 23.7,
+    "sport": "running"
+  },
+  {
     "name": "Semimaraton Galați",
     "location": "Galați",
     "location_details": "",
@@ -951,6 +972,28 @@
     "day": 5,
     "lat": 45.41015334460211,
     "lon": 25.53281764789364,
+    "sport": "running"
+  },
+  {
+    "name": "Giarmata in Miscare",
+    "location": "Giarmata",
+    "location_details": "",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10.5km",
+      "5km"
+    ],
+    "link": "https://www.facebook.com/GiarmataInMiscare/",
+    "link_fb": "https://www.facebook.com/GiarmataInMiscare/",
+    "id": 225,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 45.7167,
+    "lon": 21.266705,
     "sport": "running"
   },
   {
@@ -1142,6 +1185,26 @@
     "day": 19,
     "lat": 46.1583,
     "lon": 24.3583,
+    "sport": "running"
+  },
+  {
+    "name": "Spartan Cheile Grădiștei",
+    "location": "Cheile Grădiștei",
+    "location_details": "",
+    "display_date": "Sat 19-Jun-2027",
+    "county": "BV",
+    "type": "obstacles",
+    "distances": [
+      "-"
+    ],
+    "link": "https://ro.spartan.com/ro/race/detail/11558/overview",
+    "link_fb": "",
+    "id": 669,
+    "year": 2027,
+    "month": 6,
+    "day": 19,
+    "lat": 45.5667,
+    "lon": 25.3167,
     "sport": "running"
   },
   {
@@ -1495,6 +1558,28 @@
     "day": 20,
     "lat": 45.7833,
     "lon": 24.149995,
+    "sport": "running"
+  },
+  {
+    "name": "Via Transilvanica Maraton",
+    "location": "Piatra Fântânele",
+    "location_details": "Campusul Tasuleasa Social",
+    "display_date": "Sat 21-Aug-2027",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "39.55km(1567m↑)",
+      "22km(915m↑)",
+      "10km"
+    ],
+    "link": "https://maraton.viatransilvanica.com/",
+    "link_fb": "https://www.facebook.com/ViaTransilvanicaMaraton",
+    "id": 90,
+    "year": 2027,
+    "month": 8,
+    "day": 21,
+    "lat": 47,
+    "lon": 24.783295,
     "sport": "running"
   },
   {

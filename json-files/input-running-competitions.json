@@ -3650,6 +3650,11 @@
       "link_fb": "https://www.facebook.com/ViaTransilvanicaMaraton",
       "editions": [
         {
+          "year": 2027,
+          "month": 8,
+          "day": 21
+        },
+        {
           "year": 2026,
           "month": 8,
           "day": 22
@@ -7914,6 +7919,11 @@
       "link_fb": "https://www.facebook.com/GiarmataInMiscare/",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 30
@@ -8447,6 +8457,11 @@
       "link": "https://www.geoparkmehedintiadventure.ro/",
       "link_fb": "https://www.facebook.com/profile.php?id=100057555186501",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 29
+        },
         {
           "year": 2026,
           "month": 5,
@@ -12376,14 +12391,18 @@
         "9km",
         "3km"
       ],
-      "link": "",
+      "link": "https://www.runforgenomics.com/",
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 10,
+          "day": 25
+        },
+        {
           "year": 2025,
           "month": 10,
-          "day": 5,
-          "event_link": "https://www.facebook.com/events/s/run-for-genomics/764034993218579/"
+          "day": 5
         }
       ],
       "lat": 44.4223631273,
@@ -19804,6 +19823,28 @@
       ],
       "lat": 47.483802,
       "lon": 24.732354
+    },
+    {
+      "id": 669,
+      "name": "Spartan Cheile Grădiștei",
+      "location": "Cheile Grădiștei",
+      "county": "BV",
+      "type": "obstacles",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 19,
+          "event_link": "https://ro.spartan.com/ro/race/detail/11558/overview"
+        }
+      ],
+      "lat": 45.5667,
+      "lon": 25.3167
     }
   ],
   "running_competitions_no_statistics": [
