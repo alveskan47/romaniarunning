@@ -2872,6 +2872,11 @@
       "link_fb": "https://www.facebook.com/BikeWorks",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
           "year": 2026,
           "month": 6,
           "day": 6
@@ -10020,13 +10025,13 @@
         "21km",
         "6km"
       ],
-      "link": "https://www.facebook.com/olteniaalearga",
+      "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
       "link_fb": "https://www.facebook.com/olteniaalearga",
       "editions": [
         {
           "year": 2026,
-          "month": 8,
-          "day": 16
+          "month": 10,
+          "day": 24
         },
         {
           "year": 2025,
@@ -19845,6 +19850,99 @@
       ],
       "lat": 45.5667,
       "lon": 25.3167
+    },
+    {
+      "id": 670,
+      "name": "Crosul Cetății Turnu",
+      "location": "Turnu Măgurele",
+      "county": "TR",
+      "type": "trail",
+      "distances": [
+        "14km"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61584156471124",
+      "link_fb": "https://www.facebook.com/profile.php?id=61584156471124",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 18
+        }
+      ],
+      "lat": 43.75167,
+      "lon": 24.87083
+    },
+    {
+      "id": 671,
+      "name": "Arad Fall Run",
+      "location": "Arad",
+      "county": "AR",
+      "type": "road",
+      "distances": [
+        "21km",
+        "7km",
+        "1km"
+      ],
+      "link": "https://aradrun.ro/",
+      "link_fb": "https://www.facebook.com/aradrun/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14
+        }
+      ],
+      "lat": 46.1833,
+      "lon": 21.316705
+    },
+    {
+      "id": 672,
+      "name": "Brașov Runners",
+      "location": "Brașov",
+      "county": "BV",
+      "type": "trail",
+      "distances": [
+        "10km(350m↑)"
+      ],
+      "link": "https://brasovrunners.com/ro/evenimente",
+      "link_fb": "https://www.facebook.com/profile.php?id=61590095616748",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 21
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "day": 22
+        }
+      ],
+      "lat": 45.6427,
+      "lon": 25.5887
+    },
+    {
+      "id": 673,
+      "name": "Mioritic Coffee Run",
+      "location": "Săndulești",
+      "location_details": "Copăceni",
+      "county": "CJ",
+      "type": "trail",
+      "distances": [
+        "10km",
+        "6km",
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/1673145554331285/"
+        }
+      ]
     }
   ],
   "running_competitions_no_statistics": [

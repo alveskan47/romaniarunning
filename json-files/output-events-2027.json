@@ -931,6 +931,24 @@
     "sport": "running"
   },
   {
+    "name": "Măcin Mountain Fun",
+    "location": "Greci",
+    "location_details": "",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "TL",
+    "type": "",
+    "distances": [],
+    "link": "https://www.bikeworks.ro/macin-mountain-fun/stiri/",
+    "link_fb": "https://www.facebook.com/MacinMF/",
+    "id": 7,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 45.15,
+    "lon": 28.1667,
+    "sport": "cycling"
+  },
+  {
     "name": "X-RUN Oradea",
     "location": "Oradea",
     "location_details": "",
@@ -949,6 +967,27 @@
     "day": 5,
     "lat": 47.0559509149,
     "lon": 21.9395166774,
+    "sport": "running"
+  },
+  {
+    "name": "Măcin Mountain Fun",
+    "location": "Greci",
+    "location_details": "",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "TL",
+    "type": "trail",
+    "distances": [
+      "23km(700m↑)",
+      "13km(370m↑)"
+    ],
+    "link": "https://www.bikeworks.ro/",
+    "link_fb": "https://www.facebook.com/BikeWorks",
+    "id": 71,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 45.149995,
+    "lon": 28.166695,
     "sport": "running"
   },
   {

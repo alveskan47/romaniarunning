@@ -5103,7 +5103,7 @@
       "21km",
       "6km"
     ],
-    "link": "https://www.facebook.com/olteniaalearga",
+    "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
     "link_fb": "https://www.facebook.com/olteniaalearga",
     "id": 291,
     "year": 2025,
@@ -8718,6 +8718,26 @@
     "day": 22,
     "lat": 45.300005,
     "lon": 21.883305,
+    "sport": "running"
+  },
+  {
+    "name": "Brașov Runners",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 22-Nov-2025",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "10km(350m↑)"
+    ],
+    "link": "https://brasovrunners.com/ro/evenimente",
+    "link_fb": "https://www.facebook.com/profile.php?id=61590095616748",
+    "id": 672,
+    "year": 2025,
+    "month": 11,
+    "day": 22,
+    "lat": 45.6427,
+    "lon": 25.5887,
     "sport": "running"
   },
   {

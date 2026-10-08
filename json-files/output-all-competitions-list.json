@@ -503,6 +503,17 @@
       "year_2023": "Sat 23-Sep"
     },
     {
+      "id": 671,
+      "name": "Arad Fall Run",
+      "location": "Arad",
+      "county": "AR",
+      "year_2027": "",
+      "year_2026": "Sat 14-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 399,
       "name": "Arad Half Marathon",
       "location": "Arad",
@@ -884,6 +895,17 @@
       "year_2027": "",
       "year_2026": "",
       "year_2025": "Sat 20-Dec",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 672,
+      "name": "Brașov Runners",
+      "location": "Brașov",
+      "county": "BV",
+      "year_2027": "",
+      "year_2026": "Sat 21-Nov",
+      "year_2025": "Sat 22-Nov",
       "year_2024": "",
       "year_2023": ""
     },
@@ -1942,6 +1964,17 @@
       "year_2025": "Sat 4-Oct",
       "year_2024": "Sat 7-Sep",
       "year_2023": "Sat 7-Oct"
+    },
+    {
+      "id": 670,
+      "name": "Crosul Cetății Turnu",
+      "location": "Turnu Măgurele",
+      "county": "TR",
+      "year_2027": "",
+      "year_2026": "Sun 18-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 465,
@@ -4643,7 +4676,7 @@
       "name": "Măcin Mountain Fun",
       "location": "Greci",
       "county": "TL",
-      "year_2027": "",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 31-May",
       "year_2024": "Sat 1-Jun",
@@ -4735,6 +4768,17 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 18-May",
+      "year_2023": ""
+    },
+    {
+      "id": 673,
+      "name": "Mioritic Coffee Run",
+      "location": "Săndulești",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sun 18-Oct",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -4886,7 +4930,7 @@
       "location": "Băile Govora",
       "county": "VL",
       "year_2027": "",
-      "year_2026": "Sun 16-Aug",
+      "year_2026": "Sat 24-Oct",
       "year_2025": "Sun 17-Aug",
       "year_2024": "",
       "year_2023": ""

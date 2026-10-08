@@ -7333,27 +7333,6 @@
     "sport": "running"
   },
   {
-    "name": "Oltenia Forest Run - Băile Govora",
-    "location": "Băile Govora",
-    "location_details": "",
-    "display_date": "Sun 16-Aug-2026",
-    "county": "VL",
-    "type": "trail",
-    "distances": [
-      "21km",
-      "6km"
-    ],
-    "link": "https://www.facebook.com/olteniaalearga",
-    "link_fb": "https://www.facebook.com/olteniaalearga",
-    "id": 291,
-    "year": 2026,
-    "month": 8,
-    "day": 16,
-    "lat": 45.0833,
-    "lon": 24.1833,
-    "sport": "running"
-  },
-  {
     "name": "Castle Run",
     "location": "Lăzarea",
     "location_details": "",
@@ -11875,6 +11854,46 @@
     "sport": "duathlon"
   },
   {
+    "name": "Crosul Cetății Turnu",
+    "location": "Turnu Măgurele",
+    "location_details": "",
+    "display_date": "Sun 18-Oct-2026",
+    "county": "TR",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61584156471124",
+    "link_fb": "https://www.facebook.com/profile.php?id=61584156471124",
+    "id": 670,
+    "year": 2026,
+    "month": 10,
+    "day": 18,
+    "lat": 43.75167,
+    "lon": 24.87083,
+    "sport": "running"
+  },
+  {
+    "name": "Mioritic Coffee Run",
+    "location": "Săndulești",
+    "location_details": "Copăceni",
+    "display_date": "Sun 18-Oct-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "6km",
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/1673145554331285/",
+    "link_fb": "",
+    "id": 673,
+    "year": 2026,
+    "month": 10,
+    "day": 18,
+    "sport": "running"
+  },
+  {
     "name": "Friday Night Lights",
     "location": "București",
     "location_details": "",
@@ -11953,6 +11972,24 @@
     "sport": "duathlon"
   },
   {
+    "name": "Oltenia Forest Run - Băile Govora",
+    "location": "Băile Govora",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "VL",
+    "type": "",
+    "distances": [],
+    "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+    "link_fb": "https://www.facebook.com/olteniaalearga",
+    "id": 10,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 45.0833,
+    "lon": 24.1833,
+    "sport": "orienteering"
+  },
+  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -11973,6 +12010,27 @@
     "day": 24,
     "lat": 45.7,
     "lon": 25.450005,
+    "sport": "running"
+  },
+  {
+    "name": "Oltenia Forest Run - Băile Govora",
+    "location": "Băile Govora",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "VL",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "6km"
+    ],
+    "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+    "link_fb": "https://www.facebook.com/olteniaalearga",
+    "id": 291,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 45.0833,
+    "lon": 24.1833,
     "sport": "running"
   },
   {
@@ -12140,6 +12198,24 @@
     "day": 25,
     "lat": 44.9167,
     "lon": 26.0333,
+    "sport": "cycling"
+  },
+  {
+    "name": "Oltenia Forest Run - Băile Govora",
+    "location": "Băile Govora",
+    "location_details": "",
+    "display_date": "Sun 25-Oct-2026",
+    "county": "VL",
+    "type": "",
+    "distances": [],
+    "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+    "link_fb": "https://www.facebook.com/olteniaalearga",
+    "id": 88,
+    "year": 2026,
+    "month": 10,
+    "day": 25,
+    "lat": 45.0833,
+    "lon": 24.1833,
     "sport": "cycling"
   },
   {
@@ -12766,6 +12842,28 @@
     "sport": "running"
   },
   {
+    "name": "Arad Fall Run",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "AR",
+    "type": "road",
+    "distances": [
+      "21km",
+      "7km",
+      "1km"
+    ],
+    "link": "https://aradrun.ro/",
+    "link_fb": "https://www.facebook.com/aradrun/",
+    "id": 671,
+    "year": 2026,
+    "month": 11,
+    "day": 14,
+    "lat": 46.1833,
+    "lon": 21.316705,
+    "sport": "running"
+  },
+  {
     "name": "Semimaraton Dealul Bălănești",
     "location": "Dealul Bălănești",
     "location_details": "Republica Moldova",
@@ -12805,6 +12903,26 @@
     "day": 21,
     "lat": 46.76869284049895,
     "lon": 23.5717102974638,
+    "sport": "running"
+  },
+  {
+    "name": "Brașov Runners",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "10km(350m↑)"
+    ],
+    "link": "https://brasovrunners.com/ro/evenimente",
+    "link_fb": "https://www.facebook.com/profile.php?id=61590095616748",
+    "id": 672,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 45.6427,
+    "lon": 25.5887,
     "sport": "running"
   },
   {

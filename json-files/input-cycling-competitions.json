@@ -122,6 +122,11 @@
       "link_fb": "https://www.facebook.com/MacinMF/",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
           "year": 2026,
           "month": 6,
           "day": 6
@@ -1536,6 +1541,23 @@
       ],
       "lat": 45.83611,
       "lon": 22.39444
+    },
+    {
+      "id": 88,
+      "name": "Oltenia Forest Run - Băile Govora",
+      "location": "Băile Govora",
+      "county": "VL",
+      "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+      "link_fb": "https://www.facebook.com/olteniaalearga",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 25
+        }
+      ],
+      "lat": 45.0833,
+      "lon": 24.1833
     }
   ],
   "cycling_competitions_no_statistics": [

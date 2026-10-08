@@ -1282,6 +1282,20 @@
   },
   {
     "county": "CJ",
+    "location": "Săndulești",
+    "location_details": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "CJ",
+    "location": "Săndulești",
+    "location_details": "Copăceni",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "CJ",
     "location": "Turda",
     "location_details": "",
     "lat": 46.5667,

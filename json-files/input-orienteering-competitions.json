@@ -159,6 +159,23 @@
       ],
       "lat": 45.8667,
       "lon": 25.7833
+    },
+    {
+      "id": 10,
+      "name": "Oltenia Forest Run - Băile Govora",
+      "location": "Băile Govora",
+      "county": "VL",
+      "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+      "link_fb": "https://www.facebook.com/olteniaalearga",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        }
+      ],
+      "lat": 45.0833,
+      "lon": 24.1833
     }
   ],
   "orienteering_competitions_no_statistics": []
