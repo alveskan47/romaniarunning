@@ -1452,6 +1452,11 @@
       "link_fb": "https://www.facebook.com/siriawintertrail",
       "editions": [
         {
+          "year": 2027,
+          "month": 2,
+          "day": 20
+        },
+        {
           "year": 2026,
           "month": 2,
           "day": 21
@@ -1915,6 +1920,11 @@
       "link": "https://www.facebook.com/ultramaratongalati",
       "link_fb": "https://www.facebook.com/ultramaratongalati",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
         {
           "year": 2026,
           "month": 4,
@@ -3105,6 +3115,11 @@
       "link": "https://bloodfluencermarathon.ro/",
       "link_fb": "https://www.facebook.com/bloodfluencerMarathon",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 12
+        },
         {
           "year": 2026,
           "month": 6,
@@ -4961,6 +4976,11 @@
       "link_fb": "https://www.facebook.com/ecostuff.romania",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 11
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 12
@@ -5110,6 +5130,11 @@
       "link": "https://www.brasovrun.ro/",
       "link_fb": "https://www.facebook.com/BrasovRunningFestival",
       "editions": [
+        {
+          "year": 2027,
+          "month": 10,
+          "day": 2
+        },
         {
           "year": 2026,
           "month": 10,
@@ -11864,9 +11889,14 @@
       "distances": [
         "14km"
       ],
-      "link": "https://www.facebook.com/Asociatia.SanMontan",
+      "link": "https://www.time-it.ro/TinutulMomarlanilor/",
       "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 1
+        },
         {
           "year": 2025,
           "month": 9,
@@ -14026,8 +14056,23 @@
       "editions": [
         {
           "year": 2026,
+          "month": 11,
+          "day": 7
+        },
+        {
+          "year": 2025,
           "month": 10,
-          "day": 24
+          "day": 25
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "day": 9
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "day": 4
         }
       ],
       "lat": 47.0333,
@@ -16040,7 +16085,7 @@
     },
     {
       "id": 505,
-      "name": "Mediaș Coffee Run",
+      "name": "Mediaș Coffee Run - Summer",
       "location": "Mediaș",
       "county": "SB",
       "type": "road",
@@ -18356,8 +18401,8 @@
       "county": "CJ",
       "type": "road",
       "distances": [
-        "21km",
-        "10km",
+        "24km",
+        "11km",
         "5km"
       ],
       "link": "https://runforlife.ro/wonderland/",
@@ -19942,7 +19987,98 @@
           "day": 18,
           "event_link": "https://www.facebook.com/events/1673145554331285/"
         }
-      ]
+      ],
+      "lat": 46.59606,
+      "lon": 23.73821
+    },
+    {
+      "id": 674,
+      "name": "Crosul Viitorilor Campioni – Maricica Puică",
+      "location": "Giroc",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/photo?fbid=1131296016079701&set=a.167296225813023"
+        }
+      ],
+      "lat": 45.7167,
+      "lon": 21.2667
+    },
+    {
+      "id": 675,
+      "name": "Crosul Toamnei - Pașcani",
+      "location": "Pașcani",
+      "county": "IS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 11,
+          "event_link": "https://www.facebook.com/groups/1689508084398779/permalink/29817160891206788/"
+        }
+      ],
+      "lat": 47.2469,
+      "lon": 26.7229
+    },
+    {
+      "id": 676,
+      "name": "Mediaș Coffee Run - Winter",
+      "location": "Mediaș",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "10km",
+        "4km",
+        "0.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/1233597435651902"
+        }
+      ],
+      "lat": 46.1583,
+      "lon": 24.358305
+    },
+    {
+      "id": 677,
+      "name": "Alergare in Dealu Mare",
+      "location": "Urlați",
+      "county": "PH",
+      "type": "trail",
+      "distances": [
+        "16km"
+      ],
+      "link": "https://www.faraasfalt.ro/alergare-la-crame/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        }
+      ],
+      "lat": 44.99111,
+      "lon": 26.23056
     }
   ],
   "running_competitions_no_statistics": [

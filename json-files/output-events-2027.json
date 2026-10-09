@@ -65,6 +65,28 @@
     "sport": "running"
   },
   {
+    "name": "Șiria Winter Trail",
+    "location": "Șiria",
+    "location_details": "",
+    "display_date": "Sat 20-Feb-2027",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "24km(1200m↑)",
+      "15km(760m↑)",
+      "6km(200m↑)"
+    ],
+    "link": "https://clubatia.com/siria-winter-trail/",
+    "link_fb": "https://www.facebook.com/siriawintertrail",
+    "id": 37,
+    "year": 2027,
+    "month": 2,
+    "day": 20,
+    "lat": 46.266695,
+    "lon": 21.633295,
+    "sport": "running"
+  },
+  {
     "name": "Team Up & Run",
     "location": "Timișoara",
     "location_details": "",
@@ -367,6 +389,29 @@
     "day": 11,
     "lat": 44.4223231273,
     "lon": 26.1548781031,
+    "sport": "running"
+  },
+  {
+    "name": "Ultra Race 24h Galați",
+    "location": "Tulucești",
+    "location_details": "Pădurea Gârboavele",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "24H (3km/lap)",
+      "42km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/ultramaratongalati",
+    "link_fb": "https://www.facebook.com/ultramaratongalati",
+    "id": 48,
+    "year": 2027,
+    "month": 4,
+    "day": 17,
+    "lat": 45.549995,
+    "lon": 28.033305,
     "sport": "running"
   },
   {
@@ -1141,6 +1186,29 @@
     "sport": "running"
   },
   {
+    "name": "Bloodfluencer Marathon",
+    "location": "Dejani",
+    "location_details": "",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km"
+    ],
+    "link": "https://bloodfluencermarathon.ro/",
+    "link_fb": "https://www.facebook.com/bloodfluencerMarathon",
+    "id": 77,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 45.7167,
+    "lon": 25.15,
+    "sport": "running"
+  },
+  {
     "name": "Maratonul Nordului - Botoșani",
     "location": "Botoșani",
     "location_details": "",
@@ -1684,6 +1752,28 @@
     "sport": "triathlon"
   },
   {
+    "name": "Woodrocks Trail Run",
+    "location": "Petriș",
+    "location_details": "",
+    "display_date": "Sat 11-Sep-2027",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "35km",
+      "15km",
+      "6km"
+    ],
+    "link": "https://wtr.ecostuff.ro/",
+    "link_fb": "https://www.facebook.com/ecostuff.romania",
+    "id": 129,
+    "year": 2027,
+    "month": 9,
+    "day": 11,
+    "lat": 46.1833,
+    "lon": 22.016695,
+    "sport": "running"
+  },
+  {
     "name": "Crosul Arenelor",
     "location": "București",
     "location_details": "Stadionul Arcul de Triumf",
@@ -1726,6 +1816,45 @@
     "day": 26,
     "lat": 47.0106,
     "lon": 28.8638,
+    "sport": "running"
+  },
+  {
+    "name": "Iron Man 70.3 - Mamaia",
+    "location": "Constanța",
+    "location_details": "Mamaia",
+    "display_date": "Sun 26-Sep-2027",
+    "county": "CT",
+    "type": "",
+    "distances": [],
+    "link": "https://www.ironman.com/races/im703-mamaia",
+    "link_fb": "",
+    "id": 15,
+    "year": 2027,
+    "month": 9,
+    "day": 26,
+    "lat": 44.2667,
+    "lon": 28.6333,
+    "sport": "triathlon"
+  },
+  {
+    "name": "Brașov Running Festival",
+    "location": "Brașov",
+    "location_details": "",
+    "display_date": "Sat 02-Oct-2027",
+    "county": "BV",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://www.brasovrun.ro/",
+    "link_fb": "https://www.facebook.com/BrasovRunningFestival",
+    "id": 134,
+    "year": 2027,
+    "month": 10,
+    "day": 2,
+    "lat": 45.6427,
+    "lon": 25.588685,
     "sport": "running"
   },
   {

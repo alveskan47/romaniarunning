@@ -1558,6 +1558,43 @@
       ],
       "lat": 45.0833,
       "lon": 24.1833
+    },
+    {
+      "id": 89,
+      "name": "Șugaș Enduro – French Edition",
+      "location": "Șugaș Băi",
+      "county": "CV",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/1418763433784917"
+        }
+      ],
+      "lat": 45.8975,
+      "lon": 25.708
+    },
+    {
+      "id": 90,
+      "name": "Bikefest Valea Gepișului",
+      "location": "Aușeu",
+      "location_details": "Groși",
+      "county": "BH",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 16,
+          "event_link": "https://www.facebook.com/events/922629374221504"
+        }
+      ],
+      "lat": 47.0422,
+      "lon": 22.4714
     }
   ],
   "cycling_competitions_no_statistics": [

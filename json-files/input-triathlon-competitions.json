@@ -253,12 +253,31 @@
       ],
       "lat": 44.4667,
       "lon": 25.9667
+    },
+    {
+      "id": 15,
+      "name": "Iron Man 70.3 - Mamaia",
+      "location": "Constanța",
+      "location_details": "Mamaia",
+      "county": "CT",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 26,
+          "event_link": "https://www.ironman.com/races/im703-mamaia"
+        }
+      ],
+      "lat": 44.2667,
+      "lon": 28.6333
     }
   ],
   "triathlon_competitions_no_statistics": [
     {
       "id": 0,
-      "name": "Triathlon Festival",
+      "name": "Triathlon Festival Chișinău",
       "location": "Chișinău",
       "location_details": "Republica Moldova",
       "county": "MDA*",

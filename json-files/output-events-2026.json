@@ -4017,7 +4017,7 @@
     "sport": "running"
   },
   {
-    "name": "Mediaș Coffee Run",
+    "name": "Mediaș Coffee Run - Summer",
     "location": "Mediaș",
     "location_details": "",
     "display_date": "Mon 01-Jun-2026",
@@ -7395,7 +7395,7 @@
     "sport": "swimming"
   },
   {
-    "name": "Triathlon Festival",
+    "name": "Triathlon Festival Chișinău",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
     "display_date": "Sun 16-Aug-2026",
@@ -11069,6 +11069,26 @@
     "sport": "running"
   },
   {
+    "name": "Alergare in Dealu Mare",
+    "location": "Urlați",
+    "location_details": "",
+    "display_date": "Sat 03-Oct-2026",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "16km"
+    ],
+    "link": "https://www.faraasfalt.ro/alergare-la-crame/",
+    "link_fb": "",
+    "id": 677,
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "lat": 44.99111,
+    "lon": 26.23056,
+    "sport": "running"
+  },
+  {
     "name": "UVT Liberty Marathon Timișoara",
     "location": "Timișoara",
     "location_details": "",
@@ -11471,6 +11491,26 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Toamnei - Pașcani",
+    "location": "Pașcani",
+    "location_details": "",
+    "display_date": "Sun 11-Oct-2026",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/groups/1689508084398779/permalink/29817160891206788/",
+    "link_fb": "",
+    "id": 675,
+    "year": 2026,
+    "month": 10,
+    "day": 11,
+    "lat": 47.2469,
+    "lon": 26.7229,
+    "sport": "running"
+  },
+  {
     "name": "Escalada Cheile Vălișoarei",
     "location": "Livezile",
     "location_details": "Cheile Vălișoarei",
@@ -11487,6 +11527,24 @@
     "lat": 46.3813,
     "lon": 23.5451,
     "sport": "climbing"
+  },
+  {
+    "name": "Bikefest Valea Gepișului",
+    "location": "Aușeu",
+    "location_details": "Groși",
+    "display_date": "Fri 16-Oct-2026",
+    "county": "BH",
+    "type": "",
+    "distances": [],
+    "link": "https://www.facebook.com/events/922629374221504",
+    "link_fb": "",
+    "id": 90,
+    "year": 2026,
+    "month": 10,
+    "day": 16,
+    "lat": 47.0422,
+    "lon": 22.4714,
+    "sport": "cycling"
   },
   {
     "name": "Sepsi Inst. Run",
@@ -11525,6 +11583,24 @@
     "day": 17,
     "lat": 44.65,
     "lon": 26.1167,
+    "sport": "cycling"
+  },
+  {
+    "name": "Șugaș Enduro – French Edition",
+    "location": "Șugaș Băi",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "CV",
+    "type": "",
+    "distances": [],
+    "link": "https://www.facebook.com/events/1418763433784917",
+    "link_fb": "",
+    "id": 89,
+    "year": 2026,
+    "month": 10,
+    "day": 17,
+    "lat": 45.8975,
+    "lon": 25.708,
     "sport": "cycling"
   },
   {
@@ -11800,6 +11876,26 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Viitorilor Campioni – Maricica Puică",
+    "location": "Giroc",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/photo?fbid=1131296016079701&set=a.167296225813023",
+    "link_fb": "",
+    "id": 674,
+    "year": 2026,
+    "month": 10,
+    "day": 17,
+    "lat": 45.7167,
+    "lon": 21.2667,
+    "sport": "running"
+  },
+  {
     "name": "Făget Ride",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -11891,6 +11987,8 @@
     "year": 2026,
     "month": 10,
     "day": 18,
+    "lat": 46.59606,
+    "lon": 23.73821,
     "sport": "running"
   },
   {
@@ -12140,26 +12238,6 @@
     "day": 24,
     "lat": 47.0333,
     "lon": 24.5167,
-    "sport": "running"
-  },
-  {
-    "name": "Felix Trail Run",
-    "location": "Băile Felix",
-    "location_details": "",
-    "display_date": "Sat 24-Oct-2026",
-    "county": "BH",
-    "type": "trail",
-    "distances": [
-      "-"
-    ],
-    "link": "https://thermaltrailrace.com/inscriere-felix-trail-race",
-    "link_fb": "https://www.facebook.com/FelixTrail",
-    "id": 422,
-    "year": 2026,
-    "month": 10,
-    "day": 24,
-    "lat": 47.0333,
-    "lon": 21.9,
     "sport": "running"
   },
   {
@@ -12534,6 +12612,26 @@
     "sport": "running"
   },
   {
+    "name": "Alearga cu San Montan in Tinutul Momarlanilor Petrileni",
+    "location": "Petrila",
+    "location_details": "Cheile Taii",
+    "display_date": "Sun 01-Nov-2026",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "14km"
+    ],
+    "link": "https://www.time-it.ro/TinutulMomarlanilor/",
+    "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
+    "id": 350,
+    "year": 2026,
+    "month": 11,
+    "day": 1,
+    "lat": 45.4333,
+    "lon": 23.45,
+    "sport": "running"
+  },
+  {
     "name": "Otopeni MTB Adventure",
     "location": "Otopeni",
     "location_details": "",
@@ -12596,6 +12694,26 @@
     "sport": "running"
   },
   {
+    "name": "Felix Trail Run",
+    "location": "Băile Felix",
+    "location_details": "",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://thermaltrailrace.com/inscriere-felix-trail-race",
+    "link_fb": "https://www.facebook.com/FelixTrail",
+    "id": 422,
+    "year": 2026,
+    "month": 11,
+    "day": 7,
+    "lat": 47.0333,
+    "lon": 21.9,
+    "sport": "running"
+  },
+  {
     "name": "Run for Life - Cluj",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -12603,8 +12721,8 @@
     "county": "CJ",
     "type": "road",
     "distances": [
-      "21km",
-      "10km",
+      "24km",
+      "11km",
       "5km"
     ],
     "link": "https://runforlife.ro/wonderland/",
@@ -13030,6 +13148,28 @@
     "day": 5,
     "lat": 46.18659,
     "lon": 21.31231,
+    "sport": "running"
+  },
+  {
+    "name": "Mediaș Coffee Run - Winter",
+    "location": "Mediaș",
+    "location_details": "",
+    "display_date": "Sun 06-Dec-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "10km",
+      "4km",
+      "0.5km"
+    ],
+    "link": "https://www.facebook.com/events/1233597435651902",
+    "link_fb": "",
+    "id": 676,
+    "year": 2026,
+    "month": 12,
+    "day": 6,
+    "lat": 46.1583,
+    "lon": 24.358305,
     "sport": "running"
   },
   {

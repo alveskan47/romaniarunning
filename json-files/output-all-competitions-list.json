@@ -211,7 +211,7 @@
       "location": "Petrila",
       "county": "HD",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 1-Nov",
       "year_2025": "Sun 28-Sep",
       "year_2024": "Sun 6-Oct",
       "year_2023": "Sun 22-Oct"
@@ -344,6 +344,17 @@
       "county": "IS",
       "year_2027": "",
       "year_2026": "Sat 18-Jul",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 677,
+      "name": "Alergare in Dealu Mare",
+      "location": "Urlați",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Sat 3-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -804,7 +815,7 @@
       "name": "Bloodfluencer Marathon",
       "location": "Dejani",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sat 12-Jun",
       "year_2026": "Sat 13-Jun",
       "year_2025": "Sat 14-Jun",
       "year_2024": "Sat 15-Jun",
@@ -914,7 +925,7 @@
       "name": "Brașov Running Festival",
       "location": "Brașov",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sat 2-Oct",
       "year_2026": "Sun 4-Oct",
       "year_2025": "Sun 5-Oct",
       "year_2024": "Sun 22-Sep",
@@ -2967,6 +2978,17 @@
       "year_2023": ""
     },
     {
+      "id": 675,
+      "name": "Crosul Toamnei - Pașcani",
+      "location": "Pașcani",
+      "county": "IS",
+      "year_2027": "",
+      "year_2026": "Sun 11-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 371,
       "name": "Crosul Toamnei Blăjel",
       "location": "Blăjel",
@@ -3127,6 +3149,17 @@
       "county": "SM",
       "year_2027": "",
       "year_2026": "Sat 5-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 674,
+      "name": "Crosul Viitorilor Campioni – Maricica Puică",
+      "location": "Giroc",
+      "county": "TM",
+      "year_2027": "",
+      "year_2026": "Sat 17-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -3588,10 +3621,10 @@
       "location": "Băile Felix",
       "county": "BH",
       "year_2027": "",
-      "year_2026": "Sat 24-Oct",
-      "year_2025": "",
-      "year_2024": "",
-      "year_2023": ""
+      "year_2026": "Sat 7-Nov",
+      "year_2025": "Sat 25-Oct",
+      "year_2024": "Sat 9-Nov",
+      "year_2023": "Sat 4-Nov"
     },
     {
       "id": 611,
@@ -4706,11 +4739,22 @@
     },
     {
       "id": 505,
-      "name": "Mediaș Coffee Run",
+      "name": "Mediaș Coffee Run - Summer",
       "location": "Mediaș",
       "county": "SB",
       "year_2027": "",
       "year_2026": "Mon 1-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 676,
+      "name": "Mediaș Coffee Run - Winter",
+      "location": "Mediaș",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "Sun 6-Dec",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -6326,7 +6370,7 @@
       "name": "Șiria Winter Trail",
       "location": "Șiria",
       "county": "AR",
-      "year_2027": "",
+      "year_2027": "Sat 20-Feb",
       "year_2026": "Sat 21-Feb",
       "year_2025": "Sat 22-Feb",
       "year_2024": "Sat 24-Feb",
@@ -6788,7 +6832,7 @@
       "name": "Ultra Race 24h Galați",
       "location": "Tulucești",
       "county": "GL",
-      "year_2027": "",
+      "year_2027": "Sat 17-Apr",
       "year_2026": "Sat 4-Apr",
       "year_2025": "Sat 22-Mar",
       "year_2024": "Sat 20-Apr",
@@ -7206,7 +7250,7 @@
       "name": "Woodrocks Trail Run",
       "location": "Petriș",
       "county": "AR",
-      "year_2027": "",
+      "year_2027": "Sat 11-Sep",
       "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 13-Sep",
       "year_2024": "",

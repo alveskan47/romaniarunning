@@ -6919,7 +6919,7 @@
     "distances": [
       "14km"
     ],
-    "link": "https://www.facebook.com/Asociatia.SanMontan",
+    "link": "https://www.time-it.ro/TinutulMomarlanilor/",
     "link_fb": "https://www.facebook.com/Asociatia.SanMontan",
     "id": 350,
     "year": 2025,
@@ -8037,6 +8037,26 @@
     "day": 25,
     "lat": 44.159805,
     "lon": 28.634795,
+    "sport": "running"
+  },
+  {
+    "name": "Felix Trail Run",
+    "location": "Băile Felix",
+    "location_details": "",
+    "display_date": "Sat 25-Oct-2025",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://thermaltrailrace.com/inscriere-felix-trail-race",
+    "link_fb": "https://www.facebook.com/FelixTrail",
+    "id": 422,
+    "year": 2025,
+    "month": 10,
+    "day": 25,
+    "lat": 47.0333,
+    "lon": 21.9,
     "sport": "running"
   },
   {

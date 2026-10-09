@@ -561,6 +561,20 @@
   },
   {
     "county": "BH",
+    "location": "Aușeu",
+    "location_details": "",
+    "lat": 47.033,
+    "lon": 22.5
+  },
+  {
+    "county": "BH",
+    "location": "Aușeu",
+    "location_details": "Groși",
+    "lat": 47.0422,
+    "lon": 22.4714
+  },
+  {
+    "county": "BH",
     "location": "Beiuș",
     "location_details": "",
     "lat": 46.6667,
@@ -1284,15 +1298,15 @@
     "county": "CJ",
     "location": "Săndulești",
     "location_details": "",
-    "lat": null,
-    "lon": null
+    "lat": 46.59389,
+    "lon": 23.74694
   },
   {
     "county": "CJ",
     "location": "Săndulești",
     "location_details": "Copăceni",
-    "lat": null,
-    "lon": null
+    "lat": 46.59606,
+    "lon": 23.73821
   },
   {
     "county": "CJ",
@@ -2917,6 +2931,13 @@
     "location_details": "",
     "lat": 44.992,
     "lon": 26.2327
+  },
+  {
+    "county": "PH",
+    "location": "Urlați",
+    "location_details": "",
+    "lat": 44.99111,
+    "lon": 26.23056
   },
   {
     "county": "SB",
