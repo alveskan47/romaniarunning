@@ -1595,6 +1595,41 @@
       ],
       "lat": 47.0422,
       "lon": 22.4714
+    },
+    {
+      "id": 91,
+      "name": "Cluj Winter Race",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/1038296749230081"
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 92,
+      "name": "Rocaa MTB Lipova",
+      "location": "Lipova",
+      "county": "AR",
+      "link": "https://www.facebook.com/profile.php?id=100057580954711",
+      "link_fb": "https://www.facebook.com/profile.php?id=100057580954711",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 24
+        }
+      ],
+      "lat": 46.0908,
+      "lon": 21.6975
     }
   ],
   "cycling_competitions_no_statistics": [

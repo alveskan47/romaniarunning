@@ -1508,7 +1508,7 @@
       "8km(250m↑)"
     ],
     "link": "https://velopower.ro/dalhauti-trail-challenge/",
-    "link_fb": "https://www.facebook.com/vprro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61584547897269",
     "id": 108,
     "year": 2026,
     "month": 4,
@@ -4795,7 +4795,7 @@
     "sport": "running"
   },
   {
-    "name": "Retezat SkyRace",
+    "name": "Retezat Sky Race",
     "location": "Uricani",
     "location_details": "Cheile Butii",
     "display_date": "Sat 13-Jun-2026",
@@ -9397,7 +9397,7 @@
       "24km(1000m↑) relay"
     ],
     "link": "https://gtr.ro/",
-    "link_fb": "https://www.facebook.com/RunTransylvaniaPage/",
+    "link_fb": "https://www.facebook.com/gusteritatrail",
     "id": 146,
     "year": 2026,
     "month": 9,
@@ -11471,7 +11471,7 @@
     "sport": "running"
   },
   {
-    "name": "Târgu Mureș Coffee Run",
+    "name": "Târgu Mureș Coffee Run  (Alchimia Garden)",
     "location": "Târgu Mureș",
     "location_details": "",
     "display_date": "Sun 11-Oct-2026",
@@ -11508,6 +11508,26 @@
     "day": 11,
     "lat": 47.2469,
     "lon": 26.7229,
+    "sport": "running"
+  },
+  {
+    "name": "Crosul Tineretului",
+    "location": "Ploiești",
+    "location_details": "",
+    "display_date": "Thu 15-Oct-2026",
+    "county": "PH",
+    "type": "road",
+    "distances": [
+      "⚠ age restricted"
+    ],
+    "link": "https://www.facebook.com/events/2185520359045807",
+    "link_fb": "",
+    "id": 678,
+    "year": 2026,
+    "month": 10,
+    "day": 15,
+    "lat": 44.95,
+    "lon": 26.0167,
     "sport": "running"
   },
   {
@@ -11896,6 +11916,26 @@
     "sport": "running"
   },
   {
+    "name": "Clujul Dă Viață",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 17-Oct-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/1036690656025929",
+    "link_fb": "",
+    "id": 679,
+    "year": 2026,
+    "month": 10,
+    "day": 17,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638,
+    "sport": "running"
+  },
+  {
     "name": "Făget Ride",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -11992,6 +12032,26 @@
     "sport": "running"
   },
   {
+    "name": "Potecile Reșiței",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sun 18-Oct-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "13km(400m↑)"
+    ],
+    "link": "https://www.facebook.com/events/1114482101053168/",
+    "link_fb": "",
+    "id": 680,
+    "year": 2026,
+    "month": 10,
+    "day": 18,
+    "lat": 45.3,
+    "lon": 21.8833,
+    "sport": "running"
+  },
+  {
     "name": "Friday Night Lights",
     "location": "București",
     "location_details": "",
@@ -12068,6 +12128,24 @@
     "lat": 44.9167,
     "lon": 26.0333,
     "sport": "duathlon"
+  },
+  {
+    "name": "Oltenia Forest Run - Băile Govora",
+    "location": "Băile Govora",
+    "location_details": "",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "VL",
+    "type": "",
+    "distances": [],
+    "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+    "link_fb": "https://www.facebook.com/olteniaalearga",
+    "id": 10,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 45.0833,
+    "lon": 24.1833,
+    "sport": "orienteering"
   },
   {
     "name": "Oltenia Forest Run - Băile Govora",
@@ -12548,6 +12626,47 @@
     "sport": "running"
   },
   {
+    "name": "Halloween Night Run - Brăila",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "6km",
+      "3km"
+    ],
+    "link": "https://www.facebook.com/events/1078431471465479",
+    "link_fb": "",
+    "id": 681,
+    "year": 2026,
+    "month": 10,
+    "day": 31,
+    "lat": 45.2692,
+    "lon": 27.9575,
+    "sport": "running"
+  },
+  {
+    "name": "Beat the Tempo Run - Halloween Edition",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1708266780437239",
+    "link_fb": "",
+    "id": 683,
+    "year": 2026,
+    "month": 10,
+    "day": 31,
+    "lat": 45.7975,
+    "lon": 24.1508,
+    "sport": "running"
+  },
+  {
     "name": "HalloWeRun Cricova",
     "location": "Cricova",
     "location_details": "Republica Moldova",
@@ -12672,6 +12791,26 @@
     "sport": "running"
   },
   {
+    "name": "4 RUN 4 FUN - Memorial Szasz Albert",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 381,
+    "year": 2026,
+    "month": 11,
+    "day": 7,
+    "lat": 46.558295,
+    "lon": 24.575,
+    "sport": "running"
+  },
+  {
     "name": "Zărnești Challenge Semimaraton",
     "location": "Zărnești",
     "location_details": "",
@@ -12779,6 +12918,26 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Intergenerațional: Drepturile nu au vârstă",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/2134758503784895",
+    "link_fb": "",
+    "id": 682,
+    "year": 2026,
+    "month": 11,
+    "day": 7,
+    "lat": 44.42736904671278,
+    "lon": 26.09240325460678,
+    "sport": "running"
+  },
+  {
     "name": "Duatlonul Regal Invictus - Curtea de Argeș",
     "location": "Curtea de Argeș",
     "location_details": "",
@@ -12837,6 +12996,26 @@
     "day": 8,
     "lat": 45.1394,
     "lon": 24.6781,
+    "sport": "running"
+  },
+  {
+    "name": "Târgu Mureș Coffee Run  (Blokx Mureș)",
+    "location": "Târgu Mureș",
+    "location_details": "",
+    "display_date": "Sun 08-Nov-2026",
+    "county": "MS",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1078315341632973",
+    "link_fb": "",
+    "id": 684,
+    "year": 2026,
+    "month": 11,
+    "day": 8,
+    "lat": 46.5417,
+    "lon": 24.5583,
     "sport": "running"
   },
   {
@@ -13004,6 +13183,46 @@
     "sport": "running"
   },
   {
+    "name": "4 RUN 4 FUN - Stone Bear Race",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 382,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 46.558295,
+    "lon": 24.57501,
+    "sport": "running"
+  },
+  {
+    "name": "4 RUN 4 FUN - Memorial Klosz Peter – Night Run",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 383,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 46.558305,
+    "lon": 24.57499,
+    "sport": "running"
+  },
+  {
     "name": "Spartan Cluj",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -13109,6 +13328,42 @@
     "sport": "running"
   },
   {
+    "name": "Cluj Winter Race",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 05-Dec-2026",
+    "county": "CJ",
+    "type": "",
+    "distances": [],
+    "link": "https://www.facebook.com/events/1038296749230081",
+    "link_fb": "",
+    "id": 91,
+    "year": 2026,
+    "month": 12,
+    "day": 5,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638,
+    "sport": "cycling"
+  },
+  {
+    "name": "Concurs de Orientare Cupa 1 Decembrie",
+    "location": "Târgu Jiu",
+    "location_details": "",
+    "display_date": "Sat 05-Dec-2026",
+    "county": "GJ",
+    "type": "",
+    "distances": [],
+    "link": "https://www.facebook.com/events/1639299664653521",
+    "link_fb": "",
+    "id": 11,
+    "year": 2026,
+    "month": 12,
+    "day": 5,
+    "lat": 45.0423,
+    "lon": 23.2728,
+    "sport": "orienteering"
+  },
+  {
     "name": "OVB Charity Run",
     "location": "Cluj-Napoca",
     "location_details": "Pădurea Faget",
@@ -13148,6 +13403,26 @@
     "day": 5,
     "lat": 46.18659,
     "lon": 21.31231,
+    "sport": "running"
+  },
+  {
+    "name": "4 RUN 4 FUN - Alergare de Moș Nicolae",
+    "location": "Târgu Mureș",
+    "location_details": "Platoul Cornesti",
+    "display_date": "Sat 05-Dec-2026",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://4run4fun.ro/",
+    "link_fb": "https://www.facebook.com/4run4funtgm",
+    "id": 384,
+    "year": 2026,
+    "month": 12,
+    "day": 5,
+    "lat": 46.558305,
+    "lon": 24.575,
     "sport": "running"
   },
   {

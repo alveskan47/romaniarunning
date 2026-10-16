@@ -330,6 +330,13 @@
   },
   {
     "county": "AR",
+    "location": "Lipova",
+    "location_details": "",
+    "lat": 46.0908,
+    "lon": 21.6975
+  },
+  {
+    "county": "AR",
     "location": "Moneasa",
     "location_details": "",
     "lat": 46.5167,

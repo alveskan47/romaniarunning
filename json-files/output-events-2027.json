@@ -107,6 +107,26 @@
     "sport": "running"
   },
   {
+    "name": "Ghiocel Trail",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 28-Feb-2027",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/852754674562216",
+    "link_fb": "",
+    "id": 0,
+    "year": 2027,
+    "month": 2,
+    "day": 28,
+    "lat": 47.0106,
+    "lon": 28.8638,
+    "sport": "running"
+  },
+  {
     "name": "Primavera Trail Race",
     "location": "Șuncuiuș",
     "location_details": "",
@@ -345,6 +365,28 @@
     "sport": "running"
   },
   {
+    "name": "Dălhăuți Trail Challenge",
+    "location": "Dălhăuți",
+    "location_details": "Roșu",
+    "display_date": "Sat 10-Apr-2027",
+    "county": "VN",
+    "type": "trail",
+    "distances": [
+      "21km(700m↑)",
+      "14km(450m↑)",
+      "8km(250m↑)"
+    ],
+    "link": "https://velopower.ro/dalhauti-trail-challenge/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61584547897269",
+    "id": 108,
+    "year": 2027,
+    "month": 4,
+    "day": 10,
+    "lat": 45.9833,
+    "lon": 27.1833,
+    "sport": "running"
+  },
+  {
     "name": "Wizz Air Cluj-Napoca Marathon",
     "location": "Cluj-Napoca",
     "location_details": "",
@@ -496,6 +538,24 @@
     "day": 24,
     "lat": 44.992,
     "lon": 26.2327,
+    "sport": "cycling"
+  },
+  {
+    "name": "Rocaa MTB Lipova",
+    "location": "Lipova",
+    "location_details": "",
+    "display_date": "Sat 24-Apr-2027",
+    "county": "AR",
+    "type": "",
+    "distances": [],
+    "link": "https://www.facebook.com/profile.php?id=100057580954711",
+    "link_fb": "https://www.facebook.com/profile.php?id=100057580954711",
+    "id": 92,
+    "year": 2027,
+    "month": 4,
+    "day": 24,
+    "lat": 46.0908,
+    "lon": 21.6975,
     "sport": "cycling"
   },
   {
@@ -674,6 +734,29 @@
     "day": 8,
     "lat": 47.0167,
     "lon": 21.8833,
+    "sport": "running"
+  },
+  {
+    "name": "Maraton Scaunul Domnului",
+    "location": "Bistra Mureșului",
+    "location_details": "Cabana Ritual Chalet",
+    "display_date": "Sat 08-May-2027",
+    "county": "MS",
+    "type": "trail",
+    "distances": [
+      "42km(2130m↑)",
+      "21km(1150m↑)",
+      "10km(250m↑)",
+      "2km(100m↑)"
+    ],
+    "link": "https://maratonscaunuldomnului.ro/",
+    "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
+    "id": 73,
+    "year": 2027,
+    "month": 5,
+    "day": 8,
+    "lat": 46.85,
+    "lon": 24.6167,
     "sport": "running"
   },
   {
@@ -1209,6 +1292,26 @@
     "sport": "running"
   },
   {
+    "name": "Atinge Omu",
+    "location": "Telecabină Peștera",
+    "location_details": "",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "DB",
+    "type": "trail",
+    "distances": [
+      "12.5km(1000m↑)"
+    ],
+    "link": "https://carpatrace.ro/atinge-omu/",
+    "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
+    "id": 78,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 45.3667,
+    "lon": 25.4833,
+    "sport": "running"
+  },
+  {
     "name": "Maratonul Nordului - Botoșani",
     "location": "Botoșani",
     "location_details": "",
@@ -1273,6 +1376,28 @@
     "sport": "running"
   },
   {
+    "name": "Retezat Sky Race",
+    "location": "Uricani",
+    "location_details": "Cheile Butii",
+    "display_date": "Sat 19-Jun-2027",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "28km(2300m↑)",
+      "23km(1400m↑)",
+      "7km(300m↑)"
+    ],
+    "link": "https://retezat.skyrace.ro/",
+    "link_fb": "https://www.facebook.com/RetezatSkyRace/",
+    "id": 249,
+    "year": 2027,
+    "month": 6,
+    "day": 19,
+    "lat": 45.3167,
+    "lon": 23.3833,
+    "sport": "running"
+  },
+  {
     "name": "Mediaș Summer Trails",
     "location": "Mediaș",
     "location_details": "",
@@ -1312,6 +1437,27 @@
     "day": 19,
     "lat": 45.5667,
     "lon": 25.3167,
+    "sport": "running"
+  },
+  {
+    "name": "Sinaia Mountain Run",
+    "location": "Sinaia",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://sinaia.run/",
+    "link_fb": "https://www.facebook.com/sinaia.run",
+    "id": 125,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 45.35,
+    "lon": 25.549995,
     "sport": "running"
   },
   {
@@ -1774,6 +1920,49 @@
     "sport": "running"
   },
   {
+    "name": "Gusterita Trail Run",
+    "location": "Sibiu",
+    "location_details": "Pădurea Gusterita",
+    "display_date": "Sat 18-Sep-2027",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "27km(1000m↑)",
+      "10km(550m↑)",
+      "5km(400m↑)",
+      "24km(1000m↑) relay"
+    ],
+    "link": "https://gtr.ro/",
+    "link_fb": "https://www.facebook.com/gusteritatrail",
+    "id": 146,
+    "year": 2027,
+    "month": 9,
+    "day": 18,
+    "lat": 45.8167,
+    "lon": 24.1833,
+    "sport": "running"
+  },
+  {
+    "name": "Danube Trail",
+    "location": "Oltenița",
+    "location_details": "",
+    "display_date": "Sat 25-Sep-2027",
+    "county": "CL",
+    "type": "trail",
+    "distances": [
+      "23km"
+    ],
+    "link": "https://danubetrail23k.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61566651125520",
+    "id": 561,
+    "year": 2027,
+    "month": 9,
+    "day": 25,
+    "lat": 44.2051,
+    "lon": 26.6432,
+    "sport": "running"
+  },
+  {
     "name": "Crosul Arenelor",
     "location": "București",
     "location_details": "Stadionul Arcul de Triumf",
@@ -1877,6 +2066,29 @@
     "day": 3,
     "lat": 45.15,
     "lon": 26.82,
+    "sport": "running"
+  },
+  {
+    "name": "Bucharest Marathon",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 10-Oct-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "4x10.5km relay"
+    ],
+    "link": "https://bucharest-marathon.com/",
+    "link_fb": "https://www.facebook.com/BucharestMarathon",
+    "id": 5,
+    "year": 2027,
+    "month": 10,
+    "day": 10,
+    "lat": 44.42758355968682,
+    "lon": 26.09315428669368,
     "sport": "running"
   },
   {

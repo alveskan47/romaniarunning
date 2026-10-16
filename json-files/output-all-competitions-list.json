@@ -90,7 +90,7 @@
       "location": "Târgu Mureș",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 5-Dec",
       "year_2025": "Sat 6-Dec",
       "year_2024": "Sat 7-Dec",
       "year_2023": "Sat 9-Dec"
@@ -101,7 +101,7 @@
       "location": "Târgu Mureș",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 21-Nov",
       "year_2025": "Sat 22-Nov",
       "year_2024": "Sat 23-Nov",
       "year_2023": "Sat 25-Nov"
@@ -112,7 +112,7 @@
       "location": "Târgu Mureș",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 7-Nov",
       "year_2025": "Sat 25-Oct",
       "year_2024": "Sat 26-Oct",
       "year_2023": "Sat 28-Oct"
@@ -123,7 +123,7 @@
       "location": "Târgu Mureș",
       "county": "MS",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 21-Nov",
       "year_2025": "Sat 8-Nov",
       "year_2024": "Sat 9-Nov",
       "year_2023": "Sat 11-Nov"
@@ -595,7 +595,7 @@
       "name": "Atinge Omu",
       "location": "Telecabină Peștera",
       "county": "DB",
-      "year_2027": "",
+      "year_2027": "Sat 12-Jun",
       "year_2026": "Sat 20-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 8-Jun",
@@ -740,6 +740,17 @@
       "county": "SB",
       "year_2027": "",
       "year_2026": "Sat 29-Aug",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 683,
+      "name": "Beat the Tempo Run - Halloween Edition",
+      "location": "Sibiu",
+      "county": "SB",
+      "year_2027": "",
+      "year_2026": "Sat 31-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -1002,7 +1013,7 @@
       "name": "Bucharest Marathon",
       "location": "București",
       "county": "B",
-      "year_2027": "",
+      "year_2027": "Sun 10-Oct",
       "year_2026": "Sun 11-Oct",
       "year_2025": "Sun 12-Oct",
       "year_2024": "Sun 13-Oct",
@@ -1293,6 +1304,17 @@
       "year_2025": "",
       "year_2024": "",
       "year_2023": "Sun 8-Oct"
+    },
+    {
+      "id": 679,
+      "name": "Clujul Dă Viață",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sat 17-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 293,
@@ -2439,6 +2461,17 @@
       "year_2023": ""
     },
     {
+      "id": 682,
+      "name": "Crosul Intergenerațional: Drepturile nu au vârstă",
+      "location": "București",
+      "county": "B",
+      "year_2027": "",
+      "year_2026": "Sat 7-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 445,
       "name": "Crosul Invictus Argeș",
       "location": "Pitești",
@@ -2978,6 +3011,17 @@
       "year_2023": ""
     },
     {
+      "id": 678,
+      "name": "Crosul Tineretului",
+      "location": "Ploiești",
+      "county": "PH",
+      "year_2027": "",
+      "year_2026": "Thu 15-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 675,
       "name": "Crosul Toamnei - Pașcani",
       "location": "Pașcani",
@@ -3367,7 +3411,7 @@
       "name": "Danube Trail",
       "location": "Oltenița",
       "county": "CL",
-      "year_2027": "",
+      "year_2027": "Sat 25-Sep",
       "year_2026": "Sat 26-Sep",
       "year_2025": "",
       "year_2024": "",
@@ -3389,7 +3433,7 @@
       "name": "Dălhăuți Trail Challenge",
       "location": "Dălhăuți",
       "county": "VN",
-      "year_2027": "",
+      "year_2027": "Sat 10-Apr",
       "year_2026": "Sun 19-Apr",
       "year_2025": "",
       "year_2024": "",
@@ -3928,7 +3972,7 @@
       "name": "Gusterita Trail Run",
       "location": "Sibiu",
       "county": "SB",
-      "year_2027": "",
+      "year_2027": "Sat 18-Sep",
       "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 5-Oct",
@@ -3955,6 +3999,17 @@
       "year_2025": "",
       "year_2024": "",
       "year_2023": "Sun 20-Aug"
+    },
+    {
+      "id": 681,
+      "name": "Halloween Night Run - Brăila",
+      "location": "Brăila",
+      "county": "BR",
+      "year_2027": "",
+      "year_2026": "Sat 31-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 521,
@@ -4445,7 +4500,7 @@
       "name": "Maraton Scaunul Domnului",
       "location": "Bistra Mureșului",
       "county": "MS",
-      "year_2027": "",
+      "year_2027": "Sat 8-May",
       "year_2026": "",
       "year_2025": "Sat 14-Jun",
       "year_2024": "Sat 15-Jun",
@@ -5288,6 +5343,17 @@
       "year_2023": "Sat 14-Oct"
     },
     {
+      "id": 680,
+      "name": "Potecile Reșiței",
+      "location": "Reșița",
+      "county": "CS",
+      "year_2027": "",
+      "year_2026": "Sun 18-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 83,
       "name": "Predeal Forest Run",
       "location": "Predeal",
@@ -5399,10 +5465,10 @@
     },
     {
       "id": 249,
-      "name": "Retezat SkyRace",
+      "name": "Retezat Sky Race",
       "location": "Uricani",
       "county": "HD",
-      "year_2027": "",
+      "year_2027": "Sat 19-Jun",
       "year_2026": "Sat 13-Jun",
       "year_2025": "Sat 14-Jun",
       "year_2024": "Sat 15-Jun",
@@ -6095,7 +6161,7 @@
       "name": "Sinaia Mountain Run",
       "location": "Sinaia",
       "county": "PH",
-      "year_2027": "",
+      "year_2027": "Sat 26-Jun",
       "year_2026": "Sat 27-Jun",
       "year_2025": "",
       "year_2024": "",
@@ -6400,11 +6466,22 @@
     },
     {
       "id": 664,
-      "name": "Târgu Mureș Coffee Run",
+      "name": "Târgu Mureș Coffee Run  (Alchimia Garden)",
       "location": "Târgu Mureș",
       "county": "MS",
       "year_2027": "",
       "year_2026": "Sun 11-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 684,
+      "name": "Târgu Mureș Coffee Run  (Blokx Mureș)",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "year_2027": "",
+      "year_2026": "Sun 8-Nov",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -7605,6 +7682,15 @@
       "location": "Cricova",
       "year_2027": "",
       "year_2026": "Sat 26-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "name": "Ghiocel Trail",
+      "location": "Chișinău",
+      "year_2027": "Sun 28-Feb",
+      "year_2026": "",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""

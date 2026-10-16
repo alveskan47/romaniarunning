@@ -176,6 +176,41 @@
       ],
       "lat": 45.0833,
       "lon": 24.1833
+    },
+    {
+      "id": 10,
+      "name": "Oltenia Forest Run - Băile Govora",
+      "location": "Băile Govora",
+      "county": "VL",
+      "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
+      "link_fb": "https://www.facebook.com/olteniaalearga",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 24
+        }
+      ],
+      "lat": 45.0833,
+      "lon": 24.1833
+    },
+    {
+      "id": 11,
+      "name": "Concurs de Orientare Cupa 1 Decembrie",
+      "location": "Târgu Jiu",
+      "county": "GJ",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 5,
+          "event_link": "https://www.facebook.com/events/1639299664653521"
+        }
+      ],
+      "lat": 45.0423,
+      "lon": 23.2728
     }
   ],
   "orienteering_competitions_no_statistics": []

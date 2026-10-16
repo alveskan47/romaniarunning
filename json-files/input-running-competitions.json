@@ -193,6 +193,11 @@
       "lon": 26.09315428669368,
       "editions": [
         {
+          "year": 2027,
+          "month": 10,
+          "day": 10
+        },
+        {
           "year": 2026,
           "month": 10,
           "day": 11
@@ -2967,6 +2972,11 @@
       "link_fb": "https://www.facebook.com/maratonscaunuldomnului",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 8
+        },
+        {
           "year": 2025,
           "month": 6,
           "day": 14
@@ -3156,6 +3166,11 @@
       "link": "https://carpatrace.ro/atinge-omu/",
       "link_fb": "https://www.facebook.com/p/ATINGE-OMU-100057574204757/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 12
+        },
         {
           "year": 2026,
           "month": 6,
@@ -4313,8 +4328,13 @@
         "8km(250m↑)"
       ],
       "link": "https://velopower.ro/dalhauti-trail-challenge/",
-      "link_fb": "https://www.facebook.com/vprro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=61584547897269",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 10
+        },
         {
           "year": 2026,
           "month": 4,
@@ -4859,6 +4879,11 @@
       "link": "https://sinaia.run/",
       "link_fb": "https://www.facebook.com/sinaia.run",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 26
+        },
         {
           "year": 2026,
           "month": 6,
@@ -5507,8 +5532,13 @@
         "24km(1000m↑) relay"
       ],
       "link": "https://gtr.ro/",
-      "link_fb": "https://www.facebook.com/RunTransylvaniaPage/",
+      "link_fb": "https://www.facebook.com/gusteritatrail",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 18
+        },
         {
           "year": 2026,
           "month": 9,
@@ -8653,7 +8683,7 @@
     },
     {
       "id": 249,
-      "name": "Retezat SkyRace",
+      "name": "Retezat Sky Race",
       "location": "Uricani",
       "location_details": "Cheile Butii",
       "county": "HD",
@@ -8666,6 +8696,11 @@
       "link": "https://retezat.skyrace.ro/",
       "link_fb": "https://www.facebook.com/RetezatSkyRace/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 19
+        },
         {
           "year": 2026,
           "month": 6,
@@ -12880,6 +12915,11 @@
       "link_fb": "https://www.facebook.com/4run4funtgm",
       "editions": [
         {
+          "year": 2026,
+          "month": 11,
+          "day": 7
+        },
+        {
           "year": 2025,
           "month": 10,
           "day": 25
@@ -12911,6 +12951,11 @@
       "link": "https://4run4fun.ro/",
       "link_fb": "https://www.facebook.com/4run4funtgm",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 21
+        },
         {
           "year": 2025,
           "month": 11,
@@ -12944,6 +12989,11 @@
       "link_fb": "https://www.facebook.com/4run4funtgm",
       "editions": [
         {
+          "year": 2026,
+          "month": 11,
+          "day": 21
+        },
+        {
           "year": 2025,
           "month": 11,
           "day": 22
@@ -12975,6 +13025,11 @@
       "link": "https://4run4fun.ro/",
       "link_fb": "https://www.facebook.com/4run4funtgm",
       "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 5
+        },
         {
           "year": 2025,
           "month": 12,
@@ -17432,6 +17487,11 @@
       "link_fb": "https://www.facebook.com/profile.php?id=61566651125520",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 25
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 26
@@ -19764,7 +19824,7 @@
     },
     {
       "id": 664,
-      "name": "Târgu Mureș Coffee Run",
+      "name": "Târgu Mureș Coffee Run  (Alchimia Garden)",
       "location": "Târgu Mureș",
       "county": "MS",
       "type": "road",
@@ -20079,6 +20139,161 @@
       ],
       "lat": 44.99111,
       "lon": 26.23056
+    },
+    {
+      "id": 678,
+      "name": "Crosul Tineretului",
+      "location": "Ploiești",
+      "county": "PH",
+      "type": "road",
+      "distances": [
+        "⚠ age restricted"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 15,
+          "event_link": "https://www.facebook.com/events/2185520359045807"
+        }
+      ],
+      "lat": 44.95,
+      "lon": 26.0167
+    },
+    {
+      "id": 679,
+      "name": "Clujul Dă Viață",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 17,
+          "event_link": "https://www.facebook.com/events/1036690656025929"
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 680,
+      "name": "Potecile Reșiței",
+      "location": "Reșița",
+      "county": "CS",
+      "type": "trail",
+      "distances": [
+        "13km(400m↑)"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 18,
+          "event_link": "https://www.facebook.com/events/1114482101053168/"
+        }
+      ],
+      "lat": 45.3,
+      "lon": 21.8833
+    },
+    {
+      "id": 681,
+      "name": "Halloween Night Run - Brăila",
+      "location": "Brăila",
+      "county": "BR",
+      "type": "road",
+      "distances": [
+        "6km",
+        "3km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/1078431471465479"
+        }
+      ],
+      "lat": 45.2692,
+      "lon": 27.9575
+    },
+    {
+      "id": 682,
+      "name": "Crosul Intergenerațional: Drepturile nu au vârstă",
+      "location": "București",
+      "county": "B",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/2134758503784895"
+        }
+      ],
+      "lat": 44.42736904671278,
+      "lon": 26.09240325460678
+    },
+    {
+      "id": 683,
+      "name": "Beat the Tempo Run - Halloween Edition",
+      "location": "Sibiu",
+      "county": "SB",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/1708266780437239"
+        }
+      ],
+      "lat": 45.7975,
+      "lon": 24.1508
+    },
+    {
+      "id": 684,
+      "name": "Târgu Mureș Coffee Run  (Blokx Mureș)",
+      "location": "Târgu Mureș",
+      "county": "MS",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 8,
+          "event_link": "https://www.facebook.com/events/1078315341632973"
+        }
+      ],
+      "lat": 46.5417,
+      "lon": 24.5583
     }
   ],
   "running_competitions_no_statistics": [
@@ -21274,6 +21489,29 @@
       ],
       "lat": 47.1333,
       "lon": 28.8667
+    },
+    {
+      "id": 0,
+      "name": "Ghiocel Trail",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 2,
+          "day": 28,
+          "event_link": "https://www.facebook.com/events/852754674562216"
+        }
+      ],
+      "lat": 47.0106,
+      "lon": 28.8638
     }
   ]
 }
