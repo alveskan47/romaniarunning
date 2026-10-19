@@ -1630,6 +1630,23 @@
       ],
       "lat": 46.0908,
       "lon": 21.6975
+    },
+    {
+      "id": 93,
+      "name": "Campionatele Europene de Ciclocros",
+      "location": "Vatra Dornei",
+      "county": "SV",
+      "link": "https://apedalforward.com/",
+      "link_fb": "https://www.facebook.com/apedalforward",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14
+        }
+      ],
+      "lat": 47.35,
+      "lon": 25.3667
     }
   ],
   "cycling_competitions_no_statistics": [

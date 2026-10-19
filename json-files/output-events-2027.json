@@ -1,9 +1,27 @@
 [
   {
+    "name": "Aleargă România",
+    "location": "-",
+    "location_details": "",
+    "display_date": "Fri 01-Jan-2027",
+    "county": "-",
+    "type": "virtual",
+    "distances": [
+      "-"
+    ],
+    "link": "https://aleargaromania.ro/",
+    "link_fb": "https://www.facebook.com/AleargaRomania/",
+    "id": 0,
+    "year": 2027,
+    "month": 1,
+    "day": 1,
+    "sport": "running"
+  },
+  {
     "name": "Oradea City Trail",
     "location": "Oradea",
     "location_details": "",
-    "display_date": "Sat 23-Jan-2027",
+    "display_date": "Sat 16-Jan-2027",
     "county": "BH",
     "type": "trail",
     "distances": [
@@ -16,7 +34,7 @@
     "id": 30,
     "year": 2027,
     "month": 1,
-    "day": 23,
+    "day": 16,
     "lat": 47.0559509149,
     "lon": 21.9395066774,
     "sport": "running"
@@ -318,6 +336,27 @@
     "day": 3,
     "lat": 44.4223231273,
     "lon": 26.1548281031,
+    "sport": "running"
+  },
+  {
+    "name": "Gârboavele Trail Run",
+    "location": "Tulucești",
+    "location_details": "Pădurea Gârboavele",
+    "display_date": "Sat 03-Apr-2027",
+    "county": "GL",
+    "type": "trail",
+    "distances": [
+      "23km",
+      "7km"
+    ],
+    "link": "https://garboaveletrailrun.ro/",
+    "link_fb": "https://www.facebook.com/GarboaveleTrailRun/",
+    "id": 27,
+    "year": 2027,
+    "month": 4,
+    "day": 3,
+    "lat": 45.549995,
+    "lon": 28.033295,
     "sport": "running"
   },
   {
@@ -627,6 +666,28 @@
     "sport": "running"
   },
   {
+    "name": "Festivalul Sporturilor București (primavara)",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 25-Apr-2027",
+    "county": "B",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "5km"
+    ],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 44,
+    "year": 2027,
+    "month": 4,
+    "day": 25,
+    "lat": 44.4223231273,
+    "lon": 26.1548581031,
+    "sport": "running"
+  },
+  {
     "name": "Bucharest International Half Marathon",
     "location": "București",
     "location_details": "",
@@ -905,6 +966,29 @@
     "sport": "running"
   },
   {
+    "name": "S24H",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 22-May-2027",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "⚠ mandatory medical certificate",
+      "24H (1.2km/lap)",
+      "12H (1.2km/lap)",
+      "6H (1.2km/lap)"
+    ],
+    "link": "https://s24h.ro/ro/",
+    "link_fb": "https://www.facebook.com/super24h/",
+    "id": 116,
+    "year": 2027,
+    "month": 5,
+    "day": 22,
+    "lat": 45.7538014831,
+    "lon": 21.2260204857,
+    "sport": "running"
+  },
+  {
     "name": "Velo Hora",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -996,6 +1080,27 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Teiușului",
+    "location": "Teiuș",
+    "location_details": "",
+    "display_date": "Sat 29-May-2027",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "21.6km",
+      "6km"
+    ],
+    "link": "https://www.crosulteiusului.ro/",
+    "link_fb": "https://www.facebook.com/p/Crosul-Teiu%C8%99ului-61558068608210/",
+    "id": 187,
+    "year": 2027,
+    "month": 5,
+    "day": 29,
+    "lat": 46.2,
+    "lon": 23.6833,
+    "sport": "running"
+  },
+  {
     "name": "Geopark Mehedinți Adventure",
     "location": "Moisești",
     "location_details": "",
@@ -1056,6 +1161,26 @@
     "day": 1,
     "lat": 44.42736904671278,
     "lon": 26.09240325460678,
+    "sport": "running"
+  },
+  {
+    "name": "Marea provocare de mișcare",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Fri 04-Jun-2027",
+    "county": "CV",
+    "type": "track",
+    "distances": [
+      "6H/12H/24H (⚠ only relay)"
+    ],
+    "link": "https://www.facebook.com/fitnesstribegroup",
+    "link_fb": "https://www.facebook.com/fitnesstribegroup",
+    "id": 118,
+    "year": 2027,
+    "month": 6,
+    "day": 4,
+    "lat": 45.86669,
+    "lon": 25.7833,
     "sport": "running"
   },
   {
@@ -1202,6 +1327,30 @@
     "lat": 47.05596091490953,
     "lon": 21.93951167742133,
     "sport": "triathlon"
+  },
+  {
+    "name": "Festivalul Sporturilor Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sun 06-Jun-2027",
+    "county": "IS",
+    "type": "mixed",
+    "distances": [
+      "21km(700m↑) trail",
+      "11km(350m↑) trail",
+      "10km road",
+      "5km road",
+      "3km road"
+    ],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 46,
+    "year": 2027,
+    "month": 6,
+    "day": 6,
+    "lat": 47.1574305088,
+    "lon": 27.5869556538,
+    "sport": "running"
   },
   {
     "name": "Maraton Tarcău",
@@ -1920,6 +2069,32 @@
     "sport": "running"
   },
   {
+    "name": "Running Festival Csikszereda",
+    "location": "Miercurea Ciuc",
+    "location_details": "",
+    "display_date": "Fri 17-Sep-2027",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "42km",
+      "21km",
+      "10km",
+      "5km",
+      "2.5km",
+      "4x10km relay",
+      "7km night"
+    ],
+    "link": "https://www.runningfestival.ro/",
+    "link_fb": "https://www.facebook.com/running.csikszereda/",
+    "id": 317,
+    "year": 2027,
+    "month": 9,
+    "day": 17,
+    "lat": 46.366695,
+    "lon": 25.800005,
+    "sport": "running"
+  },
+  {
     "name": "Gusterita Trail Run",
     "location": "Sibiu",
     "location_details": "Pădurea Gusterita",
@@ -1940,6 +2115,28 @@
     "day": 18,
     "lat": 45.8167,
     "lon": 24.1833,
+    "sport": "running"
+  },
+  {
+    "name": "Festivalul Sporturilor București (toamnă)",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 19-Sep-2027",
+    "county": "B",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "11km",
+      "5km"
+    ],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 45,
+    "year": 2027,
+    "month": 9,
+    "day": 19,
+    "lat": 44.4223231273,
+    "lon": 26.1548681031,
     "sport": "running"
   },
   {

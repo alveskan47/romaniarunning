@@ -1079,6 +1079,11 @@
       "link_fb": "https://www.facebook.com/GarboaveleTrailRun/",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 3
+        },
+        {
           "year": 2026,
           "month": 3,
           "day": 28
@@ -1200,7 +1205,7 @@
         {
           "year": 2027,
           "month": 1,
-          "day": 23
+          "day": 16
         },
         {
           "year": 2025,
@@ -1738,6 +1743,11 @@
       "link_fb": "https://www.facebook.com/FestivalulSporturilor",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 25
+        },
+        {
           "year": 2026,
           "month": 3,
           "day": 29
@@ -1766,6 +1776,11 @@
       "link": "https://festivalulsporturilor.ro/",
       "link_fb": "https://www.facebook.com/FestivalulSporturilor",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 19
+        },
         {
           "year": 2026,
           "month": 9,
@@ -1806,6 +1821,11 @@
       "link": "https://festivalulsporturilor.ro/",
       "link_fb": "https://www.facebook.com/FestivalulSporturilor",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 6
+        },
         {
           "year": 2026,
           "month": 6,
@@ -3846,7 +3866,7 @@
         "24.6km(1786m↑)",
         "11.6km(420m↑)"
       ],
-      "link": "https://carpatrace.ro/atinge-omu/",
+      "link": "https://www.omumarathon.com/",
       "link_fb": "https://www.facebook.com/omumarathon",
       "editions": [
         {
@@ -4604,6 +4624,11 @@
       "link_fb": "https://www.facebook.com/super24h/",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 23
@@ -4666,6 +4691,11 @@
       "link": "https://www.facebook.com/fitnesstribegroup",
       "link_fb": "https://www.facebook.com/fitnesstribegroup",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 4
+        },
         {
           "year": 2026,
           "month": 6,
@@ -6837,6 +6867,11 @@
       "link": "https://www.crosulteiusului.ro/",
       "link_fb": "https://www.facebook.com/p/Crosul-Teiu%C8%99ului-61558068608210/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 29
+        },
         {
           "year": 2026,
           "month": 5,
@@ -10910,6 +10945,11 @@
       "link": "https://www.runningfestival.ro/",
       "link_fb": "https://www.facebook.com/running.csikszereda/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 17
+        },
         {
           "year": 2026,
           "month": 9,
@@ -20309,6 +20349,11 @@
       "link": "https://aleargaromania.ro/",
       "link_fb": "https://www.facebook.com/AleargaRomania/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 1,
+          "day": 1
+        },
         {
           "year": 2026,
           "month": 1,

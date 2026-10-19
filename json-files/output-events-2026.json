@@ -10738,7 +10738,7 @@
       "24.6km(1786m↑)",
       "11.6km(420m↑)"
     ],
-    "link": "https://carpatrace.ro/atinge-omu/",
+    "link": "https://www.omumarathon.com/",
     "link_fb": "https://www.facebook.com/omumarathon",
     "id": 94,
     "year": 2026,
@@ -13054,6 +13054,24 @@
     "day": 14,
     "lat": 45.7167,
     "lon": 21.3333,
+    "sport": "cycling"
+  },
+  {
+    "name": "Campionatele Europene de Ciclocros",
+    "location": "Vatra Dornei",
+    "location_details": "",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "SV",
+    "type": "",
+    "distances": [],
+    "link": "https://apedalforward.com/",
+    "link_fb": "https://www.facebook.com/apedalforward",
+    "id": 93,
+    "year": 2026,
+    "month": 11,
+    "day": 14,
+    "lat": 47.35,
+    "lon": 25.3667,
     "sport": "cycling"
   },
   {

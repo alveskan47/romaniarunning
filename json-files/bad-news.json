@@ -2,6 +2,20 @@
   "bad_news": [
     {
       "original_date": {
+        "year": 2027,
+        "month": 1,
+        "day": 23
+      },
+      "competition": "Oradea City Trail",
+      "status": "Rescheduled",
+      "new_date": {
+        "year": 2027,
+        "month": 1,
+        "day": 16
+      }
+    },
+    {
+      "original_date": {
         "year": 2026,
         "month": 10,
         "day": 10
