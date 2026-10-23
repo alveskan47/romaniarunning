@@ -35,7 +35,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 # Every sport with an input-{sport}-competitions.json file in json-files/.
 SPORTS = [
     "running", "cycling", "aquatlon", "climbing", "duathlon", "hyatlon",
-    "kayak", "orienteering", "skiing", "swimming", "triathlon",
+    "kayak", "orienteering", "paddleboarding", "skiing", "swimming", "triathlon",
 ]
 
 

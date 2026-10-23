@@ -23,7 +23,7 @@ from typing import Any
 # "{sport}_competitions_no_statistics" top-level arrays.
 SPORTS = [
     "running", "cycling", "aquatlon", "climbing", "duathlon", "hyatlon",
-    "kayak", "orienteering", "skiing", "swimming", "triathlon",
+    "kayak", "orienteering", "paddleboarding", "skiing", "swimming", "triathlon",
 ]
 
 

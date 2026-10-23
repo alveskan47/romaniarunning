@@ -2,17 +2,21 @@
   "duathlon_competitions": [
     {
       "id": 1,
-      "name": "Campionatul National de Cross Duatlon – Iarcuri Cornești",
+      "name": "Cros Duatlon Cornești Ride Competition",
       "location": "Cornești",
       "county": "TM",
-      "link": "",
-      "link_fb": "",
+      "link": "https://www.ridecompetition.ro/",
+      "link_fb": "https://www.facebook.com/profile.php?id=100066636788236",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 10
+        },
         {
           "year": 2026,
           "month": 3,
-          "day": 28,
-          "event_link": "https://www.ridecompetition.ro/campionatul-national-de-cross-duatlon-iarcuri-cornesti-trikids-2026-2/"
+          "day": 28
         }
       ],
       "lat": 45.9129,
@@ -26,6 +30,11 @@
       "link": "https://duatlon.sevenclub.events/",
       "link_fb": "https://www.facebook.com/SevenSportClubTriathlon",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
         {
           "year": 2026,
           "month": 4,

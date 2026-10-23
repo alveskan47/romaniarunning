@@ -4001,6 +4001,17 @@
       "year_2023": "Sun 20-Aug"
     },
     {
+      "id": 685,
+      "name": "Halloween Fun Run",
+      "location": "Arad",
+      "county": "AR",
+      "year_2027": "",
+      "year_2026": "Sat 31-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 681,
       "name": "Halloween Night Run - Brăila",
       "location": "Brăila",
@@ -4072,7 +4083,7 @@
       "location": "Gheorgheni",
       "county": "HR",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 7-Nov",
       "year_2025": "Sat 18-Oct",
       "year_2024": "",
       "year_2023": ""
@@ -5640,6 +5651,17 @@
       "year_2023": ""
     },
     {
+      "id": 686,
+      "name": "Run in Pink",
+      "location": "Timișoara",
+      "county": "TM",
+      "year_2027": "",
+      "year_2026": "Sat 31-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 453,
       "name": "Run On Pustnicu",
       "location": "Pantelimon",
@@ -5941,7 +5963,7 @@
       "name": "Semimaraton Fetești",
       "location": "Fetești",
       "county": "IL",
-      "year_2027": "",
+      "year_2027": "Sat 15-May",
       "year_2026": "Sat 16-May",
       "year_2025": "Sat 24-May",
       "year_2024": "Sat 25-May",
@@ -6507,6 +6529,17 @@
       "year_2025": "Sat 15-Feb",
       "year_2024": "Sat 2-Mar",
       "year_2023": "Sat 18-Feb"
+    },
+    {
+      "id": 687,
+      "name": "Teleferic Challenge",
+      "location": "Brașov",
+      "county": "BV",
+      "year_2027": "Sat 31-Jul",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
     },
     {
       "id": 196,
@@ -7920,7 +7953,7 @@
     },
     {
       "name": "Wings for Life World Run",
-      "year_2027": "",
+      "year_2027": "Sun 9-May",
       "year_2026": "Sun 10-May",
       "year_2025": "",
       "year_2024": "",

@@ -187,6 +187,31 @@
       ],
       "lat": 44.5083,
       "lon": 26.0833
+    },
+    {
+      "id": 9,
+      "name": "Transylvania Triathlon Festival",
+      "location": "Sângeorgiu de Pădure",
+      "county": "MS",
+      "link": "https://transylvaniatriathlonfestival.ro/",
+      "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 26
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 27
+        }
+      ],
+      "distances": [
+        "-"
+      ],
+      "lat": 46.4314,
+      "lon": 24.8422
     }
   ],
   "swimming_competitions_no_statistics": [

@@ -6831,6 +6831,11 @@
       "link_fb": "https://www.facebook.com/fetestiulalearga",
       "editions": [
         {
+          "year": 2027,
+          "month": 5,
+          "day": 15
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 16
@@ -12789,6 +12794,7 @@
       "id": 376,
       "name": "Hășmaș Trail Fest",
       "location": "Gheorgheni",
+      "location_details": "Lacul Roșu",
       "county": "HR",
       "type": "trail",
       "distances": [
@@ -12797,6 +12803,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 7,
+          "event_link": "https://www.facebook.com/events/1778931070076635/"
+        },
         {
           "year": 2025,
           "month": 10,
@@ -20334,6 +20346,73 @@
       ],
       "lat": 46.5417,
       "lon": 24.5583
+    },
+    {
+      "id": 685,
+      "name": "Halloween Fun Run",
+      "location": "Arad",
+      "county": "AR",
+      "type": "trail",
+      "distances": [
+        "4km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31,
+          "event_link": "https://www.facebook.com/events/1544360814404997"
+        }
+      ],
+      "lat": 46.1866,
+      "lon": 21.3123
+    },
+    {
+      "id": 686,
+      "name": "Run in Pink",
+      "location": "Timișoara",
+      "county": "TM",
+      "type": "road",
+      "distances": [
+        "5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31,
+          "event_link": "https://racetime.ro/events/198/register"
+        }
+      ],
+      "lat": 45.75380648314605,
+      "lon": 21.22600548573397
+    },
+    {
+      "id": 687,
+      "name": "Teleferic Challenge",
+      "location": "Brașov",
+      "location_details": "Poiana Brașov",
+      "county": "BV",
+      "type": "trail",
+      "distances": [
+        "16.5km",
+        "6.5km"
+      ],
+      "link": "https://roadgrandtour.ro/teleferic/",
+      "link_fb": "https://www.facebook.com/roadgrandtour",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 7,
+          "day": 31
+        }
+      ],
+      "lat": 45.5967,
+      "lon": 25.5562
     }
   ],
   "running_competitions_no_statistics": [
@@ -20708,6 +20787,11 @@
       "link": "https://www.wingsforlifeworldrun.com/en",
       "link_fb": "https://www.facebook.com/WingsForLifeWorldRun",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 9
+        },
         {
           "year": 2026,
           "month": 5,

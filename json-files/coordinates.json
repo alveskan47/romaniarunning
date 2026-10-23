@@ -1912,6 +1912,13 @@
   },
   {
     "county": "HR",
+    "location": "Gheorgheni",
+    "location_details": "Lacul Roșu",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "county": "HR",
     "location": "Ghiduț",
     "location_details": "",
     "lat": 46.7865,

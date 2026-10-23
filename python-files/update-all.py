@@ -28,6 +28,10 @@ import subprocess
 import sys
 from pathlib import Path
 
+# Status messages use non-ASCII symbols; Windows consoles default to cp1252
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
+
 
 def run_script(script_name, description):
     """
@@ -56,10 +60,11 @@ def run_script(script_name, description):
     try:
         # Run the script using subprocess
         result = subprocess.run(
-            [sys.executable, str(script_path)],
+            [sys.executable, "-X", "utf8", str(script_path)],
             check=True,
             capture_output=True,
-            text=True
+            text=True,
+            encoding='utf-8'
         )
 
         # Print the output from the script

@@ -382,6 +382,24 @@
     "sport": "running"
   },
   {
+    "name": "Cros Duatlon Cornești Ride Competition",
+    "location": "Cornești",
+    "location_details": "",
+    "display_date": "Sat 10-Apr-2027",
+    "county": "TM",
+    "type": "",
+    "distances": [],
+    "link": "https://www.ridecompetition.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100066636788236",
+    "id": 1,
+    "year": 2027,
+    "month": 4,
+    "day": 10,
+    "lat": 45.9129,
+    "lon": 21.225,
+    "sport": "duathlon"
+  },
+  {
     "name": "Maratonul Argonautilor",
     "location": "Cheile Dobrogei",
     "location_details": "",
@@ -471,6 +489,24 @@
     "lat": 44.4223231273,
     "lon": 26.1548781031,
     "sport": "running"
+  },
+  {
+    "name": "Divertiland Duatlon",
+    "location": "Chiajna",
+    "location_details": "",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "IF",
+    "type": "",
+    "distances": [],
+    "link": "https://duatlon.sevenclub.events/",
+    "link_fb": "https://www.facebook.com/SevenSportClubTriathlon",
+    "id": 2,
+    "year": 2027,
+    "month": 4,
+    "day": 17,
+    "lat": 44.4667,
+    "lon": 25.9667,
+    "sport": "duathlon"
   },
   {
     "name": "Ultra Race 24h Galați",
@@ -863,6 +899,45 @@
     "sport": "running"
   },
   {
+    "name": "Wings for Life World Run",
+    "location": "-",
+    "location_details": "",
+    "display_date": "Sun 09-May-2027",
+    "county": "-",
+    "type": "virtual",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.wingsforlifeworldrun.com/en",
+    "link_fb": "https://www.facebook.com/WingsForLifeWorldRun",
+    "id": 0,
+    "year": 2027,
+    "month": 5,
+    "day": 9,
+    "sport": "running"
+  },
+  {
+    "name": "Semimaraton Fetești",
+    "location": "Fetești",
+    "location_details": "",
+    "display_date": "Sat 15-May-2027",
+    "county": "IL",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.fetestiulalearga.ro/",
+    "link_fb": "https://www.facebook.com/fetestiulalearga",
+    "id": 186,
+    "year": 2027,
+    "month": 5,
+    "day": 15,
+    "lat": 44.3667,
+    "lon": 27.8333,
+    "sport": "running"
+  },
+  {
     "name": "Run To The Hills",
     "location": "Crasna (SJ)",
     "location_details": "",
@@ -1120,6 +1195,24 @@
     "lat": 47.6833,
     "lon": 23.7,
     "sport": "running"
+  },
+  {
+    "name": "Fără asfalt – Triatlon la mare",
+    "location": "2 Mai",
+    "location_details": "",
+    "display_date": "Sat 29-May-2027",
+    "county": "CT",
+    "type": "",
+    "distances": [],
+    "link": "https://www.faraasfalt.ro/",
+    "link_fb": "https://www.facebook.com/faraasfalt/",
+    "id": 3,
+    "year": 2027,
+    "month": 5,
+    "day": 29,
+    "lat": 43.7865,
+    "lon": 28.5751,
+    "sport": "triathlon"
   },
   {
     "name": "Semimaraton Galați",
@@ -1461,6 +1554,24 @@
     "sport": "running"
   },
   {
+    "name": "H3RO Mamaia",
+    "location": "Constanța",
+    "location_details": "",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "CT",
+    "type": "",
+    "distances": [],
+    "link": "https://h3ro.org/",
+    "link_fb": "https://www.facebook.com/h3romamaia/",
+    "id": 2,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 44.1598,
+    "lon": 28.6348,
+    "sport": "triathlon"
+  },
+  {
     "name": "Maratonul Nordului - Botoșani",
     "location": "Botoșani",
     "location_details": "",
@@ -1589,6 +1700,42 @@
     "sport": "running"
   },
   {
+    "name": "Transylvania Triathlon Festival",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "MS",
+    "type": "",
+    "distances": [],
+    "link": "https://transylvaniatriathlonfestival.ro/",
+    "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+    "id": 3,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 46.4314,
+    "lon": 24.8422,
+    "sport": "aquatlon"
+  },
+  {
+    "name": "Transylvania Triathlon Festival",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "MS",
+    "type": "",
+    "distances": [],
+    "link": "https://transylvaniatriathlonfestival.ro/",
+    "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+    "id": 1,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 46.4314,
+    "lon": 24.8422,
+    "sport": "paddleboarding"
+  },
+  {
     "name": "Sinaia Mountain Run",
     "location": "Sinaia",
     "location_details": "",
@@ -1629,6 +1776,44 @@
     "lat": 45.6167,
     "lon": 25.691,
     "sport": "running"
+  },
+  {
+    "name": "Transylvania Triathlon Festival",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "MS",
+    "type": "",
+    "distances": [
+      "-"
+    ],
+    "link": "https://transylvaniatriathlonfestival.ro/",
+    "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+    "id": 9,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 46.4314,
+    "lon": 24.8422,
+    "sport": "swimming"
+  },
+  {
+    "name": "Transylvania Triathlon Festival",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "MS",
+    "type": "",
+    "distances": [],
+    "link": "https://transylvaniatriathlonfestival.ro/",
+    "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+    "id": 5,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 46.4314,
+    "lon": 24.8422,
+    "sport": "triathlon"
   },
   {
     "name": "Crosul Orasului Mioveni 1485",
@@ -1810,6 +1995,24 @@
     "sport": "running"
   },
   {
+    "name": "Timișoara Triathlon",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 17-Jul-2027",
+    "county": "TM",
+    "type": "",
+    "distances": [],
+    "link": "https://timisoaratriathlon.ro/",
+    "link_fb": "https://www.facebook.com/triathlontimisoara.ro",
+    "id": 6,
+    "year": 2027,
+    "month": 7,
+    "day": 17,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397,
+    "sport": "triathlon"
+  },
+  {
     "name": "Bucovina Ultra Rocks",
     "location": "Câmpulung Moldovenesc",
     "location_details": "",
@@ -1836,6 +2039,42 @@
     "sport": "running"
   },
   {
+    "name": "Triatlon Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Tue 27-Jul-2027",
+    "county": "CJ",
+    "type": "",
+    "distances": [],
+    "link": "https://club-orca.ro/",
+    "link_fb": "https://www.facebook.com/enduraceseries",
+    "id": 7,
+    "year": 2027,
+    "month": 7,
+    "day": 27,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638,
+    "sport": "triathlon"
+  },
+  {
+    "name": "Teleferic Challenge",
+    "location": "Brașov",
+    "location_details": "Poiana Brașov",
+    "display_date": "Sat 31-Jul-2027",
+    "county": "BV",
+    "type": "",
+    "distances": [],
+    "link": "https://roadgrandtour.ro/teleferic/",
+    "link_fb": "https://www.facebook.com/roadgrandtour",
+    "id": 14,
+    "year": 2027,
+    "month": 7,
+    "day": 31,
+    "lat": 45.6427,
+    "lon": 25.5887,
+    "sport": "cycling"
+  },
+  {
     "name": "Mogosa Everesting",
     "location": "Baia Sprie",
     "location_details": "Domeniul Mogosa",
@@ -1853,6 +2092,27 @@
     "day": 31,
     "lat": 47.7333,
     "lon": 23.733295,
+    "sport": "running"
+  },
+  {
+    "name": "Teleferic Challenge",
+    "location": "Brașov",
+    "location_details": "Poiana Brașov",
+    "display_date": "Sat 31-Jul-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "16.5km",
+      "6.5km"
+    ],
+    "link": "https://roadgrandtour.ro/teleferic/",
+    "link_fb": "https://www.facebook.com/roadgrandtour",
+    "id": 687,
+    "year": 2027,
+    "month": 7,
+    "day": 31,
+    "lat": 45.5967,
+    "lon": 25.5562,
     "sport": "running"
   },
   {

@@ -18,6 +18,7 @@ const SPORTS = [
     { value: 'climbing', label: 'Climbing' },
     { value: 'orienteering', label: 'Orienteering' },
     { value: 'kayak', label: 'Kayak' },
+    { value: 'paddleboarding', label: 'Paddleboarding' },
     { value: 'hyatlon', label: 'Hyatlon' }
 ];
 

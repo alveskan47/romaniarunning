@@ -31,6 +31,7 @@ const GAUGE_MAX_BY_SPORT = {
     climbing: 10,
     orienteering: 20,
     kayak: 10,
+    paddleboarding: 10,
     hyatlon: 10
 };
 

@@ -1019,15 +1019,15 @@
     "sport": "cycling"
   },
   {
-    "name": "Campionatul National de Cross Duatlon – Iarcuri Cornești",
+    "name": "Cros Duatlon Cornești Ride Competition",
     "location": "Cornești",
     "location_details": "",
     "display_date": "Sat 28-Mar-2026",
     "county": "TM",
     "type": "",
     "distances": [],
-    "link": "https://www.ridecompetition.ro/campionatul-national-de-cross-duatlon-iarcuri-cornesti-trikids-2026-2/",
-    "link_fb": "",
+    "link": "https://www.ridecompetition.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=100066636788236",
     "id": 1,
     "year": 2026,
     "month": 3,
@@ -4432,7 +4432,7 @@
     "sport": "running"
   },
   {
-    "name": "Fara Asfalt la mare",
+    "name": "Fără asfalt – Triatlon la mare",
     "location": "2 Mai",
     "location_details": "",
     "display_date": "Sat 06-Jun-2026",
@@ -5287,6 +5287,24 @@
     "sport": "cycling"
   },
   {
+    "name": "Transylvania Triathlon Festival",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "display_date": "Sat 27-Jun-2026",
+    "county": "MS",
+    "type": "",
+    "distances": [],
+    "link": "https://transylvaniatriathlonfestival.ro/",
+    "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+    "id": 3,
+    "year": 2026,
+    "month": 6,
+    "day": 27,
+    "lat": 46.4314,
+    "lon": 24.8422,
+    "sport": "aquatlon"
+  },
+  {
     "name": "Vidraru Bike Challenge",
     "location": "Arefu",
     "location_details": "Barajul Vidraru",
@@ -5456,6 +5474,26 @@
     "lat": 47.0106,
     "lon": 28.8638,
     "sport": "running"
+  },
+  {
+    "name": "Transylvania Triathlon Festival",
+    "location": "Sângeorgiu de Pădure",
+    "location_details": "",
+    "display_date": "Sat 27-Jun-2026",
+    "county": "MS",
+    "type": "",
+    "distances": [
+      "-"
+    ],
+    "link": "https://transylvaniatriathlonfestival.ro/",
+    "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+    "id": 9,
+    "year": 2026,
+    "month": 6,
+    "day": 27,
+    "lat": 46.4314,
+    "lon": 24.8422,
+    "sport": "swimming"
   },
   {
     "name": "Transylvania Triathlon Festival",
@@ -6498,6 +6536,24 @@
     "lat": 45.6833,
     "lon": 21.9,
     "sport": "cycling"
+  },
+  {
+    "name": "Supărarea Tarniței",
+    "location": "Mărișel",
+    "location_details": "",
+    "display_date": "Sun 26-Jul-2026",
+    "county": "CJ",
+    "type": "",
+    "distances": [],
+    "link": "https://www.club-orca.ro/supararea-tarnitei",
+    "link_fb": "https://www.facebook.com/traversareatarnitei/",
+    "id": 2,
+    "year": 2026,
+    "month": 7,
+    "day": 26,
+    "lat": 46.6667,
+    "lon": 23.1167,
+    "sport": "paddleboarding"
   },
   {
     "name": "Semimaraton Țara de Piatră",
@@ -12121,6 +12177,24 @@
     "distances": [],
     "link": "https://velocros.domeniulcantacuzino.ro/",
     "link_fb": "https://www.facebook.com/velocrosulcastanilor/",
+    "id": 86,
+    "year": 2026,
+    "month": 10,
+    "day": 24,
+    "lat": 44.9167,
+    "lon": 26.0333,
+    "sport": "cycling"
+  },
+  {
+    "name": "Velocrosul Castanilor",
+    "location": "Florești Prahova",
+    "location_details": "Domeniul Cantacuzino",
+    "display_date": "Sat 24-Oct-2026",
+    "county": "PH",
+    "type": "",
+    "distances": [],
+    "link": "https://velocros.domeniulcantacuzino.ro/",
+    "link_fb": "https://www.facebook.com/velocrosulcastanilor/",
     "id": 8,
     "year": 2026,
     "month": 10,
@@ -12337,24 +12411,6 @@
     "lat": 45.0423,
     "lon": 23.2728,
     "sport": "running"
-  },
-  {
-    "name": "Velocrosul Castanilor",
-    "location": "Florești Prahova",
-    "location_details": "Domeniul Cantacuzino",
-    "display_date": "Sun 25-Oct-2026",
-    "county": "PH",
-    "type": "",
-    "distances": [],
-    "link": "https://velocros.domeniulcantacuzino.ro/",
-    "link_fb": "https://www.facebook.com/velocrosulcastanilor/",
-    "id": 86,
-    "year": 2026,
-    "month": 10,
-    "day": 25,
-    "lat": 44.9167,
-    "lon": 26.0333,
-    "sport": "cycling"
   },
   {
     "name": "Oltenia Forest Run - Băile Govora",
@@ -12667,6 +12723,46 @@
     "sport": "running"
   },
   {
+    "name": "Halloween Fun Run",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "AR",
+    "type": "trail",
+    "distances": [
+      "4km"
+    ],
+    "link": "https://www.facebook.com/events/1544360814404997",
+    "link_fb": "",
+    "id": 685,
+    "year": 2026,
+    "month": 10,
+    "day": 31,
+    "lat": 46.1866,
+    "lon": 21.3123,
+    "sport": "running"
+  },
+  {
+    "name": "Run in Pink",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://racetime.ro/events/198/register",
+    "link_fb": "",
+    "id": 686,
+    "year": 2026,
+    "month": 10,
+    "day": 31,
+    "lat": 45.75380648314605,
+    "lon": 21.22600548573397,
+    "sport": "running"
+  },
+  {
     "name": "HalloWeRun Cricova",
     "location": "Cricova",
     "location_details": "Republica Moldova",
@@ -12788,6 +12884,26 @@
     "day": 7,
     "lat": 45.2167,
     "lon": 26.6167,
+    "sport": "running"
+  },
+  {
+    "name": "Hășmaș Trail Fest",
+    "location": "Gheorgheni",
+    "location_details": "Lacul Roșu",
+    "display_date": "Sat 07-Nov-2026",
+    "county": "HR",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1778931070076635/",
+    "link_fb": "",
+    "id": 376,
+    "year": 2026,
+    "month": 11,
+    "day": 7,
+    "lat": 46.7167,
+    "lon": 25.583305,
     "sport": "running"
   },
   {

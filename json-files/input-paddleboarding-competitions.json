@@ -1,0 +1,40 @@
+{
+  "paddleboarding_competitions": [
+    {
+      "id": 1,
+      "name": "Transylvania Triathlon Festival",
+      "location": "Sângeorgiu de Pădure",
+      "county": "MS",
+      "link": "https://transylvaniatriathlonfestival.ro/",
+      "link_fb": "https://www.facebook.com/transylvaniatriathlonfestival",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 26
+        }
+      ],
+      "lat": 46.4314,
+      "lon": 24.8422
+    },
+    {
+      "id": 2,
+      "name": "Supărarea Tarniței",
+      "location": "Mărișel",
+      "county": "CJ",
+      "link": "https://www.club-orca.ro/supararea-tarnitei",
+      "link_fb": "https://www.facebook.com/traversareatarnitei/",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 7,
+          "day": 26
+        }
+      ],
+      "lat": 46.6667,
+      "lon": 23.1167
+    }
+  ],
+  "paddleboarding_competitions_no_statistics": [
+  ]
+}
