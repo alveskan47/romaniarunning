@@ -134,6 +134,11 @@
       "link_fb": "https://www.facebook.com/FestivalulSporturilor",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 19
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 13
@@ -178,23 +183,6 @@
       "lon": 24.1833
     },
     {
-      "id": 10,
-      "name": "Oltenia Forest Run - Băile Govora",
-      "location": "Băile Govora",
-      "county": "VL",
-      "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
-      "link_fb": "https://www.facebook.com/olteniaalearga",
-      "editions": [
-        {
-          "year": 2026,
-          "month": 10,
-          "day": 24
-        }
-      ],
-      "lat": 45.0833,
-      "lon": 24.1833
-    },
-    {
       "id": 11,
       "name": "Concurs de Orientare Cupa 1 Decembrie",
       "location": "Târgu Jiu",
@@ -211,6 +199,51 @@
       ],
       "lat": 45.0423,
       "lon": 23.2728
+    },
+    {
+      "id": 12,
+      "name": "Festivalul Sporturilor București (primavara)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 19
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "day": 13
+        }
+      ],
+      "lat": 44.5083,
+      "lon": 26.0833
+    },
+    {
+      "id": 13,
+      "name": "Festivalul Sporturilor Iași",
+      "location": "Iași",
+      "county": "IS",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ],
+      "lat": 47.1574405088454,
+      "lon": 27.58696065379542
     }
   ],
   "orienteering_competitions_no_statistics": []

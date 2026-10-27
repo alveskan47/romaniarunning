@@ -271,7 +271,25 @@ async function loadAvailableYears() {
 }
 
 // Initialize page with current year and sport (from URL, if provided) when DOM is ready
+/**
+ * Shows the back-to-top button after scrolling down and scrolls to the top on click
+ */
+function setupBackToTopButton() {
+    const button = document.getElementById('back-to-top');
+    if (!button) return;
+
+    const SHOW_AFTER_PX = 400;
+    window.addEventListener('scroll', () => {
+        button.classList.toggle('visible', window.scrollY > SHOW_AFTER_PX);
+    }, { passive: true });
+
+    button.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+    setupBackToTopButton();
     const currentYear = new Date().getFullYear();
     const initialSport = getSportFromUrl();
     const sportEntry = SPORTS.find(s => s.value === initialSport);

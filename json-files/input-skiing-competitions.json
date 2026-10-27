@@ -6,8 +6,13 @@
       "location": "Telecabină Peștera",
       "county": "DB",
       "link": "https://carpatrace.ro/bwr/",
-      "link_fb": "",
+      "link_fb": "https://www.facebook.com/BucegiWinterRace",
       "editions": [
+        {
+          "year": 2027,
+          "month": 1,
+          "day": 30
+        },
         {
           "year": 2026,
           "month": 1,

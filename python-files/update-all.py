@@ -9,7 +9,8 @@ It orchestrates the execution of the following sub-scripts in order:
 1. fix_romanian_diacritics.py - Fixes diacritics in input-running-competitions.json and coordinates.json
 2. update-coordinates.py - Syncs locations (across every sport) and back-fills coordinates
    into every input-{sport}-competitions.json, using the shared coordinates.json
-3. test_json_input_file.py - Tests and validates input-running-competitions.json
+3. test_json_input_file.py - Tests and validates every input-{sport}-competitions.json
+   (structure, dates, unique years, ids, unique names)
 4. create-competitions-tables.py - Generates yearly output-events-{year}.json tables
    from every sport's input data
 5. create-all-competitions-list.py - Creates an alphabetically sorted list of all

@@ -237,6 +237,28 @@
       ],
       "lat": 47.0106,
       "lon": 28.8638
+    },
+    {
+      "id": 0,
+      "name": "Masters Chișinău - Campionatul deschis de înot pentru amatori",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 21,
+          "event_link": "https://www.facebook.com/events/781522054928398"
+        }
+      ],
+      "distances": [
+        "-"
+      ],
+      "lat": 47.0106,
+      "lon": 28.8638
     }
   ]
 }

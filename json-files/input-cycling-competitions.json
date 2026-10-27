@@ -1412,6 +1412,11 @@
       "link_fb": "https://www.facebook.com/FestivalulSporturilor",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 19
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 13
@@ -1652,6 +1657,51 @@
       ],
       "lat": 47.35,
       "lon": 25.3667
+    },
+    {
+      "id": 94,
+      "name": "Festivalul Sporturilor București (primavara)",
+      "location": "București",
+      "location_details": "Pădurea Băneasa",
+      "county": "B",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 25
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "day": 29
+        }
+      ],
+      "lat": 44.5083,
+      "lon": 26.0833
+    },
+    {
+      "id": 95,
+      "name": "Festivalul Sporturilor Iași",
+      "location": "Iași",
+      "county": "IS",
+      "link": "https://festivalulsporturilor.ro/",
+      "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 6
+        }
+      ],
+      "lat": 47.1574405088454,
+      "lon": 27.58696065379542
     }
   ],
   "cycling_competitions_no_statistics": [

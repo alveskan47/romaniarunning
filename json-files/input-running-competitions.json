@@ -675,6 +675,11 @@
       "link_fb": "https://www.facebook.com/rasnovmedievalrun",
       "editions": [
         {
+          "year": 2027,
+          "month": 8,
+          "day": 28
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 12
@@ -1824,7 +1829,7 @@
         {
           "year": 2027,
           "month": 6,
-          "day": 6
+          "day": 5
         },
         {
           "year": 2026,
@@ -5641,7 +5646,7 @@
         {
           "year": 2026,
           "month": 11,
-          "day": 14
+          "day": 6
         },
         {
           "year": 2025,
@@ -20413,6 +20418,93 @@
       ],
       "lat": 45.5967,
       "lon": 25.5562
+    },
+    {
+      "id": 688,
+      "name": "Visio Run Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 31,
+          "event_link": "https://www.clujlife.com/eveniment/de-halloween-clujul-alearga-costumat-visio-run-te-asteapta-pe-31-octombrie/"
+        }
+      ],
+      "lat": 46.76869284049895,
+      "lon": 23.5717102974638
+    },
+    {
+      "id": 689,
+      "name": "Trivale Trails Night Run",
+      "location": "Pitești",
+      "county": "AG",
+      "type": "trail",
+      "distances": [
+        "5km(130m↑)"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61572430824370",
+      "link_fb": "https://www.facebook.com/profile.php?id=61572430824370",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 27
+        }
+      ],
+      "lat": 44.8604,
+      "lon": 24.8703
+    },
+    {
+      "id": 690,
+      "name": "Halloween Run by ODB",
+      "location": "Bacău",
+      "county": "BC",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 30,
+          "event_link": "https://www.facebook.com/events/1418730596720597"
+        }
+      ],
+      "lat": 46.567,
+      "lon": 26.9146
+    },
+    {
+      "id": 691,
+      "name": "Alergăm pentru Robert (Oradea)",
+      "location": "Oradea",
+      "county": "BH",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 27,
+          "event_link": "https://www.facebook.com/events/3353125864860911"
+        }
+      ],
+      "lat": 47.05596091490953,
+      "lon": 21.93951167742133
     }
   ],
   "running_competitions_no_statistics": [

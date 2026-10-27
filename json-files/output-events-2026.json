@@ -130,7 +130,7 @@
     "type": "",
     "distances": [],
     "link": "https://carpatrace.ro/bwr/",
-    "link_fb": "",
+    "link_fb": "https://www.facebook.com/BucegiWinterRace",
     "id": 1,
     "year": 2026,
     "month": 1,
@@ -1100,6 +1100,24 @@
     "lat": 44.4223731273,
     "lon": 26.1548281031,
     "sport": "running"
+  },
+  {
+    "name": "Festivalul Sporturilor București (primavara)",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 29-Mar-2026",
+    "county": "B",
+    "type": "",
+    "distances": [],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 94,
+    "year": 2026,
+    "month": 3,
+    "day": 29,
+    "lat": 44.5083,
+    "lon": 26.0833,
+    "sport": "cycling"
   },
   {
     "name": "Wizz Air Cluj-Napoca Marathon",
@@ -4157,6 +4175,24 @@
     "sport": "cycling"
   },
   {
+    "name": "Festivalul Sporturilor Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "IS",
+    "type": "",
+    "distances": [],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 95,
+    "year": 2026,
+    "month": 6,
+    "day": 6,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542,
+    "sport": "cycling"
+  },
+  {
     "name": "City Race Euro Tour",
     "location": "București",
     "location_details": "",
@@ -4172,6 +4208,24 @@
     "day": 6,
     "lat": 44.42736904671278,
     "lon": 26.09240325460678,
+    "sport": "orienteering"
+  },
+  {
+    "name": "Festivalul Sporturilor Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sat 06-Jun-2026",
+    "county": "IS",
+    "type": "",
+    "distances": [],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 13,
+    "year": 2026,
+    "month": 6,
+    "day": 6,
+    "lat": 47.1574405088454,
+    "lon": 27.58696065379542,
     "sport": "orienteering"
   },
   {
@@ -9096,6 +9150,24 @@
     "sport": "orienteering"
   },
   {
+    "name": "Festivalul Sporturilor București (primavara)",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 13-Sep-2026",
+    "county": "B",
+    "type": "",
+    "distances": [],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 12,
+    "year": 2026,
+    "month": 9,
+    "day": 13,
+    "lat": 44.5083,
+    "lon": 26.0833,
+    "sport": "orienteering"
+  },
+  {
     "name": "Rombat Trail Run",
     "location": "Bistrița",
     "location_details": "",
@@ -12222,24 +12294,6 @@
     "sport": "orienteering"
   },
   {
-    "name": "Oltenia Forest Run - Băile Govora",
-    "location": "Băile Govora",
-    "location_details": "",
-    "display_date": "Sat 24-Oct-2026",
-    "county": "VL",
-    "type": "",
-    "distances": [],
-    "link": "https://new.ecosport.ro/oltenia-forest-run-baile-govora/",
-    "link_fb": "https://www.facebook.com/olteniaalearga",
-    "id": 10,
-    "year": 2026,
-    "month": 10,
-    "day": 24,
-    "lat": 45.0833,
-    "lon": 24.1833,
-    "sport": "orienteering"
-  },
-  {
     "name": "Maratonul Montan Rafael",
     "location": "Codlea",
     "location_details": "",
@@ -12559,6 +12613,66 @@
     "sport": "running"
   },
   {
+    "name": "Trivale Trails Night Run",
+    "location": "Pitești",
+    "location_details": "",
+    "display_date": "Tue 27-Oct-2026",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "5km(130m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61572430824370",
+    "link_fb": "https://www.facebook.com/profile.php?id=61572430824370",
+    "id": 689,
+    "year": 2026,
+    "month": 10,
+    "day": 27,
+    "lat": 44.8604,
+    "lon": 24.8703,
+    "sport": "running"
+  },
+  {
+    "name": "Alergăm pentru Robert (Oradea)",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Tue 27-Oct-2026",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/3353125864860911",
+    "link_fb": "",
+    "id": 691,
+    "year": 2026,
+    "month": 10,
+    "day": 27,
+    "lat": 47.05596091490953,
+    "lon": 21.93951167742133,
+    "sport": "running"
+  },
+  {
+    "name": "Halloween Run by ODB",
+    "location": "Bacău",
+    "location_details": "",
+    "display_date": "Fri 30-Oct-2026",
+    "county": "BC",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1418730596720597",
+    "link_fb": "",
+    "id": 690,
+    "year": 2026,
+    "month": 10,
+    "day": 30,
+    "lat": 46.567,
+    "lon": 26.9146,
+    "sport": "running"
+  },
+  {
     "name": "Păulești Livada cu Cireși",
     "location": "Păulești (PH)",
     "location_details": "",
@@ -12763,6 +12877,26 @@
     "sport": "running"
   },
   {
+    "name": "Visio Run Cluj",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 31-Oct-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.clujlife.com/eveniment/de-halloween-clujul-alearga-costumat-visio-run-te-asteapta-pe-31-octombrie/",
+    "link_fb": "",
+    "id": 688,
+    "year": 2026,
+    "month": 10,
+    "day": 31,
+    "lat": 46.76869284049895,
+    "lon": 23.5717102974638,
+    "sport": "running"
+  },
+  {
     "name": "HalloWeRun Cricova",
     "location": "Cricova",
     "location_details": "Republica Moldova",
@@ -12844,6 +12978,27 @@
     "day": 1,
     "lat": 45.4333,
     "lon": 23.45,
+    "sport": "running"
+  },
+  {
+    "name": "Crosul de Noapte Cluj (toamna)",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Fri 06-Nov-2026",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km"
+    ],
+    "link": "https://runnersclub.ro/crosuldenoapte/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
+    "id": 148,
+    "year": 2026,
+    "month": 11,
+    "day": 6,
+    "lat": 46.7686778405,
+    "lon": 23.5717052975,
     "sport": "running"
   },
   {
@@ -13232,27 +13387,6 @@
     "sport": "running"
   },
   {
-    "name": "Crosul de Noapte Cluj (toamna)",
-    "location": "Cluj-Napoca",
-    "location_details": "",
-    "display_date": "Sat 14-Nov-2026",
-    "county": "CJ",
-    "type": "road",
-    "distances": [
-      "10km",
-      "5km"
-    ],
-    "link": "https://runnersclub.ro/crosuldenoapte/",
-    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
-    "id": 148,
-    "year": 2026,
-    "month": 11,
-    "day": 14,
-    "lat": 46.7686778405,
-    "lon": 23.5717052975,
-    "sport": "running"
-  },
-  {
     "name": "Sky Run",
     "location": "București",
     "location_details": "Sky Tower",
@@ -13395,6 +13529,26 @@
     "lat": 45.6427,
     "lon": 25.5887,
     "sport": "running"
+  },
+  {
+    "name": "Masters Chișinău - Campionatul deschis de înot pentru amatori",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "MDA*",
+    "type": "",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/781522054928398",
+    "link_fb": "",
+    "id": 0,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 47.0106,
+    "lon": 28.8638,
+    "sport": "swimming"
   },
   {
     "name": "Wake Run - Moldova (toamna)",

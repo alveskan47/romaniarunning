@@ -393,6 +393,17 @@
       "year_2023": ""
     },
     {
+      "id": 691,
+      "name": "Alergăm pentru Robert (Oradea)",
+      "location": "Oradea",
+      "county": "BH",
+      "year_2027": "",
+      "year_2026": "Tue 27-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 57,
       "name": "Alergăraș în Făgăraș",
       "location": "Făgăraș",
@@ -2246,7 +2257,7 @@
       "location": "Cluj-Napoca",
       "county": "CJ",
       "year_2027": "",
-      "year_2026": "Sat 14-Nov",
+      "year_2026": "Fri 6-Nov",
       "year_2025": "Fri 7-Nov",
       "year_2024": "Fri 15-Nov",
       "year_2023": "Fri 10-Nov"
@@ -3708,7 +3719,7 @@
       "name": "Festivalul Sporturilor Iași",
       "location": "Iași",
       "county": "IS",
-      "year_2027": "Sun 6-Jun",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 1-Jun",
@@ -4031,6 +4042,17 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Thu 31-Oct",
+      "year_2023": ""
+    },
+    {
+      "id": 690,
+      "name": "Halloween Run by ODB",
+      "location": "Bacău",
+      "county": "BC",
+      "year_2027": "",
+      "year_2026": "Fri 30-Oct",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -5413,7 +5435,7 @@
       "name": "Râșnov Medieval Run",
       "location": "Râșnov",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sat 28-Aug",
       "year_2026": "Sat 12-Sep",
       "year_2025": "Sat 30-Aug",
       "year_2024": "Sat 31-Aug",
@@ -6861,6 +6883,17 @@
       "year_2023": ""
     },
     {
+      "id": 689,
+      "name": "Trivale Trails Night Run",
+      "location": "Pitești",
+      "county": "AG",
+      "year_2027": "",
+      "year_2026": "Tue 27-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 590,
       "name": "Trofeul Ursul Carpatin",
       "location": "Buşteni",
@@ -7230,6 +7263,17 @@
       "county": "PH",
       "year_2027": "",
       "year_2026": "Sat 4-Apr",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 688,
+      "name": "Visio Run Cluj",
+      "location": "Cluj-Napoca",
+      "county": "CJ",
+      "year_2027": "",
+      "year_2026": "Sat 31-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""

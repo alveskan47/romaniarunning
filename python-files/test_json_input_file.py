@@ -21,11 +21,50 @@ def load_json_file(json_file_path):
         return False, f"Invalid JSON: {e}"
 
 
-def validate_json_structure(data):
+def list_keys(sport):
+    """Returns the (main, no_statistics) root keys for a sport."""
+    return f"{sport}_competitions", f"{sport}_competitions_no_statistics"
+
+
+def find_sport_files():
+    """Returns a sorted list of (sport, path) for every input-*-competitions.json."""
+    base_path = Path(__file__).parent.parent / 'json-files'
+    result = []
+    for json_file in sorted(base_path.glob('input-*-competitions.json')):
+        sport = json_file.name[len('input-'):-len('-competitions.json')]
+        result.append((sport, json_file))
+    return result
+
+
+def run_validator_for_all_sports(validator, pass_message):
+    """Runs a validator(data, sport) on every sport file. Returns 0 on success, 1 otherwise."""
+    all_errors = []
+    sports = find_sport_files()
+    for sport, json_file in sports:
+        success, data = load_json_file(json_file)
+        if not success:
+            all_errors.append(f"[{sport}] {data}")
+            continue
+        _, errors = validator(data, sport)
+        all_errors.extend(f"[{sport}] {e}" for e in errors)
+
+    if not all_errors:
+        print(f"[PASS] {pass_message} ({len(sports)} sport files checked)")
+        return 0
+    print(f"[FAIL] Found {len(all_errors)} error(s):\n")
+    for error in all_errors:
+        print(f"  - {error}")
+    return 1
+
+
+def validate_json_structure(data, sport="running"):
     """
-    Validates the overall JSON structure of the competition file.
+    Validates the overall JSON structure of a sport's competition file.
+    Required fields: id, name, location, county, link, link_fb, editions;
+    "type" and "distances" are required for running only.
     Returns a tuple of (is_valid, errors_list)
     """
+    main_key, nostats_key = list_keys(sport)
     errors = []
 
     # Check if root keys exist
@@ -33,11 +72,11 @@ def validate_json_structure(data):
         errors.append("Root element must be a JSON object/dictionary")
         return False, errors
 
-    if "running_competitions" not in data:
-        errors.append("Missing required root key: 'running_competitions'")
+    if main_key not in data:
+        errors.append(f"Missing required root key: '{main_key}'")
 
-    if "running_competitions_no_statistics" not in data:
-        errors.append("Missing required root key: 'running_competitions_no_statistics'")
+    if nostats_key not in data:
+        errors.append(f"Missing required root key: '{nostats_key}'")
 
     # If root structure is wrong, return early
     if errors:
@@ -45,8 +84,8 @@ def validate_json_structure(data):
 
     # Validate each competition array
     competition_lists = [
-        ("running_competitions", data["running_competitions"]),
-        ("running_competitions_no_statistics", data["running_competitions_no_statistics"])
+        (main_key, data[main_key]),
+        (nostats_key, data[nostats_key])
     ]
 
     for list_name, competitions in competition_lists:
@@ -65,7 +104,9 @@ def validate_json_structure(data):
             comp_id = competition.get("id", "?")
 
             # Check required fields for each competition
-            required_fields = ["id", "name", "location", "county", "type", "distances", "link", "link_fb", "editions"]
+            required_fields = ["id", "name", "location", "county", "link", "link_fb", "editions"]
+            if sport == "running":
+                required_fields[4:4] = ["type", "distances"]
 
             for field in required_fields:
                 if field not in competition:
@@ -186,19 +227,20 @@ def validate_json_structure(data):
     return is_valid, errors
 
 
-def validate_dates_in_json(data):
+def validate_dates_in_json(data, sport="running"):
     """
-    Validates all dates in the editions property of the JSON file.
+    Validates all dates in the editions property of a sport's JSON file.
     Returns a tuple of (is_valid, errors_list)
     """
+    main_key, nostats_key = list_keys(sport)
     errors = []
 
     # Check both competitions and competitions_no_statistics
     competition_lists = []
-    if "running_competitions" in data:
-        competition_lists.append(("running_competitions", data["running_competitions"]))
-    if "running_competitions_no_statistics" in data:
-        competition_lists.append(("running_competitions_no_statistics", data["running_competitions_no_statistics"]))
+    if main_key in data:
+        competition_lists.append((main_key, data[main_key]))
+    if nostats_key in data:
+        competition_lists.append((nostats_key, data[nostats_key]))
 
     for list_name, competitions in competition_lists:
         for comp_idx, competition in enumerate(competitions):
@@ -273,20 +315,21 @@ def validate_dates_in_json(data):
     return is_valid, errors
 
 
-def validate_unique_years_per_competition(data):
+def validate_unique_years_per_competition(data, sport="running"):
     """
     Validates that each competition has unique years in its editions.
     A competition cannot have multiple editions in the same year.
     Returns a tuple of (is_valid, errors_list)
     """
+    main_key, nostats_key = list_keys(sport)
     errors = []
 
     # Check both competitions and competitions_no_statistics
     competition_lists = []
-    if "running_competitions" in data:
-        competition_lists.append(("running_competitions", data["running_competitions"]))
-    if "running_competitions_no_statistics" in data:
-        competition_lists.append(("running_competitions_no_statistics", data["running_competitions_no_statistics"]))
+    if main_key in data:
+        competition_lists.append((main_key, data[main_key]))
+    if nostats_key in data:
+        competition_lists.append((nostats_key, data[nostats_key]))
 
     for list_name, competitions in competition_lists:
         for comp_idx, competition in enumerate(competitions):
@@ -324,18 +367,19 @@ def validate_unique_years_per_competition(data):
     return is_valid, errors
 
 
-def validate_competition_ids(data):
+def validate_competition_ids(data, sport="running"):
     """
     Validates that:
-    - In 'running_competitions', all IDs are consecutive starting with 1
-    - In 'running_competitions_no_statistics', all IDs are 0
+    - In '<sport>_competitions', all IDs are consecutive starting with 1
+    - In '<sport>_competitions_no_statistics', all IDs are 0
     Returns a tuple of (is_valid, errors_list)
     """
+    main_key, nostats_key = list_keys(sport)
     errors = []
 
-    # Validate 'running_competitions' - IDs should be consecutive starting with 1
-    if "running_competitions" in data:
-        competitions = data["running_competitions"]
+    # Validate main list - IDs should be consecutive starting with 1
+    if main_key in data:
+        competitions = data[main_key]
         if isinstance(competitions, list):
             expected_id = 1
             for comp_idx, competition in enumerate(competitions):
@@ -351,16 +395,16 @@ def validate_competition_ids(data):
 
                 if comp_id != expected_id:
                     errors.append(
-                        f"running_competitions[{comp_idx}] '{comp_name}': "
+                        f"{main_key}[{comp_idx}] '{comp_name}': "
                         f"Expected id={expected_id}, but found id={comp_id}. "
                         f"IDs must be consecutive starting with 1."
                     )
 
                 expected_id += 1
 
-    # Validate 'running_competitions_no_statistics' - all IDs should be 0
-    if "running_competitions_no_statistics" in data:
-        competitions_no_stats = data["running_competitions_no_statistics"]
+    # Validate no_statistics list - all IDs should be 0
+    if nostats_key in data:
+        competitions_no_stats = data[nostats_key]
         if isinstance(competitions_no_stats, list):
             for comp_idx, competition in enumerate(competitions_no_stats):
                 if not isinstance(competition, dict):
@@ -375,7 +419,7 @@ def validate_competition_ids(data):
 
                 if comp_id != 0:
                     errors.append(
-                        f"running_competitions_no_statistics[{comp_idx}] '{comp_name}': "
+                        f"{nostats_key}[{comp_idx}] '{comp_name}': "
                         f"Expected id=0, but found id={comp_id}. "
                         f"All competitions in this list must have id=0."
                     )
@@ -384,12 +428,13 @@ def validate_competition_ids(data):
     return is_valid, errors
 
 
-def validate_unique_competition_names(data):
+def validate_unique_competition_names(data, sport="running"):
     """
     Validates that all competition names are unique across both
-    'running_competitions' and 'running_competitions_no_statistics' arrays.
+    '<sport>_competitions' and '<sport>_competitions_no_statistics' arrays.
     Returns a tuple of (is_valid, errors_list)
     """
+    main_key, nostats_key = list_keys(sport)
     errors = []
 
     # Collect all competition names from both lists
@@ -398,10 +443,10 @@ def validate_unique_competition_names(data):
 
     # Check both competitions and competitions_no_statistics
     competition_lists = []
-    if "running_competitions" in data:
-        competition_lists.append(("running_competitions", data["running_competitions"]))
-    if "running_competitions_no_statistics" in data:
-        competition_lists.append(("running_competitions_no_statistics", data["running_competitions_no_statistics"]))
+    if main_key in data:
+        competition_lists.append((main_key, data[main_key]))
+    if nostats_key in data:
+        competition_lists.append((nostats_key, data[nostats_key]))
 
     for list_name, competitions in competition_lists:
         if not isinstance(competitions, list):
@@ -437,138 +482,75 @@ def validate_unique_competition_names(data):
 
 
 def test_json_structure():
-    """Test function that validates the JSON structure"""
+    """Runs validate_json_structure on every sport file"""
     print("TEST 1: Validating JSON structure")
     print("-" * 80)
-
-    # Use relative path to json-files directory
-    base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-running-competitions.json'
-
-    success, data = load_json_file(json_file)
-    if not success:
-        print(f"[FAIL] {data}")
-        return 1
-
-    is_valid, errors = validate_json_structure(data)
-
-    if is_valid:
-        print("[PASS] JSON structure is valid!")
-        return 0
-    else:
-        print(f"[FAIL] Found {len(errors)} error(s):\n")
-        for error in errors:
-            print(f"  - {error}")
-        return 1
+    return run_validator_for_all_sports(validate_json_structure, "JSON structure is valid!")
 
 
 def test_dates():
-    """Test function that validates all dates in the JSON file"""
+    """Runs validate_dates_in_json on every sport file"""
     print("\nTEST 2: Validating dates")
     print("-" * 80)
-
-    # Use relative path to json-files directory
-    base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-running-competitions.json'
-
-    success, data = load_json_file(json_file)
-    if not success:
-        print(f"[FAIL] {data}")
-        return 1
-
-    is_valid, errors = validate_dates_in_json(data)
-
-    if is_valid:
-        print("[PASS] All dates are valid!")
-        return 0
-    else:
-        print(f"[FAIL] Found {len(errors)} error(s):\n")
-        for error in errors:
-            print(f"  - {error}")
-        return 1
+    return run_validator_for_all_sports(validate_dates_in_json, "All dates are valid!")
 
 
 def test_unique_years():
-    """Test function that validates unique years per competition"""
+    """Runs validate_unique_years_per_competition on every sport file"""
     print("\nTEST 3: Validating unique years per competition")
     print("-" * 80)
-
-    # Use relative path to json-files directory
-    base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-running-competitions.json'
-
-    success, data = load_json_file(json_file)
-    if not success:
-        print(f"[FAIL] {data}")
-        return 1
-
-    is_valid, errors = validate_unique_years_per_competition(data)
-
-    if is_valid:
-        print("[PASS] All competitions have unique years in their editions!")
-        return 0
-    else:
-        print(f"[FAIL] Found {len(errors)} error(s):\n")
-        for error in errors:
-            print(f"  - {error}")
-        return 1
+    return run_validator_for_all_sports(validate_unique_years_per_competition, "All competitions have unique years in their editions!")
 
 
 def test_competition_ids():
-    """Test function that validates competition IDs"""
+    """Runs validate_competition_ids on every sport file"""
     print("\nTEST 4: Validating competition IDs")
     print("-" * 80)
-
-    # Use relative path to json-files directory
-    base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-running-competitions.json'
-
-    success, data = load_json_file(json_file)
-    if not success:
-        print(f"[FAIL] {data}")
-        return 1
-
-    is_valid, errors = validate_competition_ids(data)
-
-    if is_valid:
-        print("[PASS] All competition IDs are valid!")
-        return 0
-    else:
-        print(f"[FAIL] Found {len(errors)} error(s):\n")
-        for error in errors:
-            print(f"  - {error}")
-        return 1
+    return run_validator_for_all_sports(validate_competition_ids, "All competition IDs are valid!")
 
 
 def test_unique_competition_names():
-    """Test function that validates unique competition names"""
+    """Runs validate_unique_competition_names on every sport file"""
     print("\nTEST 5: Validating unique competition names")
     print("-" * 80)
+    return run_validator_for_all_sports(validate_unique_competition_names, "All competition names are unique!")
 
-    # Use relative path to json-files directory
+
+def test_duplicate_ids_all_sports():
+    """Test function that checks for duplicate ids in every input-*-competitions.json"""
+    print("\nTEST 6: Validating unique ids in all sports input files")
+    print("-" * 80)
+
     base_path = Path(__file__).parent.parent / 'json-files'
-    json_file = base_path / 'input-running-competitions.json'
+    errors = []
+    for json_file in sorted(base_path.glob('input-*-competitions.json')):
+        success, data = load_json_file(json_file)
+        if not success:
+            errors.append(f"{json_file.name}: {data}")
+            continue
+        for list_name, competitions in data.items():
+            if not isinstance(competitions, list):
+                continue
+            seen = {}
+            for comp in competitions:
+                if isinstance(comp, dict) and comp.get("id"):  # id 0 = placeholder (no statistics)
+                    seen.setdefault(comp["id"], []).append(comp.get("name", "?"))
+            for comp_id, names in seen.items():
+                if len(names) > 1:
+                    errors.append(f"{json_file.name} {list_name}: id {comp_id} used by {', '.join(names)}")
 
-    success, data = load_json_file(json_file)
-    if not success:
-        print(f"[FAIL] {data}")
-        return 1
-
-    is_valid, errors = validate_unique_competition_names(data)
-
-    if is_valid:
-        print("[PASS] All competition names are unique!")
+    if not errors:
+        print("[PASS] All ids are unique in every sport file!")
         return 0
-    else:
-        print(f"[FAIL] Found {len(errors)} error(s):\n")
-        for error in errors:
-            print(f"  - {error}")
-        return 1
+    print(f"[FAIL] Found {len(errors)} error(s):\n")
+    for error in errors:
+        print(f"  - {error}")
+    return 1
 
 
 def run_all_tests():
     """Run all tests and return overall result"""
-    print("Running all tests for input-running-competitions.json")
+    print("Running all tests for all input-*-competitions.json files")
     print("=" * 80)
 
     test_results = []
@@ -592,6 +574,9 @@ def run_all_tests():
     # Run test 5: Unique competition names validation
     result5 = test_unique_competition_names()
     test_results.append(result5)
+
+    # Run test 6: Unique ids across all sports
+    test_results.append(test_duplicate_ids_all_sports())
 
     # Summary
     print("\n" + "=" * 80)
