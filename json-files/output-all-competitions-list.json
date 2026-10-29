@@ -635,6 +635,17 @@
       "year_2023": "Sat 21-Oct"
     },
     {
+      "id": 693,
+      "name": "Backyard Ultra Tulcea",
+      "location": "Tulcea",
+      "county": "TL",
+      "year_2027": "Fri 14-May",
+      "year_2026": "",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 323,
       "name": "Baia Mare Half Marathon",
       "location": "Baia Mare",
@@ -903,7 +914,7 @@
       "name": "Brașov Marathon",
       "location": "Brașov",
       "county": "BV",
-      "year_2027": "",
+      "year_2027": "Sat 22-May",
       "year_2026": "Sat 30-May",
       "year_2025": "Sat 31-May",
       "year_2024": "Sat 1-Jun",
@@ -958,11 +969,22 @@
       "name": "Brăila 10k",
       "location": "Brăila",
       "county": "BR",
-      "year_2027": "",
+      "year_2027": "Sun 18-Apr",
       "year_2026": "Sun 19-Apr",
       "year_2025": "Sun 6-Apr",
       "year_2024": "",
       "year_2023": ""
+    },
+    {
+      "id": 93,
+      "name": "Brăila Bridge Half Marathon",
+      "location": "Brăila",
+      "county": "BR",
+      "year_2027": "Sun 19-Sep",
+      "year_2026": "Sun 20-Sep",
+      "year_2025": "Sun 21-Sep",
+      "year_2024": "Sun 22-Sep",
+      "year_2023": "Sun 24-Sep"
     },
     {
       "id": 619,
@@ -3726,6 +3748,17 @@
       "year_2023": "Sat 3-Jun"
     },
     {
+      "id": 692,
+      "name": "Fitness Tribe Halloween Run",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "year_2027": "",
+      "year_2026": "Thu 29-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 184,
       "name": "Forest Race Marghita",
       "location": "Marghita",
@@ -5666,7 +5699,7 @@
       "name": "Run Iași",
       "location": "Iași",
       "county": "IS",
-      "year_2027": "",
+      "year_2027": "Sun 31-Oct",
       "year_2026": "Sun 1-Nov",
       "year_2025": "Sun 26-Oct",
       "year_2024": "",
@@ -5946,17 +5979,6 @@
       "year_2025": "Sat 12-Apr",
       "year_2024": "Sat 6-Apr",
       "year_2023": "Sat 8-Apr"
-    },
-    {
-      "id": 93,
-      "name": "Semimaraton Brăila",
-      "location": "Brăila",
-      "county": "BR",
-      "year_2027": "",
-      "year_2026": "Sun 20-Sep",
-      "year_2025": "Sun 21-Sep",
-      "year_2024": "Sun 22-Sep",
-      "year_2023": "Sun 24-Sep"
     },
     {
       "id": 135,
@@ -6469,7 +6491,7 @@
       "name": "Șiria Vertical Loop 2h",
       "location": "Șiria",
       "county": "AR",
-      "year_2027": "",
+      "year_2027": "Sat 25-Sep",
       "year_2026": "Sat 19-Sep",
       "year_2025": "Sat 20-Sep",
       "year_2024": "Sat 21-Sep",
@@ -6678,7 +6700,7 @@
       "name": "Timișoara City Marathon",
       "location": "Timișoara",
       "county": "TM",
-      "year_2027": "",
+      "year_2027": "Sun 24-Oct",
       "year_2026": "Sun 25-Oct",
       "year_2025": "Sun 26-Oct",
       "year_2024": "Sun 27-Oct",
@@ -7064,7 +7086,7 @@
       "location": "Cluj-Napoca",
       "county": "CJ",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 14-Nov",
       "year_2025": "Sat 15-Nov",
       "year_2024": "Fri 15-Nov",
       "year_2023": ""
@@ -7294,7 +7316,7 @@
       "name": "Viteza pe faleza",
       "location": "Brăila",
       "county": "BR",
-      "year_2027": "",
+      "year_2027": "Sun 7-Feb",
       "year_2026": "Sun 8-Feb",
       "year_2025": "",
       "year_2024": "",

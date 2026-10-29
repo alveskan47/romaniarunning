@@ -268,8 +268,8 @@
     "distances": [
       "1km"
     ],
-    "link": "https://www.facebook.com/events/886505584135004",
-    "link_fb": "",
+    "link": "https://www.facebook.com/runbraila",
+    "link_fb": "https://www.facebook.com/runbraila",
     "id": 334,
     "year": 2026,
     "month": 2,
@@ -1118,6 +1118,24 @@
     "lat": 44.5083,
     "lon": 26.0833,
     "sport": "cycling"
+  },
+  {
+    "name": "Festivalul Sporturilor București (primavara)",
+    "location": "București",
+    "location_details": "Pădurea Băneasa",
+    "display_date": "Sun 29-Mar-2026",
+    "county": "B",
+    "type": "",
+    "distances": [],
+    "link": "https://festivalulsporturilor.ro/",
+    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
+    "id": 12,
+    "year": 2026,
+    "month": 3,
+    "day": 29,
+    "lat": 44.5083,
+    "lon": 26.0833,
+    "sport": "orienteering"
   },
   {
     "name": "Wizz Air Cluj-Napoca Marathon",
@@ -9150,24 +9168,6 @@
     "sport": "orienteering"
   },
   {
-    "name": "Festivalul Sporturilor București (primavara)",
-    "location": "București",
-    "location_details": "Pădurea Băneasa",
-    "display_date": "Sun 13-Sep-2026",
-    "county": "B",
-    "type": "",
-    "distances": [],
-    "link": "https://festivalulsporturilor.ro/",
-    "link_fb": "https://www.facebook.com/FestivalulSporturilor",
-    "id": 12,
-    "year": 2026,
-    "month": 9,
-    "day": 13,
-    "lat": 44.5083,
-    "lon": 26.0833,
-    "sport": "orienteering"
-  },
-  {
     "name": "Rombat Trail Run",
     "location": "Bistrița",
     "location_details": "",
@@ -9881,7 +9881,7 @@
     "sport": "running"
   },
   {
-    "name": "Semimaraton Brăila",
+    "name": "Brăila Bridge Half Marathon",
     "location": "Brăila",
     "location_details": "",
     "display_date": "Sun 20-Sep-2026",
@@ -12653,6 +12653,26 @@
     "sport": "running"
   },
   {
+    "name": "Fitness Tribe Halloween Run",
+    "location": "Sfântu Gheorghe",
+    "location_details": "",
+    "display_date": "Thu 29-Oct-2026",
+    "county": "CV",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1999547781431743",
+    "link_fb": "",
+    "id": 692,
+    "year": 2026,
+    "month": 10,
+    "day": 29,
+    "lat": 45.86671,
+    "lon": 25.78329,
+    "sport": "running"
+  },
+  {
     "name": "Halloween Run by ODB",
     "location": "Bacău",
     "location_details": "",
@@ -13404,6 +13424,26 @@
     "day": 14,
     "lat": 44.4223631273,
     "lon": 26.1548681031,
+    "sport": "running"
+  },
+  {
+    "name": "Ultra-trail de la Cluj-Napoca la Dej",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "65km"
+    ],
+    "link": "https://www.facebook.com/events/1073233129079010",
+    "link_fb": "",
+    "id": 398,
+    "year": 2026,
+    "month": 11,
+    "day": 14,
+    "lat": 46.7686978405,
+    "lon": 23.5717252975,
     "sport": "running"
   },
   {

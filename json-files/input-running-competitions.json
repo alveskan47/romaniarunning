@@ -1550,6 +1550,11 @@
       "link_fb": "https://www.facebook.com/SiriaVerticalLoop",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 25
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 19
@@ -1898,6 +1903,11 @@
       "link": "https://www.brasovmarathon.ro/",
       "link_fb": "https://www.facebook.com/brasovmarathon/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        },
         {
           "year": 2026,
           "month": 5,
@@ -3823,7 +3833,7 @@
     },
     {
       "id": 93,
-      "name": "Semimaraton Brăila",
+      "name": "Brăila Bridge Half Marathon",
       "location": "Brăila",
       "county": "BR",
       "type": "road",
@@ -3835,6 +3845,11 @@
       "link": "https://runbraila.ro/",
       "link_fb": "https://www.facebook.com/runbraila/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 19
+        },
         {
           "year": 2026,
           "month": 9,
@@ -4106,6 +4121,11 @@
       "link": "https://timisoaracitymarathon.ro/",
       "link_fb": "https://www.facebook.com/TimisoaraCityMarathon/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 10,
+          "day": 24
+        },
         {
           "year": 2026,
           "month": 10,
@@ -6679,6 +6699,11 @@
       "link": "https://runbraila.ro/",
       "link_fb": "https://www.facebook.com/runbraila/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 18
+        },
         {
           "year": 2026,
           "month": 4,
@@ -10664,6 +10689,11 @@
       "link_fb": "https://www.facebook.com/profile.php?id=61579340574304",
       "editions": [
         {
+          "year": 2027,
+          "month": 10,
+          "day": 31
+        },
+        {
           "year": 2026,
           "month": 11,
           "day": 1
@@ -11470,14 +11500,18 @@
       "distances": [
         "1km"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://www.facebook.com/runbraila",
+      "link_fb": "https://www.facebook.com/runbraila",
       "editions": [
+        {
+          "year": 2027,
+          "month": 2,
+          "day": 7
+        },
         {
           "year": 2026,
           "month": 2,
-          "day": 8,
-          "event_link": "https://www.facebook.com/events/886505584135004"
+          "day": 8
         }
       ],
       "lat": 45.269205,
@@ -13512,6 +13546,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1073233129079010"
+        },
         {
           "year": 2025,
           "month": 11,
@@ -20505,6 +20545,49 @@
       ],
       "lat": 47.05596091490953,
       "lon": 21.93951167742133
+    },
+    {
+      "id": 692,
+      "name": "Fitness Tribe Halloween Run",
+      "location": "Sfântu Gheorghe",
+      "county": "CV",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 10,
+          "day": 29,
+          "event_link": "https://www.facebook.com/events/1999547781431743"
+        }
+      ],
+      "lat": 45.86671,
+      "lon": 25.78329
+    },
+    {
+      "id": 693,
+      "name": "Backyard Ultra Tulcea",
+      "location": "Tulcea",
+      "county": "TL",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61554720327182",
+      "link_fb": "https://www.facebook.com/profile.php?id=61554720327182",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 14
+        }
+      ],
+      "lat": 45.1767,
+      "lon": 28.8022
     }
   ],
   "running_competitions_no_statistics": [
