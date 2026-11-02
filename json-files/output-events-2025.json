@@ -769,13 +769,13 @@
     "county": "GL",
     "type": "trail",
     "distances": [
-      "24H (3km/lap)",
-      "42km",
-      "10km",
-      "3km"
+      "24H (3.25km/lap)",
+      "42.25km",
+      "19.5km",
+      "3.25km"
     ],
-    "link": "https://www.facebook.com/ultramaratongalati",
-    "link_fb": "https://www.facebook.com/ultramaratongalati",
+    "link": "https://my-run.ro/2025/10/06/ultrarace-24h-galati-2025-2/",
+    "link_fb": "https://www.facebook.com/UltraRace24hGalati",
     "id": 48,
     "year": 2025,
     "month": 3,
