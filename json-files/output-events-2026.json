@@ -13447,6 +13447,26 @@
     "sport": "running"
   },
   {
+    "name": "Alpine Reșița - Semenic Challenge",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "29km(2030m↑)"
+    ],
+    "link": "https://sites.google.com/view/alpineresitatrailchallenge/",
+    "link_fb": "https://www.facebook.com/ResitaOutdoor/",
+    "id": 406,
+    "year": 2026,
+    "month": 11,
+    "day": 14,
+    "lat": 45.300005,
+    "lon": 21.883305,
+    "sport": "running"
+  },
+  {
     "name": "Arad Fall Run",
     "location": "Arad",
     "location_details": "",

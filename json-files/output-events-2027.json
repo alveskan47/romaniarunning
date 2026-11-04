@@ -334,6 +334,28 @@
     "sport": "running"
   },
   {
+    "name": "Legal Half-Marathon",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 28-Mar-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "3km"
+    ],
+    "link": "https://legalrun.ro/",
+    "link_fb": "https://www.facebook.com/legalrun.ro/",
+    "id": 41,
+    "year": 2027,
+    "month": 3,
+    "day": 28,
+    "lat": 44.4223231273,
+    "lon": 26.1548481031,
+    "sport": "running"
+  },
+  {
     "name": "Semimaraton Brașov",
     "location": "Brașov",
     "location_details": "Piața Unirii",
@@ -398,25 +420,25 @@
     "sport": "running"
   },
   {
-    "name": "Legal Half-Marathon",
-    "location": "București",
+    "name": "Bistrița Trail Running",
+    "location": "Bistrița",
     "location_details": "",
-    "display_date": "Sun 04-Apr-2027",
-    "county": "B",
-    "type": "road",
+    "display_date": "Sat 03-Apr-2027",
+    "county": "BN",
+    "type": "trail",
     "distances": [
+      "42km",
       "21km",
-      "10km",
-      "3km"
+      "10km"
     ],
-    "link": "https://legalrun.ro/",
-    "link_fb": "https://www.facebook.com/legalrun.ro/",
-    "id": 41,
+    "link": "https://cspaduribistritene.ro/bistritatrailrunning/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61568127260010",
+    "id": 106,
     "year": 2027,
     "month": 4,
-    "day": 4,
-    "lat": 44.4223231273,
-    "lon": 26.1548481031,
+    "day": 3,
+    "lat": 47.133295,
+    "lon": 24.50001,
     "sport": "running"
   },
   {
@@ -610,6 +632,29 @@
     "day": 17,
     "lat": 45.7667,
     "lon": 21.5,
+    "sport": "running"
+  },
+  {
+    "name": "Urme pe Play",
+    "location": "Rășinari",
+    "location_details": "",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "59km(3730m↑)",
+      "41km(2560m↑)",
+      "22km(1490m↑)",
+      "13km(810m↑))"
+    ],
+    "link": "https://urmepeplay.ro/",
+    "link_fb": "https://www.facebook.com/@UrmePePlay",
+    "id": 54,
+    "year": 2027,
+    "month": 4,
+    "day": 17,
+    "lat": 45.6333,
+    "lon": 24.1167,
     "sport": "running"
   },
   {
@@ -2570,6 +2615,28 @@
     "day": 17,
     "lat": 46.366695,
     "lon": 25.800005,
+    "sport": "running"
+  },
+  {
+    "name": "Omu Marathon",
+    "location": "Bran",
+    "location_details": "Castelul Bran",
+    "display_date": "Sat 18-Sep-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "40.9km(2978m↑)",
+      "24.6km(1786m↑)",
+      "11.6km(420m↑)"
+    ],
+    "link": "https://www.omumarathon.com/",
+    "link_fb": "https://www.facebook.com/omumarathon",
+    "id": 94,
+    "year": 2027,
+    "month": 9,
+    "day": 18,
+    "lat": 45.5167,
+    "lon": 25.366705,
     "sport": "running"
   },
   {

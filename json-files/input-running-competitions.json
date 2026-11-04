@@ -1636,8 +1636,8 @@
       "editions": [
         {
           "year": 2027,
-          "month": 4,
-          "day": 4
+          "month": 3,
+          "day": 28
         },
         {
           "year": 2026,
@@ -2223,6 +2223,11 @@
       "link": "https://urmepeplay.ro/",
       "link_fb": "https://www.facebook.com/@UrmePePlay",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
         {
           "year": 2026,
           "month": 4,
@@ -3890,6 +3895,11 @@
       "link_fb": "https://www.facebook.com/omumarathon",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 18
+        },
+        {
           "year": 2026,
           "month": 10,
           "day": 3
@@ -4319,6 +4329,11 @@
       "link": "https://cspaduribistritene.ro/bistritatrailrunning/",
       "link_fb": "https://www.facebook.com/profile.php?id=61568127260010",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 3
+        },
         {
           "year": 2026,
           "month": 4,
@@ -13792,6 +13807,11 @@
       "link": "https://sites.google.com/view/alpineresitatrailchallenge/",
       "link_fb": "https://www.facebook.com/ResitaOutdoor/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14
+        },
         {
           "year": 2025,
           "month": 11,
