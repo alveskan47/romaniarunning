@@ -47,6 +47,36 @@
     border-bottom: 3px solid;
 }
 
+/* Filter section: a bordered box built from the two filter rows, followed by a spacer row */
+.competition-table .filters-row > * {
+    border: 0;
+    padding-bottom: 0.75rem;
+}
+
+.competition-table .filters-title > * {
+    border-top: 1px solid var(--bs-border-color);
+    border-left: 1px solid var(--bs-border-color);
+    border-right: 1px solid var(--bs-border-color);
+}
+
+.competition-table .filters-controls > * {
+    border-bottom: 1px solid var(--bs-border-color);
+}
+
+.competition-table .filters-controls > :first-child {
+    border-left: 1px solid var(--bs-border-color);
+}
+
+.competition-table .filters-controls > :last-child {
+    border-right: 1px solid var(--bs-border-color);
+}
+
+/* Gap between the filter box and the table header */
+.competition-table .filters-spacer > * {
+    height: 1rem;
+    padding: 0;
+}
+
 /* Floating back-to-top button: fixed, so it takes no space in the layout */
 .back-to-top {
     position: fixed;

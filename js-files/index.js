@@ -10,6 +10,181 @@ let currentCompetitionSport = 'running';
 // SPORTS, formatSportName, getSportFromUrl and updateSportInUrl are defined in main.js
 // and shared across pages that support multisport filtering.
 
+// Currently displayed competitions and sort state (date ascending is the default)
+let currentCompetitions = [];
+let currentSort = { column: 'date', ascending: true };
+
+// Active filters ('all' / empty text means no filtering on that column)
+const DEFAULT_FILTERS = { month: 'all', name: '', location: 'all', county: 'all', type: 'all' };
+let competitionFilters = { ...DEFAULT_FILTERS };
+
+/**
+ * Compares two competitions chronologically (year, month, day)
+ * @returns {number} Negative, zero or positive like Array.sort comparators
+ */
+function compareByDate(a, b) {
+    return (a.year - b.year) || (a.month - b.month) || (a.day - b.day);
+}
+
+/**
+ * Sorts competitions by the given column; ties (and the date column itself) fall back to date order
+ * @param {Array} competitions - Array of competition objects
+ * @param {string} column - Column key to sort by
+ * @param {boolean} ascending - Sort direction
+ * @returns {Array} New sorted array
+ */
+function sortCompetitionList(competitions, column, ascending) {
+    const direction = ascending ? 1 : -1;
+    const collator = new Intl.Collator('ro', { sensitivity: 'base' });
+
+    return [...competitions].sort((a, b) => {
+        if (column === 'date') {
+            return direction * compareByDate(a, b);
+        }
+
+        const valA = column === 'sport' ? formatSportName(a.sport) : (a[column] || '');
+        const valB = column === 'sport' ? formatSportName(b.sport) : (b[column] || '');
+        // Empty values always go last, regardless of direction
+        if (!valA && valB) return 1;
+        if (valA && !valB) return -1;
+
+        return direction * collator.compare(String(valA), String(valB)) || compareByDate(a, b);
+    });
+}
+
+/**
+ * Handles a click on a sortable header: toggles direction on the same column, otherwise sorts ascending
+ * @param {string} column - Column key to sort by
+ */
+function sortCompetitionsBy(column) {
+    if (currentSort.column === column) {
+        currentSort.ascending = !currentSort.ascending;
+    } else {
+        currentSort = { column, ascending: true };
+    }
+    renderCurrentCompetitions();
+}
+
+/**
+ * Renders the current competitions into the container using the current sort
+ */
+function renderCurrentCompetitions() {
+    const container = document.getElementById('competitions-container');
+    container.innerHTML = renderCompetitionsTable(getVisibleCompetitions(), currentCompetitionYear, currentCompetitionSport);
+
+    container.querySelectorAll('th[data-column]').forEach(th => {
+        th.addEventListener('click', () => sortCompetitionsBy(th.dataset.column));
+    });
+    container.querySelectorAll('[data-filter]').forEach(control => {
+        control.addEventListener(control.tagName === 'INPUT' ? 'input' : 'change', () => {
+            competitionFilters[control.dataset.filter] = control.value;
+            refreshTableBody();
+        });
+    });
+    container.querySelector('[data-reset-filters]')?.addEventListener('click', resetFilters);
+}
+
+/**
+ * Restores every filter to its default ("All" / empty text) and refreshes the table body
+ */
+function resetFilters() {
+    competitionFilters = { ...DEFAULT_FILTERS };
+    document.querySelectorAll('#competitions-container [data-filter]').forEach(control => {
+        control.value = DEFAULT_FILTERS[control.dataset.filter];
+    });
+    refreshTableBody();
+}
+
+/**
+ * Re-renders only the table body (keeps the filter controls, and their focus, untouched)
+ */
+function refreshTableBody() {
+    const table = document.querySelector('#competitions-container table');
+    if (!table) return;
+
+    const template = document.createElement('template');
+    template.innerHTML = renderCompetitionsTable(getVisibleCompetitions(), currentCompetitionYear, currentCompetitionSport);
+    table.querySelector('tbody').replaceWith(template.content.querySelector('tbody'));
+}
+
+/**
+ * Applies the active filters, then the current sort
+ * @returns {Array} Competitions to display
+ */
+function getVisibleCompetitions() {
+    const normalize = text => String(text || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    const nameQuery = normalize(competitionFilters.name.trim());
+
+    const filtered = currentCompetitions.filter(competition =>
+        (competitionFilters.month === 'all' || String(competition.month) === competitionFilters.month) &&
+        (!nameQuery || normalize(competition.name).includes(nameQuery)) &&
+        (competitionFilters.location === 'all' || competition.location === competitionFilters.location) &&
+        (competitionFilters.county === 'all' || competition.county === competitionFilters.county) &&
+        (competitionFilters.type === 'all' || competition.type === competitionFilters.type)
+    );
+
+    return sortCompetitionList(filtered, currentSort.column, currentSort.ascending);
+}
+
+/**
+ * Builds a filter <select> with an "All" option followed by the given options
+ * @param {string} key - Filter key in competitionFilters
+ * @param {Array<{value: string, label: string}>} options - Options after "All"
+ * @returns {string} HTML string
+ */
+function filterSelect(key, options) {
+    const items = [{ value: 'all', label: 'All' }, ...options].map(option =>
+        `<option value="${option.value}"${competitionFilters[key] === option.value ? ' selected' : ''}>${option.label}</option>`
+    );
+    return `<select class="form-select form-select-sm" data-filter="${key}" aria-label="Filter by ${key}">${items.join('')}</select>`;
+}
+
+/**
+ * Sorted unique non-empty values of a competition field (placeholder "-" excluded)
+ * @param {string} field - Field name
+ * @returns {Array<{value: string, label: string}>} Select options
+ */
+function uniqueFieldOptions(field) {
+    const collator = new Intl.Collator('ro', { sensitivity: 'base' });
+    const values = [...new Set(currentCompetitions.map(competition => competition[field]))]
+        .filter(value => value && value !== '-')
+        .sort(collator.compare);
+    return values.map(value => ({ value, label: value }));
+}
+
+/**
+ * Builds the two filter rows (title + controls) placed under the table header so each
+ * control lines up with its column. Hidden until the "Filter competitions" checkbox is checked.
+ */
+function renderFilterRows(showSportColumn, showTypeColumn, showDistancesColumn) {
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+                        'July', 'August', 'September', 'October', 'November', 'December'];
+    const hidden = document.getElementById('filter-toggle')?.checked ? '' : ' hidden';
+    const columnCount = 4 + (showSportColumn ? 1 : 0) + (showTypeColumn ? 1 : 0) + (showDistancesColumn ? 1 : 0);
+
+    return `
+            <tr class="filters-row filters-title"${hidden}>
+                <th colspan="${columnCount}">
+                    <div class="h5 mb-2">Filters</div>
+                    <button type="button" class="btn btn-outline-secondary btn-sm" data-reset-filters>
+                        <i class="bi bi-x-circle"></i> Reset filters
+                    </button>
+                </th>
+            </tr>
+            <tr class="filters-row filters-controls"${hidden}>
+                ${showSportColumn ? '<th></th>' : ''}
+                <th>${filterSelect('month', monthNames.map((label, index) => ({ value: String(index + 1), label })))}</th>
+                <th><input type="text" class="form-control form-control-sm" data-filter="name" placeholder="Search" value="${competitionFilters.name.replace(/"/g, '&quot;')}" aria-label="Filter by competition name"></th>
+                <th>${filterSelect('location', uniqueFieldOptions('location'))}</th>
+                <th>${filterSelect('county', uniqueFieldOptions('county'))}</th>
+                ${showTypeColumn ? `<th>${filterSelect('type', uniqueFieldOptions('type'))}</th>` : ''}
+                ${showDistancesColumn ? '<th></th>' : ''}
+            </tr>
+            <tr class="filters-row filters-spacer"${hidden} aria-hidden="true">
+                <td colspan="${columnCount}"></td>
+            </tr>`;
+}
+
 /**
  * Changes the displayed year and updates the competition table
  * @param {number} year - The year to display
@@ -50,11 +225,14 @@ async function loadCompetitionsForYear(year, sport) {
                 ? allCompetitions
                 : allCompetitions.filter(competition => competition.sport === sport);
 
-            container.innerHTML = renderCompetitionsTable(competitions, year, sport);
+            currentCompetitions = competitions;
+            // Option lists depend on the loaded data, so start from a clean filter state
+            competitionFilters = { ...DEFAULT_FILTERS };
+            renderCurrentCompetitions();
 
-            // Scroll to current month if viewing current year
+            // Scroll to current month if viewing current year (only meaningful in date order)
             const now = new Date();
-            if (year === now.getFullYear()) {
+            if (year === now.getFullYear() && currentSort.column === 'date') {
                 scrollToCurrentMonth(competitions);
             }
         } else {
@@ -95,29 +273,46 @@ function renderCompetitionsTable(competitions, year, sport) {
     // Hide the Type/Distances columns entirely when none of the displayed
     // competitions have that data (e.g. most non-running sports have no "type",
     // and most non-running/swimming sports have no "distances")
-    const showTypeColumn = competitions.some(competition => !!competition.type);
+    // (based on all loaded competitions, so filtering never makes a column disappear)
+    const showTypeColumn = currentCompetitions.some(competition => !!competition.type);
     const showDistancesColumn = showFullVersion &&
-        competitions.some(competition => Array.isArray(competition.distances) && competition.distances.length > 0);
+        currentCompetitions.some(competition => Array.isArray(competition.distances) && competition.distances.length > 0);
+
+    const sortableHeader = (column, cssClass, label) => {
+        const icon = currentSort.column !== column
+            ? 'bi-arrow-down-up'
+            : (currentSort.ascending ? 'bi-sort-alpha-down' : 'bi-sort-alpha-up');
+        return `<th scope="col" class="${cssClass} user-select-none" data-column="${column}" style="cursor: pointer;">${label} <i class="bi ${icon}"></i></th>`;
+    };
 
     let html = `
         <table class="table table-striped competition-table" id="competitions_${year}">
             <thead>
             <tr>
-                ${showSportColumn ? '<th scope="col" class="col-sport">Sport</th>' : ''}
-                <th scope="col" class="col-date">Date</th>
-                <th scope="col" class="col-competition">Competition</th>
-                <th scope="col" class="col-location">Location</th>
-                <th scope="col" class="col-county">County</th>
-                ${showTypeColumn ? '<th scope="col" class="col-type">Type</th>' : ''}
+                ${showSportColumn ? sortableHeader('sport', 'col-sport', 'Sport') : ''}
+                ${sortableHeader('date', 'col-date', 'Date')}
+                ${sortableHeader('name', 'col-competition', 'Competition')}
+                ${sortableHeader('location', 'col-location', 'Location')}
+                ${sortableHeader('county', 'col-county', 'County')}
+                ${showTypeColumn ? sortableHeader('type', 'col-type', 'Type') : ''}
                 ${showDistancesColumn ? '<th scope="col" class="col-distances">Distances</th>' : ''}
             </tr>
+            ${renderFilterRows(showSportColumn, showTypeColumn, showDistancesColumn)}
             </thead>
             <tbody>
     `;
 
+    if (competitions.length === 0) {
+        const columnCount = 4 + (showSportColumn ? 1 : 0) + (showTypeColumn ? 1 : 0) + (showDistancesColumn ? 1 : 0);
+        html += `<tr><td colspan="${columnCount}" class="text-center">No competitions match the filters</td></tr>`;
+    }
+
+    // Month separators only make sense when rows are in date order
+    const groupByMonth = currentSort.column === 'date';
+
     competitions.forEach((competition, index) => {
         // Check if this is the last competition of the month
-        const isLastOfMonth = index < competitions.length - 1 &&
+        const isLastOfMonth = groupByMonth && index < competitions.length - 1 &&
                               competition.month !== competitions[index + 1].month;
 
         const rowClass = isLastOfMonth ? ' class="last-of-month"' : '';
@@ -288,8 +483,25 @@ function setupBackToTopButton() {
     });
 }
 
+/**
+ * Shows or hides the filters container when the "Filter competitions" checkbox is toggled
+ */
+function setupFilterToggle() {
+    const toggle = document.getElementById('filter-toggle');
+    if (!toggle) return;
+
+    // Browsers may restore a checked state on reload, so sync on load too
+    const sync = () => {
+        document.querySelectorAll('.filters-row').forEach(row => { row.hidden = !toggle.checked; });
+        toggle.setAttribute('aria-expanded', String(toggle.checked));
+    };
+    toggle.addEventListener('change', sync);
+    sync();
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     setupBackToTopButton();
+    setupFilterToggle();
     const currentYear = new Date().getFullYear();
     const initialSport = getSportFromUrl();
     const sportEntry = SPORTS.find(s => s.value === initialSport);
