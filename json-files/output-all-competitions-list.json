@@ -74,6 +74,17 @@
       "year_2023": "Fri 15-Dec"
     },
     {
+      "id": 695,
+      "name": "250 de ture pentru o cauză",
+      "location": "Arad",
+      "county": "AR",
+      "year_2027": "",
+      "year_2026": "Fri 20-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 18,
       "name": "2x2 Race",
       "location": "Bâlea Lac",
@@ -419,7 +430,7 @@
       "name": "AlerGând la pădure",
       "location": "Reșița",
       "county": "CS",
-      "year_2027": "",
+      "year_2027": "Sat 18-Sep",
       "year_2026": "Sat 24-Oct",
       "year_2025": "Sat 18-Oct",
       "year_2024": "Sat 26-Oct",
@@ -646,6 +657,17 @@
       "year_2023": ""
     },
     {
+      "id": 700,
+      "name": "Baia Mare Aleargă Winter Race",
+      "location": "Baia Mare",
+      "county": "MM",
+      "year_2027": "",
+      "year_2026": "Sat 12-Dec",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 323,
       "name": "Baia Mare Half Marathon",
       "location": "Baia Mare",
@@ -811,6 +833,17 @@
       "year_2023": ""
     },
     {
+      "id": 702,
+      "name": "Bison Trails",
+      "location": "Vama Buzăului",
+      "county": "BV",
+      "year_2027": "",
+      "year_2026": "Thu 25-Jun",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 631,
       "name": "Bistrița Night Run",
       "location": "Bistrița",
@@ -827,7 +860,7 @@
       "location": "Bistrița",
       "county": "BN",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 21-Nov",
       "year_2025": "Sat 8-Nov",
       "year_2024": "Sat 2-Nov",
       "year_2023": "Sat 4-Nov"
@@ -1013,7 +1046,7 @@
       "name": "Bucharest 21k",
       "location": "București",
       "county": "B",
-      "year_2027": "",
+      "year_2027": "Sun 7-Nov",
       "year_2026": "Sun 8-Nov",
       "year_2025": "",
       "year_2024": "",
@@ -1266,7 +1299,7 @@
       "name": "Cindrel In Alergare",
       "location": "Păltiniș",
       "county": "SB",
-      "year_2027": "",
+      "year_2027": "Sat 24-Jul",
       "year_2026": "Sat 25-Jul",
       "year_2025": "Sat 26-Jul",
       "year_2024": "Sat 27-Jul",
@@ -1277,7 +1310,7 @@
       "name": "Ciucaș X3",
       "location": "Cheia (PH)",
       "county": "PH",
-      "year_2027": "",
+      "year_2027": "Sat 11-Sep",
       "year_2026": "Sat 5-Sep",
       "year_2025": "Sat 6-Sep",
       "year_2024": "Sat 7-Sep",
@@ -1345,6 +1378,17 @@
       "county": "CJ",
       "year_2027": "",
       "year_2026": "Sat 17-Oct",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 696,
+      "name": "Coffee Run - Orange the World",
+      "location": "Brăila",
+      "county": "BR",
+      "year_2027": "",
+      "year_2026": "Sun 22-Nov",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -1894,7 +1938,7 @@
       "location": "Galați",
       "county": "GL",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 14-Nov",
       "year_2025": "Sat 15-Nov",
       "year_2024": "Sat 9-Nov",
       "year_2023": "Sat 11-Nov"
@@ -2594,11 +2638,11 @@
     },
     {
       "id": 411,
-      "name": "Crosul lui Mos Craciun – Satu Mare",
+      "name": "Crosul lui Moș Crăciun – Satu Mare",
       "location": "Satu Mare",
       "county": "SM",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sun 13-Dec",
       "year_2025": "Sun 14-Dec",
       "year_2024": "",
       "year_2023": ""
@@ -2979,22 +3023,11 @@
     },
     {
       "id": 584,
-      "name": "Crosul Sperantei Suceava",
+      "name": "Crosul Speranței Suceava",
       "location": "Suceava",
       "county": "SV",
-      "year_2027": "",
+      "year_2027": "Sun 18-Apr",
       "year_2026": "Sun 7-Jun",
-      "year_2025": "",
-      "year_2024": "",
-      "year_2023": ""
-    },
-    {
-      "id": 430,
-      "name": "Crosul Sport 4 all - Lugoj",
-      "location": "Lugoj",
-      "county": "TM",
-      "year_2027": "",
-      "year_2026": "Sun 17-May",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -3115,7 +3148,7 @@
       "location": "Alba Iulia",
       "county": "AB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 21-Nov",
       "year_2025": "Sat 22-Nov",
       "year_2024": "",
       "year_2023": ""
@@ -3521,7 +3554,7 @@
       "name": "Dragomirna BELL – Backyard Ultra",
       "location": "Mitocu Dragomirnei",
       "county": "SV",
-      "year_2027": "",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Fri 23-Oct",
       "year_2025": "",
       "year_2024": "",
@@ -3534,6 +3567,17 @@
       "county": "TM",
       "year_2027": "",
       "year_2026": "Sat 5-Sep",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 698,
+      "name": "Drumul Memoriei Invictus",
+      "location": "Aiud",
+      "county": "AB",
+      "year_2027": "",
+      "year_2026": "Tue 1-Dec",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -3675,7 +3719,7 @@
       "name": "Făget Winter Trail",
       "location": "Cluj-Napoca",
       "county": "CJ",
-      "year_2027": "",
+      "year_2027": "Sat 6-Feb",
       "year_2026": "Sat 7-Feb",
       "year_2025": "Sat 8-Feb",
       "year_2024": "Sat 3-Feb",
@@ -3925,10 +3969,10 @@
     },
     {
       "id": 625,
-      "name": "Getic Cross",
+      "name": "Getic Fest",
       "location": "Cuca",
       "county": "AG",
-      "year_2027": "",
+      "year_2027": "Sat 22-May",
       "year_2026": "Sat 26-Sep",
       "year_2025": "",
       "year_2024": "",
@@ -4170,7 +4214,7 @@
       "name": "Hercules Maraton",
       "location": "Băile Herculane",
       "county": "CS",
-      "year_2027": "",
+      "year_2027": "Sat 9-Oct",
       "year_2026": "Sat 10-Oct",
       "year_2025": "Sat 11-Oct",
       "year_2024": "Sat 12-Oct",
@@ -4445,7 +4489,7 @@
       "name": "Maraton Apuseni",
       "location": "Băișoara",
       "county": "CJ",
-      "year_2027": "",
+      "year_2027": "Sat 5-Jun",
       "year_2026": "Sat 6-Jun",
       "year_2025": "Sat 7-Jun",
       "year_2024": "Sat 8-Jun",
@@ -4787,7 +4831,7 @@
       "location": "Sibiu",
       "county": "SB",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 11-Dec",
       "year_2025": "Fri 12-Dec",
       "year_2024": "Mon 16-Dec",
       "year_2023": "Fri 15-Dec"
@@ -4933,6 +4977,17 @@
       "year_2026": "",
       "year_2025": "",
       "year_2024": "Sat 18-May",
+      "year_2023": ""
+    },
+    {
+      "id": 699,
+      "name": "Mikulás Trail",
+      "location": "Gheorgheni",
+      "county": "HR",
+      "year_2027": "",
+      "year_2026": "Sun 6-Dec",
+      "year_2025": "",
+      "year_2024": "",
       "year_2023": ""
     },
     {
@@ -5193,7 +5248,7 @@
       "name": "Oslea Run",
       "location": "Uricani",
       "county": "HD",
-      "year_2027": "",
+      "year_2027": "Fri 27-Aug",
       "year_2026": "Sat 29-Aug",
       "year_2025": "Sat 23-Aug",
       "year_2024": "Sat 24-Aug",
@@ -5271,7 +5326,7 @@
       "location": "Satu Mare",
       "county": "SM",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Fri 4-Dec",
       "year_2025": "Thu 4-Dec",
       "year_2024": "Wed 4-Dec",
       "year_2023": "Mon 4-Dec"
@@ -5281,7 +5336,7 @@
       "name": "Peniel Run",
       "location": "Bistrița",
       "county": "BN",
-      "year_2027": "",
+      "year_2027": "Sat 20-Mar",
       "year_2026": "Sat 13-Jun",
       "year_2025": "Sat 22-Mar",
       "year_2024": "",
@@ -5876,7 +5931,7 @@
       "location": "Bacău",
       "county": "BC",
       "year_2027": "",
-      "year_2026": "",
+      "year_2026": "Sat 19-Dec",
       "year_2025": "Sun 21-Dec",
       "year_2024": "Sun 22-Dec",
       "year_2023": "Sun 17-Dec"
@@ -5908,7 +5963,7 @@
       "name": "Săruni Trail Race",
       "location": "Zlatna",
       "county": "AB",
-      "year_2027": "",
+      "year_2027": "Sat 20-Mar",
       "year_2026": "Sat 28-Mar",
       "year_2025": "Sat 29-Mar",
       "year_2024": "",
@@ -6366,6 +6421,17 @@
       "year_2023": ""
     },
     {
+      "id": 430,
+      "name": "Sport 4 all Lugoj",
+      "location": "Lugoj",
+      "county": "TM",
+      "year_2027": "Sat 8-May",
+      "year_2026": "Sun 17-May",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 8,
       "name": "SportGuru Timișoara 21k",
       "location": "Timișoara",
@@ -6612,7 +6678,7 @@
       "name": "The Color Run - București - Spring",
       "location": "București",
       "county": "B",
-      "year_2027": "",
+      "year_2027": "Sat 17-Apr",
       "year_2026": "Sat 25-Apr",
       "year_2025": "Sat 12-Apr",
       "year_2024": "Sat 20-Apr",
@@ -6623,7 +6689,7 @@
       "name": "The Color Run - Cluj-Napoca",
       "location": "Cluj-Napoca",
       "county": "CJ",
-      "year_2027": "",
+      "year_2027": "Sat 15-May",
       "year_2026": "Sat 16-May",
       "year_2025": "Sat 10-May",
       "year_2024": "Sat 18-May",
@@ -6634,7 +6700,7 @@
       "name": "The Color Run - Iași",
       "location": "Iași",
       "county": "IS",
-      "year_2027": "",
+      "year_2027": "Sat 22-May",
       "year_2026": "Sat 13-Jun",
       "year_2025": "Sat 14-Jun",
       "year_2024": "Sat 15-Jun",
@@ -6656,7 +6722,7 @@
       "name": "The Color Run - Timișoara",
       "location": "Timișoara",
       "county": "TM",
-      "year_2027": "",
+      "year_2027": "Sat 12-Jun",
       "year_2026": "Sat 23-May",
       "year_2025": "Sat 17-May",
       "year_2024": "Sat 25-May",
@@ -6916,12 +6982,23 @@
       "year_2023": ""
     },
     {
-      "id": 689,
-      "name": "Trivale Trails Night Run",
+      "id": 697,
+      "name": "Trivale Trails Night Run - November",
       "location": "Pitești",
       "county": "AG",
       "year_2027": "",
-      "year_2026": "Tue 27-Oct",
+      "year_2026": "Tue 24-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
+      "id": 689,
+      "name": "Trivale Trails Night Run - October",
+      "location": "Pitești",
+      "county": "AG",
+      "year_2027": "",
+      "year_2026": "Wed 21-Oct",
       "year_2025": "",
       "year_2024": "",
       "year_2023": ""
@@ -7367,6 +7444,17 @@
       "year_2023": "Sat 21-Oct"
     },
     {
+      "id": 701,
+      "name": "Winter Race (Satu Mare)",
+      "location": "Satu Mare",
+      "county": "SM",
+      "year_2027": "",
+      "year_2026": "Sat 12-Dec",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "id": 35,
       "name": "Winter Run Vâlcea – Buridava",
       "location": "Ocnele Mari",
@@ -7426,7 +7514,7 @@
       "name": "Woodland Series - Trail run",
       "location": "Săldăbagiu de Munte",
       "county": "BH",
-      "year_2027": "Sun 21-Mar",
+      "year_2027": "Sat 3-Apr",
       "year_2026": "Sat 21-Mar",
       "year_2025": "Sat 22-Mar",
       "year_2024": "Sat 13-Apr",
@@ -7743,6 +7831,15 @@
       "year_2023": ""
     },
     {
+      "name": "Diabetes Run - Chișinău",
+      "location": "Chișinău",
+      "year_2027": "",
+      "year_2026": "Sat 14-Nov",
+      "year_2025": "",
+      "year_2024": "",
+      "year_2023": ""
+    },
+    {
       "name": "Ecomaraton La Fetești",
       "location": "Fetești",
       "year_2027": "",
@@ -7826,8 +7923,8 @@
     {
       "name": "Love Run Fest",
       "location": "Cricova",
-      "year_2027": "",
-      "year_2026": "",
+      "year_2027": "Sun 14-Feb",
+      "year_2026": "Sat 14-Feb",
       "year_2025": "Sat 15-Feb",
       "year_2024": "Sat 24-Feb",
       "year_2023": ""
@@ -8006,7 +8103,7 @@
     },
     {
       "name": "Cursa Imposibilă",
-      "year_2027": "",
+      "year_2027": "Sun 31-Oct",
       "year_2026": "Sun 25-Oct",
       "year_2025": "Sun 26-Oct",
       "year_2024": "",

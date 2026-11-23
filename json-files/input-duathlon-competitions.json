@@ -148,6 +148,23 @@
       ],
       "lat": 44.9167,
       "lon": 26.0333
+    },
+    {
+      "id": 9,
+      "name": "Getic Fest",
+      "location": "Cuca",
+      "county": "AG",
+      "link": "https://montera.ro/geticcross/",
+      "link_fb": "https://www.facebook.com/geticfest",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        }
+      ],
+      "lat": 44.7917,
+      "lon": 24.8917
     }
   ],
   "duathlon_competitions_no_statistics": [

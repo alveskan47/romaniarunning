@@ -637,6 +637,11 @@
       "link_fb": "https://www.facebook.com/ciucasX3",
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 11
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 5
@@ -884,6 +889,11 @@
       "link": "https://maratonapuseni.ro/",
       "link_fb": "https://www.facebook.com/msgmaratonapuseni",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
         {
           "year": 2026,
           "month": 6,
@@ -1169,6 +1179,11 @@
       "link": "https://runnersclub.ro/faget-winter-tour/",
       "link_fb": "https://www.facebook.com/RunnersClubRomania/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 2,
+          "day": 6
+        },
         {
           "year": 2026,
           "month": 2,
@@ -1593,8 +1608,8 @@
       "editions": [
         {
           "year": 2027,
-          "month": 3,
-          "day": 21
+          "month": 4,
+          "day": 3
         },
         {
           "year": 2026,
@@ -1723,6 +1738,11 @@
       "link": "https://sa-run-i.ro/",
       "link_fb": "https://www.facebook.com/profile.php?id=61566338354647",
       "editions": [
+        {
+          "year": 2027,
+          "month": 3,
+          "day": 20
+        },
         {
           "year": 2026,
           "month": 3,
@@ -4327,7 +4347,7 @@
         "10km"
       ],
       "link": "https://cspaduribistritene.ro/bistritatrailrunning/",
-      "link_fb": "https://www.facebook.com/profile.php?id=61568127260010",
+      "link_fb": "https://www.facebook.com/bistritatrailrunning",
       "editions": [
         {
           "year": 2027,
@@ -4417,6 +4437,11 @@
       "link_fb": "https://www.facebook.com/TheColorRunRO/",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
+        {
           "year": 2026,
           "month": 4,
           "day": 25
@@ -4452,6 +4477,11 @@
       "link": "https://www.thecolorrun.ro/evenimente/",
       "link_fb": "https://www.facebook.com/TheColorRunRO/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 15
+        },
         {
           "year": 2026,
           "month": 5,
@@ -4489,6 +4519,11 @@
       "link_fb": "https://www.facebook.com/TheColorRunRO/",
       "editions": [
         {
+          "year": 2027,
+          "month": 6,
+          "day": 12
+        },
+        {
           "year": 2026,
           "month": 5,
           "day": 23
@@ -4524,6 +4559,11 @@
       "link": "https://www.thecolorrun.ro/evenimente/",
       "link_fb": "https://www.facebook.com/TheColorRunRO/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        },
         {
           "year": 2026,
           "month": 6,
@@ -5346,6 +5386,11 @@
       "link": "https://21k.ro/portfolio/bucharest-21k/",
       "link_fb": "https://www.facebook.com/ecostuff.romania",
       "editions": [
+        {
+          "year": 2027,
+          "month": 11,
+          "day": 7
+        },
         {
           "year": 2026,
           "month": 11,
@@ -6412,6 +6457,11 @@
       "link": "https://www.run.peniel.ro/",
       "link_fb": "https://www.facebook.com/PenielRun",
       "editions": [
+        {
+          "year": 2027,
+          "month": 3,
+          "day": 20
+        },
         {
           "year": 2026,
           "month": 6,
@@ -9922,6 +9972,11 @@
       "link_fb": "https://www.facebook.com/Inalergare/",
       "editions": [
         {
+          "year": 2027,
+          "month": 7,
+          "day": 24
+        },
+        {
           "year": 2026,
           "month": 7,
           "day": 25
@@ -10297,6 +10352,11 @@
       "link": "https://run.oslea.ro/",
       "link_fb": "https://www.facebook.com/oslearun/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 8,
+          "day": 27
+        },
         {
           "year": 2026,
           "month": 8,
@@ -11547,6 +11607,11 @@
       "link_fb": "https://www.facebook.com/HerculesMaraton",
       "editions": [
         {
+          "year": 2027,
+          "month": 10,
+          "day": 9
+        },
+        {
           "year": 2026,
           "month": 10,
           "day": 10
@@ -12197,6 +12262,11 @@
       "link": "https://alergandlapadure.ro/",
       "link_fb": "https://www.facebook.com/alergandlapadure",
       "editions": [
+        {
+          "year": 2027,
+          "month": 9,
+          "day": 18
+        },
         {
           "year": 2026,
           "month": 10,
@@ -13465,13 +13535,17 @@
       "county": "BN",
       "type": "trail",
       "distances": [
-        "31km",
         "13km",
         "6km"
       ],
-      "link": "https://www.facebook.com/profile.php?id=61552233767137",
-      "link_fb": "https://www.facebook.com/profile.php?id=61552233767137",
+      "link": "https://november.run/",
+      "link_fb": "https://www.facebook.com/NovemberRun/",
       "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 21
+        },
         {
           "year": 2025,
           "month": 11,
@@ -13659,6 +13733,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 11,
+          "day": 14,
+          "event_link": "https://www.facebook.com/events/1643816617199708"
+        },
+        {
           "year": 2025,
           "month": 11,
           "day": 15,
@@ -13786,6 +13866,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 11,
+          "day": 21,
+          "event_link": "https://www.facebook.com/photo?fbid=1736409231853233&set=a.561309769363191"
+        },
+        {
           "year": 2025,
           "month": 11,
           "day": 22,
@@ -13912,6 +13998,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 12,
+          "day": 11,
+          "event_link": "https://clubulsportiv.com/marea-mosmondeala-editia-a-ix-a/"
+        },
+        {
           "year": 2025,
           "month": 12,
           "day": 12,
@@ -13935,7 +14027,7 @@
     },
     {
       "id": 411,
-      "name": "Crosul lui Mos Craciun – Satu Mare",
+      "name": "Crosul lui Moș Crăciun – Satu Mare",
       "location": "Satu Mare",
       "county": "SM",
       "type": "road",
@@ -13947,6 +14039,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 13,
+          "event_link": "https://www.facebook.com/events/s/crosul-lui-mos-craciun/1194357336265644/"
+        },
         {
           "year": 2025,
           "month": 12,
@@ -14043,6 +14141,12 @@
       "link": "",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 19,
+          "event_link": "https://www.facebook.com/events/1675623564028356"
+        },
         {
           "year": 2025,
           "month": 12,
@@ -14439,7 +14543,7 @@
     },
     {
       "id": 430,
-      "name": "Crosul Sport 4 all - Lugoj",
+      "name": "Sport 4 all Lugoj",
       "location": "Lugoj",
       "county": "TM",
       "type": "road",
@@ -14451,6 +14555,11 @@
       "link": "https://sport4alllugoj.ro/",
       "link_fb": "",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 8
+        },
         {
           "year": 2026,
           "month": 5,
@@ -16811,6 +16920,12 @@
       "link_fb": "",
       "editions": [
         {
+          "year": 2026,
+          "month": 12,
+          "day": 4,
+          "event_link": "https://www.facebook.com/events/1290374929773293/"
+        },
+        {
           "year": 2025,
           "month": 12,
           "day": 4,
@@ -18119,16 +18234,21 @@
     },
     {
       "id": 584,
-      "name": "Crosul Sperantei Suceava",
+      "name": "Crosul Speranței Suceava",
       "location": "Suceava",
       "county": "SV",
       "type": "road",
       "distances": [
         "2.5km"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://acstrib.ro/",
+      "link_fb": "https://www.facebook.com/TRIBSV",
       "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 18
+        },
         {
           "year": 2026,
           "month": 6,
@@ -19064,7 +19184,7 @@
     },
     {
       "id": 625,
-      "name": "Getic Cross",
+      "name": "Getic Fest",
       "location": "Cuca",
       "county": "AG",
       "type": "trail",
@@ -19074,8 +19194,13 @@
         "2km"
       ],
       "link": "https://montera.ro/geticcross/",
-      "link_fb": "",
+      "link_fb": "https://www.facebook.com/geticfest",
       "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        },
         {
           "year": 2026,
           "month": 9,
@@ -19522,9 +19647,14 @@
       "distances": [
         "6,706/lap"
       ],
-      "link": "",
-      "link_fb": "",
+      "link": "https://acstrib.ro/dragomirna-bell/",
+      "link_fb": "https://www.facebook.com/TRIBSV",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 5
+        },
         {
           "year": 2026,
           "month": 10,
@@ -20503,7 +20633,7 @@
     },
     {
       "id": 689,
-      "name": "Trivale Trails Night Run",
+      "name": "Trivale Trails Night Run - October",
       "location": "Pitești",
       "county": "AG",
       "type": "trail",
@@ -20516,7 +20646,7 @@
         {
           "year": 2026,
           "month": 10,
-          "day": 27
+          "day": 21
         }
       ],
       "lat": 44.8604,
@@ -20629,6 +20759,181 @@
       ],
       "lat": 45.9582,
       "lon": 23.5681
+    },
+    {
+      "id": 695,
+      "name": "250 de ture pentru o cauză",
+      "location": "Arad",
+      "county": "AR",
+      "type": "track",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 20,
+          "event_link": "https://www.facebook.com/events/s/250-de-ture-un-singur-scop/3743021512513083/"
+        }
+      ],
+      "lat": 46.1866,
+      "lon": 21.3123
+    },
+    {
+      "id": 696,
+      "name": "Coffee Run - Orange the World",
+      "location": "Brăila",
+      "county": "BR",
+      "type": "road",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 22,
+          "event_link": "https://luma.com/6hbf06gc"
+        }
+      ],
+      "lat": 45.2692,
+      "lon": 27.9575
+    },
+    {
+      "id": 697,
+      "name": "Trivale Trails Night Run - November",
+      "location": "Pitești",
+      "county": "AG",
+      "type": "trail",
+      "distances": [
+        "5km(130m↑)"
+      ],
+      "link": "https://www.facebook.com/profile.php?id=61572430824370",
+      "link_fb": "https://www.facebook.com/profile.php?id=61572430824370",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 24
+        }
+      ],
+      "lat": 44.8604,
+      "lon": 24.8703
+    },
+    {
+      "id": 698,
+      "name": "Drumul Memoriei Invictus",
+      "location": "Aiud",
+      "county": "AB",
+      "type": "road",
+      "distances": [
+        "34km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 1,
+          "event_link": "https://docs.google.com/forms/d/e/1FAIpQLSdJLxck1q9KL2aH0kB7EqJnGew-9AR0O_tjL0bcMvUirraK-g/viewform"
+        }
+      ],
+      "lat": 46.3163,
+      "lon": 23.7217
+    },
+    {
+      "id": 699,
+      "name": "Mikulás Trail",
+      "location": "Gheorgheni",
+      "county": "HR",
+      "type": "road",
+      "distances": [
+        "10km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 6,
+          "event_link": "https://www.facebook.com/events/2048965689141036"
+        }
+      ],
+      "lat": 46.7167,
+      "lon": 25.5833
+    },
+    {
+      "id": 700,
+      "name": "Baia Mare Aleargă Winter Race",
+      "location": "Baia Mare",
+      "county": "MM",
+      "type": "road",
+      "distances": [
+        "5km",
+        "1km"
+      ],
+      "link": "https://winterace.maratonmaramures.ro/",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 12
+        }
+      ],
+      "lat": 47.6667,
+      "lon": 23.5833
+    },
+    {
+      "id": 701,
+      "name": "Winter Race (Satu Mare)",
+      "location": "Satu Mare",
+      "county": "SM",
+      "type": "road",
+      "distances": [
+        "⚠ only teams",
+        "⚠ only children"
+      ],
+      "link": "https://www.crossgymsatumare.ro/ro/winter-race",
+      "link_fb": "https://www.facebook.com/CrossgymSM",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 12
+        }
+      ],
+      "lat": 47.7917,
+      "lon": 22.8833
+    },
+    {
+      "id": 702,
+      "name": "Bison Trails",
+      "location": "Vama Buzăului",
+      "county": "BV",
+      "type": "trail",
+      "distances": [
+        "-"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 6,
+          "day": 25,
+          "event_link": "https://www.facebook.com/events/1130237749884366"
+        }
+      ],
+      "lat": 45.5436,
+      "lon": 26.1167
     }
   ],
   "running_competitions_no_statistics": [
@@ -20683,6 +20988,11 @@
       "link": "https://aleargaromania.ro/cursa-imposibila/",
       "link_fb": "https://www.facebook.com/AleargaRomania/",
       "editions": [
+        {
+          "year": 2027,
+          "month": 10,
+          "day": 31
+        },
         {
           "year": 2026,
           "month": 10,
@@ -21068,6 +21378,16 @@
       "link": "https://www.runmoldova.com/",
       "link_fb": "https://www.facebook.com/runmoldova",
       "editions": [
+        {
+          "year": 2027,
+          "month": 2,
+          "day": 14
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "day": 14
+        },
         {
           "year": 2025,
           "month": 2,
@@ -21853,6 +22173,31 @@
           "month": 2,
           "day": 28,
           "event_link": "https://www.facebook.com/events/852754674562216"
+        }
+      ],
+      "lat": 47.0106,
+      "lon": 28.8638
+    },
+    {
+      "id": 0,
+      "name": "Diabetes Run - Chișinău",
+      "location": "Chișinău",
+      "location_details": "Republica Moldova",
+      "county": "MDA*",
+      "type": "trail",
+      "distances": [
+        "10km",
+        "5km",
+        "2.5km"
+      ],
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 11,
+          "day": 14,
+          "event_link": "https://www.facebook.com/photo/?fbid=1755298249930165&set=a.532822295511106"
         }
       ],
       "lat": 47.0106,

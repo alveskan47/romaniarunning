@@ -101,6 +101,27 @@
     "sport": "skiing"
   },
   {
+    "name": "Făget Winter Trail",
+    "location": "Cluj-Napoca",
+    "location_details": "Pădurea Făget",
+    "display_date": "Sat 06-Feb-2027",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "15km",
+      "8km"
+    ],
+    "link": "https://runnersclub.ro/faget-winter-tour/",
+    "link_fb": "https://www.facebook.com/RunnersClubRomania/",
+    "id": 29,
+    "year": 2027,
+    "month": 2,
+    "day": 6,
+    "lat": 46.7686678405,
+    "lon": 23.5717052975,
+    "sport": "running"
+  },
+  {
     "name": "Viteza pe faleza",
     "location": "Brăila",
     "location_details": "Faleza Dunării Brăila",
@@ -118,6 +139,27 @@
     "day": 7,
     "lat": 45.269205,
     "lon": 27.957505,
+    "sport": "running"
+  },
+  {
+    "name": "Love Run Fest",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "display_date": "Sun 14-Feb-2027",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "8km",
+      "4km"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
+    "id": 0,
+    "year": 2027,
+    "month": 2,
+    "day": 14,
+    "lat": 47.1333,
+    "lon": 28.8667,
     "sport": "running"
   },
   {
@@ -271,6 +313,49 @@
     "sport": "running"
   },
   {
+    "name": "Săruni Trail Race",
+    "location": "Zlatna",
+    "location_details": "",
+    "display_date": "Sat 20-Mar-2027",
+    "county": "AB",
+    "type": "trail",
+    "distances": [
+      "37km(1700m↑)",
+      "16km(7500m↑)",
+      "2.8km(130m↑)"
+    ],
+    "link": "https://sa-run-i.ro/",
+    "link_fb": "https://www.facebook.com/profile.php?id=61566338354647",
+    "id": 43,
+    "year": 2027,
+    "month": 3,
+    "day": 20,
+    "lat": 46.1167,
+    "lon": 23.2167,
+    "sport": "running"
+  },
+  {
+    "name": "Peniel Run",
+    "location": "Bistrița",
+    "location_details": "",
+    "display_date": "Sat 20-Mar-2027",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "21km",
+      "10km"
+    ],
+    "link": "https://www.run.peniel.ro/",
+    "link_fb": "https://www.facebook.com/PenielRun",
+    "id": 172,
+    "year": 2027,
+    "month": 3,
+    "day": 20,
+    "lat": 47.133305,
+    "lon": 24.5,
+    "sport": "running"
+  },
+  {
     "name": "SportGuru Timișoara 21k",
     "location": "Timișoara",
     "location_details": "",
@@ -290,27 +375,6 @@
     "day": 21,
     "lat": 45.7537914831,
     "lon": 21.2259904857,
-    "sport": "running"
-  },
-  {
-    "name": "Woodland Series - Trail run",
-    "location": "Săldăbagiu de Munte",
-    "location_details": "",
-    "display_date": "Sun 21-Mar-2027",
-    "county": "BH",
-    "type": "trail",
-    "distances": [
-      "10km(300m↑)",
-      "5km(140m↑)"
-    ],
-    "link": "https://www.club3sport.ro/",
-    "link_fb": "https://www.facebook.com/WoodLandSeriesTrail",
-    "id": 40,
-    "year": 2027,
-    "month": 3,
-    "day": 21,
-    "lat": 46.8167,
-    "lon": 22.3667,
     "sport": "running"
   },
   {
@@ -420,6 +484,27 @@
     "sport": "running"
   },
   {
+    "name": "Woodland Series - Trail run",
+    "location": "Săldăbagiu de Munte",
+    "location_details": "",
+    "display_date": "Sat 03-Apr-2027",
+    "county": "BH",
+    "type": "trail",
+    "distances": [
+      "10km(300m↑)",
+      "5km(140m↑)"
+    ],
+    "link": "https://www.club3sport.ro/",
+    "link_fb": "https://www.facebook.com/WoodLandSeriesTrail",
+    "id": 40,
+    "year": 2027,
+    "month": 4,
+    "day": 3,
+    "lat": 46.8167,
+    "lon": 22.3667,
+    "sport": "running"
+  },
+  {
     "name": "Bistrița Trail Running",
     "location": "Bistrița",
     "location_details": "",
@@ -432,7 +517,7 @@
       "10km"
     ],
     "link": "https://cspaduribistritene.ro/bistritatrailrunning/",
-    "link_fb": "https://www.facebook.com/profile.php?id=61568127260010",
+    "link_fb": "https://www.facebook.com/bistritatrailrunning",
     "id": 106,
     "year": 2027,
     "month": 4,
@@ -551,6 +636,24 @@
     "sport": "running"
   },
   {
+    "name": "Triada MTB Avrig",
+    "location": "Avrig",
+    "location_details": "",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "SB",
+    "type": "",
+    "distances": [],
+    "link": "https://triadamtb.ro/triada-mtb-avrig/",
+    "link_fb": "https://www.facebook.com/TriadaMTB/",
+    "id": 19,
+    "year": 2027,
+    "month": 4,
+    "day": 17,
+    "lat": 45.7257,
+    "lon": 24.377,
+    "sport": "cycling"
+  },
+  {
     "name": "Divertiland Duatlon",
     "location": "Chiajna",
     "location_details": "",
@@ -658,6 +761,26 @@
     "sport": "running"
   },
   {
+    "name": "The Color Run - București - Spring",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sat 17-Apr-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
+    "id": 109,
+    "year": 2027,
+    "month": 4,
+    "day": 17,
+    "lat": 44.4223331273,
+    "lon": 26.1548481031,
+    "sport": "running"
+  },
+  {
     "name": "Brăila 10k",
     "location": "Brăila",
     "location_details": "",
@@ -702,6 +825,44 @@
     "lat": 45.64271,
     "lon": 25.588685,
     "sport": "running"
+  },
+  {
+    "name": "Crosul Speranței Suceava",
+    "location": "Suceava",
+    "location_details": "",
+    "display_date": "Sun 18-Apr-2027",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "2.5km"
+    ],
+    "link": "https://acstrib.ro/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
+    "id": 584,
+    "year": 2027,
+    "month": 4,
+    "day": 18,
+    "lat": 47.65,
+    "lon": 26.25,
+    "sport": "running"
+  },
+  {
+    "name": "Pedale pe Ardeal",
+    "location": "Făgăraș",
+    "location_details": "",
+    "display_date": "Thu 22-Apr-2027",
+    "county": "BV",
+    "type": "",
+    "distances": [],
+    "link": "https://alergaras.ro/pedale-pe-ardeal-15/",
+    "link_fb": "h",
+    "id": 98,
+    "year": 2027,
+    "month": 4,
+    "day": 22,
+    "lat": 45.8417,
+    "lon": 24.975,
+    "sport": "cycling"
   },
   {
     "name": "Maratonul Vinului",
@@ -999,6 +1160,28 @@
     "sport": "running"
   },
   {
+    "name": "Sport 4 all Lugoj",
+    "location": "Lugoj",
+    "location_details": "",
+    "display_date": "Sat 08-May-2027",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "6km",
+      "4km",
+      "2km"
+    ],
+    "link": "https://sport4alllugoj.ro/",
+    "link_fb": "",
+    "id": 430,
+    "year": 2027,
+    "month": 5,
+    "day": 8,
+    "lat": 45.6833,
+    "lon": 21.900005,
+    "sport": "running"
+  },
+  {
     "name": "Maraton Bârzava - Csíkborzsova maraton",
     "location": "Bârzava",
     "location_details": "",
@@ -1096,6 +1279,26 @@
     "day": 14,
     "lat": 45.1767,
     "lon": 28.8022,
+    "sport": "running"
+  },
+  {
+    "name": "The Color Run - Cluj-Napoca",
+    "location": "Cluj-Napoca",
+    "location_details": "",
+    "display_date": "Sat 15-May-2027",
+    "county": "CJ",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
+    "id": 110,
+    "year": 2027,
+    "month": 5,
+    "day": 15,
+    "lat": 46.7686778405,
+    "lon": 23.5716852975,
     "sport": "running"
   },
   {
@@ -1202,6 +1405,42 @@
     "sport": "cycling"
   },
   {
+    "name": "Getic Fest",
+    "location": "Cuca",
+    "location_details": "",
+    "display_date": "Sat 22-May-2027",
+    "county": "AG",
+    "type": "",
+    "distances": [],
+    "link": "https://montera.ro/geticcross/",
+    "link_fb": "https://www.facebook.com/geticfest",
+    "id": 97,
+    "year": 2027,
+    "month": 5,
+    "day": 22,
+    "lat": 44.7917,
+    "lon": 24.8917,
+    "sport": "cycling"
+  },
+  {
+    "name": "Getic Fest",
+    "location": "Cuca",
+    "location_details": "",
+    "display_date": "Sat 22-May-2027",
+    "county": "AG",
+    "type": "",
+    "distances": [],
+    "link": "https://montera.ro/geticcross/",
+    "link_fb": "https://www.facebook.com/geticfest",
+    "id": 9,
+    "year": 2027,
+    "month": 5,
+    "day": 22,
+    "lat": 44.7917,
+    "lon": 24.8917,
+    "sport": "duathlon"
+  },
+  {
     "name": "Brașov Marathon",
     "location": "Brașov",
     "location_details": "",
@@ -1246,6 +1485,26 @@
     "sport": "running"
   },
   {
+    "name": "The Color Run - Iași",
+    "location": "Iași",
+    "location_details": "",
+    "display_date": "Sat 22-May-2027",
+    "county": "IS",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
+    "id": 112,
+    "year": 2027,
+    "month": 5,
+    "day": 22,
+    "lat": 47.1574305088,
+    "lon": 27.5869656538,
+    "sport": "running"
+  },
+  {
     "name": "S24H",
     "location": "Timișoara",
     "location_details": "",
@@ -1266,6 +1525,28 @@
     "day": 22,
     "lat": 45.7538014831,
     "lon": 21.2260204857,
+    "sport": "running"
+  },
+  {
+    "name": "Getic Fest",
+    "location": "Cuca",
+    "location_details": "",
+    "display_date": "Sat 22-May-2027",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "21.8km",
+      "8km",
+      "2km"
+    ],
+    "link": "https://montera.ro/geticcross/",
+    "link_fb": "https://www.facebook.com/geticfest",
+    "id": 625,
+    "year": 2027,
+    "month": 5,
+    "day": 22,
+    "lat": 44.7917,
+    "lon": 24.8917,
     "sport": "running"
   },
   {
@@ -1536,6 +1817,30 @@
     "sport": "orienteering"
   },
   {
+    "name": "Maraton Apuseni",
+    "location": "Băișoara",
+    "location_details": "Muntele Băișorii",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "CJ",
+    "type": "trail",
+    "distances": [
+      "66.1km(3100m↑)",
+      "44.8km(2531m↑)",
+      "23.2km(1110m↑)",
+      "12.2km(570m↑)",
+      "2.4km(66m↑)"
+    ],
+    "link": "https://maratonapuseni.ro/",
+    "link_fb": "https://www.facebook.com/msgmaratonapuseni",
+    "id": 22,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 46.7686678405,
+    "lon": 23.5716952975,
+    "sport": "running"
+  },
+  {
     "name": "Festivalul Sporturilor Iași",
     "location": "Iași",
     "location_details": "",
@@ -1669,6 +1974,26 @@
     "sport": "running"
   },
   {
+    "name": "Dragomirna BELL – Backyard Ultra",
+    "location": "Mitocu Dragomirnei",
+    "location_details": "",
+    "display_date": "Sat 05-Jun-2027",
+    "county": "SV",
+    "type": "road",
+    "distances": [
+      "6,706/lap"
+    ],
+    "link": "https://acstrib.ro/dragomirna-bell/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
+    "id": 645,
+    "year": 2027,
+    "month": 6,
+    "day": 5,
+    "lat": 47.6833,
+    "lon": 26.1167,
+    "sport": "running"
+  },
+  {
     "name": " X-Man Romania",
     "location": "Oradea",
     "location_details": "",
@@ -1792,6 +2117,26 @@
     "day": 12,
     "lat": 45.3667,
     "lon": 25.4833,
+    "sport": "running"
+  },
+  {
+    "name": "The Color Run - Timișoara",
+    "location": "Timișoara",
+    "location_details": "",
+    "display_date": "Sat 12-Jun-2027",
+    "county": "TM",
+    "type": "road",
+    "distances": [
+      "5km"
+    ],
+    "link": "https://www.thecolorrun.ro/evenimente/",
+    "link_fb": "https://www.facebook.com/TheColorRunRO/",
+    "id": 111,
+    "year": 2027,
+    "month": 6,
+    "day": 12,
+    "lat": 45.7538014831,
+    "lon": 21.2260004857,
     "sport": "running"
   },
   {
@@ -1939,6 +2284,24 @@
     "lat": 45.5667,
     "lon": 25.3167,
     "sport": "running"
+  },
+  {
+    "name": "Transilvania Bike Trails Race",
+    "location": "Saschiz",
+    "location_details": "",
+    "display_date": "Fri 25-Jun-2027",
+    "county": "MS",
+    "type": "",
+    "distances": [],
+    "link": "https://tbtrace.ro/",
+    "link_fb": "https://www.facebook.com/TransilvaniaBikeTrailsRace",
+    "id": 30,
+    "year": 2027,
+    "month": 6,
+    "day": 25,
+    "lat": 46.1941,
+    "lon": 24.9619,
+    "sport": "cycling"
   },
   {
     "name": "Transylvania Triathlon Festival",
@@ -2127,6 +2490,42 @@
     "sport": "running"
   },
   {
+    "name": "Păltiniș Challenge",
+    "location": "Păltiniș",
+    "location_details": "",
+    "display_date": "Sun 04-Jul-2027",
+    "county": "SB",
+    "type": "",
+    "distances": [],
+    "link": "https://paltinis.t-challenge.ro/",
+    "link_fb": "https://www.facebook.com/p/P%C4%83ltini%C8%99-Challenge-100088731273586/",
+    "id": 99,
+    "year": 2027,
+    "month": 7,
+    "day": 4,
+    "lat": 45.55,
+    "lon": 23.9667,
+    "sport": "cycling"
+  },
+  {
+    "name": "Transfăgărășan Challenge",
+    "location": "Albota",
+    "location_details": "",
+    "display_date": "Mon 05-Jul-2027",
+    "county": "AG",
+    "type": "",
+    "distances": [],
+    "link": "https://t-challenge.ro/en/",
+    "link_fb": "https://www.facebook.com/transfagarasanchallenge",
+    "id": 100,
+    "year": 2027,
+    "month": 7,
+    "day": 5,
+    "lat": 44.7814,
+    "lon": 24.8481,
+    "sport": "cycling"
+  },
+  {
     "name": "Obciniada Night Run",
     "location": "Gura Humorului",
     "location_details": "",
@@ -2277,6 +2676,29 @@
     "day": 24,
     "lat": 47.5167,
     "lon": 25.566695,
+    "sport": "running"
+  },
+  {
+    "name": "Cindrel In Alergare",
+    "location": "Păltiniș",
+    "location_details": "",
+    "display_date": "Sat 24-Jul-2027",
+    "county": "SB",
+    "type": "trail",
+    "distances": [
+      "91km(5500m↑)",
+      "42km(1900m↑)",
+      "21km(1000m↑)",
+      "12km(500m↑)"
+    ],
+    "link": "https://www.inalergare.ro/",
+    "link_fb": "https://www.facebook.com/Inalergare/",
+    "id": 283,
+    "year": 2027,
+    "month": 7,
+    "day": 24,
+    "lat": 45.55,
+    "lon": 23.9667,
     "sport": "running"
   },
   {
@@ -2486,6 +2908,29 @@
     "sport": "running"
   },
   {
+    "name": "Oslea Run",
+    "location": "Uricani",
+    "location_details": "Cabana Vanatoreasca - Campusel",
+    "display_date": "Fri 27-Aug-2027",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "41km(3000m↑)",
+      "26km(2000m↑)",
+      "15km(1000m↑)",
+      "8.5km(500m↑)"
+    ],
+    "link": "https://run.oslea.ro/",
+    "link_fb": "https://www.facebook.com/oslearun/",
+    "id": 295,
+    "year": 2027,
+    "month": 8,
+    "day": 27,
+    "lat": 45.3333,
+    "lon": 23.4167,
+    "sport": "running"
+  },
+  {
     "name": "Râșnov Medieval Run",
     "location": "Râșnov",
     "location_details": "",
@@ -2568,6 +3013,28 @@
     "lat": 45.3667,
     "lon": 24.6333,
     "sport": "triathlon"
+  },
+  {
+    "name": "Ciucaș X3",
+    "location": "Cheia (PH)",
+    "location_details": "",
+    "display_date": "Sat 11-Sep-2027",
+    "county": "PH",
+    "type": "trail",
+    "distances": [
+      "38.8km(2390m↑)",
+      "21.9km(1170m↑)",
+      "9.1km(420m↑)"
+    ],
+    "link": "https://ciucasx3.ro/",
+    "link_fb": "https://www.facebook.com/ciucasX3",
+    "id": 16,
+    "year": 2027,
+    "month": 9,
+    "day": 11,
+    "lat": 45.3833,
+    "lon": 26.0167,
+    "sport": "running"
   },
   {
     "name": "Woodrocks Trail Run",
@@ -2660,6 +3127,29 @@
     "day": 18,
     "lat": 45.8167,
     "lon": 24.1833,
+    "sport": "running"
+  },
+  {
+    "name": "AlerGând la pădure",
+    "location": "Reșița",
+    "location_details": "",
+    "display_date": "Sat 18-Sep-2027",
+    "county": "CS",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2km"
+    ],
+    "link": "https://alergandlapadure.ro/",
+    "link_fb": "https://www.facebook.com/alergandlapadure",
+    "id": 355,
+    "year": 2027,
+    "month": 9,
+    "day": 18,
+    "lat": 45.300005,
+    "lon": 21.883295,
     "sport": "running"
   },
   {
@@ -2889,6 +3379,28 @@
     "sport": "running"
   },
   {
+    "name": "Hercules Maraton",
+    "location": "Băile Herculane",
+    "location_details": "",
+    "display_date": "Sat 09-Oct-2027",
+    "county": "CS",
+    "type": "trail",
+    "distances": [
+      "43km(2300m↑)",
+      "21km(1100m↑)",
+      "4km(180m↑)"
+    ],
+    "link": "https://hercules-maraton.ro/",
+    "link_fb": "https://www.facebook.com/HerculesMaraton",
+    "id": 335,
+    "year": 2027,
+    "month": 10,
+    "day": 9,
+    "lat": 44.8833,
+    "lon": 22.4167,
+    "sport": "running"
+  },
+  {
     "name": "Bucharest Marathon",
     "location": "București",
     "location_details": "",
@@ -2975,6 +3487,47 @@
     "day": 31,
     "lat": 47.1574405088,
     "lon": 27.5869456538,
+    "sport": "running"
+  },
+  {
+    "name": "Cursa Imposibilă",
+    "location": "anywhere",
+    "location_details": "",
+    "display_date": "Sun 31-Oct-2027",
+    "county": "-",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://aleargaromania.ro/cursa-imposibila/",
+    "link_fb": "https://www.facebook.com/AleargaRomania/",
+    "id": 0,
+    "year": 2027,
+    "month": 10,
+    "day": 31,
+    "sport": "running"
+  },
+  {
+    "name": "Bucharest 21k",
+    "location": "București",
+    "location_details": "",
+    "display_date": "Sun 07-Nov-2027",
+    "county": "B",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://21k.ro/portfolio/bucharest-21k/",
+    "link_fb": "https://www.facebook.com/ecostuff.romania",
+    "id": 137,
+    "year": 2027,
+    "month": 11,
+    "day": 7,
+    "lat": 44.4223331273,
+    "lon": 26.1548681031,
     "sport": "running"
   },
   {

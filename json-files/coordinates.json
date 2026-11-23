@@ -134,6 +134,13 @@
   },
   {
     "county": "AG",
+    "location": "Albota",
+    "location_details": "",
+    "lat": 44.7814,
+    "lon": 24.8481
+  },
+  {
+    "county": "AG",
     "location": "Arefu",
     "location_details": "",
     "lat": 45.3667,
@@ -978,6 +985,13 @@
     "location_details": "Babarunca",
     "lat": 45.515,
     "lon": 25.8446
+  },
+  {
+    "county": "BV",
+    "location": "Vama Buzăului",
+    "location_details": "",
+    "lat": 45.5436,
+    "lon": 26.1167
   },
   {
     "county": "BV",
@@ -1914,8 +1928,8 @@
     "county": "HR",
     "location": "Gheorgheni",
     "location_details": "Lacul Roșu",
-    "lat": null,
-    "lon": null
+    "lat": 46.7936,
+    "lon": 25.7978
   },
   {
     "county": "HR",

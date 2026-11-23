@@ -344,6 +344,11 @@
       "link_fb": "https://www.facebook.com/TriadaMTB/",
       "editions": [
         {
+          "year": 2027,
+          "month": 4,
+          "day": 17
+        },
+        {
           "year": 2026,
           "month": 4,
           "day": 18
@@ -534,6 +539,11 @@
       "link": "https://tbtrace.ro/",
       "link_fb": "https://www.facebook.com/TransilvaniaBikeTrailsRace",
       "editions": [
+        {
+          "year": 2027,
+          "month": 6,
+          "day": 25
+        },
         {
           "year": 2026,
           "month": 8,
@@ -1702,6 +1712,92 @@
       ],
       "lat": 47.1574405088454,
       "lon": 27.58696065379542
+    },
+    {
+      "id": 96,
+      "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
+      "location": "Satu Mare",
+      "county": "SM",
+      "link": "",
+      "link_fb": "",
+      "editions": [
+        {
+          "year": 2026,
+          "month": 12,
+          "day": 4,
+          "event_link": "https://www.facebook.com/events/1290374929773293/"
+        }
+      ],
+      "lat": 47.7917,
+      "lon": 22.8833
+    },
+    {
+      "id": 97,
+      "name": "Getic Fest",
+      "location": "Cuca",
+      "county": "AG",
+      "link": "https://montera.ro/geticcross/",
+      "link_fb": "https://www.facebook.com/geticfest",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 5,
+          "day": 22
+        }
+      ],
+      "lat": 44.7917,
+      "lon": 24.8917
+    },
+    {
+      "id": 98,
+      "name": "Pedale pe Ardeal",
+      "location": "Făgăraș",
+      "county": "BV",
+      "link": "https://alergaras.ro/pedale-pe-ardeal-15/",
+      "link_fb": "h",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 4,
+          "day": 22
+        }
+      ],
+      "lat": 45.8417,
+      "lon": 24.975
+    },
+    {
+      "id": 99,
+      "name": "Păltiniș Challenge",
+      "location": "Păltiniș",
+      "county": "SB",
+      "link": "https://paltinis.t-challenge.ro/",
+      "link_fb": "https://www.facebook.com/p/P%C4%83ltini%C8%99-Challenge-100088731273586/",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 7,
+          "day": 4
+        }
+      ],
+      "lat": 45.55,
+      "lon": 23.9667
+    },
+    {
+      "id": 100,
+      "name": "Transfăgărășan Challenge",
+      "location": "Albota",
+      "county": "AG",
+      "link": "https://t-challenge.ro/en/",
+      "link_fb": "https://www.facebook.com/transfagarasanchallenge",
+      "editions": [
+        {
+          "year": 2027,
+          "month": 7,
+          "day": 5
+        }
+      ],
+      "lat": 44.7814,
+      "lon": 24.8481
     }
   ],
   "cycling_competitions_no_statistics": [

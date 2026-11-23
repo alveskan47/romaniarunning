@@ -279,6 +279,27 @@
     "sport": "running"
   },
   {
+    "name": "Love Run Fest",
+    "location": "Cricova",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 14-Feb-2026",
+    "county": "MDA*",
+    "type": "wine cellar",
+    "distances": [
+      "8km",
+      "4km"
+    ],
+    "link": "https://www.runmoldova.com/",
+    "link_fb": "https://www.facebook.com/runmoldova",
+    "id": 0,
+    "year": 2026,
+    "month": 2,
+    "day": 14,
+    "lat": 47.1333,
+    "lon": 28.8667,
+    "sport": "running"
+  },
+  {
     "name": "Șiria Winter Trail",
     "location": "Șiria",
     "location_details": "",
@@ -1320,7 +1341,7 @@
       "10km"
     ],
     "link": "https://cspaduribistritene.ro/bistritatrailrunning/",
-    "link_fb": "https://www.facebook.com/profile.php?id=61568127260010",
+    "link_fb": "https://www.facebook.com/bistritatrailrunning",
     "id": 106,
     "year": 2026,
     "month": 4,
@@ -3026,7 +3047,7 @@
     "sport": "running"
   },
   {
-    "name": "Crosul Sport 4 all - Lugoj",
+    "name": "Sport 4 all Lugoj",
     "location": "Lugoj",
     "location_details": "",
     "display_date": "Sun 17-May-2026",
@@ -4617,7 +4638,7 @@
     "sport": "running"
   },
   {
-    "name": "Crosul Sperantei Suceava",
+    "name": "Crosul Speranței Suceava",
     "location": "Suceava",
     "location_details": "",
     "display_date": "Sun 07-Jun-2026",
@@ -4626,8 +4647,8 @@
     "distances": [
       "2.5km"
     ],
-    "link": "https://www.facebook.com/events/1458393242726265",
-    "link_fb": "",
+    "link": "https://acstrib.ro/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
     "id": 584,
     "year": 2026,
     "month": 6,
@@ -5357,6 +5378,26 @@
     "lat": 47.0333,
     "lon": 21.9,
     "sport": "cycling"
+  },
+  {
+    "name": "Bison Trails",
+    "location": "Vama Buzăului",
+    "location_details": "",
+    "display_date": "Thu 25-Jun-2026",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1130237749884366",
+    "link_fb": "",
+    "id": 702,
+    "year": 2026,
+    "month": 6,
+    "day": 25,
+    "lat": 45.5436,
+    "lon": 26.1167,
+    "sport": "running"
   },
   {
     "name": "Transylvania Triathlon Festival",
@@ -10510,7 +10551,7 @@
     "sport": "running"
   },
   {
-    "name": "Getic Cross",
+    "name": "Getic Fest",
     "location": "Cuca",
     "location_details": "",
     "display_date": "Sat 26-Sep-2026",
@@ -10522,7 +10563,7 @@
       "2km"
     ],
     "link": "https://montera.ro/geticcross/",
-    "link_fb": "",
+    "link_fb": "https://www.facebook.com/geticfest",
     "id": 625,
     "year": 2026,
     "month": 9,
@@ -12180,6 +12221,26 @@
     "sport": "running"
   },
   {
+    "name": "Trivale Trails Night Run - October",
+    "location": "Pitești",
+    "location_details": "",
+    "display_date": "Wed 21-Oct-2026",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "5km(130m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61572430824370",
+    "link_fb": "https://www.facebook.com/profile.php?id=61572430824370",
+    "id": 689,
+    "year": 2026,
+    "month": 10,
+    "day": 21,
+    "lat": 44.8604,
+    "lon": 24.8703,
+    "sport": "running"
+  },
+  {
     "name": "Friday Night Lights",
     "location": "București",
     "location_details": "",
@@ -12209,8 +12270,8 @@
     "distances": [
       "6,706/lap"
     ],
-    "link": "https://www.facebook.com/events/s/bell-dragomirna-backyard-ultra/1377736301215935/",
-    "link_fb": "",
+    "link": "https://acstrib.ro/dragomirna-bell/",
+    "link_fb": "https://www.facebook.com/TRIBSV",
     "id": 645,
     "year": 2026,
     "month": 10,
@@ -12610,26 +12671,6 @@
     "year": 2026,
     "month": 10,
     "day": 25,
-    "sport": "running"
-  },
-  {
-    "name": "Trivale Trails Night Run",
-    "location": "Pitești",
-    "location_details": "",
-    "display_date": "Tue 27-Oct-2026",
-    "county": "AG",
-    "type": "trail",
-    "distances": [
-      "5km(130m↑)"
-    ],
-    "link": "https://www.facebook.com/profile.php?id=61572430824370",
-    "link_fb": "https://www.facebook.com/profile.php?id=61572430824370",
-    "id": 689,
-    "year": 2026,
-    "month": 10,
-    "day": 27,
-    "lat": 44.8604,
-    "lon": 24.8703,
     "sport": "running"
   },
   {
@@ -13447,6 +13488,26 @@
     "sport": "running"
   },
   {
+    "name": "Crosul Andreian Galați",
+    "location": "Galați",
+    "location_details": "",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "GL",
+    "type": "road",
+    "distances": [
+      "1.7km"
+    ],
+    "link": "https://www.facebook.com/events/1643816617199708",
+    "link_fb": "",
+    "id": 401,
+    "year": 2026,
+    "month": 11,
+    "day": 14,
+    "lat": 45.435305,
+    "lon": 28.050005,
+    "sport": "running"
+  },
+  {
     "name": "Alpine Reșița - Semenic Challenge",
     "location": "Reșița",
     "location_details": "",
@@ -13511,6 +13572,48 @@
     "sport": "running"
   },
   {
+    "name": "Diabetes Run - Chișinău",
+    "location": "Chișinău",
+    "location_details": "Republica Moldova",
+    "display_date": "Sat 14-Nov-2026",
+    "county": "MDA*",
+    "type": "trail",
+    "distances": [
+      "10km",
+      "5km",
+      "2.5km"
+    ],
+    "link": "https://www.facebook.com/photo/?fbid=1755298249930165&set=a.532822295511106",
+    "link_fb": "",
+    "id": 0,
+    "year": 2026,
+    "month": 11,
+    "day": 14,
+    "lat": 47.0106,
+    "lon": 28.8638,
+    "sport": "running"
+  },
+  {
+    "name": "250 de ture pentru o cauză",
+    "location": "Arad",
+    "location_details": "",
+    "display_date": "Fri 20-Nov-2026",
+    "county": "AR",
+    "type": "track",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/s/250-de-ture-un-singur-scop/3743021512513083/",
+    "link_fb": "",
+    "id": 695,
+    "year": 2026,
+    "month": 11,
+    "day": 20,
+    "lat": 46.1866,
+    "lon": 21.3123,
+    "sport": "running"
+  },
+  {
     "name": "4 RUN 4 FUN - Stone Bear Race",
     "location": "Târgu Mureș",
     "location_details": "Platoul Cornesti",
@@ -13548,6 +13651,47 @@
     "day": 21,
     "lat": 46.558305,
     "lon": 24.57499,
+    "sport": "running"
+  },
+  {
+    "name": "Bistrița November Run",
+    "location": "Bistrița",
+    "location_details": "Pădurea Schullerwald",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "BN",
+    "type": "trail",
+    "distances": [
+      "13km",
+      "6km"
+    ],
+    "link": "https://november.run/",
+    "link_fb": "https://www.facebook.com/NovemberRun/",
+    "id": 395,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 47.133305,
+    "lon": 24.50001,
+    "sport": "running"
+  },
+  {
+    "name": "Crosul Unirii - Alba Iulia",
+    "location": "Alba Iulia",
+    "location_details": "",
+    "display_date": "Sat 21-Nov-2026",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "2.7km"
+    ],
+    "link": "https://www.facebook.com/photo?fbid=1736409231853233&set=a.561309769363191",
+    "link_fb": "",
+    "id": 405,
+    "year": 2026,
+    "month": 11,
+    "day": 21,
+    "lat": 46.069005,
+    "lon": 23.576295,
     "sport": "running"
   },
   {
@@ -13609,6 +13753,46 @@
     "lat": 47.0106,
     "lon": 28.8638,
     "sport": "swimming"
+  },
+  {
+    "name": "Coffee Run - Orange the World",
+    "location": "Brăila",
+    "location_details": "",
+    "display_date": "Sun 22-Nov-2026",
+    "county": "BR",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://luma.com/6hbf06gc",
+    "link_fb": "",
+    "id": 696,
+    "year": 2026,
+    "month": 11,
+    "day": 22,
+    "lat": 45.2692,
+    "lon": 27.9575,
+    "sport": "running"
+  },
+  {
+    "name": "Trivale Trails Night Run - November",
+    "location": "Pitești",
+    "location_details": "",
+    "display_date": "Tue 24-Nov-2026",
+    "county": "AG",
+    "type": "trail",
+    "distances": [
+      "5km(130m↑)"
+    ],
+    "link": "https://www.facebook.com/profile.php?id=61572430824370",
+    "link_fb": "https://www.facebook.com/profile.php?id=61572430824370",
+    "id": 697,
+    "year": 2026,
+    "month": 11,
+    "day": 24,
+    "lat": 44.8604,
+    "lon": 24.8703,
+    "sport": "running"
   },
   {
     "name": "Wake Run - Moldova (toamna)",
@@ -13673,6 +13857,64 @@
     "day": 1,
     "lat": 44.4273690467,
     "lon": 26.0924082546,
+    "sport": "running"
+  },
+  {
+    "name": "Drumul Memoriei Invictus",
+    "location": "Aiud",
+    "location_details": "",
+    "display_date": "Tue 01-Dec-2026",
+    "county": "AB",
+    "type": "road",
+    "distances": [
+      "34km"
+    ],
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdJLxck1q9KL2aH0kB7EqJnGew-9AR0O_tjL0bcMvUirraK-g/viewform",
+    "link_fb": "",
+    "id": 698,
+    "year": 2026,
+    "month": 12,
+    "day": 1,
+    "lat": 46.3163,
+    "lon": 23.7217,
+    "sport": "running"
+  },
+  {
+    "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Fri 04-Dec-2026",
+    "county": "SM",
+    "type": "",
+    "distances": [],
+    "link": "https://www.facebook.com/events/1290374929773293/",
+    "link_fb": "",
+    "id": 96,
+    "year": 2026,
+    "month": 12,
+    "day": 4,
+    "lat": 47.7917,
+    "lon": 22.8833,
+    "sport": "cycling"
+  },
+  {
+    "name": "Pedalează, aleargă sau plimbă-te cu Moșul!",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Fri 04-Dec-2026",
+    "county": "SM",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1290374929773293/",
+    "link_fb": "",
+    "id": 526,
+    "year": 2026,
+    "month": 12,
+    "day": 4,
+    "lat": 47.7917,
+    "lon": 22.883305,
     "sport": "running"
   },
   {
@@ -13796,6 +14038,88 @@
     "sport": "running"
   },
   {
+    "name": "Mikulás Trail",
+    "location": "Gheorgheni",
+    "location_details": "",
+    "display_date": "Sun 06-Dec-2026",
+    "county": "HR",
+    "type": "road",
+    "distances": [
+      "10km"
+    ],
+    "link": "https://www.facebook.com/events/2048965689141036",
+    "link_fb": "",
+    "id": 699,
+    "year": 2026,
+    "month": 12,
+    "day": 6,
+    "lat": 46.7167,
+    "lon": 25.5833,
+    "sport": "running"
+  },
+  {
+    "name": "Marea Moșmondeala",
+    "location": "Sibiu",
+    "location_details": "",
+    "display_date": "Fri 11-Dec-2026",
+    "county": "SB",
+    "type": "road",
+    "distances": [
+      "-"
+    ],
+    "link": "https://clubulsportiv.com/marea-mosmondeala-editia-a-ix-a/",
+    "link_fb": "",
+    "id": 410,
+    "year": 2026,
+    "month": 12,
+    "day": 11,
+    "lat": 45.797505,
+    "lon": 24.1508,
+    "sport": "running"
+  },
+  {
+    "name": "Baia Mare Aleargă Winter Race",
+    "location": "Baia Mare",
+    "location_details": "",
+    "display_date": "Sat 12-Dec-2026",
+    "county": "MM",
+    "type": "road",
+    "distances": [
+      "5km",
+      "1km"
+    ],
+    "link": "https://winterace.maratonmaramures.ro/",
+    "link_fb": "",
+    "id": 700,
+    "year": 2026,
+    "month": 12,
+    "day": 12,
+    "lat": 47.6667,
+    "lon": 23.5833,
+    "sport": "running"
+  },
+  {
+    "name": "Winter Race (Satu Mare)",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Sat 12-Dec-2026",
+    "county": "SM",
+    "type": "road",
+    "distances": [
+      "⚠ only teams",
+      "⚠ only children"
+    ],
+    "link": "https://www.crossgymsatumare.ro/ro/winter-race",
+    "link_fb": "https://www.facebook.com/CrossgymSM",
+    "id": 701,
+    "year": 2026,
+    "month": 12,
+    "day": 12,
+    "lat": 47.7917,
+    "lon": 22.8833,
+    "sport": "running"
+  },
+  {
     "name": "Semimaraton Pe Argeș in Jos",
     "location": "Pitești",
     "location_details": "",
@@ -13841,6 +14165,28 @@
     "sport": "running"
   },
   {
+    "name": "Crosul lui Moș Crăciun – Satu Mare",
+    "location": "Satu Mare",
+    "location_details": "",
+    "display_date": "Sun 13-Dec-2026",
+    "county": "SM",
+    "type": "road",
+    "distances": [
+      "10km",
+      "5km",
+      "1.5km"
+    ],
+    "link": "https://www.facebook.com/events/s/crosul-lui-mos-craciun/1194357336265644/",
+    "link_fb": "",
+    "id": 411,
+    "year": 2026,
+    "month": 12,
+    "day": 13,
+    "lat": 47.7917,
+    "lon": 22.883295,
+    "sport": "running"
+  },
+  {
     "name": "Maratonul de Craciun - Chișinău",
     "location": "Chișinău",
     "location_details": "Republica Moldova",
@@ -13858,6 +14204,26 @@
     "day": 13,
     "lat": 47.0106,
     "lon": 28.8638,
+    "sport": "running"
+  },
+  {
+    "name": "Santa Cross - Bacău",
+    "location": "Bacău",
+    "location_details": "",
+    "display_date": "Sat 19-Dec-2026",
+    "county": "BC",
+    "type": "road",
+    "distances": [
+      "16km"
+    ],
+    "link": "https://www.facebook.com/events/1675623564028356",
+    "link_fb": "",
+    "id": 415,
+    "year": 2026,
+    "month": 12,
+    "day": 19,
+    "lat": 46.566995,
+    "lon": 26.914595,
     "sport": "running"
   }
 ]
