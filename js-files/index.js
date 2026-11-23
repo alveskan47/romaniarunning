@@ -133,10 +133,10 @@ function getVisibleCompetitions() {
  * @returns {string} HTML string
  */
 function filterSelect(key, options) {
-    const items = [{ value: 'all', label: 'All' }, ...options].map(option =>
+    const items = [{ value: 'all', label: t('common.all') }, ...options].map(option =>
         `<option value="${option.value}"${competitionFilters[key] === option.value ? ' selected' : ''}>${option.label}</option>`
     );
-    return `<select class="form-select form-select-sm" data-filter="${key}" aria-label="Filter by ${key}">${items.join('')}</select>`;
+    return `<select class="form-select form-select-sm" data-filter="${key}" aria-label="${t('index.filterBy', { column: t('col.' + key) })}">${items.join('')}</select>`;
 }
 
 /**
@@ -147,9 +147,10 @@ function filterSelect(key, options) {
 function uniqueFieldOptions(field) {
     const collator = new Intl.Collator('ro', { sensitivity: 'base' });
     const values = [...new Set(currentCompetitions.map(competition => competition[field]))]
-        .filter(value => value && value !== '-')
-        .sort(collator.compare);
-    return values.map(value => ({ value, label: value }));
+        .filter(value => value && value !== '-');
+    // Types are translated; every other field (location, county) is shown as it is in the data
+    const options = values.map(value => ({ value, label: field === 'type' ? tData('type', value) : value }));
+    return options.sort((a, b) => collator.compare(a.label, b.label));
 }
 
 /**
@@ -157,24 +158,23 @@ function uniqueFieldOptions(field) {
  * control lines up with its column. Hidden until the "Filter competitions" checkbox is checked.
  */
 function renderFilterRows(showSportColumn, showTypeColumn, showDistancesColumn) {
-    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
-                        'July', 'August', 'September', 'October', 'November', 'December'];
+    const monthNames = t('lists.months');
     const hidden = document.getElementById('filter-toggle')?.checked ? '' : ' hidden';
     const columnCount = 4 + (showSportColumn ? 1 : 0) + (showTypeColumn ? 1 : 0) + (showDistancesColumn ? 1 : 0);
 
     return `
             <tr class="filters-row filters-title"${hidden}>
                 <th colspan="${columnCount}">
-                    <div class="h5 mb-2">Filters</div>
+                    <div class="h5 mb-2">${t('index.filters')}</div>
                     <button type="button" class="btn btn-outline-secondary btn-sm" data-reset-filters>
-                        <i class="bi bi-x-circle"></i> Reset filters
+                        <i class="bi bi-x-circle"></i> ${t('index.resetFilters')}
                     </button>
                 </th>
             </tr>
             <tr class="filters-row filters-controls"${hidden}>
                 ${showSportColumn ? '<th></th>' : ''}
                 <th>${filterSelect('month', monthNames.map((label, index) => ({ value: String(index + 1), label })))}</th>
-                <th><input type="text" class="form-control form-control-sm" data-filter="name" placeholder="Search" value="${competitionFilters.name.replace(/"/g, '&quot;')}" aria-label="Filter by competition name"></th>
+                <th><input type="text" class="form-control form-control-sm" data-filter="name" placeholder="${t('index.search')}" value="${competitionFilters.name.replace(/"/g, '&quot;')}" aria-label="${t('index.filterBy', { column: t('col.name') })}"></th>
                 <th>${filterSelect('location', uniqueFieldOptions('location'))}</th>
                 <th>${filterSelect('county', uniqueFieldOptions('county'))}</th>
                 ${showTypeColumn ? `<th>${filterSelect('type', uniqueFieldOptions('type'))}</th>` : ''}
@@ -239,8 +239,8 @@ async function loadCompetitionsForYear(year, sport) {
             // Fallback: show message if file doesn't exist yet
             container.innerHTML = `
                 <div class="alert alert-info" role="alert">
-                    <h4 class="alert-heading">Competitions for ${year}</h4>
-                    <p>Competition data for ${year} is being prepared. Please check back later.</p>
+                    <h4 class="alert-heading">${t('index.preparingTitle', { year })}</h4>
+                    <p>${t('index.preparingText', { year })}</p>
                 </div>
             `;
         }
@@ -248,8 +248,8 @@ async function loadCompetitionsForYear(year, sport) {
         console.error('Error loading competitions:', error);
         container.innerHTML = `
             <div class="alert alert-danger" role="alert">
-                <h4 class="alert-heading">Error</h4>
-                <p>Unable to load competitions for ${year}. Please try again later.</p>
+                <h4 class="alert-heading">${t('common.error')}</h4>
+                <p>${t('index.loadErrorText', { year })}</p>
             </div>
         `;
     }
@@ -289,13 +289,13 @@ function renderCompetitionsTable(competitions, year, sport) {
         <table class="table table-striped competition-table" id="competitions_${year}">
             <thead>
             <tr>
-                ${showSportColumn ? sortableHeader('sport', 'col-sport', 'Sport') : ''}
-                ${sortableHeader('date', 'col-date', 'Date')}
-                ${sortableHeader('name', 'col-competition', 'Competition')}
-                ${sortableHeader('location', 'col-location', 'Location')}
-                ${sortableHeader('county', 'col-county', 'County')}
-                ${showTypeColumn ? sortableHeader('type', 'col-type', 'Type') : ''}
-                ${showDistancesColumn ? '<th scope="col" class="col-distances">Distances</th>' : ''}
+                ${showSportColumn ? sortableHeader('sport', 'col-sport', t('col.sport')) : ''}
+                ${sortableHeader('date', 'col-date', t('col.date'))}
+                ${sortableHeader('name', 'col-competition', t('col.competition'))}
+                ${sortableHeader('location', 'col-location', t('col.location'))}
+                ${sortableHeader('county', 'col-county', t('col.county'))}
+                ${showTypeColumn ? sortableHeader('type', 'col-type', t('col.type')) : ''}
+                ${showDistancesColumn ? `<th scope="col" class="col-distances">${t('col.distances')}</th>` : ''}
             </tr>
             ${renderFilterRows(showSportColumn, showTypeColumn, showDistancesColumn)}
             </thead>
@@ -304,7 +304,7 @@ function renderCompetitionsTable(competitions, year, sport) {
 
     if (competitions.length === 0) {
         const columnCount = 4 + (showSportColumn ? 1 : 0) + (showTypeColumn ? 1 : 0) + (showDistancesColumn ? 1 : 0);
-        html += `<tr><td colspan="${columnCount}" class="text-center">No competitions match the filters</td></tr>`;
+        html += `<tr><td colspan="${columnCount}" class="text-center">${t('index.noMatch')}</td></tr>`;
     }
 
     // Month separators only make sense when rows are in date order
@@ -323,7 +323,7 @@ function renderCompetitionsTable(competitions, year, sport) {
         if (showFullVersion) {
             competitionNameCell = `<a href="${competition.link}" target="_blank">${competition.name}</a>`;
             if (competition.link_fb) {
-                competitionNameCell += ` <a href="${competition.link_fb}" target="_blank" title="Facebook Page"><i class="bi bi-facebook"></i></a>`;
+                competitionNameCell += ` <a href="${competition.link_fb}" target="_blank" title="${t('index.facebookPage')}"><i class="bi bi-facebook"></i></a>`;
             }
         } else {
             competitionNameCell = competition.name;
@@ -346,11 +346,11 @@ function renderCompetitionsTable(competitions, year, sport) {
         html += `
             <tr${rowClass} data-month="${competition.month}">
                 ${showSportColumn ? `<td class="col-sport">${formatSportName(competition.sport)}</td>` : ''}
-                <td class="col-date">${competition.display_date}</td>
+                <td class="col-date">${formatCompetitionDate(competition)}</td>
                 <td class="col-competition">${competitionNameCell}</td>
                 <td class="col-location">${locationCell}</td>
                 <td class="col-county">${competition.county}</td>
-                ${showTypeColumn ? `<td class="col-type">${competition.type}</td>` : ''}
+                ${showTypeColumn ? `<td class="col-type">${tData('type', competition.type)}</td>` : ''}
                 ${distancesCell}
             </tr>
         `;
@@ -412,9 +412,7 @@ async function loadLastUpdateDate() {
 
             // Format: DD-Mon-YYYY
             const day = String(date.getDate()).padStart(2, '0');
-            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
-                              'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-            const month = monthNames[date.getMonth()];
+            const month = t('lists.monthsShort')[date.getMonth()];
             const year = date.getFullYear();
 
             const formattedDate = `${day}-${month}-${year}`;
@@ -431,13 +429,13 @@ async function loadLastUpdateDate() {
             }
         } else {
             console.error('Failed to load versions.json');
-            document.getElementById('last-update-date').textContent = 'N/A';
-            document.getElementById('version-number').textContent = 'N/A';
+            document.getElementById('last-update-date').textContent = t('common.na');
+            document.getElementById('version-number').textContent = t('common.na');
         }
     } catch (error) {
         console.error('Error loading last update date:', error);
-        document.getElementById('last-update-date').textContent = 'N/A';
-        document.getElementById('version-number').textContent = 'N/A';
+        document.getElementById('last-update-date').textContent = t('common.na');
+        document.getElementById('version-number').textContent = t('common.na');
     }
 }
 

@@ -1,14 +1,9 @@
 // Calendar page JavaScript
 
-const MONTHS = [
-    'January', 'February', 'March', 'April', 'May', 'June',
-    'July', 'August', 'September', 'October', 'November', 'December'
-];
-
-const MONTH_ABBR = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
-                    'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-
-const DAY_ABBR = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+// Translated names (see translations.js); days are Sunday-first, like Date.getDay()
+const MONTHS = t('lists.months');
+const MONTH_ABBR = t('lists.monthsShort');
+const DAY_ABBR = t('lists.daysShort');
 
 const YEARS = [2023, 2024, 2025, 2026, 2027];
 
@@ -232,7 +227,7 @@ async function renderRacesList() {
     for (const wk of weekOrder) {
         const days = weeks[wk];
         if (!days || days.length === 0) continue;
-        html += `<div class="races-week"><h5>Week ${wk}</h5>`;
+        html += `<div class="races-week"><h5>${t('calendar.weekHeading', { week: wk })}</h5>`;
         for (const { day, month: m, year: y, events } of days) {
             const dow = DAY_ABBR[new Date(y, m, day).getDay()];
             html += `<p class="mb-1"><strong>${dow} ${formatDate(day, m, y)}</strong></p>`;
@@ -298,7 +293,18 @@ function nextMonth() {
     }
 }
 
+/**
+ * Fills the calendar table header: "Week" followed by the day names, Monday first
+ */
+function renderCalendarHeader() {
+    const mondayFirst = [1, 2, 3, 4, 5, 6, 0].map(day => `<th>${DAY_ABBR[day]}</th>`).join('');
+    document.getElementById('calendar-head').innerHTML =
+        `<th class="calendar-week-col">${t('calendar.week')}</th>${mondayFirst}`;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+    renderCalendarHeader();
+
     // Initialize sport (from URL, if provided)
     selectedSport = getSportFromUrl();
     const sportEntry = SPORTS.find(s => s.value === selectedSport);

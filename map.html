@@ -8,7 +8,7 @@
     <meta name="robots" content="index, follow">
 
     <link rel="icon" href="svg-files/logo-red.svg">
-    <title>Map | Romania Running</title>
+    <title data-i18n="map.title">Map | Romania Running</title>
 
     <!-- Bootstrap CSS Framework v5.3.3 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -29,7 +29,7 @@
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
     <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" data-i18n-attr="aria-label:nav.toggle">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -41,10 +41,10 @@
 
 <!-- Main Content Area -->
 <div class="container mt-5 mb-5">
-    <h1 class="mb-4">Map</h1>
+    <h1 class="mb-4" data-i18n="map.heading">Map</h1>
 
     <!-- Year and month selectors -->
-    <h2>Select year and month:</h2>
+    <h2 data-i18n="map.selectYearMonth">Select year and month:</h2>
     <div class="d-flex flex-wrap gap-3 mb-4">
         <div class="dropdown">
             <button class="btn btn-success dropdown-toggle" type="button" id="yearDropdown" data-bs-toggle="dropdown" aria-expanded="false">
@@ -70,12 +70,12 @@
     <figure class="highcharts-figure">
         <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap gap-2">
             <div class="d-flex align-items-center gap-3">
-                <button class="btn btn-sm btn-outline-secondary" onclick="resetMapZoom()" title="Reset zoom">
-                    <i class="bi bi-fullscreen"></i> Reset zoom
+                <button class="btn btn-sm btn-outline-secondary" onclick="resetMapZoom()" title="Reset zoom" data-i18n-attr="title:map.resetZoom">
+                    <i class="bi bi-fullscreen"></i> <span data-i18n="map.resetZoom">Reset zoom</span>
                 </button>
-                <span><i class="bi bi-geo-alt-fill" style="color:#dc3545;"></i> Past</span>
-                <span><i class="bi bi-geo-alt-fill" style="color:#0dcaf0;"></i> This week</span>
-                <span><i class="bi bi-geo-alt-fill" style="color:#28a745;"></i> Upcoming</span>
+                <span><i class="bi bi-geo-alt-fill" style="color:#dc3545;"></i> <span data-i18n="map.past">Past</span></span>
+                <span><i class="bi bi-geo-alt-fill" style="color:#0dcaf0;"></i> <span data-i18n="map.thisWeek">This week</span></span>
+                <span><i class="bi bi-geo-alt-fill" style="color:#28a745;"></i> <span data-i18n="map.upcoming">Upcoming</span></span>
             </div>
             <span class="text-muted" id="map-current-date"></span>
         </div>
@@ -87,6 +87,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 <!-- General JS -->
+<script src="js-files/translations.js"></script>
 <script src="js-files/main.js"></script>
 
 <!-- Map JS -->

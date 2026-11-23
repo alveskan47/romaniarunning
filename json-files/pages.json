@@ -2,48 +2,59 @@
   "pages": [
     {
       "page_name": "Competitions",
+      "page_key": "competitions",
       "page_link": "index.html"
     },
     {
       "page_name": "Calendar",
+      "page_key": "calendar",
       "page_link": "calendar.html"
     },
     {
       "page_name": "Map",
+      "page_key": "map",
       "page_link": "map.html"
     },
     {
       "page_name": "Statistics",
+      "page_key": "statistics",
       "dropdown": true,
       "sub_pages": [
         {
           "page_name": "Statistics per year",
+          "page_key": "statisticsPerYear",
           "page_link": "statistics.html"
         },
         {
           "page_name": "General Statistics",
+          "page_key": "generalStatistics",
           "page_link": "general-statistics.html"
         },
         {
           "page_name": "Bad News",
+          "page_key": "badNews",
           "page_link": "bad-news.html"
         }
       ]
     },
     {
       "page_name": "Extra",
+      "page_key": "extra",
       "dropdown": true,
       "sub_pages": [
         {
           "page_name": "Archive",
+          "page_key": "archive",
           "page_link": "archive.html"
         },
         {
           "page_name": "Park Run",
+          "page_key": "parkRun",
           "page_link": "park.html"
         },
         {
           "page_name": "Contact",
+          "page_key": "contact",
           "page_link": "contact.html"
         }
       ]

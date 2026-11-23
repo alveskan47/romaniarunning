@@ -7,8 +7,8 @@
  */
 function formatDate(dateObj) {
     const date = new Date(dateObj.year, dateObj.month - 1, dateObj.day);
-    const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const days = t('lists.daysShort');
+    const months = t('lists.monthsShort');
 
     const dayName = days[date.getDay()];
     const day = dateObj.day;
@@ -44,10 +44,10 @@ function createBadNewsRow(news) {
     }
 
     // Status column - show status and new date if Rescheduled
-    let statusContent = news.status;
+    let statusContent = tData('status', news.status);
     if (news.status === 'Rescheduled' && news.new_date) {
         const newDate = formatDate(news.new_date);
-        statusContent = `${news.status} <strong>(${newDate})</strong>`;
+        statusContent = `${statusContent} <strong>(${newDate})</strong>`;
     }
 
     return `
@@ -78,9 +78,9 @@ function update_bad_news_table(jsonData) {
         <table class="table table-striped">
             <thead>
                 <tr>
-                    <th scope="col">Original Date</th>
-                    <th scope="col">Competition</th>
-                    <th scope="col">Status</th>
+                    <th scope="col">${t('badNews.originalDate')}</th>
+                    <th scope="col">${t('badNews.competition')}</th>
+                    <th scope="col">${t('badNews.status')}</th>
                 </tr>
             </thead>
             <tbody>

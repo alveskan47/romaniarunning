@@ -64,7 +64,7 @@ function draw_competitions_by_year(years, values) {
             backgroundColor: colors.backgroundColor
         },
         title: {
-            text: 'Competitions by year',
+            text: t('generalStatistics.chart.byYear'),
             style: {
                 color: colors.textColor
             }
@@ -90,7 +90,7 @@ function draw_competitions_by_year(years, values) {
         },
         yAxis: {
             title: {
-                text: 'Competitions',
+                text: t('generalStatistics.chart.competitions'),
                 style: {
                     color: colors.textColor
                 }
@@ -125,7 +125,7 @@ function draw_competitions_by_year(years, values) {
             }
         },
         series: [{
-            name: 'Year',
+            name: t('generalStatistics.chart.year'),
             data: values
         }]
     });

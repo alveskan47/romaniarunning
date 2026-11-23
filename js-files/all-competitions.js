@@ -2,8 +2,8 @@
 
 // Years with per-year event data available (json-files/output-events-{year}.json)
 const ARCHIVE_YEARS = [2023, 2024, 2025, 2026, 2027];
-const ARCHIVE_MONTH_ABBR = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-const ARCHIVE_DAY_NAMES = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+const ARCHIVE_MONTH_ABBR = t('lists.monthsShort');
+const ARCHIVE_DAY_NAMES = t('lists.daysShort');
 
 let selectedSport = 'running';
 // Cache: year -> events[] (every sport, unfiltered)
@@ -45,35 +45,19 @@ function romanianSortKey(text) {
 }
 
 /**
- * Converts date string like "Sat 24-Jan" to a sortable number (MMDD format)
- * @param {string} dateStr - Date string in format "DayName DD-Mon"
+ * Sortable number (MMDD, e.g. 524 for May 24) of a year/month/day, stored next to the
+ * displayed (translated) date so sorting never depends on the language
+ * @param {number} month - Month (1-12)
+ * @param {number} day - Day of month
  * @returns {number} Sortable number representing the date
  */
-function dateToSortableNumber(dateStr) {
-    if (!dateStr) return 0;
-
-    const months = {
-        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
-        'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
-    };
-
-    // Extract day and month from "Sat 24-Jan" format
-    const parts = dateStr.split(' ');
-    if (parts.length !== 2) return 0;
-
-    const dayMonth = parts[1].split('-');
-    if (dayMonth.length !== 2) return 0;
-
-    const day = parseInt(dayMonth[0]) || 0;
-    const month = months[dayMonth[1]] || 0;
-
-    // Return MMDD as a number (e.g., 524 for May 24)
+function dateToSortableNumber(month, day) {
     return month * 100 + day;
 }
 
 /**
- * Formats a year/month/day as "DayName DD-Mon" (e.g., "Sat 24-Jan"), matching the
- * format produced by python-files/create-all-competitions-list.py
+ * Formats a year/month/day as "DayName DD-Mon" (e.g., "Sat 24-Jan" / "Sâm 24-Ian"),
+ * in the current language
  * @param {number} year - Full year
  * @param {number} month - Month (1-12)
  * @param {number} day - Day of month
@@ -107,8 +91,8 @@ function sortCompetitions(data, column, ascending) {
 
         // For year columns, use date sorting
         if (column.startsWith('year_')) {
-            const dateA = dateToSortableNumber(valA);
-            const dateB = dateToSortableNumber(valB);
+            const dateA = a[`sort_${column}`] || 0;
+            const dateB = b[`sort_${column}`] || 0;
 
             // Empty dates should be at the end
             if (dateA === 0 && dateB === 0) return 0;
@@ -185,18 +169,21 @@ function buildCompetitionLists(sport) {
                     });
                 }
                 regularMap.get(key)[`year_${year}`] = formattedDate;
+                regularMap.get(key)[`sort_year_${year}`] = dateToSortableNumber(e.month, e.day);
             } else if (e.county === 'MDA*') {
                 const key = `${e.sport}::${e.name}`;
                 if (!moldovaMap.has(key)) {
                     moldovaMap.set(key, { name: e.name, location: e.location, sport: e.sport });
                 }
                 moldovaMap.get(key)[`year_${year}`] = formattedDate;
+                moldovaMap.get(key)[`sort_year_${year}`] = dateToSortableNumber(e.month, e.day);
             } else {
                 const key = `${e.sport}::${e.name}`;
                 if (!otherMap.has(key)) {
                     otherMap.set(key, { name: e.name, sport: e.sport });
                 }
                 otherMap.get(key)[`year_${year}`] = formattedDate;
+                otherMap.get(key)[`sort_year_${year}`] = dateToSortableNumber(e.month, e.day);
             }
         });
     });
@@ -225,7 +212,7 @@ function populateTable1(competitions) {
     // Check if we have data
     if (!competitions || competitions.length === 0) {
         const colspan = (showSportColumn ? 5 : 4) + availableYears.length;
-        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
+        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">${t('archive.none')}</td></tr>`;
         return;
     }
 
@@ -288,7 +275,7 @@ function populateTable2(competitions) {
     // Check if we have data
     if (!competitions || competitions.length === 0) {
         const colspan = (showSportColumn ? 3 : 2) + availableYears.length;
-        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
+        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">${t('archive.none')}</td></tr>`;
         return;
     }
 
@@ -341,7 +328,7 @@ function populateTable3(competitions) {
     // Check if we have data
     if (!competitions || competitions.length === 0) {
         const colspan = (showSportColumn ? 2 : 1) + availableYears.length;
-        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">No competitions found</td></tr>`;
+        tableBody.innerHTML = `<tr><td colspan="${colspan}" class="text-center">${t('archive.none')}</td></tr>`;
         return;
     }
 
@@ -375,23 +362,23 @@ function populateTable3(competitions) {
 const TABLE_CONFIGS = {
     'table-1': {
         fixedColumns: [
-            { key: 'id', label: 'ID' },
-            { key: 'name', label: 'Competition Name' },
-            { key: 'location', label: 'Location' },
-            { key: 'county', label: 'County' }
+            { key: 'id', label: t('col.id') },
+            { key: 'name', label: t('col.competitionName') },
+            { key: 'location', label: t('col.location') },
+            { key: 'county', label: t('col.county') }
         ],
         sortFn: column => sortTable1(column)
     },
     'table-2': {
         fixedColumns: [
-            { key: 'name', label: 'Competition Name' },
-            { key: 'location', label: 'Location' }
+            { key: 'name', label: t('col.competitionName') },
+            { key: 'location', label: t('col.location') }
         ],
         sortFn: column => sortTable2(column)
     },
     'table-3': {
         fixedColumns: [
-            { key: 'name', label: 'Competition Name' }
+            { key: 'name', label: t('col.competitionName') }
         ],
         sortFn: column => sortTable3(column)
     }
@@ -410,7 +397,7 @@ function renderTableHeader(tableId) {
     headerRow.innerHTML = '';
 
     const columns = [];
-    if (showSportColumn) columns.push({ key: 'sport', label: 'Sport' });
+    if (showSportColumn) columns.push({ key: 'sport', label: t('col.sport') });
     columns.push(...config.fixedColumns);
     availableYears.forEach(year => columns.push({ key: `year_${year}`, label: String(year), isYear: true }));
 
@@ -488,13 +475,13 @@ function sortTable3(column) {
  */
 function updateCompetitionCounts() {
     const count1Element = document.getElementById('competition-count-1');
-    if (count1Element) count1Element.textContent = `Total: ${competitionsData.length} competitions`;
+    if (count1Element) count1Element.textContent = t('archive.total', { count: tPlural('count.competitions', competitionsData.length) });
 
     const count2Element = document.getElementById('competition-count-2');
-    if (count2Element) count2Element.textContent = `Total: ${moldovaCompetitionsData.length} competitions`;
+    if (count2Element) count2Element.textContent = t('archive.total', { count: tPlural('count.competitions', moldovaCompetitionsData.length) });
 
     const count3Element = document.getElementById('competition-count-3');
-    if (count3Element) count3Element.textContent = `Total: ${otherCompetitionsData.length} competitions`;
+    if (count3Element) count3Element.textContent = t('archive.total', { count: tPlural('count.competitions', otherCompetitionsData.length) });
 }
 
 /**
@@ -558,7 +545,7 @@ async function loadAllCompetitions() {
         ['competitions-table-body', 'competitions-moldova-table-body', 'competitions-other-table-body'].forEach(id => {
             const tableBody = document.getElementById(id);
             if (tableBody) {
-                tableBody.innerHTML = '<tr><td colspan="99" class="text-center text-danger">Error loading competitions data</td></tr>';
+                tableBody.innerHTML = `<tr><td colspan="99" class="text-center text-danger">${t('archive.loadError')}</td></tr>`;
             }
         });
     }

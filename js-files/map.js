@@ -7,8 +7,7 @@ let mapChartInstance = null;
 let roTopology = null;
 let mdTopology = null;
 
-const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June',
-    'July', 'August', 'September', 'October', 'November', 'December'];
+const MONTH_NAMES = t('lists.months');
 
 function getThemeColors() {
     const theme = document.documentElement.getAttribute('data-bs-theme');
@@ -38,7 +37,7 @@ function change_year(year) {
 
 function change_month(month) {
     currentMapMonth = month;
-    document.getElementById('text_month').textContent = month === null ? 'All months' : MONTH_NAMES[month - 1];
+    document.getElementById('text_month').textContent = month === null ? t('map.allMonths') : MONTH_NAMES[month - 1];
     applyFilters();
 }
 
@@ -124,7 +123,7 @@ function buildMonthDropdown() {
     dropdownMenu.innerHTML = '';
 
     const allLi = document.createElement('li');
-    allLi.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="change_month(null)">All months</a>`;
+    allLi.innerHTML = `<a class="dropdown-item" href="javascript:void(0);" onclick="change_month(null)">${t('map.allMonths')}</a>`;
     dropdownMenu.appendChild(allLi);
 
     MONTH_NAMES.forEach((name, i) => {
@@ -173,11 +172,11 @@ async function drawMap(points, totalCount) {
             backgroundColor: colors.backgroundColor
         },
         title: {
-            text: 'Competitions on the map',
+            text: t('map.chartTitle'),
             style: { color: colors.textColor }
         },
         subtitle: {
-            text: `${totalCount} competition${totalCount !== 1 ? 's' : ''} with location data`,
+            text: tPlural('map.subtitle', totalCount),
             style: { color: colors.textColor }
         },
         mapNavigation: {
@@ -190,7 +189,7 @@ async function drawMap(points, totalCount) {
             formatter: function () {
                 const p = this.point;
                 if (p.clusterPointsAmount) {
-                    return `<b>${p.clusterPointsAmount} competitions</b>`;
+                    return `<b>${tPlural('count.competitions', p.clusterPointsAmount)}</b>`;
                 }
 
                 const events = p.events || [];
@@ -205,10 +204,10 @@ async function drawMap(points, totalCount) {
                             : e.name;
                         const dists = (e.distances || []).join(', ');
                         html += `<hr style="margin:4px 0">`;
-                        html += `<b>${nameHtml}</b><br>${e.display_date}<br>`;
+                        html += `<b>${nameHtml}</b><br>${formatCompetitionDate(e)}<br>`;
                         if (e.location_details) html += `${e.location_details}<br>`;
-                        if (selectedSport === 'all') html += `Sport: ${formatSportName(e.sport)}<br>`;
-                        html += `Type: ${e.type}`;
+                        if (selectedSport === 'all') html += `${t('map.sport')}: ${formatSportName(e.sport)}<br>`;
+                        html += `${t('map.type')}: ${tData('type', e.type)}`;
                         if (dists) html += `<br>${dists}`;
                     });
                     return html;
@@ -221,11 +220,11 @@ async function drawMap(points, totalCount) {
                     ? `<b><a href="${e.link}" target="_blank" rel="noopener">${e.name}</a></b>`
                     : `<b>${e.name}</b>`;
                 return `${nameHtml}<br>` +
-                    `${e.display_date}<br>` +
+                    `${formatCompetitionDate(e)}<br>` +
                     `${e.location} · ${e.county}<br>` +
                     (e.location_details ? `${e.location_details}<br>` : '') +
-                    (selectedSport === 'all' ? `Sport: ${formatSportName(e.sport)}<br>` : '') +
-                    `Type: ${e.type}` +
+                    (selectedSport === 'all' ? `${t('map.sport')}: ${formatSportName(e.sport)}<br>` : '') +
+                    `${t('map.type')}: ${tData('type', e.type)}` +
                     (dists ? `<br>${dists}` : '');
             },
             backgroundColor: colors.tooltipBackground,
@@ -260,7 +259,7 @@ async function drawMap(points, totalCount) {
             }
         }, {
             type: 'mappoint',
-            name: 'Competitions',
+            name: t('map.series'),
             marker: {
                 symbol: 'mapmarker',
                 radius: 8
@@ -305,7 +304,7 @@ document.addEventListener('themeChanged', () => {
 
 document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('text_year').textContent = currentMapYear;
-    document.getElementById('text_month').textContent = 'All months';
+    document.getElementById('text_month').textContent = t('map.allMonths');
 
     selectedSport = getSportFromUrl();
     const sportEntry = SPORTS.find(s => s.value === selectedSport);
@@ -314,8 +313,9 @@ document.addEventListener('DOMContentLoaded', () => {
     loadAvailableSports('sport-dropdown-menu', 'change_sport');
 
     const today = new Date();
+    const locale = LANGUAGES.find(language => language.code === CURRENT_LANG).locale;
     document.getElementById('map-current-date').textContent =
-        'Today: ' + today.toLocaleDateString('en-GB', { day: '2-digit', month: 'long', year: 'numeric' });
+        t('map.today', { date: today.toLocaleDateString(locale, { day: '2-digit', month: 'long', year: 'numeric' }) });
 
     loadAvailableYears();
     buildMonthDropdown();

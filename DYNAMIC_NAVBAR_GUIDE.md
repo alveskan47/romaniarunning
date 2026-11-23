@@ -341,3 +341,10 @@ Possible improvements:
 ---
 
 **Note**: This system is implemented using functions in `main.js` (not `index.js`) because it needs to work across all pages. `main.js` is the general JavaScript file loaded on every page, while `index.js` is specific to the home page only.
+
+## Localization (English / Romanian)
+
+- All texts live in `js-files/translations.js` (`TRANSLATIONS.en` / `TRANSLATIONS.ro`). Edit the text there.
+- Each `pages.json` entry has a `page_key`; its label is `nav.<page_key>` in `translations.js`
+  (the `page_name` is used as a fallback if no translation exists).
+- The language is carried in the URL (`?lang=ro`), and navigation links keep it automatically.

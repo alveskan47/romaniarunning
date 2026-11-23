@@ -162,13 +162,15 @@ async function statistics_main(year) {
  * the "by type" chart (chart 3), which is only meaningful for running
  */
 function updateSectionHeaders() {
-    const sportEntry = SPORTS.find(s => s.value === selectedSport);
-    const sportLabel = selectedSport === 'all' ? 'all sports' : (sportEntry ? sportEntry.label.toLowerCase() : selectedSport);
+    // Sport as used inside a sentence (e.g. "running" / "de alergare"), see "sportPhrase.*" in translations.js
+    const sportKey = `sportPhrase.${selectedSport}`;
+    const sport = hasTranslation(sportKey) ? t(sportKey) : selectedSport;
 
-    document.getElementById('header-total').textContent = `1. Total number of ${sportLabel} competitions in Romania`;
-    document.getElementById('header-month').textContent = `2. Number of ${sportLabel} competitions in Romania by month`;
-    document.getElementById('header-county').textContent = `4. Number of ${sportLabel} competitions in Romania by county`;
-    document.getElementById('header-towns').textContent = `5. Number of ${sportLabel} competitions in Romania by towns`;
+    document.getElementById('header-total').textContent = t('statistics.header.total', { sport });
+    document.getElementById('header-month').textContent = t('statistics.header.month', { sport });
+    document.getElementById('header-type').textContent = t('statistics.header.type');
+    document.getElementById('header-county').textContent = t('statistics.header.county', { sport });
+    document.getElementById('header-towns').textContent = t('statistics.header.towns', { sport });
 
     const typeSection = document.getElementById('section-type');
     if (typeSection) {
@@ -218,7 +220,7 @@ function draw_highcharts_total(total_competitions, maxValue) {
             height: '400px'
         },
         title: {
-            text: 'Total Competitions',
+            text: t('statistics.chart.total'),
             style: {
                 color: colors.textColor
             }
@@ -272,7 +274,7 @@ function draw_highcharts_total(total_competitions, maxValue) {
             }]
         },
         series: [{
-            name: 'Total Competitions',
+            name: t('statistics.chart.total'),
             data: [total_competitions],
             tooltip: {
                 valueSuffix: ' '
@@ -314,7 +316,7 @@ function draw_highcharts_months(competitions_by_month) {
             backgroundColor: colors.backgroundColor
         },
         title: {
-            text: 'Competitions by month',
+            text: t('statistics.chart.byMonth'),
             style: {
                 color: colors.textColor
             }
@@ -330,7 +332,7 @@ function draw_highcharts_months(competitions_by_month) {
             }
         },
         xAxis: {
-            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+            categories: t('lists.monthsShort'),
             labels: {
                 style: {
                     color: colors.textColor
@@ -340,7 +342,7 @@ function draw_highcharts_months(competitions_by_month) {
         },
         yAxis: {
             title: {
-                text: 'Competitions',
+                text: t('statistics.chart.competitions'),
                 style: {
                     color: colors.textColor
                 }
@@ -375,7 +377,7 @@ function draw_highcharts_months(competitions_by_month) {
             }
         },
         series: [{
-            name: 'Month',
+            name: t('statistics.chart.month'),
             data: competitions_by_month
         }]
     });
@@ -394,7 +396,7 @@ function draw_highcharts_type(competitions_by_type) {
             backgroundColor: colors.backgroundColor
         },
         title: {
-            text: 'Competitions by type',
+            text: t('statistics.chart.byType'),
             style: {
                 color: colors.textColor
             }
@@ -445,21 +447,21 @@ function draw_highcharts_type(competitions_by_type) {
             }
         },
         series: [{
-            name: 'Total',
+            name: t('statistics.chart.total.series'),
             colorByPoint: true,
             data: [
                 {
-                    name: 'Trail',
+                    name: t('statistics.type.trail'),
                     sliced: true,
                     selected: true,
                     y: competitions_by_type['trail']
                 },
                 {
-                    name: 'Road',
+                    name: t('statistics.type.road'),
                     y: competitions_by_type['road']
                 },
                 {
-                    name: 'Other',
+                    name: t('statistics.type.other'),
                     y: competitions_by_type['other']
                 }
             ]
@@ -485,7 +487,7 @@ function draw_highcharts_county(competitions_by_county) {
                 backgroundColor: colors.backgroundColor
             },
             title: {
-                text: 'Competitions by county',
+                text: t('statistics.chart.byCounty'),
                 style: {
                     color: colors.textColor
                 }
@@ -521,7 +523,7 @@ function draw_highcharts_county(competitions_by_county) {
             },
             series: [{
                 data: competitions_by_county,
-                name: 'Number of competitions',
+                name: t('statistics.chart.numberOfCompetitions'),
                 joinBy: ['hc-key', 0],
                 states: {
                     hover: {
@@ -562,13 +564,13 @@ function draw_highcharts_towns(competitions_by_towns) {
             backgroundColor: colors.backgroundColor
         },
         title: {
-            text: 'Top towns',
+            text: t('statistics.chart.topTowns'),
             style: {
                 color: colors.textColor
             }
         },
         subtitle: {
-            text: 'Competitions by towns',
+            text: t('statistics.chart.byTowns'),
             style: {
                 color: colors.textColor
             }
@@ -581,14 +583,14 @@ function draw_highcharts_towns(competitions_by_towns) {
                 }
             },
             accessibility: {
-                description: 'Towns'
+                description: t('statistics.chart.towns')
             },
             gridLineColor: colors.gridColor
         },
         yAxis: {
             min: 0,
             title: {
-                text: 'Competitions',
+                text: t('statistics.chart.competitions'),
                 style: {
                     color: colors.textColor
                 }
@@ -623,7 +625,7 @@ function draw_highcharts_towns(competitions_by_towns) {
             }
         },
         series: [{
-            name: 'Competitions',
+            name: t('statistics.chart.competitions'),
             data: Object.values(competitions_by_towns),
             colorByPoint: true
         }]

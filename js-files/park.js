@@ -6,19 +6,19 @@
  * @returns {string} HTML string for the list item
  */
 function createParkListItem(park) {
-    const lapText = park.laps === "1" ? "lap" : "laps";
+    const lapsText = tPlural('count.laps', Number(park.laps));
 
     return `
         <li class="list-group-item d-flex justify-content-between align-items-start">
             <div class="ms-2 me-auto">
                 <div class="fw-bold">${park.park_name}</div>
-                <a href="${park.strava_activity}" target="_blank">Strava Activity</a>
+                <a href="${park.strava_activity}" target="_blank">${t('park.stravaActivity')}</a>
             </div>
             <span class="badge text-bg-primary rounded-pill me-2">
-                ${park.laps} ${lapText} - ${park.distance_km}km
+                ${lapsText} - ${park.distance_km}km
             </span>
             <span class="badge text-bg-success rounded-pill">
-                ${park.distance_km_per_lap}km/lap
+                ${park.distance_km_per_lap}${t('park.kmPerLap')}
             </span>
         </li>
     `;
