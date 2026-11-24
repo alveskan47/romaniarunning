@@ -152,8 +152,8 @@
       "8km",
       "4km"
     ],
-    "link": "https://www.runmoldova.com/",
-    "link_fb": "https://www.facebook.com/runmoldova",
+    "link": "https://iticket.md/event/love-run",
+    "link_fb": "",
     "id": 0,
     "year": 2027,
     "month": 2,
@@ -847,24 +847,6 @@
     "sport": "running"
   },
   {
-    "name": "Pedale pe Ardeal",
-    "location": "Făgăraș",
-    "location_details": "",
-    "display_date": "Thu 22-Apr-2027",
-    "county": "BV",
-    "type": "",
-    "distances": [],
-    "link": "https://alergaras.ro/pedale-pe-ardeal-15/",
-    "link_fb": "h",
-    "id": 98,
-    "year": 2027,
-    "month": 4,
-    "day": 22,
-    "lat": 45.8417,
-    "lon": 24.975,
-    "sport": "cycling"
-  },
-  {
     "name": "Maratonul Vinului",
     "location": "Urlaţi",
     "location_details": "",
@@ -961,6 +943,24 @@
     "day": 25,
     "lat": 44.5083,
     "lon": 26.0833,
+    "sport": "cycling"
+  },
+  {
+    "name": "Pedale pe Ardeal",
+    "location": "Făgăraș",
+    "location_details": "",
+    "display_date": "Sun 25-Apr-2027",
+    "county": "BV",
+    "type": "",
+    "distances": [],
+    "link": "https://alergaras.ro/pedale-pe-ardeal-15/",
+    "link_fb": "h",
+    "id": 98,
+    "year": 2027,
+    "month": 4,
+    "day": 25,
+    "lat": 45.8417,
+    "lon": 24.975,
     "sport": "cycling"
   },
   {
@@ -1539,7 +1539,7 @@
       "8km",
       "2km"
     ],
-    "link": "https://montera.ro/geticcross/",
+    "link": "https://geticfest.ro/",
     "link_fb": "https://www.facebook.com/geticfest",
     "id": 625,
     "year": 2027,
@@ -2382,6 +2382,26 @@
     "sport": "running"
   },
   {
+    "name": "Bison Trails",
+    "location": "Vama Buzăului",
+    "location_details": "",
+    "display_date": "Sat 26-Jun-2027",
+    "county": "BV",
+    "type": "trail",
+    "distances": [
+      "-"
+    ],
+    "link": "https://www.facebook.com/events/1130237749884366",
+    "link_fb": "",
+    "id": 702,
+    "year": 2027,
+    "month": 6,
+    "day": 26,
+    "lat": 45.5436,
+    "lon": 26.1167,
+    "sport": "running"
+  },
+  {
     "name": "Transylvania Triathlon Festival",
     "location": "Sângeorgiu de Pădure",
     "location_details": "",
@@ -2908,29 +2928,6 @@
     "sport": "running"
   },
   {
-    "name": "Oslea Run",
-    "location": "Uricani",
-    "location_details": "Cabana Vanatoreasca - Campusel",
-    "display_date": "Fri 27-Aug-2027",
-    "county": "HD",
-    "type": "trail",
-    "distances": [
-      "41km(3000m↑)",
-      "26km(2000m↑)",
-      "15km(1000m↑)",
-      "8.5km(500m↑)"
-    ],
-    "link": "https://run.oslea.ro/",
-    "link_fb": "https://www.facebook.com/oslearun/",
-    "id": 295,
-    "year": 2027,
-    "month": 8,
-    "day": 27,
-    "lat": 45.3333,
-    "lon": 23.4167,
-    "sport": "running"
-  },
-  {
     "name": "Râșnov Medieval Run",
     "location": "Râșnov",
     "location_details": "",
@@ -2950,6 +2947,29 @@
     "day": 28,
     "lat": 45.591695,
     "lon": 25.458295,
+    "sport": "running"
+  },
+  {
+    "name": "Oslea Run",
+    "location": "Uricani",
+    "location_details": "Cabana Vanatoreasca - Campusel",
+    "display_date": "Sat 28-Aug-2027",
+    "county": "HD",
+    "type": "trail",
+    "distances": [
+      "41km(3000m↑)",
+      "26km(2000m↑)",
+      "15km(1000m↑)",
+      "8.5km(500m↑)"
+    ],
+    "link": "https://run.oslea.ro/",
+    "link_fb": "https://www.facebook.com/oslearun/",
+    "id": 295,
+    "year": 2027,
+    "month": 8,
+    "day": 28,
+    "lat": 45.3333,
+    "lon": 23.4167,
     "sport": "running"
   },
   {
@@ -3187,6 +3207,29 @@
     "lat": 44.5083,
     "lon": 26.0833,
     "sport": "orienteering"
+  },
+  {
+    "name": "Oradea City Running Day",
+    "location": "Oradea",
+    "location_details": "",
+    "display_date": "Sun 19-Sep-2027",
+    "county": "BH",
+    "type": "road",
+    "distances": [
+      "21km",
+      "10km",
+      "5km",
+      "4x5.2km relay"
+    ],
+    "link": "https://oradeacityrunningday.ro/",
+    "link_fb": "https://www.facebook.com/runningdayoradea/",
+    "id": 6,
+    "year": 2027,
+    "month": 9,
+    "day": 19,
+    "lat": 47.0559509149,
+    "lon": 21.9394966774,
+    "sport": "running"
   },
   {
     "name": "Festivalul Sporturilor București (toamnă)",

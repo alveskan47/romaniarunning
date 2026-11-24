@@ -237,6 +237,11 @@
       "lon": 21.9394966774,
       "editions": [
         {
+          "year": 2027,
+          "month": 9,
+          "day": 19
+        },
+        {
           "year": 2026,
           "month": 9,
           "day": 20
@@ -10355,7 +10360,7 @@
         {
           "year": 2027,
           "month": 8,
-          "day": 27
+          "day": 28
         },
         {
           "year": 2026,
@@ -19193,7 +19198,7 @@
         "8km",
         "2km"
       ],
-      "link": "https://montera.ro/geticcross/",
+      "link": "https://geticfest.ro/",
       "link_fb": "https://www.facebook.com/geticfest",
       "editions": [
         {
@@ -20926,9 +20931,9 @@
       "link_fb": "",
       "editions": [
         {
-          "year": 2026,
+          "year": 2027,
           "month": 6,
-          "day": 25,
+          "day": 26,
           "event_link": "https://www.facebook.com/events/1130237749884366"
         }
       ],
@@ -21375,8 +21380,8 @@
         "8km",
         "4km"
       ],
-      "link": "https://www.runmoldova.com/",
-      "link_fb": "https://www.facebook.com/runmoldova",
+      "link": "https://iticket.md/event/love-run",
+      "link_fb": "",
       "editions": [
         {
           "year": 2027,

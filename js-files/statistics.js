@@ -20,7 +20,7 @@ const COUNTY_HC_KEYS = [
 
 // Gauge upper bound (chart 1) per sport, reflecting each sport's typical yearly volume
 const GAUGE_MAX_BY_SPORT = {
-    running: 500,
+    running: 600,
     all: 1000,
     swimming: 20,
     triathlon: 30,

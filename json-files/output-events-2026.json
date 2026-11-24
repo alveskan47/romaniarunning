@@ -289,8 +289,8 @@
       "8km",
       "4km"
     ],
-    "link": "https://www.runmoldova.com/",
-    "link_fb": "https://www.facebook.com/runmoldova",
+    "link": "https://iticket.md/event/love-run",
+    "link_fb": "",
     "id": 0,
     "year": 2026,
     "month": 2,
@@ -5378,26 +5378,6 @@
     "lat": 47.0333,
     "lon": 21.9,
     "sport": "cycling"
-  },
-  {
-    "name": "Bison Trails",
-    "location": "Vama Buzăului",
-    "location_details": "",
-    "display_date": "Thu 25-Jun-2026",
-    "county": "BV",
-    "type": "trail",
-    "distances": [
-      "-"
-    ],
-    "link": "https://www.facebook.com/events/1130237749884366",
-    "link_fb": "",
-    "id": 702,
-    "year": 2026,
-    "month": 6,
-    "day": 25,
-    "lat": 45.5436,
-    "lon": 26.1167,
-    "sport": "running"
   },
   {
     "name": "Transylvania Triathlon Festival",
@@ -10562,7 +10542,7 @@
       "8km",
       "2km"
     ],
-    "link": "https://montera.ro/geticcross/",
+    "link": "https://geticfest.ro/",
     "link_fb": "https://www.facebook.com/geticfest",
     "id": 625,
     "year": 2026,
